@@ -1,0 +1,18 @@
+The Self-Judgment Method of Curve Fitting
+A computer-oriented method for processing and
+communicating numerical data is described.  The 
+Instrument Reliability Factors (IRF), which exactly
+define the limits of reliability of each measured 
+item of information, are used to compute the Maximum
+Permitted Error (MPE) associated with each values 
+of each ordinate.  The Self-Judgment Principle (SJP)
+is used to discard wrong information and to compute 
+mean values of the parameters and their MPE's in terms
+of the IRF.  Data compatibility tests with any 
+number of different equations can be made quickly. 
+Otherwise intractable problems are easily solved, 
+and the design of many experiments is greatly simplified.
+ The computational and mathematical techniques 
+used to reduce bias in the SJP are discussed.  Inadequacies
+in the statistical and graphical methods 
+of curve fitting are noted.

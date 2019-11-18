@@ -1,0 +1,22 @@
+An Algorithm for Deriving the Equations of
+Mathematical Physics by Symbolic Manipulation
+A method is described whereby a digital computer
+can be used to derive the equations of mathematical 
+physics in any curvilinear coordinate system requested
+by the user.  The effectiveness of the technique 
+is demonstrated by using it to derive the Navier-Stokes
+equations of fluid motion and the continuity 
+equation.  To derive these equations by this method, the
+user need know only the coordinate transformation 
+equations relating the curvilinear coordinates of interest
+to an orthogonal Cartesian triad. When this 
+program is used and the coordinate transformation equations
+are supplied as input, the computer will 
+derive the Navier-Stokes equations and the continuity
+equation.  The equations obtained will be relative 
+to the curvilinear coordinate system specified by the
+transformation equations used as input.  In this 
+paper the emphasis is on theoretical considerations and
+methodology rather than on programming details. 
+ Results are presented for cylindrical polar
+and spherical polar coordinate systems.

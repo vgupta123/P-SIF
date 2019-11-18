@@ -1,0 +1,22 @@
+Studies in Machine Cognition Using The Game of Poker
+A progress report is presented of on-going
+research efforts concerning human decision making 
+under uncertainly and risk and human problem solving
+and learning processes on the one hand, and machine 
+learning, large scale programming systems, and novel
+programming techniques on the other.  There has 
+also been in terest in how humans make deductive and inductive
+inferences and form and optimize heuristic 
+rules, and how machines can reach similar results.
+ Although the vehicle of these investigations has 
+been the game of poker, a conceptual framework has been
+provided that should have a fairly wide range 
+of applicability.  The models of human judgment, choice,
+and decision making are incorporated in a large 
+scale complex program.  They represent both descriptive
+and normative theories of behavior. An in teractive 
+game environment has been recently established which,
+besides its usefulness for experiments in game 
+playing, enables humans to construct machine strategies
+"on-line" in a question answering, advice taking 
+mode.

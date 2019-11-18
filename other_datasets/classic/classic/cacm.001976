@@ -1,0 +1,20 @@
+Multi-attribute Retrieval with Combined Indexes
+In this paper a file organization scheme designed to
+replace the use of the popular secondary index filing scheme
+(or inverted files on secondary key fields) is described.
+Through the use of redundancy and storing 
+keys (or access numbers of the records) that satisfy different combinations
+of secondary index values in "buckets," it is possible to retrieve
+all keys satisfying any input query derived from a subset of
+fields by a single access to an index file, although each bucket may
+be used for many combinations of values and a combination of
+buckets may be required for a given query.  The method which, in its
+degenerate case, becomes the conventional secondary index filing
+scheme works similarly but has the following advantages: (1) the elimination
+of multiple accesses in many cases; (2) the elimination
+of false drops; (3) the elimination of computer time to perform intersection
+of key sets each qualified for one secondary index field
+only; and (4) the avoidance of long strings of keys when an index
+field appearing in a query has very few possible values.  Redundancy, in some 
+cases, is the same as the secondary indexing method. In the general case, 
+trade-off between the number of accesses for query and redundancy exists.

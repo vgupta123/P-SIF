@@ -1,0 +1,17 @@
+an extension of the linearized characteristics method
+for calculating the supersonic flow around elliptic
+cones .
+an extension of the linearized characteristics method
+for calculating the supersonic flow around elliptic
+cones .
+  the method of linearized characteristics as applied by ferri to
+the flow about elliptic cones can be used to determine the surface
+pressure distribution, even when only linear terms are kept in the
+boundary conditions, provided an area rule requirement is
+satisfied .  in addition, the method can be applied for angles of attack
+provided the elliptic body geometry is specified in a manner that
+does not distort the cross section .  the surface pressure
+distribution obtained by this modified method is in reasonable
+agreement with experiment over the range of mach numbers and
+semidiameter ratios considered .  experimental results for several
+conical bodies are presented .

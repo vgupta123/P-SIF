@@ -1,0 +1,16 @@
+Execution Characteristics of Programs in a Page-on-Demand System
+Data are presented which show the execution characteristics
+of two types of commonly used programs 
+in a large-scale, time-shared computer system.  A software
+monitoring facility built into the supervisor 
+was used for data collection during normal system operation.
+ These data were analyzed, and results of 
+this analysis are presented for a Fortran compiler
+and an interactive line file editor.  Probability 
+distribution functions and other data are given for
+such things as CPU intervals, I/O intervals, and 
+the number of such intervals during execution.  Empirical
+distributions are compared with simple theoretical 
+distributions (exponential, hyperexponential, and geometric).
+ Other data show paging characteristics 
+of tasks as a function of the number of pages those tasks have in core.

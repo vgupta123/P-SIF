@@ -1,0 +1,11 @@
+Regular Expression Search Algorithm
+A method for locating specific character strings
+embedded in character text is described and 
+an implementation of this method in the form of a compiler
+is discussed.  The compiler accepts a regular 
+expression as source language and produces an IBM 7094
+program as object language.  The object program 
+then accepts the text to be searched as input and produces
+a signal every time an embedded string in 
+the text matches the given regular expression.  Examples,
+problems, and solution are also presented.

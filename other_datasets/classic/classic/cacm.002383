@@ -1,0 +1,16 @@
+Music and Computer Composition
+The problem discussed is that of simulating human
+composition of Western popular music by computer 
+and some relevant theories of music and harmony are given.
+ Problems with this kind of program and several 
+schemes that are known not to work are discussed.  Several
+previous computer compositions are discussed, 
+including the ILLIAC Suite.  A program to generate short
+melody fragments was written to simulate some 
+of the aspects of human composition.  Five samples of
+its output are presented and discussed.  It was 
+discovered that although the fragments show many of
+the characteristics of popular melodies, they have 
+a strangely alien sound.  It is theorized that this
+is because the relevant probabilities which would 
+discriminate against unfamiliar sequences were not used.

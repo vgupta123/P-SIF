@@ -1,0 +1,21 @@
+A Code for Non-numeric Information Processing
+Applications in Online Systems
+A code has been specifically designed to simplify
+the internal information processing operations 
+within an online computer system with respect to non-numeric
+applications, and to maximize the transfer 
+rate of the information channel linking the system and
+the system user.  The code has direct application 
+to problems in area such as information retrieval, document
+classification, computer-aided teaching and 
+text editing.  This code, called IPC (Information Processing
+Code), is an 8-bit code set constructed 
+so that 7, 6, 5 and 4-bit subsets can be easily derived
+from the basic set.  The code set is organized 
+so that simple binary operations can distinguish between
+the numeric alphabetic, special symbol and control 
+character codes.  The number of usable characters within
+the basic set size may be expanded either by 
+use of escape codes included in the set, or by suitable
+interpretation of otherwise unassigned codes 
+on the basis of the requirements of local environments.

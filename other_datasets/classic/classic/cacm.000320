@@ -1,0 +1,12 @@
+Logic-Structure Tables
+Logic tables are an excellent way of developing
+and expressing the logic required in procedures, 
+operations, systems and circuits.  A set of rules for
+writing and using logic tables is explained by 
+means of some simple examples.  Then the logic structure
+of a vending machine is given in which two logic 
+tables are used.  Logic tables are two-dimensional in
+nature, enabling us to fully express and consider 
+both the sequential and parallel aspects of logic.  They
+can be compiled directly into a computer program 
+and so eliminate the need for flow charting and hand coding.

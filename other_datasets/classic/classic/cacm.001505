@@ -1,0 +1,11 @@
+A System Organization for Resource Allocation 
+This paper introduces a system for resource management
+using the concepts of "process," facility," 
+and "event."  Except for the processor no attempt has
+been made to give serious suggestions for the policy 
+to be followed for resource allocation.  However, a basic
+framework is provided in which a system analyst 
+can express solutions to resource management problems.
+ The paper is divided into a tutorial presentation, 
+a description of the system primitives, and a small collection
+of examples of the use of the primitives.

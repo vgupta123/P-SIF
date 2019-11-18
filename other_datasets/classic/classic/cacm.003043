@@ -1,0 +1,11 @@
+Distributed Processes: A Concurrent Programming Concept
+A language concept for concurrent processes
+without common variables is introduced.  These 
+processes communicate and synchronize by means of procedure
+calls and guarded regions.  This concept 
+is proposed for real-time applications controlled by
+microcomputer networks with distributed storage. 
+ The paper gives several examples of distributed processes
+and shows that they include procedures, coroutines, 
+classes, monitors, processes, semaphores, buffers, path
+expressions, and input/output as special cases.

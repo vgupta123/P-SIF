@@ -1,0 +1,7 @@
+   The Reactive Typewriter Program
+   84-character keyboard including alphabetical upper and lower case for good
+readability. If the machine is restricted to only a single case, the lower case
+is preferred. The reactive typewriter should be portable. the reactive 
+typewriter should operate over any commercially used, dial-type telephone
+(voice) or telegraph (Telex) line or over leased (nondial) telegraph lines
+interchangeably.

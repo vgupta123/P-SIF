@@ -1,0 +1,21 @@
+the dynamic motion of a missile descending through
+the atmosphere .
+the dynamic motion of a missile descending through
+the atmosphere .
+  a method is presented for computing rapidly, yet accurately,
+the dynamic motion of a ballistic-type missile descending through
+the atmosphere .  the equations of motion are separated into a
+set of /static/ trajectory equations (zero angle of attack) and a
+set of /rotational/ equations describing the oscillatory motion
+of the missile about its center of gravity .  a transformation
+allows the rotational equations to be written in a manner
+analogous to the equation for an undamped oscillating spring mass
+system with the mass equal to unity and a time variable spring
+constant .  for given initial conditions this equation can be
+solved to obtain the envelope of maximum angle of attack .  an
+additional transformation allows the calculation of the complete
+oscillatory motion at any time during the trajectory as a function
+of the maximum angle of attack at that time .
+  this solution shows that the maximum angle of attack of a
+missile descending through the atmosphere at relatively constant
+speed is reduced even when the aerodynamic damping is neglected .

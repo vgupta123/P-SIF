@@ -1,0 +1,10 @@
+An Efficient Context-free Parsing Algorithm
+A parsing algorithm which seems to be the most efficient general context-free 
+algorithm known is described.  It is similar to both Knuth's LR(k) algorithm 
+and the familiar top-down algorithm.  It has a time bound proportional to 
+n^3 (where n is the length of the string being parsed) in general; it has a 
+n^2 bound for unambiguous grammars; and it runs in linear time on a large 
+class of grammars, which seems to include most practical context-free
+programming language grammars.  In an empirical comparison it appears
+to be superior to the top-down and bottom-up algorithms studied by Griffiths 
+and Petrick.

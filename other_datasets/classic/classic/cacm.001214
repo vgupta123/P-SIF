@@ -1,0 +1,5 @@
+Some Experiments in Algebraic Manipulation by Computer 
+A set of subroutines to allow algebraic manipulations
+on the IBM 7094 computer has been written 
+a List Processor, SLIP.  A series of four problems of increasing
+difficulty were solved using these routines.

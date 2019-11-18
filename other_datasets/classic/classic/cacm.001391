@@ -1,0 +1,10 @@
+Computer Experiments in Finite Algebra
+A medium-scale programming system is written
+in MAD and FAP on the IBM 7094 to manipulate some 
+of the objects of modern algebra: finite groups, maps
+and sets of maps, subsets and sets of subsets, 
+constant integers and truth-values.  Designed to operate
+in a time-sharing environment, the system can 
+serve as a teacher's aid to the undergraduate student of
+modern algebra, as well as for the working scientist 
+or engineer wishing to familiarize himself with the subset.

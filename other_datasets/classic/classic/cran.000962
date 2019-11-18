@@ -1,0 +1,43 @@
+contributions to the theory of heat transfer through
+a laminar boundary layer .
+contributions to the theory of heat transfer through
+a laminar boundary layer .
+an approximation to the heat transfer rate across a laminar
+incompressible boundary layer, for arbitrary distribution of
+main stream velocity and of wall temperature, is obtained by
+using the energy equation in von mises's form, and approximating the
+coefficients in a manner which is most closely correct near the
+surface .  the heat transfer rate to a portion of surface of length l
+breadth is given as
+where k is the thermal conductivity of the fluid, o its prandtl number,
+p its density, u its viscosity, r(x) is the skin friction,
+and t(x) the excess of wall temperature over main stream temperature .
+a critical appraisement of the formula indicates that it should be very
+accurate for large, but that for of order 0.7 (for most gases) the
+constant should be replaced by 0.73, when the error should not exceed
+this yields a formula for nusselt number in terms of the reynolds number
+r and the mean square root of the skin friction coefficient c, in the
+case of uniform wall temperature .
+however, for the boundary layer with uniform main stream, the
+original formula is accurate to within 3 percent even for .  by
+known transformations an expression is deducted for heat
+transfer to a surface, with arbitrary temperature distribution
+along it, and with a uniform stream outside it at arbitrary
+mach number (equation (42)) .  from this the temperature distribution
+along such a surface is deduced in the case (of importance at high mach
+numbers) when heat transfer to it is balanced entirely by radiation
+from it .  this calculation, which includes the solution of a non-linear
+integral equation, gives higher temperatures near the nose,
+and lower ones farther back (figure 2), than are found from a theory
+which assumes the wall temperature uniform and averages the heat
+transfer balance .  this effect will be considerably mitigated
+for bodies of high thermal conductivity., the author is not
+in a position to say whether or not it will be appreciable for
+metal projectiles .  but for stony meteorites at a certain stage
+of their flight through the atmosphere it indicates that
+melting at the nose and re-solidification farther back may occur, for
+which the shape and constitution of a few of them affords evidence .
+an appendix shows how the method for approximating and solving
+von mises's equation could be used to determine the skin friction
+as well as heat transfer rate, but this line seems to have no advantage
+over established approximate methods .

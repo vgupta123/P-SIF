@@ -1,0 +1,25 @@
+the compressible laminar boundary layer with heat transfer
+and arbitrary pressure gradient .
+the compressible laminar boundary layer with heat transfer
+and arbitrary pressure gradient .
+  an approximate method for the calculation of the
+compressible laminar boundary layer with heat transfer and
+arbitrary pressure gradient, based on thwaites' correlation
+concept, is presented .  the method results from the application
+of stewartson's transformation to prandtl's equations, which
+yeilds a nonlinear set of two first-order differential equations .
+these equations are then expressed in terms of dimensionless
+parameters related to the wall shear, the surface heat transfer,
+and the transformed free-stream velocity .  thwaites' concept
+of the unique interdependence of these parameters is assumed .
+the evaluation of these quantities is then carried out by utilizing
+exact solutions recently obtained .
+  with the resulting relations, methods are derived for the
+calculation of the two-dimensional and axially symmetric
+laminar boundary layer with arbitrary free-stream velocity
+distribution .  mach number, and surface temperature level .
+  the combined effect of heat transfer and pressure gradient
+is demonstrated by applying the method to calculate the
+characteristics of the boundary layer on thin supersonic surfaces
+and in a highly cooled, convergent-divergent, axially symmetric
+rocket nozzle .

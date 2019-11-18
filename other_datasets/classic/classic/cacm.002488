@@ -1,0 +1,5 @@
+Least Squares Piecewise Cubic Curve Fitting
+The matrices involved in a linear least squares
+formulation are determined for the problem 
+of fitting piecewise cubic functions, those possessing
+a continuous derivative, to arrays of planar data.

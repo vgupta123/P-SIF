@@ -1,0 +1,19 @@
+Numerical Integration of Function That Has a Pole
+It is common to need to integrate numerically
+functions that diverge somewhere outside the 
+range of integration.  Even if the divergence occurs quite
+far away, integration formulas like Simpson's, 
+that depend on fitting a polynomial, usually will be
+inaccurate: near a pole they will be very bad.  
+A method is described that gives formulas that will integrate
+functions of this kind accurately if the 
+orders and positions of the poles are known.  Explicit
+formulas are given that are easy to use on an 
+automatic computer.  It is shown that they can be used
+for some other singularities as well as poles. 
+ If the integral converges, integration can be carried
+to the singularity.  The accuracy of the integration 
+with a pole of second order is discussed, and, as an example,
+the new formula is compared with Simpson's. 
+ The new formulas are useful even far from the pole,
+while near the pole their advantage is overwhelming.

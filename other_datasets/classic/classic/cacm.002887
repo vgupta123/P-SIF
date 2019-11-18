@@ -1,0 +1,24 @@
+A Study of Errors, Error-Proneness, and Error Diagnosis in Cobol
+This paper provides data on Cobol error frequency
+for correction of errors in student-oriented 
+compilers, improvement of teaching, and changes in programming
+language.  Cobol was studied because of 
+economic importance, widespread usage, possible error-including
+design, and lack of research.  The types 
+of errors were identified in a pilot study; then, using
+the 132 error types found, 1,777 errors were 
+classified in 1,4000 runs of 73 Cobol students.  Error
+density was high: 20 percent of the types contained 
+80 percent of the total frequency, which implies high
+potential effectiveness for software based correction 
+of Cobol.  Surprisingly, only four high-frequency errors
+were error-prone, which implies minimal error 
+inducing design. 80 percent of Cobol misspellings were classifiable
+in the four error categories of previous 
+researchers, which implies that Cobol misspellings
+are correctable by existent algorithms.  Reserved 
+word usage was not error-prone, which implies minimal
+interference with usage of reserved words.  Over 
+80 percent of error diagnosis was found to be inaccurate.
+ Such feedback is not optimal for users, particularly 
+for the learning user of Cobol.

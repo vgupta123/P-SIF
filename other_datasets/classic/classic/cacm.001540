@@ -1,0 +1,8 @@
+An Algorithm for Class Scheduling With Section Preference
+An algorithm for assignment of students to classes
+in a fixed time schedule that allows students 
+to give a preference for sections within courses is given.
+ If consistent with the objective of balanced 
+sections, these preferences will be honored.  The algorithm
+is more stochastic than Monte Carlo in nature. 
+ Results are given that compare it to a nonpreference assignment algorithm.

@@ -1,0 +1,11 @@
+DEBUG-An Extension to Current On-Line Debugging Techniques
+A method of on-linr assembly-language debugging
+which greatly simplifies several of the bookkeeping 
+tasks characteristically associated with that process
+has been developed and implemented in a program 
+for the UNIVAC M-460 computer at Air Force Cambridge Research
+Laboratories.  With this program, an online 
+user may insert or delete (in symbolic assembly language)
+any number of lines at any point of his previously 
+assembled program in core, with the remainder
+of the program being relocated appropriately.

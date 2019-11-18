@@ -1,0 +1,13 @@
+On the Computer Enumeration of Finite Topologies
+The problem of enumerating the number of topologies
+which can be formed from a finite point 
+set is considered both theoretically and computationally.
+ Certain fundamental results are established, 
+leading to an algorithm for enumerating finite topologies,
+and computed results are given for n <= 7. 
+ An interesting side result of the computational work
+was the unearthing of a theoretical error which 
+had been induced into the literature; the use of the computer
+in combinatorics represents, chronologically, 
+an early application, and this side result underscores
+its continuing usefulness in this area.

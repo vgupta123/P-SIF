@@ -1,0 +1,6 @@
+Recursive Computation of Certain Derivatives-A
+Study of Error Propagation
+A brief study is made of the propagation of errors
+in linear first-order difference equations.  The
+recursive computation of successive derivatives of (e^x)/x
+and (cos x)/x is considered as an illustration.

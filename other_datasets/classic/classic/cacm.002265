@@ -1,0 +1,24 @@
+A Model for Type Checking
+Most current programming languages treat computation
+over different classes of objects (e.g. 
+numbers, strings, labels and functions).  For correct
+compilation and execution, the following question 
+then arises: is a program properly constructed so that
+its operations and operands are compatible?  The 
+activity of answering this question is usually called
+type checking.  This paper attempts to isolate 
+the notion of type checking and presents a partial
+solution to the type checking problem based on the 
+notions of abstraction and application of functions. 
+In particular, a program is mapped into an expression 
+within a decidable subset of the Lambda calculus, which
+characterizes the type relations within the program 
+and eliminates all other information.  The determination
+of the type-wise correctness or incorrectness 
+of the program is resolved by reducing its corresponding
+Lambda calculus expression to one of two normal 
+forms, the constant "correct" for a type-wise correct
+program or the constant "error".  An application 
+to type checking in Algol 60 is made, and the attendant
+problems faced for any notion of type checking 
+are discussed.

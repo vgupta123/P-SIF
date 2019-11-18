@@ -1,0 +1,18 @@
+Storage Organization in Programming Systems
+The system of program and data representation
+that has been in use on the Rice University computer 
+for five years is described.  Each logical entity in storage
+occupies a block of consecutive memory locations. 
+ Each block is labeled by a codeword and may contain
+a program, a data vector, or codewords which in 
+turn label blocks to form arrays.  This storage arrangement
+is discussed with its realized advantages 
+or programming systems: simplicity of programmed addressing,
+flexibility of data structures, efficiency 
+of memory utilization, variability of system composition
+during execution, means of linkage between programs 
+and from programs to data, and basis for storage protection.
+ The application of labeled blocks may be 
+extended to areas of time-sharing and multimedia storage
+control.  On the basis of experience at rice, 
+some ideas on such extensions are presented.

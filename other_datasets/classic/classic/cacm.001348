@@ -1,0 +1,15 @@
+FLOWTRACE, A Computer Program for Flowcharting Programs
+The FLOWTRACE system produces flowcharts of programs
+written in "almost any" programming language. 
+ One most describe the syntax of the control statements
+in his language; for this purpose a metalanguage 
+is available.  The resultant object deck is used to
+flowchart any programs in the language described. 
+ Several examples of FAP and SNOBOL flowcharts are given.
+ However, it is not necessary to confine one's 
+scope to existing languages.  One may define his own
+language in any "well-structured" manner.  This 
+feature is particularly useful when it is desirable
+to chart only comments within a program.  Such an 
+approach permits the documentation of descriptive remarks
+and avoids the inclusion of coding details.

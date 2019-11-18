@@ -1,0 +1,14 @@
+PL/I List Processing
+The concepts of list processing have been introduced
+into the PL/I language.  With these new 
+facilities, it is possible to write PL/I procedures that
+operate on simple and complex data list organizations. 
+ Most list-processing languages have suffered from their
+inability to deal directly with complex data 
+structures and/or from their inability to perform the
+complete range of programming language operations 
+upon the data list structures.  These two problems have
+been eliminated in the list-processing facilities 
+of PL/I.  The basic concepts of list processing and
+the philosophy of the PL/I language extensions are 
+discussed.  In addition, several detailed list-processing examples are provided.

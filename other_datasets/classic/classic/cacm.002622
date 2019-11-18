@@ -1,0 +1,26 @@
+A User Authentication Scheme Not Requiring Secrecy in the Computer
+In many computer operating systems a user authenticates
+himself by entering a secret password 
+known solely to himself and the system.  The system compares
+this password with one recorded in a Password 
+Table which is available to only the authentication
+program.  The integrity of the system depends on 
+keeping the table secret.  In this paper a password
+scheme is presented which does not require secrecy 
+in the computer.    All aspects of the system, including
+all relevant code and data bases, may be known 
+by anyone attempting to intrude.  The scheme is based
+on using a function H which the would-be intruder 
+is unable to invert.  This function is applied to the
+user's password and the result compared to a table 
+entry, a match being interpreted as authentication of
+the user.  The intruder may know all about H and 
+have access to the table, but he can penetrate the system
+only if he can invert H to determine an input 
+that produces a given output.  This paper discusses
+issues surrounding selection of a suitable H.  Two 
+different plausible arguments are given that penetration
+would be exceedingly difficult, and it is then 
+argued that more rigorous results are unlikely.  Finally,
+some human engineering problems relating to 
+the scheme are discussed.

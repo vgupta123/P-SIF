@@ -1,0 +1,29 @@
+On the External Storage Fragmentation Produced
+by First-Fit and Best-Fit Allocation Strategies
+Published comparisons of the external fragmentation
+produced by first-fit and best-fit memory 
+allocation have not been consistent.  Through simulation,
+a series of experiments were performed in order 
+to obtain better data on the relative performance of
+first-fit and best-fit and a better understanding 
+of the reasons underlying observed differences. The
+time-memory-product efficiencies of first-fit and 
+best-fit were generally within 1 to 3 percent of each
+other.  Except for small populations, the size 
+of the request population had little effect on allocation
+efficiency.  For exponential and hyperexponential 
+distributions of requests, first-fit outperformed best-fit;
+but for normal and uniform distributions, 
+and for exponential distributions distorted in various
+ways, best-fit outperformed first-fit.  It is 
+hypothesized that when first-fit outperforms best-fit,
+it does so because first-fit, by preferentially 
+allocating toward one end of memory, encourages large blocks
+to grow at the other end.  Sufficient contiguous 
+space is thereby more likely to be available for relatively
+large requests.  Results of simulation experiments 
+supported this hypothesis and showed that the relative
+performance of first-fit and best-fit depends 
+on the frequency of request.  When the coefficient of
+variation of the request distribution is greater 
+than or approximately equal to unity, first-fit outperformed best-fit.

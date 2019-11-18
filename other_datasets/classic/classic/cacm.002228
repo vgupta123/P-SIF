@@ -1,0 +1,12 @@
+Comments on Prevention of System Deadlocks
+Habermann's method of deadlock prevention is
+discussed, where deadlock is defined as a system 
+state from which resource allocations to certain processes
+are not possible.  It is shown that the scheduler 
+may introduce "artificial" deadlocks which Habermann's
+method does not prevent.  Permanent blocking is 
+the situation where certain processes never receive their
+resource requests.  It is shown that deadlock 
+prevention does not necessarily eliminate permanent blocking.
+ A method of preventing permanent blocking 
+is given.

@@ -1,0 +1,9 @@
+Notes on Recursion Elimination
+Various methods of recursion elimination are
+applied to the schematic recursive procedure: 
+proc S(x); px then N(x); S(fx); S(gx); M(x) fi.  Procedures
+with this general form arise in connection 
+with tree traversal and sorting algorithms.  Each method
+of recursion removal involves the use of one 
+or more stacks, and the solutions are compared
+on the basis of their running time.

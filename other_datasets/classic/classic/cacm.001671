@@ -1,0 +1,21 @@
+A Phonological Rule Tester
+The design and implementation of a system to
+alleviate the problem of rule evaluation for the 
+linguist in the area of phonology are presented.  It
+permits the user to define, on-line, sets of rules 
+statable within the framework presented in The Sound
+Patterns of English by Chomsky and Halle, 1968, 
+to define phonemes as bundles of specified distinctive
+features, to define data as strings of phonemes 
+with associated grammatical structure, to test the effect
+of applying rules to the data, and to store 
+both the definitions and results.  The rule application
+facility described in detail was implemented 
+by translating linguistic rules to rules in FLIP, a
+format-directed list processor embedded in LISP. 
+ This made the system construction easy while providing
+sophisticated capabilities for the linguist. 
+ The system is written in BBN LISP on the Scientific
+Data System 940 computer and is designed to be used 
+on-line in interactive fashion, with control returned
+to the user after each command is executed.

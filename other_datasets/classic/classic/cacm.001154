@@ -1,0 +1,16 @@
+Multi-Tape and Infinite-State Automata -- A Survey
+A survey of machines which are more powerful
+than finite automata and less powerful than general 
+Turing machines is presented.  It is felt that the machines
+in this category are as closely related to 
+digital computers as either the finite automata or the
+unrestricted Turing machines.  Intermediate machines 
+can be created by adjoining on infinite-state memory
+to a finite-state machine and then performing any 
+or all of the following: (1) restrict the manner in
+which the unbounded portion of the memory can be 
+accessed, (2) bound the number of steps allowed for a
+computation by some increasing recursive function 
+of the length of the input, (3) restrict the total amount
+of memory available in the same manner.  Examples 
+from all three classes and their properties are discussed.

@@ -1,0 +1,32 @@
+a method of calculating velocity distribution for turbulent
+boundary layers in adverse pressure distributions .
+a method of calculating velocity distribution for turbulent
+boundary layers in adverse pressure distributions .
+  a new method of calculating the behavior of turbulent
+boundary layers in adverse pressure distributions is developed which
+permits direct determination of the velocity profile rather than
+the gross integral parameters normally used to infer the general
+character of the boundary layer .  the method offers the
+simplicity of algebraic equations coupled with the use of charts
+rather than the laborious simultaneous solution of coupled
+differential equations required by existing methods .  the method also
+affords, for the first time, a means of determining the total
+boundary-layer thickness, thus allowing calculation of the absolute as
+well as the nondimensional velocity distribution .
+the velocity profile is considered to be composed of two
+regions--an inner region which is described by the law of the wall
+and an outer region which is described by a function depicting
+the deviation from that law .  the deviation function involves
+two parameters which are uniquely dependent upon the
+skin-friction coefficient and a third parameter which, for practical
+purposes, can be considered a constant .  since the entire
+velocity distribution was found to be almost uniquely dependent
+upon the local skin friction, serious doubt is cast upon the
+generally accepted /history concept/ which considers the outer region
+of the boundary layer to be dependent on integrated upstream
+conditions .
+  agreement between experimental velocity distributions and
+those calculated by the method presented here is generally very
+good .  the analysis and calculation procedures which are
+presented are applicable to two-dimensional, pseudo-two-
+dimensional, and axisymmetric conical flows .

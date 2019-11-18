@@ -1,0 +1,12 @@
+A Theorem-Proving Language for Experimentation
+Because of the large number of strategies
+and inference rules presently under consideration 
+in automated theorem proving, there is a need for developing
+a language especially oriented toward automated 
+theorem proving.  This paper discusses some of the features
+and instructions of this language.  The use 
+of this language permits easy extension of automated
+theorem-proving programs to include new strategies 
+and/or new inference rules.  Such extend ability will
+permit general experimentation with the various 
+alternative systems.

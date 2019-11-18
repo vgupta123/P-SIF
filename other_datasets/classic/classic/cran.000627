@@ -1,0 +1,16 @@
+flutter analysis of circular panels .
+flutter analysis of circular panels .
+  the flutter problem of flat circular panels with edges elastically
+restrained against rotation has been formulated in terms of
+small-deflection plate theory .  the panel is subjected to uniform
+all-round tension or compression in its middle plane, in addition to
+the supersonic compressible flow passing over its upper surface
+with still air below .  linear piston theory is employed to predict
+the aerodynamic load on the vibrating panel .
+  the problem is investigated by a rayleigh-type analysis
+involving chosen modes of the panel as degrees of freedom .
+  in order to investigate the convergence of the solution, the
+flutter-mode shape of the clamped-edge panel has been expressed
+in a series form in powers of r cos o .  the results of three-, four-,
+and five-term approximations have displayed oscillatory
+behavior with apparently rapid convergence of the solution .

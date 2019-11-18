@@ -1,0 +1,9 @@
+How to Share a Secret
+In this paper we show how to divide data D into
+n pieces in such a way that D is easily reconstructable from any
+k pieces, but even complete knowledge of k - 1 pieces reveals
+olutely no information about D.  This technique enables the construction
+of robust key management schemes for cryptographic systems
+that can function securely and reliably even when misfortunes destroy
+half the pieces and security breaches expose all but one of the
+remaining pieces.

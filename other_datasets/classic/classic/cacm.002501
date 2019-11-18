@@ -1,0 +1,12 @@
+WYLBUR: An Interactive Text Editing and Remote Job Entry System
+WYLBUR is a comprehensive system for manipulating
+all kinds of text, such as computer programs, 
+letters, and manuscripts, using typewriter terminals
+connected to a computer.  It has facilities for 
+remote job entry and retrieval as well as facilities
+for text alignment and justification.  A powerful 
+method for addressing text by content is provided.  This
+paper describes the external appearance of WYLBUR 
+as well as its internal structure.  A short description
+of the major features of ORVYL, a general purpose 
+time-sharing system which operates in conjunction with WYLBUR, is also included.

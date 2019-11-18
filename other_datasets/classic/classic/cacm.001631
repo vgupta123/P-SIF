@@ -1,0 +1,9 @@
+Testing a Random Number Generator
+The first 1,000,000 numbers produced by the
+random number generator used in the General Purpose 
+Systems Simulator (GPSS) were subjected to statistical
+tests.  The tests are described and the results 
+of the tests are presented.  These particular tests indicate
+that the numbers are satisfactory.  It is 
+recommended that suitable tests be applied to all
+random numbers used in computer simulations.

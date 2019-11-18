@@ -1,0 +1,14 @@
+A Large Semaphore Based Operating System
+The paper describes the internal structure of
+a large operating system as a set of cooperating 
+sequential processes.  The processes synchronize by
+means of semaphores and extended semaphores (queue 
+semaphores).  The number of parallel processes is carefully
+justified, and the various semaphore constructions 
+are explained.  The system is proved to be free of "deadly
+embrace" (deadlock).  The design principle 
+is an alternative to Dijkstra's hierarchical structuring
+of operating systems.  The project management 
+and the performance are discussed, too.  The operating
+system is the first large one using the RC 4000 
+multiprogramming system.

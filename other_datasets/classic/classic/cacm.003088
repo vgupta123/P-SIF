@@ -1,0 +1,12 @@
+General Equations for Idealized CPU-I/O Overlap Configurations
+General equations are derived for estimating
+the maximum possible utilization of main storage 
+partitions, CPU and I/O devices under different conditions
+in an idealized CPU-I/O overlap model of multiprogrammed 
+computer systems.  The equations are directly applicable
+to any configuration consisting  of sets of 
+identical CPU's I/O processors, main storage partitions
+and user tasks.  Examples are provided to illustrate 
+the use of the equations to compute effective processing
+time per record and expected timesharing response 
+time under both balanced and unbalanced resource utilization conditions. 

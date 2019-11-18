@@ -1,0 +1,17 @@
+The Synthetic Approach to Decision Table Conversion
+Previous approaches to the problem of automatically
+converting decision tables to computer 
+programs have been based on decomposition.  At any
+stage, one condition is selected for testing, and 
+two smaller problems (decision tables with one less
+condition) are created.  An optimal program (with 
+respect to average execution time or storage space, for
+example) is located only through implicit enumeration 
+of all possible decision trees using a technique such
+as branch-and-bound.  The new approach described 
+in this paper uses dynamic programming to synthesize
+an optimal decision tree from which a program can 
+be created.  Using this approach, the efficiency of creating
+an optimal program is increased substantially, 
+permitting generation of optimal programs for decision
+tables with as many as ten to twelve conditions.

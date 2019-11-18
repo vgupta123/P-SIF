@@ -1,0 +1,27 @@
+an approximate solution of the supersonic blunt body
+problem for prescribed arbitrary axisymmetric shapes .
+an approximate solution of the supersonic blunt body
+problem for prescribed arbitrary axisymmetric shapes .
+  the integral method of belotserkovskii has been carried out to
+the first approximation for arbitrary blunt axisymmetric bodies
+in supersonic or hypersonic flight .  this method is direct, in
+that it gives the surface-pressure distribution and shock shape for
+a prescribed body .  results obtained by numerical integration
+for several body shapes at several mach numbers are compared
+to experimental results with good agreement .  it is also shown
+that the method can be successfully applied to pointed bodies
+with attached shock .  in the stagnation region, simple
+relationships are found from the equations of the first approximation
+which connect the surface-velocity gradient, shock curvature,
+shock-detachment distance, and body curvature .  these
+relations are also correlated with experiment for a variety of shapes
+as a function of mach number .  the correlations permit a rapid
+estimate of the stagnation-point velocity gradient, important for
+heat-transfer calculations, for any blunt body from the shock
+stand-off distance .  a method for a higher approximation is
+described, for which, in contrast to the higher approximations of
+belotserkovskii, a large number of simultaneous total differential
+equations with unknown parameters does not occur .  one form
+of this method has been studied numerically .  results are given
+which, though only partially successful, indicate the amount of
+improvement to be expected from a higher approximation .

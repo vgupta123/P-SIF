@@ -1,0 +1,10 @@
+The MAD Definition Facility
+One of the first definition facilities for
+higher level languages is described.  Users of the 
+language can define new operators and/or data types
+into the MAD language, so that their use appears 
+as if they were predefined.  Information is given on
+how one writes definitions, as well as on much of 
+the motivation behind the form in which definitions are
+written. Some conclusions are drawn about future 
+definitional facilities.

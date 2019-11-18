@@ -1,0 +1,9 @@
+New Upper Bounds for Selection
+The worst-case minimum number of comparisons
+complexity Vi(n) of the i-th selection problem 
+is considered.  A new upper bound for Vi(n) improves the
+bound given by the standard Hadian-Sobel algorithm 
+by a generalization of the Kirkpatrick-Hadian-Sobel
+algorithm, and extends Kirkpatrick's method to a 
+much wider range of application.  This generalization
+compares favorably with a recent algorithm by Hyafil.

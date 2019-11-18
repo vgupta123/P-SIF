@@ -1,0 +1,12 @@
+Some Approaches to Best-Match File Searching
+The problem of searching the set of keys in
+a file to find a key which is closest to a given 
+query key is discussed.  After "closest," in terms of
+a metric on the the key space, is suitably defined, 
+three file structures are presented together with their
+corresponding search algorithms, which are intended 
+to reduce the number of comparisons required to achieve
+the desired result. These methods are derived 
+using certain inequalities satisfied by metrics and by
+graph-theoretic concepts.  Some empirical results 
+are presented which compare the efficiency of the methods.

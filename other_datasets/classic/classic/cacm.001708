@@ -1,0 +1,6 @@
+A Note on the Efficiency of a LISP Computation in a Paged Machine
+The problem of the use of two levels of storage
+for programs is explored in the context of 
+a LISP system which uses core memory as a buffer for
+a large virtual memory stored on a drum.  Details 
+of timing are given for one particular problem.

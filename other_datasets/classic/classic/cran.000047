@@ -1,0 +1,24 @@
+analysis of low-aspect-ratio aircraft structures .
+analysis of low-aspect-ratio aircraft structures .
+  two methods are presented for the analysis of complex low-
+aspect-ratio aircraft structures .  both methods provide for
+arbitrary external loading, are general with respect to the
+orientation of structural members, and permit arbitrary boundary
+conditions .  for purposes of analysis a structure is idealized as a
+network of flexural members with interconnected torsion boxes .
+  in the first method, sets of linear equations are obtained by
+expressing boundary conditions, member deflection equations,
+equilibrium requirements, and slope-compatibility relationships
+in terms of deflections and internal forces .  the solution for
+deflections and internal forces is then formed as the product of an
+inverse structural matrix and a column matrix of load functions .
+  in the second method, the conditions at a given boundary are
+assembled as a column matrix and are transferred in a step
+by-step fashion over the entire structure to an opposite boundary .
+the transfer is accomplished by successive multiplications of
+square matrices composed independently for the different
+transfer ranges .  the final operation is the inversion of a relatively
+small matrix and provides the solution for the unknown boundary
+conditions .
+  comparisons of theoretical results with experimental data and
+electric-analog solutions are favorable .

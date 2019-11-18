@@ -1,0 +1,16 @@
+Loader Standardization for Overlay Programs
+The overlay capability is described for four
+of the third generation computer systems: CDC-6000, 
+GE-635, IBM-360, and UNIVAC-1108.  A critique of the
+first three systems is based on actual experience 
+with a large overlaid trajectory simulation program;
+a short history and description of this program 
+is presented.  A standardization of minimum capabilities
+for loaders is recommended so that programs 
+which must operate under more than one computer system
+may be easily converted and maintained.  A proposal 
+that overlay software incorporates a memory occupation
+specification concept instead of the conditional 
+tree structure is delineated.  This concept provides
+more efficient and cost-effective utilization of 
+the memory as well as increased flexibility in program structure.

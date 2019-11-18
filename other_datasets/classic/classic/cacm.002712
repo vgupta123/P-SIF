@@ -1,0 +1,12 @@
+Horner's Rule for the Evaluation of General Closed Queueing Networks
+The solution of separable closed queueing networks
+requires the evaluation of homogeneous multinomial 
+expressions.  The number of terms in those expressions
+grows combinatorially with the size of the network 
+such that a direct summation may become impractical.  An
+algorithm is given which does not show a combinatorial 
+operation count.  The algorithm is based on a generalization
+of Horner's rule for polynomials.  It is 
+also shown how mean queue size and throughput an be obtained
+at negligible extra cost once the normalization 
+constant is evaluated.

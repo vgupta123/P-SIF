@@ -1,0 +1,21 @@
+A Policy-Driven Scheduler for a Time-Sharing System
+The service received by a process from a time-sharing
+operating system can be characterized 
+by a resource count SUM{w[i]R[ij]} where R[ij] is the
+number of units of service received by process 
+i from resource i and w[i] is the cost per unit of the
+service.  Each class of users can be characterized 
+by a policy function which specifies the amount of service
+a user who belongs to this class should receive 
+as a function of time.  Priority changes dynamically
+as a function of the difference between the service 
+promised to the user by the policy function and the service
+he actually receives.  A scheduling and swapping 
+algorithm which keeps the resource count of each process
+above its policy function will provide the specified 
+level of service.  Overhead can be reduced by avoiding
+swaps of process which have received at least 
+his level of service.  The algorithm has been implemented
+in a general purpose operating system, and 
+it has provided significantly better service to interactive
+and to batch jobs than the previous scheduler.

@@ -1,0 +1,12 @@
+A Very High Level Programming Language for Data Processing Applications
+Application development today is too labor-in tensive.
+ In recent years, very high-level languages 
+have been increasingly explored as a solution to this
+problem.  The Business Definition Language (BDL) 
+is such a language, one aimed at business data processing
+problems.  The concepts in BDL mimic those 
+which have evolved through the years in businesses using
+manual methods.  This results in three different 
+sublanguages or components: one for defining the business
+forms, one for describing the business organization, 
+and one for writing calculations.

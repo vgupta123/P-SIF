@@ -1,0 +1,12 @@
+A Multiuser Computation Facility for Education and Research
+Present-day computing facilities are limited
+in their value for scientific research by inability 
+to interact strongly with users.  The full power of a
+research computing instrument should be available 
+at many terminals that give each user the ability to generate,
+correct and operate any procedure he wishes, 
+either simple or complex.  Implementation is described
+for a small-scale multiuser computer system that 
+permits several users to work independently with the
+machine, and to obtain satisfactory response using 
+typewriter communication.

@@ -1,0 +1,17 @@
+Remote, On-Line, Real-time Computer Diagnosis
+of the Clinical Electrocardiogram
+Presented in this paper is a brief report on
+the hardware, software, system configuration and 
+function of a system for the remote, online, real-time digital
+computer diagnosis of clinical electrocardiograms. 
+ It seems likely that efforts of this sort will lead
+to a satisfactory solution to the problem of the 
+automatic diagnosis of electrocardiograms.  Current
+attempts by the authors to extend the diagnostic 
+capabilities of the present system are particularly concerned
+with increasing the fidelity of the adaptive 
+matched filters, the development of three dimensional pattern analysis,
+the analysis of parallel electrocardiographer-computer 
+diagnostic interaction, and a study of the possibility
+of introducing major, tree-like branching decisions 
+early in the diagnostic process.

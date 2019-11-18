@@ -1,0 +1,19 @@
+non-linear bending and buckling of circular plates .
+non-linear bending and buckling of circular plates .
+  iterative solutions of finite difference
+approximations of the non-linear von karman
+plate equations are presented .  results
+are obtained for circular plates under a
+variety of boundary conditions subjected to
+either uniform lateral pressure or uniform
+edge thrust .
+  the solution, carried out numerically on
+the aec univac at new york university,
+yields a complete description of stresses
+and deflections for an apparently unlimited
+range of load parameters .  in addition, boundary
+layer phenomena are discussed .  for
+computing purposes, this iterative method proves
+to be superior to the previously used
+power series method and may be applicable to
+other non-linear problems .

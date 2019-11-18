@@ -1,0 +1,13 @@
+MIRFAG: A Compiler Based on Standard
+Mathematical Notation And Plain English
+A pilot version of the compiler MIRFAG, now
+in operation, is described.  The chief features 
+of the system, which is intended for the solution of scientific
+problems, are the presentation of mathematical 
+formulas entirely in standard textbook notation.  The use
+of plain English for organizational instructions, 
+automatic error diagnosis indicating the actual location
+of the error in the uncompiled program, and 
+an attempt to minimize that fragmentation of the original
+problem statement which is a normal feature 
+of programming systems.

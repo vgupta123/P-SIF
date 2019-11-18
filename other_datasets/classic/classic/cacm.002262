@@ -1,0 +1,8 @@
+Garbage Collection for Virtual Memory Computer Systems
+In list processing there is typically a growing
+demand for space during program execution. 
+ This paper examines the practical implications of this
+growth within a virtual memory computer system, 
+proposes two new garbage collection techniques for virtual
+memory systems, and compares them with traditional 
+methods by discussion and by simulation.

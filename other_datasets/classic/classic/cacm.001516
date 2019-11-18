@@ -1,0 +1,16 @@
+Automatic Data Compression
+The "information explosion" noted in recent
+years makes it essential that storage requirements 
+for all information be kept to a minimum.  A fully automatic
+and rapid three-part compressor which can 
+be used with "any" body of information to greatly reduce
+slow external storage requirements and to increase 
+the rate of information transmission through a computer
+is described in this paper.  The system will 
+also automatically decode the compressed information
+on an item-by-item basis when it is required.  The 
+three component compressors, which can be used separately
+to accomplish their specific tasks, are discussed: 
+NUPAK for the automatic compression of numerical data, ANPAK
+for the automatic compression of "any" information, 
+and IOPAK for further compression of information to be stored on tape or cards.

@@ -1,0 +1,10 @@
+Automatic Error Recovery for LR Parsers
+In this paper we present a scheme for detecting
+and recovering from syntax errors in programs. 
+ The scheme, which is based on LR parsing, is driven
+by information which is directly and automatically 
+obtainable from the information that is already present
+in an LR parser.  The approach, which is patterned 
+after that of Levy and Graham and Rhodes, appears to
+provide error recovery which is both simple and 
+powerful.

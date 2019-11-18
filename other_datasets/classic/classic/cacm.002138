@@ -1,0 +1,14 @@
+BLISS: A Language for Systems Programming
+A language, BLISS, is described.  This language
+is designed so as to be especially suitable 
+for use in writing production software systems for a
+specific machine (the PDP-10): compilers, operating 
+systems, etc.  Prime design goals of the design are the
+ability to produce highly efficient object code, 
+to allow access to all relevant hardware features of
+the host machine, and to provide a rational means 
+by which to cope with the evolutionary nature of systems
+programs.  A major feature which contributes 
+to the realization of these goals is a mechanism permitting
+the definition of the representation of all 
+data structures in terms of the access algorithm for elements of the structure.

@@ -1,0 +1,16 @@
+A Parser-Generating System for Constructing Compressed Compilers
+This paper describes a parser-generating system
+(PGS) currently in use on the CDC-6500 computer 
+at Purdue University.  The PGS is a Fortran-coded compiler.
+ In the input translation grammar, each BNF 
+syntactic rule corresponds to a (possibly empty) "code
+generator" realizable as an assembly language, 
+Fortran or Algol, subroutine that is called whenever
+that syntactic rule is applied in the parse of a 
+program.  Typical one-pass compilers constructed by the
+PGS translate source programs at speeds approaching 
+14,000 cards per minute.  For an XPL compiler, the parser
+program and its tables currently occupy 288 
+words of 60-bit core memory of which 140 words are parsing
+table entries and 82 words are links to code 
+generators.

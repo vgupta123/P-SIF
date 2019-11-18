@@ -1,0 +1,11 @@
+An Alternative to Event Queues for Synchronization in Monitors
+In the monitor concept, as proposed by Brinch
+Hansen and Hoare, event are used for synchronization.
+  This paper describes another synchronizing primitive
+which is nearly as expressive as the conditional 
+wait, but can be implemented more efficiently.  An implementation
+of this primitive in terms of P and 
+V operations is given together with a correctness proof.
+ Two examples are presented: the readers and 
+writers problem and the problem of information
+streams sharing a finite buffer pool.

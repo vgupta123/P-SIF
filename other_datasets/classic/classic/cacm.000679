@@ -1,0 +1,15 @@
+Recent Improvements in MADCAP
+MADCAP is a programming language admitting subscripts,
+superscripts and certain forms of displayed 
+formulas.  The basic implementation of this language was
+described in a previous paper [MADCAP: A scientific 
+compiler for a displayed formula textbook language, Comm.
+ACM 4 (Jan. 61), 31-36].  This paper discusses 
+recent improvements in the language in three areas: complex
+display, logical control, and subprogramming. 
+ In the area of complex display, the most prominent improvements
+are a notation for integration and for 
+the binomial coefficients.  In the area of logical control
+the chief new feature is a notation for variably 
+nested looping.  The discussion of subprogramming is focused
+on MADCAP's notation for and use of "procedures."

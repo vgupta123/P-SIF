@@ -1,0 +1,22 @@
+On the Relative Efficiencies of Context-Free Grammar Recognizers
+A number of diverse recognition procedures
+that have been proposed for parsing sentences with 
+respect to a context-free grammar are described in this
+paper by means of a common device.  Each procedure 
+is defined by giving an algorithm for obtaining a nondeterministic
+Turing Machine recognizer that is 
+equivalent to a given context-free grammar.  The formalization
+of the Turing Machine has been chosen 
+to make possible particularly simple description of
+the parsing procedures considered.  An attempt has 
+been made to compare recognition efficiencies for the
+procedures defined.  For a few simple grammars 
+and sentences a formal comparison has been made.  Empirical
+comparison of the recognition of more realistic 
+programming languages such as LISP and ALGOL has been
+made by means of a program which simulates the 
+Turing Machine on the Univac M-460 computer.  Several
+algorithms for producing grammars equivalent to 
+a given context-free grammar have been considered, and
+the increase in recognition efficiency they afford 
+has been empirically investigated.

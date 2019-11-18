@@ -1,0 +1,14 @@
+The Denotational Semantics of Programming Languages
+This paper is a tutorial introduction to the
+theory of programming language semantics developed 
+by D. Scott and C. Strachey.  The application of the theory
+to formal language specification is demonstrated 
+and other applications are surveyed. The first language
+considered, LOOP, is very elementary and its 
+definition merely introduces the notation and methodology
+of the approach.  Then the semantic concepts
+of environments, stores, and continuations are introduced
+to model classes of programming language features 
+and the underlying mathematical theory of computation
+due to Scott is motivated and outlined.  Finally, 
+the paper presents a formal definition of the language GEDANKEN.

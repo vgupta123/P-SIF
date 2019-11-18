@@ -1,0 +1,18 @@
+formulae and approximations for aerodynamic heating rates in high speed
+flight .
+formulae and approximations for aerodynamic heating rates in high speed
+flight .
+this note gives formulae and approximations suitable for making
+preliminary estimates of aerodynamic heating rates in high speed flight .
+the formulae are based on the /intermediate enthalpy/ approximation
+which has given good agreement with theoretical and experimental
+evidence . in the general flight case they could be used in conjunction with
+ an analogue computer or a step-by-step method of integration to
+predict the variations of heat flow and skin temperature with time .
+in the restricted case of flight at constant altitude and mach number,
+simple analytical methods and results are given which include the
+effects of radiation and can be applied to /thick/ as well as /thin/ skins
+where h is the aerodynamic heat transfer factor, and g, d and k are the
+heat capacity, thickness and thermal conductivity of the skin . if 0.1
+the skin is approximately /thin/, i.e. temperature gradients across its
+thickness may be neglected .

@@ -1,0 +1,18 @@
+An Application of FORMAC
+A nonlinear circuit analysis problem is stated
+and the way in which it was solved using FORMAC 
+is indicated.  The solution of the problem using FORMAC
+was notable since several other methods that 
+were tried failed.  The problem is straightforward (although
+untenable by hand) but nevertheless involved 
+an elaborate use of the FORMAC language.  The program
+was fairly large and utilized practically every 
+command.  In particular, it made extensive use of the
+PART command.  Several tricks were necessary in 
+order to circumvent some of the shortcomings of the
+FORMAC system.  This paper is more concerned with 
+the use of programming techniques in FORMAC than with
+the actual engineering problem, although readers 
+may be interested in the problem because it is stated
+in a general (mathematical) sense and could be 
+of interest in areas other than circuit analysis.

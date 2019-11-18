@@ -1,0 +1,14 @@
+Storage and Search Properties of a Tree-Organized Memory System
+A memory with list properties [1] may be used
+to construct numeric, alphabetic or alphanumeric 
+trees.  Such trees have information storage and retrieval
+properties applicable to problems involving 
+large quantities of data or to problems where the quantity,
+word length and distribution of stored information 
+is not known a priori, or changes rapidly during the processing.
+ The purpose of this paper is to examine 
+the storage and search properties of a tree-organized
+storage system assuming that a memory possessing 
+certain list properties is available.  Of prime interest
+is the application where a symbol table, dictionary 
+or similar file is to be stored and searched.

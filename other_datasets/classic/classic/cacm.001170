@@ -1,0 +1,25 @@
+Analyzing English Syntax with a Pattern-Learning Parser
+A dependency analysis system based on pattern
+recognition and learning logic was developed 
+to infer word classes and rules of syntactic combination
+from experience with text which had been analyzed. 
+ The characteristics used to form word classes are the
+depth in the dependency tree of each word, the 
+direction of its governor and the same features for
+each of its immediate neighbors. Syntactic rules 
+of combination show the relation of a word to its governor
+in the depth pattern of the sentence.  The 
+system was tested on 400 elementary basic English sentences
+including 300 used earlier by Knowlton in 
+a different learning parser of all 400 sentences.  After
+experience with 300 sentences it was able to 
+generalize with 77 percent accuracy to the next 100.
+ In accumulative learning trials after the first 
+200 sentences it averaged a probability of .9 for accurately
+parsing each new sentence it encountered. 
+ It was concluded that the system is adequate for learning
+to parse the bulk of basic English but that 
+further development is required before conclusions about
+its application to ordinary English can be stored. 
+ The system is operational and available on
+the ARPA/SDC time-shared computing system.

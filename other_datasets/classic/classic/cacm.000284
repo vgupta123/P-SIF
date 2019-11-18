@@ -1,0 +1,15 @@
+Manipulation of Algebraic Expressions
+An algorithm for algebraically manipulating
+expressions of the form SUM{CiPi, i=1,...,n}; has 
+been developed in conjunction with the development of programs
+for systems analysis problems.  This algorithm 
+enablesus to derive over-all system transfer functions
+from algebraically described block diagrams of 
+any linear continuous multi-loop feedback system.  The
+machine representation of the derived expression, 
+is, by virtue of the algorithm, in a form which simplifies
+the task of compiling.  The algorithm was 
+developed for a particular purpose in connection with
+system analysis studies.  However, its application 
+as a mathematical device extends far beyond
+the confines of the original problem.

@@ -1,0 +1,10 @@
+A Highly Parallel Algorithm for Approximating
+All Zeros of a Polynomial with Only Real Zeros
+An algorithm is described based on Newton's
+method which simultaneously approximates all zeros 
+of a polynomial with only real zeros.  The algorithm, which
+is conceptually suitable for parallel computation, 
+determines its own starting values so that convergence
+to the zeros is guaranteed.  Multiple zeros and 
+their multiplicity are readily determined.  At no
+point in the method is polynomial deflation used.

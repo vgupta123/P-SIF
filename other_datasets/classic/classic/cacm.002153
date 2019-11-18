@@ -1,0 +1,14 @@
+Experiments with an Automated Instructional System for Numerical Methods
+A computer system was developed at Purdue
+University to teach portions of an undergraduate 
+course in numerical methods.  Each instructional unit
+or lesson is divided into three modes of instruction 
+which allow the student to press from a computer-controlled
+presentation to a student-controlled investigation. 
+The system is designed as a classroom-independent course
+of study, and has been used for two semesters 
+by students in lieu of conventional classroom instruction.
+ Initial measures of effectiveness, student 
+acceptance, and operational cost are the result of testing
+the system independent of instructor intervention. 
+ The system is operational on a CDC 6500 with teletype terminals. 

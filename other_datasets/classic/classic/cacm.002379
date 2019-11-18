@@ -1,0 +1,12 @@
+The Design of the Venus Operating System
+The Venus Operating System is an experimental
+multiprogramming system which supports five or 
+six concurrent users on a small computer.  The system was
+produced to test the effect of machine architecture 
+on complexity of software.  The system is defined by
+a combination of microprograms and software.  The 
+microprogram defines a machine with some unusual architectural
+feature; the software exploits these features 
+to define the operating system as simply as possible.
+ In this paper the development of the system is 
+described, with particular emphasis on the principles which guided the design.

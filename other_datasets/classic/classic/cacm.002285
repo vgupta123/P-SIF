@@ -1,0 +1,7 @@
+Computer Routine for Quadratic and Linear
+Programming Problems [H] (Algorithm A431)
+A computer program based on Lemke's complementary
+pivot algorithm is presented.  This can be 
+used to solve linear and quadratic programming problems.
+ The program has been extensively tested on
+a wide range of problems and the results have been extremely satisfactory.

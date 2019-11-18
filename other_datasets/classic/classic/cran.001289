@@ -1,0 +1,40 @@
+numerical technique to lifting surface theory for calculation
+of unsteady aerodynamic forces due to continuous sinusoidal
+gusts on several wing planforms at sobsonic speeds .
+numerical technique to lifting surface theory for calculation
+of unsteady aerodynamic forces due to continuous sinusoidal
+gusts on several wing planforms at sobsonic speeds .
+  a numerical lifting-surface method has
+been used to calculate direct gust
+forces and moments on wings of several
+planforms .  the gust velocities are
+continuous and vary sinusoidally in the stream
+direction and are also uniform across
+the wing span .  the procedure has the
+advantage of rapid machine calculation and
+includes the effects of wing planform,
+nonsteady subsonic flow, and induced flow
+effects .  the method provides for calculation
+of gust forces on a basis
+consistent with that for the calculation of forces
+due to motion and deformation .  the
+results include the in-phase and quadrature
+components of the following
+quantities ..  (a) spanwise distribution of
+section lift coefficient, (b) total
+lift coefficient, and (c) total pitching-moment
+coefficient .  in addition,
+generalized gust forces on approximate fundamental
+cantilever bending modes (
+parabolic) are also included .  results have been
+obtained for 60 and 75 delta wings,
+ratio 11.60, and an unswept wing of aspect
+ratio 6.00 .  conditions for which
+calculations were made include two mach numbers
+reduced-frequency range of 0 to 1.0 .  the
+direct gust forces and moments are in
+forms suitable to be inserted in equations
+of motion used in the calculation of
+the dynamic responses of flexible lifting
+vehicles to random turbulence and to be
+compared with results from other methods .

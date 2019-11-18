@@ -1,0 +1,12 @@
+Implementation of a Structured English Query Language
+The relational model of data, the XRM Relational
+Memory System, and the SEQUEL language have 
+been covered in previous papers and are reviewed. 
+SEQUEL is a relational data sublanguages intended 
+for the ad hoc interactive problem solving by non-computer
+specialists.  A version of SEQUEL that has 
+been implemented in a prototype interpreter is described.
+ The interpreter is designed to minimize the 
+data accessing operations required to respond to an arbitrary
+query.  The optimization algorithms designed 
+for this purpose are described.

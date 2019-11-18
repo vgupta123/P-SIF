@@ -1,0 +1,14 @@
+The Working Set Model for Program Behavior
+Probably the most basic reason behind the absence
+of a general treatment of resource allocation 
+in modern computer systems is an adequate model for
+program behavior.  In this paper a new model, the 
+"working set model," is developed. The working set
+of pages associated with a process, defined to be 
+the collection of its most recently used pages, provides
+knowledge vital to the dynamic management of 
+paged memories.  "Process" and "working set" are shown to
+be manifestations of the same ongoing computational 
+activity; then "processor demand" and "memory demand"
+are defined; and resource allocation is formulated 
+as the problem of balancing demands against available equipment.

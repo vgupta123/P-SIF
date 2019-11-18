@@ -1,0 +1,17 @@
+PM, A System for Polynomial Manipulation
+PM is an IBM 7094 program system for formal manipulation
+of polynomials in any number of variables, 
+with integral coefficients unrestricted in size.  Some
+of the formal operations which can be performed 
+by the system are sums, differences, products, quotients,
+derivatives, substitutions and greater common 
+divisors.  PM is based on the REFCO III list processing
+system, which is described and compared with 
+the LISP and SLIP systems.  The PM subroutines for arithmetic
+of large integers are described as constituting 
+an independently useful subsystem.  PM is compared with
+the ALPAK system in several respects, including 
+the choice of canonical forms for polynomials.  A new
+algorithm for polynomial greatest common divisor 
+calculation is mentioned, and exaples are
+included to illustrate its superiority.

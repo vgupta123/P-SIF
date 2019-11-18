@@ -1,0 +1,22 @@
+Buffer Allocation in Merge-Sorting
+A fixed buffer allocation for merge-sorting
+is presented here which minimizes the number of 
+input-output operations for a given order of merge.
+ When sorting on movable arm disks, the number of 
+seeks is equal to the number of input-output operations,
+and the seek time usually controls the sort 
+time.  First some standard terminology is introduced. 
+Then the input buffer allocation method is described, 
+followed by an analysis of the improvement to be expected
+over more conventional allocation.  This analysis 
+makes use of a particular distribution function.  An
+analysis of a completely different distribution 
+is given which yields similar results.  This suggests
+that the results do not depend on a particular 
+distribution function.  An optimum output buffer size
+is also determined.  It is concluded that this 
+buffering allocation can significantly reduce the time
+of merge sorting on movable arm disks when the 
+input data are not random, and that this output buffer
+allocation should be used whether the data is 
+random or not.

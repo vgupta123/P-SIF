@@ -1,0 +1,10 @@
+Glypnir-A Programming Language for Illiac IV
+GLYPNIR is one of the earliest existing languages
+designed for programming the Illiac IV computer. 
+The syntax of the language is based on ALGOL 60, but has
+been extended to allow the programmer explicitly 
+to specify the parallelism of his algorithm in terms of 64-word
+vectors.  This paper describes the characteristics, 
+goals and philosophy of the language, and discusses some
+of the problems associated with parallel computer 
+architectures.

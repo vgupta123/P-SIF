@@ -1,0 +1,7 @@
+A Recurrence Scheme for Converting from
+One Orthogonal Expansion into Another
+A generalization of a scheme of Hamming for
+converting a polynomial Pn(x) into a Chebyshev 
+series is combined with a recurrence scheme of Clenshaw
+for summing any finite series whose terms satisfy 
+a three-term recurrence formula.  

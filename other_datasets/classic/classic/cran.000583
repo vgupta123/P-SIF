@@ -1,0 +1,15 @@
+influence coefficients for real gases .
+influence coefficients for real gases .
+in the analysis of one-dimensional fluid-flow problems, it is often
+assumed that the behavior of the medium is that of a perfect gas .
+this assumption is justified, provided the pressure and temperature
+range of interest is small and near atmospheric .  at higher pressures
+and temperatures various deviations are introduced thereby causing
+deviations from the results obtained by using the ideal fluid-flow
+equations .
+in this note, influence coefficients, similar to those developed by
+shapiro, are presented for the case of real gases .  this analysis is
+based upon the use of various functions of the compressibility factor
+emmons .  some of the assumptions made were as follows..  (1) the flow
+is one-dimensional and steady, (2) changes in the stream properties
+are continuous, and (3) the flow is comprised of imperfect gases

@@ -1,0 +1,13 @@
+Evaluation and Selection of File Organization-A Model and System
+This work first discusses the factors that
+affect file (data base) organization performance, 
+an elusive subject, and then presents a methodology, a
+model and a programmed system to estimate primarily 
+total storage costs and average access time of several
+file organizations, given a specific data base, 
+query characterization and device-related specifications.
+ Based on these estimates, an appropriate file 
+structure may be selected for the specific situation.
+ The system is a convenient tool to study file 
+structures and to facilitate as much as possible the process
+of data base structure design and evaluation.

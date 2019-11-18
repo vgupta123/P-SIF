@@ -1,0 +1,14 @@
+A Comparison of the Primal-Simplex and Primal-Dual
+Algorithms for Linear Programming
+A statistical comparison of the primal-dual
+and the more commonly used primal-simplex algorithm 
+for solving linear programming problems has been made under
+the assumption of starting with a full artificial 
+basis.  Under these conditions the primal-dual method
+shows a statistically significant superiority on 
+randomly generated problems.  It has also been found, via
+a regression analysis, that the relevant parameters 
+in determining the difference in the number of iterations
+between the algorithms is not only the number 
+of constraints and the number of variables but
+also the ratio of the latter to the former.

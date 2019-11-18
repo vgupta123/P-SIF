@@ -1,0 +1,11 @@
+approximate formulas for thermal-stress analysis .
+approximate formulas for thermal-stress analysis .
+the basis of any thermal-stress analysis is the determination of the
+temperature distributions in the structure .  for arbitrary flight
+histories, the determination of such distributions is rather tedious
+and not completely general .  this latter fact handicaps optimization
+studies in the project design stage when it is desirable to be able to
+express the thermal-stress distributions in a general manner .
+in this note, general expressions are derived for the thermal-stress
+distributions in a typical i-section using similar assumptions to
+those of biot .

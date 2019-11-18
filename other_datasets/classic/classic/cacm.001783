@@ -1,0 +1,10 @@
+In-and-Out Conversions
+Byan in-and-out conversion we mean that a floating-point
+number in one base is converted into 
+a floating-point number in another base and then converted
+back to a floating-point number in the original 
+base.  For all combinations of rounding and truncation
+conversions the question is considered of how 
+many significant digits are needed in the intermediate
+base to allow such in-and-out conversions to return 
+the original number (when possible), or at least significant digit.

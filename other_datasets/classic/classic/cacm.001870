@@ -1,0 +1,7 @@
+Some Techniques for Using Pseudorandom Numbers in Computer Simulation
+An algorithm is described by which uniform pseudorandom
+integers may be used to construct binary 
+"numbers" in which the probability that each bit in the
+word is a 1-bit and can assume any desired parameter 
+value.  Techniques for making use of such "numbers"
+in simulation programming are described.

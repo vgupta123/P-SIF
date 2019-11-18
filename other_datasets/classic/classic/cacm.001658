@@ -1,0 +1,10 @@
+Analysis of Algorithms for the Zero-One Programming Problem
+This paper is concerned with a review and examination
+of several existing algorithms for the 
+zero-one programming problem.  Computational experience
+is summarized.  The machine time and storage 
+requirements of several of the algorithms are compared
+over several test problems of small and intermediate 
+size.  Computer experiments still provide little hope
+of solving problems with over 100 variables with 
+a reasonable amount of machine time.

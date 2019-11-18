@@ -1,0 +1,10 @@
+The Stability of the Fourth Order Runge-Kutta
+Method for the Solution of Systems of Differential 
+Equations
+The problem of the region of stability of the
+fourth order-Runge-Kutta method for the solution 
+of systems of differential equations is studied.  This
+region can be characterized by means of linear 
+transformation but can not be given in a closed form.
+ In the paper, this region is determined by the 
+electronic digital computer Z22.

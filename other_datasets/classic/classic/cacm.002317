@@ -1,0 +1,20 @@
+Programming Systems and Languages 1965-1975
+In spite of impressive gains by PL/I, Fortran
+and Cobol remain the languages in which most 
+of the world's production programs are written and will
+remain so into the foreseeable future.  There 
+is a great deal of theoretical interest in Algol 68
+and in extensible languages, but so far at least 
+they have had little practical impact.  Problem-oriented
+languages may very well become the most important 
+language development area in the next five to ten years.
+ In the operating system area all major computer 
+manufacturers set out to produce very ambitious multiprogramming
+systems, and they all ran into similar 
+problems.  A number of university projects,though not
+directly comparable to those of the manufacturers, 
+have contributed greatly to a better understanding
+of operating system principles.  Important trends 
+include the increased interest in the development of
+system measurement and evaluation techniques,and 
+increased use of microprogramming for some programming system functions.

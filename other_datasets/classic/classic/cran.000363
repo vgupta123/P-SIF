@@ -1,0 +1,29 @@
+an alternative formulation of the problem of flutter
+in real fluids .
+an alternative formulation of the problem of flutter
+in real fluids .
+it is well known, in steady flow, that the actual lift curve
+slope is somewhat less than that predicted by inviscid flow
+theory, even at small angles of attack .  as the stall angle is
+approached, the lift curve slope continually decreases and thus
+deviates even more from the theoretical value .  pinkerton
+employed the measured circulation to determine the pressure
+distribution and found that the resulting prediction of the moment
+is considerably improved over that given by the classical theory .
+this amounts to replacing the conventional kutta-joukowski
+condition with the condition that the total lift should agree with
+the measured value, and this, in turn, completely determines the
+flow pattern .  practically, this is accomplished by giving a
+fictitious camber to the profile .  since potential flow theory is
+valid outside of the boundary layer, once the boundary-layer
+thickness is known, the potential flow may be corrected for the
+displacement thickness and the viscous wake by appropriate
+source distributions .  the boundary layer cannot be evaluated,
+of course, until the potential flow is known and the circulation is
+applied .  a criterion to determine the circulation, by
+generalizing the kutta-joukowski condition, was proposed by preston
+and spence by assuming that the pressure at the trailing edge
+shall have the same value when determined from the
+potential-flow values above and below the airfoil .  this procedure gives
+qualitative information concerning viscous effects in steady
+flow .

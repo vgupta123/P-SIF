@@ -1,0 +1,8 @@
+Improving Round-off in Runge-Kutta Computations with Gill's Method
+A Runge-Kutta-Gill scheme in common use is based on an incomplete
+adaptation for floating point operations of Gill's method.  An
+improved version reduces round-off error significantly.  In this note
+the heart of the scheme is presented in Fortran language.  It is
+then shown how an improved version of the method can be obtained with
+the addition of two Fortran statements.  The two version is a
+significant improvement.  A numerical example comparing the two is included.

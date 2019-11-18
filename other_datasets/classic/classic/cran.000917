@@ -1,0 +1,60 @@
+a method of calculating the short period longitudinal
+stability derivatives of a wing in linearised unsteady
+compressible flow .
+a method of calculating the short period longitudinal
+stability derivatives of a wing in linearised unsteady
+compressible flow .
+  a method is developed for the
+calculation of the pressure
+distribution and the aerodynamic forces and
+moments on a wing performing harmonic
+pitching and heaving oscillations .
+the calculation is based on the
+assumption of inviscid potential flow
+without shock waves and is
+restricted to small incidence, so that the
+linearized theory is valid .
+  in contrast to other work in the
+field the theory applies to all
+mach numbers .  it is restricted to small
+values of the reduced frequency
+and should be valid for the usual range
+of short periods occurring at
+present in flight .  the formal solution
+yields two integral equations for
+the parts of the load, which are in phase
+and go out of phase with the
+oscillation,. these are of the same form
+as the corresponding equation
+in steady flow .
+  the way is thus opened for solutions
+over the whole mach number
+range at small frequencies, if the
+corresponding steady solutions can
+be found .  the calculation is in fact
+easiest for m = 1 and has been
+done here for delta-wings to supplement
+a previous supersonic calculation,
+made on different frequency assumptions,
+which broke down near m = 1 .
+it appears from the two sets of results
+that the short period oscillation
+will be unstable near m = 1, if the apex
+angle of the delta wing is
+greater than about 60 .  this confirms a
+now generally recognised trend .
+  such results near m = 1 must of
+course be invalidated to an
+unknown extent by thickness viscosity and
+shock waves at their maximum
+effect .  nevertheless it is unlikely that
+these factors will remove
+the critical nature of the transonic damping
+as calculated by this method .
+with all its obvious limitations this method,
+when extended to other
+planforms, should provide a useful tool in
+studying the effect of
+geometrical parameters on the stability of
+an aircraft at transonic
+speeds .

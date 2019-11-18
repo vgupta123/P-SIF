@@ -1,0 +1,8 @@
+An Approximate Method for Generating Asymmetric Random Variables
+Tukey's lambda distribution is generalized
+to provide an algorithm for generating values of 
+unimodal asymmetric random variables.  This algorithm
+has the same advantages as the symmetric random 
+variable generator previously given by the authors, except
+that the addition of another parameter complicates
+the problem of finding the parameter values to fit a distribution.

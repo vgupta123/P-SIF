@@ -1,0 +1,6 @@
+A Sorting Problem and Its Complexity
+A technique for proving min-max norms of sorting
+algorithms is given.  One new algorithm for 
+finding the minimum and maximum elements of a set with
+fewest comparisons is proved optimal with this 
+technique.

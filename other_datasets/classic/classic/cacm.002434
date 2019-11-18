@@ -1,0 +1,8 @@
+Using Page Residency To Select the Working Set Parameter
+Denning's method for selecting the working set
+parameter, which uses interreference intervals, 
+is examined.  Several omissions in his model are noted,
+and new assumptions are introduced to overcome 
+these omissions.  Using this modified model, Dening's results
+on page residency are rederived and reconsidered 
+for selecting the working set parameter.

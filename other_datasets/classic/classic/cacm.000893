@@ -1,0 +1,12 @@
+Significance Arithmetic on a Digital Computer
+The 7090 at NYU has been modified to include
+a "Significance Mode" of operation which is intended 
+to facilitate the identification of significant bits in
+the results of floating-point arithmetic operations. 
+ The manner in which floating-point arithmetic is handled
+in this mode is discussed.  Several numerical 
+experiments using this mode are described and comparisons
+are made with the ordinary "normalized mode." 
+ Examples include power series evaluation, linear equations
+solution, determinant evaluation and matrix 
+inversion.

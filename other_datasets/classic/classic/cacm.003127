@@ -1,0 +1,10 @@
+Thoth, a Portable Real-Time Operating System 
+Thoth isa real-time operating system which is designed to be portable
+over a large set of machines.  It is currently running on two minicomputers
+with quite different architectures.  Both the system and application
+programs which use it are written in a high-level language.
+Because the system is implemented by the same software on different
+hardware, it has the same interface to user programs.  Hence,
+application programs which use Thoth are  highly portable.  Thoth
+encourages structuring programs as networks of communicating processes 
+by providing efficient interprocess communication primitives.

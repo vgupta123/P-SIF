@@ -1,0 +1,18 @@
+A Stochastic Approach to the Grammatical Coding of English
+A computer program is described which will
+assign each word in an English text to its form 
+class or part of speech.  The program operates at relatively
+high speed in only a limited storage space. 
+ About half of the word-events in a corpus are identified
+through the use of a small dictionary of function 
+words and frequently occurring lexical words.  Some suffix
+tests and logical-decision rules are employed 
+to code additional words.  Finally, the remaining words
+are assigned to one class or another on the basis 
+of the most probable form classes to occur within the already
+identified contexts.  The conditional probabilities 
+used as a basis for this coding were empirically derived
+from a separate hand-coded corpus.On preliminary 
+trials, the accuracy of the coder was 91% to 93%, with
+obvious ways of improving the algorithm being 
+suggested by an analysis of the results.

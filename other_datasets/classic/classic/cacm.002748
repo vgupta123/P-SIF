@@ -1,0 +1,5 @@
+Indirect Threaded Code
+An efficient arrangement for interpretive code
+is described.  It is related to Bell's notion 
+of threaded code but requires less space and is more
+amenable to machine independent implementations.

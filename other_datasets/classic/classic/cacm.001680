@@ -1,0 +1,24 @@
+A General-Purpose Display Processing and Tutorial System
+ADEPT (A display-Expedited Processing and Tutorial)
+system is described.  This system was designed 
+to improve man-computer communications by employing
+a display unit to interleave tutoring with other 
+computer operations such as simulation, programming, and
+information retrieval.  It is written in FORTRAN 
+IV (G) for the IBM System/360, Model 40, and the IBM 2250
+display Unit under Operating System/360.  Adept 
+is a cataloged program that controls the standard operating
+system by terminating and rescheduling itself 
+automatically, relinquishing computer resources allocated
+to it, and surrendering control to the operating 
+system to perform other jobs.  It expands the power
+and flexibility of computer-assisted instruction 
+by making immediately available to students, teachers,
+and other users, the full resources (system-cataloged 
+programs) of the operating system.  Language processors
+and compilers, simulation models, mathematical 
+solution techniques, stored data, and all other library and
+user programs can be incorporated into instructional 
+material without reprogramming.  Illustrations of the various
+applications are presented and their implications 
+are discussed.

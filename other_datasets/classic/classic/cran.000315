@@ -1,0 +1,55 @@
+scale effects at high subsonic and transonic speeds
+and methods for fixing transition in model experiments .
+scale effects at high subsonic and transonic speeds
+and methods for fixing transition in model experiments .
+  the major scale effects at high subsonic and transonic
+speeds arise from differences between the conditions
+under which laminar and turbulent boundary layers separate, and in
+how they behave after separation .  for turbulent
+boundary layers, these conditions and behaviour do not vary greatly
+as the reynolds number is changed and in many
+examples, it has been shown that they are similar for the turbulent
+layers that occur naturally at high reynolds number
+and for boundary layers in which transition to turbulent flow is fixed
+artificially .  the scale effects arising in wind-tunnel
+tests made at low reynolds number may, therefore, often be
+minimised by fixing transition to turbulent flow by
+introducing an artificial disturbance such as that produced by
+excrescences attached to the surface .  the fact that the
+effects of separation are often less severe for laminar layers than
+for the turbulent layers that are likely to be encountered
+at full scale, makes it all the more important to do this whenever
+possible .
+  several methods which can be used to fix transition are described,
+and the results obtained by using them are compared .
+in general, in experiments in two-dimensional flow, good agreement
+is found, and explanations can be advanced for
+cases in which discrepancies occur .  several uncertainties and
+difficulties that arise in fixing transition are discussed
+and illustrated by examples .  in particular, special care is needed
+in interpreting the results obtained with transition
+fixed at very low reynolds numbers (say, less than about r = 1 x 10
+based on local chord for wings of about 0.1
+thickness chord ratio and possibly higher reynolds numbers for thinner
+wings) .
+  the difficulties of fixing transition satisfactorily are increased
+for three-dimensional wings, particularly if they are
+swept-back or highly tapered (i.e., small chord and reynolds
+number near the tip) and if the tests cover a large range
+of incidence including high incidences for which the flow may
+separate from very close to the leading edge .  under
+these circumstances, it is frequently necessary to place the
+excrescences at different chordwise positions for low and
+high angles of incidence, and this is inconvenient in practice .
+more research is needed before sound recommendations
+can be made as to how and where transition should be fixed
+on such models, particularly since in routine testing, it is
+often not possible to check the effects of transition-fixing fully .
+  in the sections dealing with three-dimensional tests, examples
+are given of the spurious results that have been avoided
+successfully by fixing transition, of the conditions where even
+at low reynolds numbers artificial fixing of transition
+may not be necessary to give a turbulent boundary layer ahead
+of the shock, and of the conditions under which there
+are some doubts whether the methods used for fixing transition
+have been satisfactory .

@@ -1,0 +1,21 @@
+thin airfoil theory based on approximate solution of the transonic flow
+equation .
+thin airfoil theory based on approximate solution of the transonic flow
+equation .
+the present paper describes a method for the approximate solution of the
+ nonlinear equations of transonic small disturbance theory . although
+the solutions are nonlinear, the analysis is sufficiently simple that
+results are obtained in closed analytic form for a large and significant
+ class of nonlifting airfoils . application to two-dimensional flows
+with free-stream mach number near 1 leads, for instance, to general
+expressions for the determination of the pressure distribution on an
+airfoil of specified geometry and for the shape of an airfoil having a
+prescribed pressure distribution and gives, furthermore, the correct
+variation of pressure with mach number at mach number 1 . for flows that
+ are subsonic everywhere, the method yields a pressure-correction
+formula that is more accurate than the prandtl-glauert rule and compares
+favorably with existing higher approximations . for flows that are
+supersonic everywhere, the method yields the equivalent, in transonic
+approximation, of simple wave theory . results obtained by application
+of these general expressions are shown to correspond closely to existing
+ solutions and to experimental data for a wide variety of airfoils .

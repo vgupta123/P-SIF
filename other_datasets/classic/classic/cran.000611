@@ -1,0 +1,20 @@
+an approximate solution of the compressible laminar
+boundary layer on a flat plate .
+an approximate solution of the compressible laminar
+boundary layer on a flat plate .
+  following a major assumption that enthalpy and velocity are dependent
+only on local conditions, an enthalpy-velocity relation
+is obtained for the laminar boundary layer on a flat plate where
+subscripts p refer to the plate, 1 to the free stream and e to the
+equilibrium temperature condition at the plate .  when compared with
+general results, this relation (exact for prandtl number o = 1)
+gives a close approximation to crocco's numerical results for o = 0.725
+and 1.25, up to .
+  using the above relation in conjunction with the approximate
+viscosity-temperature relation suggested by chapman and rubesin, and
+with young's suggested first approximation for shearing stress it is
+shown that close approximations to displacement thickness and velocity
+distribution are given by and where and which serves to define c .
+  these have the advantage of being algebraic in form whereas previous
+results have involved complex numerical integrations for individual
+cases .

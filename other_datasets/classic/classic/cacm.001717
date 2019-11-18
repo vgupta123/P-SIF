@@ -1,0 +1,8 @@
+Generating Prime Implicants Via Ternary Encoding and Decimal Arithmetic
+Decimal arithmetic, ternary encoding of cubes,
+and topological considerations are used in an 
+algorithm to obtain the extremals and prime implicants
+of Boolean functions. The algorithm, which has 
+been programmed in the FORTRAN language, generally requires
+less memory than other minimization procedures, 
+and treats DON'T CARE terms in an efficient manner.

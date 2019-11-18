@@ -1,0 +1,16 @@
+A Comparison of Hardware and Software Associative
+Memories in the Context of Computer Graphics
+The Associative Processing of Line Drawings (APLD)
+System utilizes a hardware associative memory 
+and creates, modifies, deletes, stores, and retrieves
+two-dimensional line drawings consisting of poin ts,
+lines, rectangles, and triangles. The APLD functions
+were duplicated on the TX-2 computer at M.I.T.'s 
+Lincoln Laboratory under the LEAP Language and Data
+Structure,  A comparison of the hardware approach 
+with the software simulation illustrates the advantages
+of the hardware associative memory in three areas: 
+(1) processing speed, (2) storage requirements, and (3)
+flexibility.  The major problem areas of hardware 
+associative memory technology, namely input/output
+and cost effectiveness, are also addressed.

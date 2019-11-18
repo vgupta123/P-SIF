@@ -1,0 +1,19 @@
+A NELIAC-Generated 7090-1401 Compiler
+NELIAC systems for several different machines
+have been generated using the original NELIAC 
+system developed at the Naval Electronics Laboratory,
+San Diego, in 1958.  A basic "bootstrap" process 
+was used to generate all but the first, i.e. the systems
+were described in the NELIAC language and generated 
+by an existing NELIAC compiler.  This experience has
+shown there is no inherent difficulty in "building 
+compilers with compilers"; indeed, it pointed out many advantages
+in using a POL for constructing programming 
+systems.  This report presents the results of a project
+completed in May, 1961 in which the NELIAC system 
+was used to generate a compiler for the IBM 1401.  The
+1401 compiler, which runs on the 7090 and produces 
+1401 programs, was described in the NELIAC language and
+generated with 7090 NELIAC system.  The reduction 
+in programming time and the improvement in documentation
+of the system were very significant.

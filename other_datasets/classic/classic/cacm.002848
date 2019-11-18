@@ -1,0 +1,9 @@
+Synthesis of Decision Rules
+Decision tables can be used as an effective
+tool during an interview to record the logic of 
+processes to be automated.  The result of such an interview
+is not a structure of complete decision tables 
+but rather sets of decision rules.  The purpose of this
+paper is to provide a procedure for synthesizing 
+the decision rules and thus provide an aid in developing
+a structure of complete decision tables.

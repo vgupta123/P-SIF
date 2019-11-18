@@ -1,0 +1,21 @@
+New Methods in Automatic Extracting
+  This paper describes new methods of automatically extracting documents for
+screening purposes, i.e. the computer selection of sentences having the
+greatest possible potential for conveying to the reader the substance of
+the document.  While previous work has focused on one component of sentence
+significance, namely, the presence of high-frequency content words (key words),
+the methods described here also treat three additional components: pragmatic
+words (cue words); title and heading words; and structural indicators (sentence
+location).
+  The research has resulted in an operating system and a research methodology.
+The extracting system is parameterized to control and vary the influence of
+the above four components.  The research methodology includes procedures for
+the compilation of the required dictionaries, the setting of the control
+parameters, and the comparative evaluation of the automatic extracts with
+manually produced extracts.  The results indicate that the three newly proposed
+components dominate the frequency component in the production of better 
+extracts.
+  KEY WORDS AND PHRASES:  automatic extracting, automatic abstracting, sentence 
+selection, document screening, sentence significance, relevance, content words,
+key words, pragmatic words, cue words, title words, sentence location, research
+methodology, parameterization, comparative evaluation.

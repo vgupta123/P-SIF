@@ -1,0 +1,12 @@
+On Obtaining Correct Input:A New Approach
+Most information put into machine readable
+form, whether from scientific or business origins, 
+is still keypunched.  This paper is addressed toward
+the difficulty of obtaining correctly keypunched 
+and key verified data and an alternative method is suggested
+in which the computer itself is used to rule 
+out the possibility of errors in input.  This technique
+is explained and illustrated by reference to 
+a working program which involves essentially two phases:
+in the first phase errors are detected by the 
+machine, and subsequently, in the second phase, they are corrected by it.

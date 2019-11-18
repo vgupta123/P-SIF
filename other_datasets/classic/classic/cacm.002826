@@ -1,0 +1,15 @@
+Interactive Skeleton Techniques for Enhancing
+Motion Dynamics in Key Frame Animation
+A significant increase in the capability for
+controlling motion dynamics in key frame animation 
+is achieved through skeleton control.  This technique
+allows an animator to develop a complex motion 
+sequence by animating a stick figure representation
+of an image.  This control sequence is then used 
+to drive an image sequence through the same movement.
+ The simplicity of the stick figure image encourages 
+a high level of interaction during the design stage. 
+Its compatibility with the basic key frame animation 
+technique permits skeleton control to be applied selectively
+to only those components of a composite 
+image sequence that require enhancement.

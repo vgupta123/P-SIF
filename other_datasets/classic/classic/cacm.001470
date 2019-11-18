@@ -1,0 +1,38 @@
+The Structure of Programming Languages
+The following are identified as major components
+of every programming language: (1) the elementary 
+program statement, (2) mechanisms for linking elementary
+statements together, (3) the means by which 
+a program can obtain data inputs.  Several alternative
+forms of each of these components are described, 
+compared and evaluated.  Many examples, frequently from
+list processing languages, illustrate the forms 
+described.  Elementary program statements usually take
+the form of commands, requirements, or implicit 
+specifications.  A command is an imperative statement
+that commands the action to be taken.  A requirement 
+describes the effect to be achieved without saying anything
+about the actions to be taken.  An implicit 
+specification is similar to a requirement, but the programmer
+must understand what actions will be taken 
+to achieve the desired effect.  Subroutines may be entered
+explicitly, by execute call, or by function 
+composition.  Explicitly called subroutines generally
+require special linkage conventions.  An execute 
+subroutine call is syntactically indistinguishable from
+a basic instruction of the programming language. 
+ Function composition is a convenient alternative to
+the explicit call.  The three principal ways of 
+getting inputs for routines are (1) by referring to
+the data itself, (2) by referring to the data by 
+a "name", and (3) by referring to it implicitly by means
+of variables or functions.  Names are useful 
+entry points into permanent data structures, but can
+be error-causing distractions in other contexts. 
+The author discusses advantages, disadvantages, and factors
+influencing the choice of a form of component 
+for a language.   He concludes by suggesting the evolution
+of programming languages toward one which 
+will permit all the most convenient ways of structuring
+programs, organizing systems, and referencing 
+data.

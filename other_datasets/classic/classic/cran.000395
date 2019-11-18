@@ -1,0 +1,29 @@
+new methods in heat flow analysis with application
+to flight structures .
+new methods in heat flow analysis with application
+to flight structures .
+  new methods are presented for the analysis of transient heat
+flow in complex structures, leading to drastic simplifications in
+the calculation and the possibility of including nonlinear and
+surface effects .  these methods are in part a direct application of
+some general variational principles developed earlier for linear
+thermodynamics .  they are further developed in the
+particular case of purely thermal problems to include surface and
+boundary-layer heat transfer, nonlinear systems with
+temperature-dependent parameters, and radiation .  the concepts of
+thermal potential, dissipation function, and generalized thermal
+force are introduced, leading to ordinary differential equations
+of the lagrangian type for the thermal flow field .  because of the
+particular nature of heat flow phenomena, compared with
+dynamics, suitable procedures must be developed in order to formulate
+each problem in the simplest way .  this is done by treating a
+number of examples .  the concepts of penetration depth and
+transit time are introduced and discussed in connection with
+one-dimensional flow .  application of the general method to the
+heating of a slab, with temperature-dependent heat capacity,
+shows a substantial difference between the heating and cooling
+processes .  an example of heat flow analysis of a supersonic wing
+structure by the present method is also given and requires only
+extremely simple calculations .  the results are found to be in
+good agreement with those obtained by the classical and much
+more elaborate procedures .

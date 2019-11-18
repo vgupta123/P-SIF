@@ -1,0 +1,15 @@
+Experiments with an Automatic Theorem-Prover
+HavingPartial Ordering Inference Rules
+Automatic theorem-provers need to be made much
+more efficient.  With this in mind, Slagle has 
+shown how the axioms for partial ordering can be replaced
+by built-in inference rules when using a particular 
+theorem-proving algorithm based upon hyper-resolution and
+paramodulation.  The new rules embody the transitivity 
+of partial orderings and the close relationship between
+ predicates.  A program has been developed using 
+a modified version of these rules.  This new theorem-prover
+has been found to be very powerful for solving 
+problems involving partial orderings.  This paper presents
+a detailed description of the program and 
+a comprehensive account of the experiments that have been performed with it.

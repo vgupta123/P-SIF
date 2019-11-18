@@ -1,0 +1,8 @@
+A Language for Formal Problem Specification
+A language for specifying the in tended behavior
+of communicating parallel processes is described. 
+ The specifications are constrain ts on the order in which
+events of a computation can occur.  The language 
+is used to write specifications of the readers/writers
+problem and the writer priority of the second 
+readers/writers problem.

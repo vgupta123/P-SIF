@@ -1,0 +1,25 @@
+self sustained oscillations of a system with non-linear
+damping of a particular type .
+self sustained oscillations of a system with non-linear
+damping of a particular type .
+  the paper deals with self-sustained
+oscillations of a dynamic system
+of single degree of freedom, with linear
+restoring force and non-linear
+damping force .  the latter is supposed
+to be a function of velocity
+representable by a simple /polygonal/
+graph, such that the damping is
+negative at small velocities but becomes
+positive at velocities above a
+certain value .  on these assumptions,
+a rigorous solution is presented,
+including the equations of motion,
+amplitude, maximum velocity and period .
+a very simple solution is obtained
+for the limiting case of vanishingly
+small damping .  an approximate solution
+by series in powers of damping
+ratio is worked out which
+gives a satisfactory accuracy for
+quite large values of .

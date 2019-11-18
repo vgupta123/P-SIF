@@ -1,0 +1,7 @@
+An Algol-Based Associative Language
+A high level programming language for large,
+complex associative structures has been designed 
+and implemented.  The underlying data structure has
+been implemented using a hash-coding technique.  
+The discussion includes a comparison with other work
+and examples of applications of the language.

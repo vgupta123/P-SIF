@@ -1,0 +1,10 @@
+A Variation of the Goodman-Lance Method for
+the Solution of Two-Point Boundary Value Problems
+A recently published method for the interpolative
+solution of nonlinear equations is improved,
+and applied to give a significant variation of the Goodman-Lance
+method for the solution of two-point boundary value problems. 
+The resulting method applies in particular to the numerical solution
+of optimal control problems in the Euler-Lagrange formulation.
+Quantitative estimates are presented which indicate that the variation
+is nearly twice as fast on some problems in the latter context.

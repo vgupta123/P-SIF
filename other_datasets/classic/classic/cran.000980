@@ -1,0 +1,24 @@
+a method of computing the transient temperature of thick walls from
+arbitrary variation of adiabatic-wall temperature and heat-transfer
+coefficient .
+a method of computing the transient temperature of thick walls from
+arbitrary variation of adiabatic-wall temperature and heat-transfer
+coefficient .
+a method of calculating the temperature of thick walls has been
+developed in which are used relatively new concepts, such as the time
+series and the response to a unit triangle variation of surface
+temperature, together with essentially standard formulas for transient
+temperature and heat flow into thick walls . the method can be used
+without knowledge of the mathematical tools of its development . the
+method is particularly suitable for determining the wall temperature in
+one-dimensional thermal problems in aeronautics where there is a
+continuous variation of the heat-transfer coefficient and adiabatic-wall
+temperature . the method also offers a convenient means for solving the
+inverse problem of determining the heat-flow history when temperature
+history is known .
+a series of diversified problems were solved by exact analysis as well
+as by the new method . a comparison of the results shows the new
+method to be accurate . the labor involved is very modest in
+consideration of the nature of the thick-wall temperature problem .
+limiting solutions for the /infinitely thick/ wall and for walls so
+thin that thermal lag can be neglected were also obtained .

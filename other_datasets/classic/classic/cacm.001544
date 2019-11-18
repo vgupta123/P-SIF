@@ -1,0 +1,12 @@
+Tele-CUPL: A Telephone Time Sharing System
+A general purpose, remote access, computing system
+is described, that employs twelve-key keyboard 
+telephones as terminals.  Audio output is provided directly
+to the telephone terminals, but the system 
+will normally be used in conjunction with remotely located
+high speed printing devices.  The system is 
+a compatible extension of an existing batch processing
+system.  A significant element of the system is 
+a scheme for transmitting alphanumeric information by single
+strokes on a numeric keyboard.  The programmed 
+scanner uses context to eliminate the ambiguity in transmission.

@@ -1,0 +1,10 @@
+Register Allocation Via Usage Counts
+This paper introduces the notion of usage counts,
+shows how usage counts can be developed by 
+algorithms that eliminate redundant computations, and
+describes how usage counts can provide the basis 
+for register allocation.  The paper compares register
+allocation based on usage counts to other commonly 
+used register allocation techniques, and presents evidence
+which shows that the usage count technique 
+is significantly better than these other techniques.

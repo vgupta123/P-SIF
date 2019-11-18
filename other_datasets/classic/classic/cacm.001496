@@ -1,0 +1,9 @@
+A Formal Semantics for Computer Languages
+and its Application In a Compiler-Compiler
+A semantic meta-language has been developed
+for representing the meanings of statements in 
+a large class of computer languages.  This meta-language
+has been the basis for construction of an efficient, 
+functioning compiler-compiler.  An informal discussion
+of the meta-language based on the example of a 
+complete translator for a small language is presented.

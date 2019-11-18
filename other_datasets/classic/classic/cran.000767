@@ -1,0 +1,46 @@
+mathematical techniques applying to the thermal fatigue behaviour
+of high temperature alloys .
+mathematical techniques applying to the thermal fatigue behaviour
+of high temperature alloys .
+during thermal fatigue testing
+of a specimen with a thin edge, or
+during rapid temperature changes in the gas
+flow past turbine blades, the thin
+edges are deformed plastically in compression
+during heating and subsequently
+creep in tension as the bulk of the specimen
+or blade heats up . the plastic
+deformation is determined from temperature
+distributions, which are calculated
+by biot's variational method . the creep
+deformation is determined as a function
+of time by a differential equation, which
+expresses the balance between increasing
+elastic stress and reduction of stress due
+to creep relaxation, and which is solved
+to a riccati equation soluble in
+terms of bessel functions, or (iii) by transformation
+to a second-order differential
+equation with a periodic coefficient .
+using the thermal stresses obtained from
+the solution of the differential equation, the theoretical thermal
+fatigue endurance
+is determined from cyclic (mechanical) stress
+endurance data . agreement between
+theoretical and experimental thermal fatigue
+endurances is obtained, over ranges
+of temperature, strain, and strain rate, or equivalently, over ranges
+of temperature-edge radius and heat transfer coefficient .
+this agreement supports the use of
+the theoretical methods in wider contexts .
+the accuracy of the temperature
+distributions is better than the accuracy of
+other factors entering into the correlation
+between theoretical and experimental endurances .
+improvement in the
+interpretation of experimental results requires
+consideration of the alteration
+of the stress  cycles during the course of thermal
+fatigue testing . this requirement
+is catered for partially by the various solutions of the differential
+equation for thermal stress .

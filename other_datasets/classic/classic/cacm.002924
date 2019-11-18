@@ -1,0 +1,20 @@
+An Interactive Computer Graphics Approach to Surface Representation
+An in teractive computer graphics method has been
+developed for the rapid generation of arbitrary 
+shaped three-dimensional surfaces.  The method is a synthesis
+of spline theory and algorithms, an in teractive 
+means for man-machine communication, and software for
+static or dynamic graphics display.  The basic 
+technique employed is a modified lofting method on
+which sectional curves are represented by uniform 
+B-splines and the surface is in terpolated between sections
+by Cardinal splines.  Among the features of 
+this method are algorithms which enable in teractive
+modification of the B-spline representation of the 
+sectional curves.  At all stages of the process, the
+spatial information is graphically displayed to 
+the user.  Complex surfaces can be created by the combination
+of a number of shapes that have been separately 
+generated and automatically joined.  The system has been
+successfully in terfaced to a variety of analytical 
+routines for structural, medical and graphical applications.

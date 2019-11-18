@@ -1,0 +1,7 @@
+An Algorithm for the Assignment Problem
+The assignment problem is formulated and briefly
+discussed.  An efficient algorithm for its 
+solution is presented in ALGOL code.  An empirical relation
+between solution time and the size of the 
+problem is given, based on extensive experiments
+carried out on a digital computer.

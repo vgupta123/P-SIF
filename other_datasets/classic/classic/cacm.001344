@@ -1,0 +1,8 @@
+Statistical Computations Based Upon Algebraically Specified Models
+Based upon a machine-readable statistical model
+and related symbolic specifications, an efficient 
+method of performing calculations for statistical models
+of a balanced complete nature is presented. 
+ Fixes, mixed, and random analysis of variance models
+are considered.  A procedure for obtaining variance 
+components and calculated F statistics for the model terms is included.

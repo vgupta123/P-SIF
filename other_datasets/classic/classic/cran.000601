@@ -1,0 +1,40 @@
+calculation of the flow past slender delta wings with
+leading edge separation .
+calculation of the flow past slender delta wings with
+leading edge separation .
+  the flow past a slender delta
+wing with a sharp leading edge, at
+incidence, usually separates along
+this edge, i.e. a vortex layer extends
+from the edge and rolls up to form
+a /core/ (a region of high vorticity) .
+a potential flow model of this is
+constructed in which the layer is
+replaced by a vortex sheet which
+is rolled up into a spiral in the region
+of the /core/ .  this problem
+is reduced to a two-dimensional one by
+assuming a conical field and using
+slender wing theory .  the shape and strength
+of the sheet are determined by
+the two conditions that it is a stream
+surface and sustains no pressure
+difference .  use is made of results
+previously obtained for the core
+region and the remaining finite part of
+the sheet is dealt with by choosing
+certain functions for its shape and
+strength .  the parameters in these
+functions are found by satisfying the
+two conditions stated above at
+isolated points .  results are obtained for
+the pressure distribution, chord
+loading and norman force coefficient as
+functions of the ratio of the
+incidence to the apex angle .  the lift for a
+given incidence is about 15
+below that found by brown and michael .  flow
+patterns are indicated in two
+typical cases .  the effect of separation on
+the drag due to lift of a wing
+with small thickness is discussed .

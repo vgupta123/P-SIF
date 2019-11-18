@@ -1,0 +1,8 @@
+   Symbolic Manipulation of Poisson Series
+   Poisson series of three variables are manageable symbolically through as a 
+set of formal subroutines written partially in the IBM 7094 machine language,
+but to be called in the FORTRAN language for use in Fortran  programs. An 
+effort has been made to supply those operations which are most required by
+celestial mechanics. The routines are entirely self-contained subroutines
+and require only standard Fortran input/output units 5 and 6; they are design
+to avoid waste and overflow of core storage space.

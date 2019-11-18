@@ -1,0 +1,26 @@
+Two-Level Control Structure for Nondeterministic Programming
+The basic ideas of nondeterministic programming
+are critically reconsidered to single out a 
+proper attitude and programming style for language allowing
+direct control of nondeterministic features. 
+ The proposed attitude aims at retaining the purity of
+the nondeterministic formulation of search processes 
+on one level (the attempt level), deferring the coordination
+of problem solving efforts to another (the 
+choice level).  The feasibility of recognizing these two
+levels is discussed, stressing that the structure 
+to be managed at the choice level is a free of contexts.
+ The leaves are computational environments, 
+each holding an alternative under inspection, while
+the other nodes are associated with choice poin ts. 
+ According to the proposed programming style, a generative
+function is associated with each choice poin t, 
+which expresses the desired choice strategy. The main
+advantage on this approach is the localization 
+of the search strategies: Each nonterminal node of the
+tree keeps track of the state of the computation 
+as it was when the choice poin t was last interrogated,
+holding at the same time the strategy to coordinate 
+the available alternatives.  Examples are given in
+term of ND-Lisp, an extension of Lisp designed and 
+implemented according to these guidelines.

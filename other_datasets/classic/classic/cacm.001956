@@ -1,0 +1,16 @@
+Optimum Merging from Mass Storage
+An algorithm is displayed which yields the merge orders such that the total
+read time, defined to be the sum of seek time plus data-transfer
+time, is minimized for a sort using mass storage. The analysis is
+parameterized in terms of the ratio of seek time to the time it takes
+to fill available core with records, and the file size in units
+of core lengths; and thus it can be applied to any conventional
+CPU/mass storage combination.  An explicit formula for total read
+time is derived, in terms of the parameters, which correlates very
+well with the total read time calculated using the optimum merge
+orders yielded by the algorithm.  The formula involves the roots of a simple 
+transcendental equation.  A short table of these roots
+is included.  Numerical results are graphically displayed for a wide
+range of the parameters.  It is found that the normalized read
+time for optimum merging on a given hardware configuration is proportional
+to the file length times the logarithm of the file length.

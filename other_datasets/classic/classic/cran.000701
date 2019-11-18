@@ -1,0 +1,29 @@
+numerical determination of indical lift of a two-dimensional sinking
+airfoil at subsonic mach numbers from oscillatory lift coefficients with
+ calculations for mach number 0.7 .
+numerical determination of indical lift of a two-dimensional sinking
+airfoil at subsonic mach numbers from oscillatory lift coefficients with
+ calculations for mach number 0.7 .
+the reciprocal equations for relating the incompressible circulatory
+indicial lift to the lift due to harmonic oscillations have been
+modified to include the noncirculatory lift associated with
+apparent-mass effects . although the apparent-mass effects are impulsive in
+nature in incompressible flow, the lift due to apparent-mass effects in
+compressible flow is a time-dependent function . the corresponding
+reciprocal equations for the total compressible lift are given . by use
+of the reciprocal equations for compressible flow, the indicial lift and
+ moment functions due to an airfoil's experiencing a sudden acquisition
+of vertical velocity are determined numerically for mach number 0.7 .
+lack of sufficient flutter coefficients prevents the calculation of
+these functions at other mach numbers .
+although the indicial lift and moment functions due to penetration of a
+sharp-edge gust may be obtained from the oscillatory tab or aileron
+coefficients by a similar analysis, sufficient coefficients are not
+available at the present . however, an approximate method is shown for
+determining a portion of this unsteady-lift function .
+when a comparison is made of the indicial lift functions at mach numbers
+appears to be less rapid for the compressible case than for the
+incompressible case . consequently, the calculation of the gust load factor
+at high subsonic mach numbers utilizing the two-dimensional
+incompressible indicial lift functions and an over-all correction for
+compressibility such as the prandtl-glauert factor might be conservative .

@@ -1,0 +1,24 @@
+biot's variational principle in heat conduction .
+biot's variational principle in heat conduction .
+  biot's variational principle is applied to a number of different
+one-dimensional heat conduction problems .  these problems
+show the applicability of the variational principle to problems
+involving prescribed heat flux boundary conditions and to those
+with temperature-dependent material properties .
+  a method is introduced for including boundary conditions
+when these are expressed as prescribed heat fluxes .  the idea
+behind this is overall energy balance within the body, which is a
+constraint condition to be satisfied by the time histories of the
+generalized coordinates .
+  the variational principle is then applied to the well-known
+problem of constant surface heat flux in order to present the
+technique and provide a basis for the remaining sections .  the
+equivalence of the result obtained in applying the variational
+principle for a prescribed surface temperature history to that
+obtained for a prescribed heat flux is also pointed out .  radiation
+cooling due to fourth power radiation from semi-infinite solids
+and finite slabs together with radiation according to newton's
+law of cooling is then treated .  finally, the introduction of
+temperature-dependent material properties is discussed and the
+determination of the temperature distribution in a semi-infinite
+solid with variable properties is investigated .

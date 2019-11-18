@@ -1,0 +1,10 @@
+On the Expected Gain From Adjust ing Matched Term Retrieval Systems
+A file adjustment procedure based on maximizing
+the Bayes expected gain proposed for matched 
+term retrieval systems.  The expected gain and its probability
+distribution are derived as a function 
+of: (1) the prior proportion of omitted terms, and (2) the
+coefficient of separation between two distributions 
+corresponding to values of an adjustment statistic.  An
+example evaluates the gain parameters for a typical 
+information retrieval system.

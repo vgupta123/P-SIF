@@ -1,0 +1,6 @@
+On the Automatic Simplification of Computer Programs
+Presented in this paper is the problem of writing
+a program which would examine any other program 
+and perform such simplifications on it as can be detected
+from the argument-program's form alone, without 
+having any knowledge of what it is supposed to do.

@@ -1,0 +1,14 @@
+Systems Design Education: A Gaming Approach
+One of the problems facing managers of computer
+installations is the problem of configuring 
+the computer system to meet the demands made by the
+mix of jobs that the computer center must service. 
+ This paper presents a management game that allows
+the player to configure a computer system to meet 
+a hypothetical job mix is under the control of a game administrator
+and can be varied to simulate a variety 
+of real-world situations (I/O bound jobs, compute bound
+jobs, etc.).  The player of the game receives 
+a set of detailed reports on the cost of his choices
+and a simulated run of the center operating under 
+his choices. 

@@ -1,0 +1,28 @@
+the buckling of a square panel under shear, when one
+pair of opposite edges is clamped and the other pair
+is simply supported .
+the buckling of a square panel under shear, when one
+pair of opposite edges is clamped and the other pair
+is simply supported .
+  reasons for investigation.--for an efficient design
+of spar with thin sheet web it is important to know
+the load which will just cause the web to buckle .  as stiffeners
+divide the web into panels, it is required to find the
+buckling stress of rectangular panels bounded on two sides by
+spar flanges and on the other two sides by stiffeners .
+boundary conditions which represent closely this type of edge
+fixing are clamping (along the flanges) and simple support
+critical shear stress for a square panel held in this way .
+  conclusions and further development.--it is found that the
+value of the critical shear stress is almost midway between
+its values when all four edges are clamped and all four edges
+are simply supported .
+  the method of solution developed in this report is of very
+general application, and can be used to investigate the
+stability of rectangular panels when the loading is any combination
+of shear and compression or tension, and the edges
+are clamped or simply supported, and not necessarily all clamped
+or all simply supported .  by an easy extension the
+method of solution can also be used to find the periods of transverse
+vibration of rectangular panels for the same types
+of loading and edge fixing .

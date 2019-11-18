@@ -1,0 +1,17 @@
+Construction of Rational and Negative Powers of a Formal Series
+Some methods are described for the generation
+of fractional and negative powers of any formal 
+series, such as Poisson series or Chebyshev series.  It
+is shown that, with the use of the three elementary 
+operations of addition, subtraction, and multiplication,
+all rational (positive and negative) powers 
+of a series can be constructed.  There are basically two
+approaches: the binomial theorem and the iteration 
+methods.  Both methods are described here, and the relationship
+between them is pointed out.  Some well-known 
+classical formulas are obtained as particular cases,
+and it is shown how the convergence properties of 
+these formulas can be improved with very little additional
+computations.  Finally, at the end of the 
+article, some numerical experiments are described
+with Chebyshev series and with Fourier series.

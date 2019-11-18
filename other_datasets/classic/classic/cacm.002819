@@ -1,0 +1,13 @@
+Experiments in Text File Compression
+A system for the compression of data files,
+viewed as strings of characters, is presented. 
+ The method is general, and applies equally well to
+English, to PL/I, or to digital data.  The system 
+consists of an encoder, an analysis program, and a decoder.
+  Two algorithms for encoding a string differ 
+slightly from earlier proposals.  The analysis program attempts
+to find an optimal set of codes for representing 
+substrings of the file.  Four new algorithms for this
+operation are described and compared.  Various 
+parameters in the algorithms are optimized to obtain
+a high degree of compression for sample texts.

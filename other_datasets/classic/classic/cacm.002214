@@ -1,0 +1,4 @@
+Complex Interval Arithmetic
+Complex interval arithmetic is defined using
+real interval arithmetic.  Complex interval division 
+is defined so as to assure smallest possible resulting intervals.

@@ -1,0 +1,5 @@
+Metalanguage and Syntax Specification
+Two metalanguages are described, one sufficient
+for the table specification of the ALGOL syntax, 
+the other with additional metaoperators adequate and used
+for the formal table description of Basic FORTRAN.

@@ -1,0 +1,23 @@
+Execution Time Requirements for Encipherment Programs
+Although encipherment has often been discussed
+as a means to protect computer data, its costs 
+are not well established.  Five experiments were conducted
+to measure the cpu time on a CDC 6400 required 
+by additive ciphers programmed both in assembly language
+and in Fortran: a "null transformation" to measure 
+the time to move data without encipherment; encipherment
+with one-word key; encipherment with a 125-word 
+key; double key encipherment; and encipherment using
+a pseudo random key.  The results were analyzed 
+for consistency over 100 runs, and the effects of constant
+and intermittent errors were considered.  
+Timing rates for assembly language encipherment ranged
+from 498,800 characters per second for a pseudo 
+random key cipher to 2,092,000 characters per second
+for a constant one-word key cipher.  The latter 
+is almost equivalent to the rate required simply to move
+data without encipherment.  Fortran tests required 
+over four times as much cpu time.  This paper introduces
+the idea on enciphering time coefficient the 
+ratio of enciphering time to the time taken to
+fetch and store data without encipherment.

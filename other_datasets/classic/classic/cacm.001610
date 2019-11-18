@@ -1,0 +1,8 @@
+A Method for the Solution of Transportation Problems with Tall Matrices
+A method is presented for the solution of the
+transportation problem having a cost matrix with 
+few columns.  The computer implementation of this method
+shows it to be very fast and efficient.  Application 
+are indicted for the personnel classification problem
+as well as the classical transportation problem. 
+ An example is worked out in detail.

@@ -1,0 +1,20 @@
+on the numerical calculation of detached bow shock
+waves in hypersonic flow .
+on the numerical calculation of detached bow shock
+waves in hypersonic flow .
+  a method is described for calculating examples of hypersonic
+flow with a detached bow shock wave past a bluff axially
+symmetric body .  the form of the shock wave is assumed, and the
+analysis is based on a cauchy problem for the stream function
+in the subsonic region, where the motion is governed by a
+partial differential equation of elliptic type .  through analytic
+continuation into the complex domain, the cauchy problem is
+reformulated in such a manner that it becomes properly set in the
+subsonic region .  this leads to a stable scheme for computation
+of the flow by finite differences .  numerical examples at
+freestream mach number 5.8 are presented in which the flow is
+determined throughout the subsonic region, and, in particular, the
+detachment distance, the location of the sonic line, and the
+pressure distribution along the body are calculated .  these results are
+in excellent agreement with experimental data obtained at the
+california institute of technology .

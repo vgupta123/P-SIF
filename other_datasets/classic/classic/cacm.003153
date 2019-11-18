@@ -1,0 +1,18 @@
+The Control of Response Times in Multi-Class
+Systems by Memory Allocations 
+The possibility of giving different quality of service to jobs of different
+classes by regulating their memory allocation is examined in
+the context of a paged computer system.  Two parameterized algorithms
+which partition the main memory between two classes of jobs are
+considered.  Initially, a closed system consisting of a process
+or and paging and file devices, with fixed numbers of jobs, is studied
+to determine optimal degrees of multiprogramming and the proportion
+of processor time devoted to each class.  Applying a decomposition
+approach and treating the closed system as a single server,
+the response times in an open system with external arrivals are
+studied.  The object is to investigate the effect of the memory
+alocation parameters on the expected response times under the two algorithms.
+Numerical solutions and economical lower bounds for the
+expected response times as functions of the control parameters
+are obtained.  A way of applying the results to systems with more
+than two job classes is indicated.

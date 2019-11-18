@@ -1,0 +1,14 @@
+Memory Management and Response Time
+This paper presents a computationally tractable
+methodology for including accurately the effects 
+of finite memory size and workload memory requirements
+in queueing network models of computer systems. 
+ Empirical analyses and analytic studies based on applying
+this methodology to an actual multiaccess 
+in teractive system are reported.  Relations between workload
+variables such as memory requirement distribution 
+and job swap time, and performance measures such as response
+time and memory utilization are graphically 
+displayed. A multiphase, analytically soluble model is
+proposed as being broadly applicable to the analysis 
+of in teractive computer systems which use nonpaged memories.

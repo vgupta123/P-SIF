@@ -1,0 +1,24 @@
+Perfect Hashing Functions: A Single
+Probe Retrieving Method for Static Sets
+A refinement of hashing which allows retrieval
+of an item in a static table with a single probe 
+is considered.  Given a set I of identifiers, two methods
+are presented for building, in a mechanical 
+way, perfect hashing functions, i.e. functions transforming
+the elements of I into unique addresses. 
+ The first method, the "quotient reduction" method, is
+shown to be complete in the sense that for every 
+set I the smallest table in which the elements of I
+can be stored and from which they can be retrieved 
+by using a perfect hashing function constructed by this
+method can be found.  However, for nonuniformly 
+distributed sets, this method can give rather sparse tables.
+ The second method, the "remainder reduction" 
+method, is not complete in the above sense, but it seems
+to give minimal (or almost minimal) tables for 
+every kind of set.  The two techniques are applicable
+directly to small sets.  Some methods to extend 
+these results to larger sets are also presented.  A rough
+comparison with ordinary hashing is given which 
+shows that this method can be used conveniently
+in several practical applications.

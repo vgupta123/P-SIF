@@ -1,0 +1,27 @@
+Pictorial Pattern Recognition and the
+Phase Problem of X-ray Crystallography
+The availability of interactive, three-dimensional,
+computer graphics systems coupled to powerful 
+digital computers encourages the development of algorithms
+adapted to this environment.  Pictorial pattern 
+recognition techniques make possible a number of approaches
+to X-ray structure determination based on 
+molecular model building, i.e. the use of chemical information
+to frame "structural hypotheses" which 
+can computationally be tested and refined by reference
+to the experimental data.  Application of standard 
+pattern recognition algorithms is hindered by the fact
+that the cross-correlation between a model and 
+the correct structure cannot be computed because of
+a fundamental incompleteness in the measured data. 
+ However, it is possible to compute an upper bound to such
+a cross-correlation.  A simple example demonstrates 
+that this information can be the basis of a technique
+for structure determination that can make effective 
+use of an interactive graphics system. Model building
+by cross-correlations has intrinsic advantages 
+over usual crystallographic techniques based on the
+autocorrelation or Patterson function, especially 
+for large structures.  This is significant, for crystallography
+of biological macromolecules hasbeen 
+and will continue to be a field of intense interest.

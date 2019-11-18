@@ -1,0 +1,21 @@
+iterative methods for solving partial difference equations of elliptic
+type .
+iterative methods for solving partial difference equations of elliptic
+type .
+this paper considers linear systems /1/ where a includes matrices of a
+sort frequently occurring in the solution of elliptic partial
+differential equations by difference methods /in particular, a o/ . rewriting
+ superscript is number of iteration cycle/ are used to compute u
+when u are used . also, one may /over-relax/ ..
+ser. a. 210, 307-357 /1910/ who suggested changing from time to time
+to speed up convergence . in the present paper over-relaxation /with
+fixed w/ is combined with immediate introduction of newly-computed u's,
+a la gauss-seidel . various theorems on convergence are proved$. in
+particular, it is shown that there exists an ordering of the equations
+and an optimum value wb such that in general /3/ converges much more
+rapidly than the gauss-seidel method /w 1/ . means are suggested for
+estimating wb,. the sensitivity of the rate of convergence to the choice
+ of w is studied . the paper concludes with a theoretical comparison of
+gauss-seidel and the method proposed, /successive over-relaxation/, for
+solving dirichlet's difference problem over a square using a high-speed
+computing machine .

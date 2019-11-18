@@ -1,0 +1,45 @@
+on the solution of the laminar boundary layer equations .
+on the solution of the laminar boundary layer equations .
+the problem of the flow along a flat plate
+placed edgewise to a steady stream,
+when a retarding pressure gradient
+varying linearly as the distance x
+from the leading edge of the plate
+is superposed is discussed .  if y denotes
+distance measured perpendicular to
+the plate, a solution is obtained in the
+form of a power series in x where
+coefficients are functions of .
+differential equations are obtained for these
+coefficients .  seven of the coefficients
+have been obtained with reasonable
+accuracy, and the eighth and ninth
+roughly .  unfortunately it appears
+that about eight more terms are
+required to carry the solution to
+the point of separation,. the work
+involved in their determination is
+prohibitive .  two approximate methods
+have been developed for determining
+the error when the first seven terms
+of the series are used as an approximation .
+these methods lead to the
+determination of the point of separation
+and are in agreement as to its
+position .  if is the velocity at the
+edge of the boundary layer at the
+leading edge of the plate and is the
+velocity gradient, separation is found
+when .  a method is
+developed for the solution of the
+boundary layer equations in any retarded region .
+it is obtained by
+replacing the velocity distribution at the edge
+of the boundary layer by a
+circumscribing polygon of infinitesimal sides and
+applying the preceding solution
+to each of these sides, making the
+momentum integral continuous at each
+vortex .  the problem is thereby
+reduced to the solution of a first order
+differential equation .

@@ -1,0 +1,11 @@
+An Exponential Method of Numerical Integration
+of Ordinary Differential Equations
+A formula for numerical integration is prepared,
+which involves an exponential term.  This 
+formula is compared to two standard integration methods,
+and it is shown that for a large class of differential 
+equations, the exponential formula has superior stability
+properties for large step sizes.  Thus this 
+formula may be used with a large step size to decrease the
+total computing time for a solution significantly, 
+particularly in those engineering problems where high accuracy is not needed.

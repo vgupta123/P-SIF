@@ -1,0 +1,11 @@
+A Method of Bivariate Interpolation and Smooth
+Surface Fitting Based on Local Procedures
+A method is designed for interpolating values
+given at points of a rectangular grid in a plane 
+by a smooth bivariate function z=z(x,Y).  The interpolating
+function is a bicubic polynomial in each 
+cell of the rectangular grid.  Emphasis is an avoiding
+excessive undulation between given grid points. 
+The proposed method is an extension of the method of
+univariate interpolation developed earlier by the 
+author and is likewise based on local procedures.

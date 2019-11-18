@@ -1,0 +1,14 @@
+GEORGE 3-A General Purpose Time Sharing and Operating System
+An Operating System is described which will
+run on a wide variety of configurations of the 
+I.C.T. 1900, and can handle a large number of online console
+users while at the same time running several 
+off line (background) jobs.  The system is not oriented
+towards either mode and can be either a batch 
+processing system (such as the ATLAS Supervisor, IBSYS,
+or GECOS), or a multiaccess system (resembling, 
+to the user, CTSS or MULTICS), or both simultaneously,
+depending on the installation, which can adjust 
+the Schedulers.  Both online users and off line jobs use
+a common Command Language.  The system includes 
+a Multilevel device-independent File Store.

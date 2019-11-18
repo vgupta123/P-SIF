@@ -1,0 +1,15 @@
+Recovery of Reentrant List Structures in SLIP
+One consequence of the reference-count-based
+space-recovery system employed by SLIP is that 
+reentrant list structures are not recovered even when
+explicitly erased.  LISP-like garbage-collection 
+schemes are free of this impediment.  They however,
+depend on being able to find and mark nodes that 
+are reachable from program variables.  By tracing all
+descendants from program variables may then be 
+identified and collected.  The list-creating function
+LIST of SLIP may be amended to mark those lists 
+for which the programmer wishes to assume responsibility.
+ Given this modification, a LISP-like garbage 
+collector that recovers abandoned reentrant list structures
+may then be appended to the SLIP system.

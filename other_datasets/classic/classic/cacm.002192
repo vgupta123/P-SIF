@@ -1,0 +1,6 @@
+Another Recursion Induction Principle
+An inductive method for proving things about
+recursively defined functions is described.  It 
+is shown to be useful for proving partial functions equivalent
+and thus applicable in proofs about interpreters 
+for programming languages.

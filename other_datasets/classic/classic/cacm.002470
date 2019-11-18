@@ -1,0 +1,28 @@
+Fen-An Axiomatic Basis for Program Semantics
+A formal system is presented which abstracts
+the notions of data item, function, and relation. 
+ It is argued that the system is more suitable than set
+theory (or its derivatives) for the concise and 
+accurate description of program semantics.  It is shown
+how the system can be used to build composite 
+data types out of simper ones with the operations of rowing,
+structuring, and uniting.  It is also demonstrated 
+that completely new primitive types can be introduced
+into languages through the mechanism of singleton 
+data types.  Both deterministic and nondeterministic
+functions are shown to be definable in the system. 
+ It is described how the local environment can be modeled
+as a data item and how imperative statements 
+can be considered functions on the environment.  The
+nature of recursive functions is briefly discussed, 
+and a technique is presented by which they can be introduced
+into the system.  The technique is contrasted 
+with the use of the paradoxical combinator, Y.  The
+questions of local and global environments and of 
+various modes of function calling and parameter passing
+are touched upon. The theory is applied to the 
+proof of several elementary theorems concerning the semantics
+of the assignment, conditional, and iterative 
+statements.  An appendix is included which presents in
+detail the formal system governing webs and fen, 
+the abstractions used informally in the body of the paper.

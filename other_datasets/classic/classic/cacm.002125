@@ -1,0 +1,11 @@
+A Note on Minimal Length Polygonal Approximation to a Digitized Contour
+A method for extracting a smooth polygonal
+contour from a digitized image is illustrated.
+The ordered sequence of contour points and the connection graph of
+the image are first obtained by a modified Ledley algorithm in one
+image scan.  A minimal perimeter polygon subjected to specified constraints
+is then chosen as the approximating contour.  The determination of the minimal 
+polygon can be reduced to a nonlinear programming
+problem, solved by an algorithm which takes into account
+the weak bonds between variables.  Some examples are presented,
+and the corresponding computing times are listed.

@@ -1,0 +1,12 @@
+Structured Programming in Cobol: An Approach for Application Programmers
+Techniques for designing and writing Cobol programs
+are presented.  Previous work in structured 
+programming is drawn upon and adapted.  The presentation
+is informal: the terminology is nonmathematical 
+as far as possible, no theorems are proved, and examples
+are used frequently.  Top-down program design 
+is implemented through the use of structured flowcharts,
+disciplined specifications, and step by step 
+verification.  A well-formed Cobol program is defined.
+ The proper use of the GO TO and other Cobol coding 
+practices are discussed.

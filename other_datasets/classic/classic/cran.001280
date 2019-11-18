@@ -1,0 +1,28 @@
+wings with minimum drag due to lift in supersonic flow .
+wings with minimum drag due to lift in supersonic flow .
+  it has been shown by r. t. jones that, in order to produce
+minimum drag, the given lift must be distributed over the wing
+surface in such a way that the sum of the downwash induced by
+this distribution and the downwash induced in reversed flow is
+constant over the wing surface .  this combined downwash can be
+expressed by an integral which contains the load as a function
+of the spanwise and chordwise coordinate .  the problem of
+finding the appropriate load distribution is thus reduced to the
+problem of finding the solution of a rather cumbersome integral
+equation .
+  the severe spanwise singularity of the kernel function is
+handled most easily, as in corresponding subsonic problems, by an
+approximate integration over interpolation polynomials .  the
+chordwise load distribution is represented by a limited series
+development in legendre polynomials .  the sigularity of the
+kernel function along the mach lines through any pivotal point
+can be avoided by a similar legendre development of the
+combined induced downwash which is constant .  the integral
+equation is thus converted into a system of linear equations for the
+unknown coefficients of the legendre functions of the load
+distribution at a limited number of spanwise stations .
+  practical calculations are carried out on an electronic
+computer .  the solutions yield the optimum load distribution and the
+local incidence (twist, camber, etc.) necessary to realize this
+distribution .  for many wing plan forms, considerable gains
+over a plane wing appear possible .

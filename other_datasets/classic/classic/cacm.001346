@@ -1,0 +1,15 @@
+On the Application of the Process of Equalization
+of Maxima to Obtain Rational Approximation 
+to Certain Modified Bessel Functions
+The second Remes algorithm as originally established
+for polynomials, may converge or not when 
+the approximating functions are rational.  However, the
+few results known in this domain show how efficient 
+the algorithm can be to obtain approximations with a
+small error, much more than in the polynomial case, 
+in which the best approximation can be very nearly
+approached directly by a series development.  The 
+aim of this paper is to investigate the limitations
+of the applicability of certain extensions of the 
+algorithm to the case where the approximations are rational
+as well as to present some numerical results.

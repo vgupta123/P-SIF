@@ -1,0 +1,5 @@
+A Method for Finding Hamilton Paths and Knight's Tours
+The use of Warnsdorff's rule for finding a
+knight's tour is generalized and applied to the 
+problem of finding a Hamilton path in a graph.  A graph-theoretic
+justification for the method is given.

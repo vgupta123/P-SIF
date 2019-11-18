@@ -1,0 +1,12 @@
+A Note on Computing Approximations to the Exponential Function
+Two methods are discussed which result in near
+minimax rational approximations to the exponential 
+function and at the same time retain the desirable property
+that the approximation for negative values 
+of the argument is the reciprocal of the approximation
+for corresponding positive values.  These methods 
+lead to approximations which are much superior to the
+commonly used convergents of the Gaussian continued 
+fraction for the exponential.  Coefficients and errors
+are given for the intervals [-.5*ln 2, .5*ln 2] 
+and [-ln 2, ln 2].

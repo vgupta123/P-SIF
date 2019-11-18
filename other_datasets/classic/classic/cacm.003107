@@ -1,0 +1,8 @@
+Generating Beta Variates with Nonintegrel Shape Parameters
+A new rejection method is described for generating
+beta variates.  The method is compared with 
+previously published methods both theoretically and through
+computer timings.  It is suggested that the 
+method has advantages in both speed and programming
+simplicity over previous methods, especially for 
+"difficult" combinations of parameter values.

@@ -1,0 +1,27 @@
+Interference Between Communicating Parallel Processes
+Various kinds of interference between communicating
+parallel processes have been examined by 
+Dijkstra, Knuth, and others.  Solutions have been given
+for the mutual exclusion problem and associated 
+subproblems, in the form of parallel programs, and informal
+proofs of correctness have been given for 
+these solutions.  In this paper a system of parallel
+processes is regarded as a machine which proceeds 
+from one state S (i.e. a collection of pertinent data
+values and process configurations) to a next state 
+S' in accordance with a transition rule S --> S'.  A
+set of such rules yields sequences of states, which 
+dictate the system's behavior.  The mutual exclusion problem
+and the associated subproblems are formulated 
+as questions of inclusion between sets of states, or
+of the existence of certain sequences.  A mechanical 
+proof procedure is shown, which will either verify (prove
+the correctness of ) or discredit (prove the 
+incorrectness of) an attempted solution, with respect
+to any of the interference properties.  It is shown 
+how to calculate transition rules from the "partial
+rules" by which the individual processes operate. 
+ The formation of partial rules and the calculation of
+transition rules are both applicable to hardware 
+processes as well as to software processes, and
+symmetry between processes is not required.

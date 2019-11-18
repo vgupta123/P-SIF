@@ -1,0 +1,18 @@
+DIALOG: A Conversational Programming System with a Graphical Orientation
+DIALOG is an algebraic language for online
+use with a graphical input-output console device. 
+ It is a computational aid for the casual user, which
+provides basic facilities for graphical and numeric 
+input and display, online and off line program preparation
+and storage, and hard copy presentation of 
+results.  Use of the system requires a minimum of experience
+or instruction, since the growth of an overlaying 
+system control language has been prevented, and there
+are no processor-oriented statements, like variable 
+type or dimension declarations.  Moreover, in the online
+situation the processor interacts with the graphical 
+keyboard on a character-by-character basis so as to
+restrict the programmer's choice of input symbols 
+to those which are syntactically correct. DIALOG has been
+in daily operation at the IIT Research Institute 
+since February, 1966.

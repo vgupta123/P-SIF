@@ -1,0 +1,4 @@
+A Note on Conditional Expressions
+Evaluation of a conditional expression may succeed
+even when the "deciding predicate" diverges 
+and the alternatives are records (or nodes) whose fields have different content.

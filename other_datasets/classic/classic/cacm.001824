@@ -1,0 +1,22 @@
+APAREL-A Parse-Request Language
+APAREL is described: this language is an extension
+to an algorithmic language (PL/I) that provides 
+the pattern-matching capabilities normally found only
+in special purpose languages such as SNOBOL4 and 
+TMG.  This capability is provided through parse-requests
+stated in a BNF-like format.  These parse-requests 
+form their own programming language with special sequencing
+rules.  Upon successfully completing a parse-request, 
+an associated piece of PL/I code is executed.  This
+code has available for use, as normal PL/I strings 
+the various pieces (at all levels) of the parse.  It
+also has available as normal PL/I variables, the
+information concerning which of the various alternatives
+were successful.  Convenient facilities for 
+multiple input-output streams, the initiation of sequences
+of parse-requests as a subroutine, and parse-time 
+semantic checks are also included.  APAREL has proven convenient
+ in building a powerful SYNTAX and FUNCTION 
+macro system, an algebraic language preprocessor debugging
+system, an on-line command parser, a translator 
+for Dataless Programming, and as a general string manipulator.

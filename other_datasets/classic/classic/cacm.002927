@@ -1,0 +1,12 @@
+Some New Upper Bounds on the Generation of Prime Numbers
+Given an integer N, what is the computational
+complexity of finding all the primes less than 
+N?  A modified sieve of Eratosthenes using doubly linked
+lists yields an algorithm of O(N) arithmetic 
+complexity.  This upper bound is shown to be equivalent
+to the theoretical lower bound for sieve methods 
+without preprocessing.  Use of preprocessing techniques
+involving space-time and additive-multiplicative 
+tradeoffs reduces this upper bound to O(N/log logN)
+and the bit complexity to O(N logN log log logN). 
+ A storage requirement is described using O(N logN/log logN) bits as well.

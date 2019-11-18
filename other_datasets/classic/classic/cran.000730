@@ -1,0 +1,39 @@
+on the bending of a clamped plate .
+on the bending of a clamped plate .
+  the present paper contains an application
+of a recently developed variational
+method to the boundary value problem of the
+bending of a clamped plate of
+arbitrary shape .  it will be shown that this problem
+can be linked to the simpler problem
+of the equilibrium of a membrane by a chain
+of intermediate problems, which can be
+solved explicitly and in finite form in terms
+of the membrane problem .  in the
+intermediate problems, the deflection converges
+uniformly in the domain of the plate
+of the clamped plate, and the derivatives
+of all orders of the deflection converge
+uniformly in every domain completely interior
+to the plate .  (in the ritz method, not even
+the convergence of the slopes can be
+guaranteed .)  the method yields numerical
+results for plates of all shapes for which
+the membrane problem (which we shall call
+the base problem) admits an explicit
+solution .  as an example we shall consider a
+clamped square plate under a uniform load .
+this problem has been the object of
+numerous investigations, some of which are
+theoretical, while others are purely numerical,
+use infinite simple and double series,
+and operate with an infinite number of
+linear equations and an infinite number of
+unknowns .  an inspection of the general
+formulae derived in the present paper,
+formulae which become simple in numerical
+applications, would show how some of the
+numerical methods might be rendered
+rigorous .  the convergence of higher
+derivatives is of great practical interest for
+the approximate computation of the stresses .

@@ -1,0 +1,17 @@
+supersonic axially symmetric nozzles .
+supersonic axially symmetric nozzles .
+  at each of twenty-one exit mach numbers, ranging
+from 1.008 to 8.238, ten supersonic axially symmetric
+nozzle shapes with plane sonic surfaces have been computed
+on the eniac by the method of characteristics .  the
+boundary of the shortest of each group of ten has a
+sharp edge at the sonic plane, while the others have
+smooth boundaries .  this report describes the computational
+procedures and presents a sample of the results for twenty
+nozzles .
+  more extensive and elaborate tables of the results of the
+entire computations are available at the ballistic
+research laboratories .  nozzle contours can be obtained
+accurately from them by interpolation for exit mach numbers
+between 1.479 and 8.238 for a wide range of ratios of nozzle
+length to throat diameter .

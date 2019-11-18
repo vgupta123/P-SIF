@@ -1,0 +1,13 @@
+Menu Planning by Computer
+A computer code has been developed which plans
+menus by finding minimum cost combinations of 
+menu items such that the daily dietary, gastronomic
+and production requirements can be satisfied for 
+a sequence of days.  A fast, special integer programming
+algorithm is described which approximates the 
+theoretical solution to the problem.  If necessary, any
+menu can be changed on-line and then post-optimized. 
+ Up to 30 percent saving on food cost is possible. 
+A FORTRAN program for the IBM 1410 is available on 
+request.  A considerable amount of data processing
+must precede the implementation of the system.

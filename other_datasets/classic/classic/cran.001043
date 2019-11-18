@@ -1,0 +1,23 @@
+on transverse vibrations of thin, shallow elastic shells .
+on transverse vibrations of thin, shallow elastic shells .
+  a numerical analysis is given for the solution of the
+general equations of thin shells of revolution subjected to
+rotationally symmetric pressure and temperature
+distributions .
+  the basic differential equations are in a very general
+form, which permits the geometry of the shells considered,
+to be specified by discrete data points .
+  the analysis determines elastic stresses, strains and
+displacements for multi-layer and multi-sectional shells of
+revolution .  surface loads, temperatures, thicknesses and
+material properties may vary arbitrarily in the meridional
+direction .  temperatures and material properties can also
+vary through the thickness .
+  the solution is obtained by direct computation using a
+numerical method that employs two by two coefficient
+matrices,. and hence avoids the problems of slow convergence .
+the solution has been programmed in a semi-algebraic
+language which can be used on most high speed computers .
+comparisons of numerical solutions to known exact and
+approximate solutions of the thin shell equations are made to
+demonstrate the accuracy of this method .

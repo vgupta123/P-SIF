@@ -1,0 +1,18 @@
+A Computer System for Transformational Grammar
+A comprehensive system for transformational
+grammar has been designed and implemented on the 
+IBM 360/67 computer.  The system deals with the transformational
+model of syntax, along the lines of 
+Chomsky's Aspects of the Theory of Syntax. The major
+innovations include a full,formal description of 
+the syntax of a transformational grammar, a directed random
+phrase structure generator, a lexical insertion 
+algorithm, an extended definition of analysis, and
+a simple problem-oriented programming language in 
+which the algorithm for application of transformations
+can be expressed.  In this paper we present the 
+system as a whole, first discussing the general attitudes underlying
+the development of the system, then 
+outlining the system and discussing its more important
+special features.  References are given to papers 
+which consider some particular aspect of the system in detail.

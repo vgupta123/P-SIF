@@ -1,0 +1,16 @@
+Operations on Sparse Relations
+Various computations on relations, Boolean matrices,
+or directed graphs, such as the computation 
+of precedence relations for a context-free grammar, can be
+done by a practical algorithm that is asymptotically 
+faster than those in common use.  For example, how to compute
+operator precedence or Wirth-Weber precedence 
+relations in O(n^2) steps is shown, as well as how to
+compute linear precedence functions in O(n^2) steps 
+is shown, as well as how to compute linear precedence
+functions in O(n) steps, where n is the size of 
+a grammer.  The heart of the algorithms is a general
+theorem giving sufficient conditions under which 
+an expression whose operands are sparse relations and
+whose operators are composition, transitive closure, 
+union, and inverse, can be computed efficiently.

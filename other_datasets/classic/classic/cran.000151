@@ -1,0 +1,41 @@
+the generation of noise by isotropic turbulence .
+the generation of noise by isotropic turbulence .
+a finite region, with fixed boundaries, of an
+infinite expanse of compressible fluid is in
+turbulent motion .  this motion generates noise
+and radiates it into the surrounding fluid .
+the acoustic properties of the system are studied
+in the special case in which the turbulent
+region consists of decaying isotropic turbulence .
+it is assumed that the reynolds number
+of the turbulence is large, and that the mach number is small .
+  the noise appears to be generated mainly
+by those eddies of the turbulence whose
+contribution to the rate of dissipation of kinetic
+energy by viscosity is negligible .
+  it is shown that the intensity of sound at large
+distances from the turbulence is the same
+as that due to a volume distribution of simple acoustic
+sources occupying the turbulent region .
+in this analogy, the whole fluid is to be regarded
+as a stationary and uniform acoustic
+medium .  the local value of the acoustic power output
+p per mass of turbulent fluid is given
+approximately by the formula
+where a is a numerical constant, u is the
+mean-square velocity fluctuation, is the time, and
+c is the velocity of sound in the fluid .  the
+constant a is expressed in terms of the well-known
+velocity correlation function f(r) by
+assuming the joint probability distribution of the
+turbulent velocities and their first two
+time-derivatives at two points in space to be
+gaussian .  the numerical value is
+then obtained by substituting the form of f(r)
+corresponding to heisenberg's theoretical
+spectrum of isotropic turbulence .
+  it is found that the effects of decay make
+only a small contribution to the value of a, and
+that the order of magnitude of a is not changed
+when widely differing forms of the function
+f(r) are used .

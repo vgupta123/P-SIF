@@ -1,0 +1,6 @@
+Compact Representation of Contour Plots for Phone Line Transmission
+Methods for the compact representation of contour
+plots are described and tested.  These are 
+intended to reduce the cost of transmitting contour plots
+over phone lines.  We feel some of these methods 
+could be used to transmit contour plots over voice grade phone lines.

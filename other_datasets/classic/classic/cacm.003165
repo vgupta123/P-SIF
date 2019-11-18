@@ -1,0 +1,13 @@
+Approximation of Polygonal Maps by Cellular Maps
+The approximation of polygonal thematic maps by cellular
+maps, an important operation in geographical data processing,
+is analyzed.  The data organization used for representing the polygonal
+maps is a widely used segment-based data structure, where class
+labels identify the regions bordering each segment on either side.
+The approximation algorithm presented operates on such an
+organization, eliminating the need for the recognition of region boundaries.
+Each segment is examined only once.  The versatility of
+the new organization is further illustrated by the outline of algorithms
+for area computation and point inclusion.  The algorithm is
+applied to a set of soil maps converted to computer-readable
+form by means of a coordinate digitizer.

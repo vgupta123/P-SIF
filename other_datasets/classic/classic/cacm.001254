@@ -1,0 +1,5 @@
+The Iteration Element
+A recent addition to the MAD language has made
+the iteration structure of the MAD THROUGH statement 
+(corresponding to the ALGOL for statement and the FORTRAN
+DO statement) available within expressions.

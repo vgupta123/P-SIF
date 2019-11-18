@@ -1,0 +1,12 @@
+On-the-Fly Garbage Collection: An Exercise in Cooperation
+As an example of cooperation between sequential
+processes with very little mutual interference 
+despite frequent manipulations of a large shared data
+space,  a technique is developed which allows nearly 
+all of the activity needed for garbage detection and collection
+to be performed by an additional processor 
+operating con-currently with the processor devoted to the
+computation proper.  Exclusion and synchronization 
+constraints have been kept as weak as could be achieved;
+the severe complexities engendered by doing 
+so are illustrated. 

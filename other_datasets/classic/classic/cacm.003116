@@ -1,0 +1,14 @@
+Interference Detection Among Solids and Surfaces
+In many industrial environments it is necessary to determine whether
+r there is interference among components.  There are many potential
+interference problems in products made up of assemblies of components 
+and in product manufacturing and testing.  Typically, drawings
+are used in an attempt to detect such unwanted interferences,
+but the two-dimensional, static drafting medium does not always show
+interferences among three-dimensional, moving parts.  This paper
+ presents a computer representation for solids and surfaces and algorithms
+which carry out interference checking among objects so represented.  
+Objects are represented as polyhedra or as piecewise planar
+surfaces.  Two types of interference checking are discussed:
+detection of intersections among objects in fixed positions and detection
+of collisions among objects moving along specified trajectories.

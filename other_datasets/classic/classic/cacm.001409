@@ -1,0 +1,19 @@
+NEBULA: A Digital Computer Using a 20 Mc Glass Delay Line Memory
+Oregon State University has designed and constructed
+a medium-speed serial digital computer 
+using glass delay lines circulating at 22 Mc as memory.
+ The design objectives as originally conceived 
+in a special seminar were: (1) to be a research project
+in computer design; (2) to be usable as an educational 
+machine;and (3) to have easily modifiable hardware for
+basic research in computer systems design.  An 
+unusual arrangement of information within the 22 Mc
+memory allows a simple interface with the 340 Kc 
+arithmetic unit, which results in an effective zero latency
+time and provides possibilities for an associative 
+memory.  The arithmetic unit has a command structure similar
+to large parallel machines, and uses flip-flop 
+arithmetic and control registers throughout.  All hardware
+development has been aimed toward the concept 
+of easy modification, elaborate console controls for
+effective man-machine interaction and low cost.

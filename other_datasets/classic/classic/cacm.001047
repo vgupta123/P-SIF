@@ -1,0 +1,8 @@
+Generation of Test Matrices by Similarity Transformations
+A method for obtaining test matrices with
+a prescribed distribution of characteristic roots 
+is given.  The process consists of using particularly
+simple similarity transformations to generate full 
+matrices from canonical forms.  The matrices generated
+also have known characteristic vectors, inverses 
+and determinants.

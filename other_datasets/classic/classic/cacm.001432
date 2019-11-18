@@ -1,0 +1,10 @@
+Incorporation of Nonstandard Input/Output Devices into FORTRAN Systems
+A FORTRAN system may readily be modified to
+handle input/output with nonstandard media on the 
+same basis on which it handles the standard media.  This
+is done by providing a character-handling subroutine 
+suited to the nonstandard medium and arranged to be called
+by an otherwise unused output statement type 
+or unit number. This method was used to control output
+of alphanumeric information on a digital graph 
+plotter.

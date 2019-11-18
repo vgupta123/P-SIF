@@ -1,0 +1,25 @@
+Establishment of the ACM Repository and Principles
+of the IR System Applied to its Operation
+The history of the establishment of the ACM Repository
+at the Moore School, University of Pennsylvania, 
+is reviewed briefly.  Two principles are presented as
+paramount in the provision of information services: 
+(1) easy accessibility to the information files by users
+unfamiliar with file organization, and (2) value 
+of service exceeding user costs.  These principles serve
+as guides in mechanizing the ACM Repository. 
+ The main features of the information system are direct
+user access via on-line teletypewriter console, 
+direct user access to all details of the system organization,
+unrestricted and expandable search vocabulary, 
+user access through many facets of document indexing,
+and stochastic search through linked index terms 
+and other file relationships.  The first contribution
+to the ACM Repository consisted of 315 documents, 
+relating primarily to early research on compilers.  These
+documents have been cataloged and indexed and 
+the catalog is scheduled to appear in Computing Reviews.
+ The indexing system is described in detail. 
+ The Main Catalog is used to describe the documents,
+and inverted lists are provided by the Repository 
+system for retrieval by concept coordination.

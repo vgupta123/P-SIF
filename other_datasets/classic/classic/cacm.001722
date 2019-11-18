@@ -1,0 +1,14 @@
+Methods of Convergence Improvement for Some Improper Integrals
+In the numerical integration of an improper
+integral of the first kind, it is customary to 
+truncate the integral when the change yielded by the last
+iteration is less than some predetermined constant. 
+The efficiency of such integration schemes can often
+be improved by use of recent advances in the theory 
+of nonlinear transformations; however, for several important
+integrals, e.g. integrals whose integrands 
+are rational polynomials, these transformations fail
+to yield much improvement.  In this paper, several 
+methods of convergence improvement are developed which greatly
+improve convergence of some improper integrals, 
+including the integrals of rational polynomials.

@@ -1,0 +1,12 @@
+Data, Documentation and Decision Tables
+In business data processing systems, it is
+necessary to be able to define and document data, 
+files, programs and decision rules in a way that adequately
+represents both (1) their changing information 
+content, and (2) their continuous interaction.  Tabular
+description makes this possible, being notably 
+objective, through and economical in cost and time when
+systems must be analyzed and programs prepared 
+or modified.  To show how quickly tabular techniques
+make an unfamiliar system manageable, a detailed 
+example and a self-test are provided.

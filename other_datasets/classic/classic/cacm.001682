@@ -1,0 +1,6 @@
+The Implementation of a BASIC System in a Multiprogramming Environment
+The implementation of a remote terminal BASIC system
+within the context of an existing multiprogramming 
+computer system, the Burroughs B5500, is described.
+ This implementation combines a unique mixture of 
+machine language and interpretive techniques with an incremental compiler.

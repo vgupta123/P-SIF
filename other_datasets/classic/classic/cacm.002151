@@ -1,0 +1,10 @@
+User Program Measurement in a Time-Shared Environment
+A general discussion of the measurement of
+software systems is followed by a description of 
+a hardware and software scheme for measuring user programs
+in a time-shared environment.  The TX-2 computer 
+at MIT Lincoln Laboratory was used for the implementation
+of such a system and the characteristics of 
+this implementation are reported.  A scenario showing
+the system in use is presented.  Finally, it is 
+shown how other time-sharing systems may provide similar measuring facilities.

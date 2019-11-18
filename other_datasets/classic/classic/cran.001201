@@ -1,0 +1,56 @@
+a study of slender shapes of minimum drag using the
+newton-busemann pressure coefficient law .
+a study of slender shapes of minimum drag using the
+newton-busemann pressure coefficient law .
+  the problem of minimizing the drag of a slender, two-
+dimensional or axisymmetric body in hypersonic flow at zero angle of
+attack is considered under the assumption that the pressure
+coefficient law is newton's impact law as modified by busemann in
+order to include centripetal acceleration effects .  after the
+condition that the pressure coefficient be nonnegative is accounted
+for and after arbitrary conditions are imposed on, in addition
+to the thickness and the length, the enclosed area and the moment
+of inertia of the contour in the two-dimensional case and the
+wetted area and the volume in the axisymmetric case, the
+minimal problem is formulated as a problem of the mayer type and
+solved by the combined use of the euler-lagrange equations,
+the transversality condition, the erdmann-weierstrass corner
+condition, and the properties of the switching function .
+  particular attention is devoted to the class of problems such
+that, among the four quantities being considered, two are
+prescribed while the remaining are free .  for these problems, the
+extremal arc is composed of two subarcs ..  one is characterized by
+a positive pressure coefficient and is called the regular shape,. the
+other is characterized by a zero pressure coefficient and is called
+the free layer .  in this connection, the analysis shows the
+existence of two different types of solutions depending on whether the
+thickness is given or free .
+  if the thickness is given, the expression for the regular shape is
+a power law, and the transition from the regular shape to the free
+layer occurs in the second half of the body .  in the two-
+dimensional case, the exponent of the power law is 1 if the length is given
+if the enclosed area is given, and 3 if the moment of inertia
+of the contour is given,. the transition point from the power
+body to the free layer is located at 50 percent of the length if the
+length is given, at 66 percent if the enclosed area is given, and at
+the axisymmetric case, the exponent of the power law is if
+the length is given, 1 if the wetted area is given, and if the
+volume is given,. the transition point from the power body to the
+free layer is located at 60 percent of the length if the length is
+given, at 70 percent if the wetted area is given, and at 80 percent
+if the volume is given .
+  on the other hand, for problems where the thickness is free,
+the equation governing the regular shape is not that of a power
+body, and the point of transition to the free layer is located in the
+first half of the body .  in the two-dimensional case, the
+transition point is at 28 percent of the length if the length and the
+enclosed area are given, at 32 percent if the length and the moment
+of inertia of the contour are given, and at 45 percent if the
+enclosed area and the moment of inertia of the contour are given .
+in the axisymmetric case, the transition point is located at 35
+percent of the length if the length and the wetted area are given,
+at 39 percent if the length and the volume are given, and at 46
+percent if the wetted area and the volume are given .
+  for all of the cases considered, analytical expressions are
+obtained for the optimum shapes, the thickness ratios, and the drag
+coefficients .

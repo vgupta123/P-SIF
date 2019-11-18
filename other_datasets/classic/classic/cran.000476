@@ -1,0 +1,24 @@
+the blasius equation with three-point boundary conditions .
+the blasius equation with three-point boundary conditions .
+the blasius equation subject to three-point boundary conditions,
+describing the interaction between two parallel streams, is solved by way
+of a series in terms of ascending powers of the ratio equals /u1 -dash
+u2//u1, where the u1's are the outer streams' velocities .
+the first three terms of the series are analytically expressed in terms
+of the repeated integrals of the complementary error function /im erfc /
+and of the repeated integrals of the square of the successive integrals
+of the complementary error function /jmin erfc n/ . these functions
+often appear in problems leading to extended heat-conduction type of
+equations . a recurrence formula for jmin erfc n is established and
+formulae relating the functions in erfc /-dashn/ and jmjn erfc to
+available tabulated values of the functions in erfc /n/ are derived .
+the first three approximations to the blasius function and to its first
+two derivatives are also presented in tabulated form with four
+significant figures . test on the convergence of the series has been made by
+comparison with some exact solutions obtained by high speed computing
+machine . the comparison, extended to the physically essential
+quantities, shows that ..
+second and first derivatives .
+yield extremely accurate results . the errors in the first two
+derivatives of the blasius functions are always contained within less than one
+ per cent .

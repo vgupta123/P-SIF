@@ -1,0 +1,22 @@
+Digital Data Processor for Tracking the Partially Illuminated Moon*
+A study of lunar tracking techniques and fabrication
+of a breadboard to assess the feasibility 
+of the best technique selected was conducted to define
+a tracking system for observation of the sight line 
+to the center of a partially illuminated moon.  The
+data processing portion of the system is presented 
+in detail and then described in general are the operation
+of the tracker head assembly for data readout, 
+the operation of the entire system and the effect data
+processing considerations have on the design of 
+the tracker system.  The system basically consists of
+an optical sensor, digital computer and tracker 
+drive mechanism.  The three system units, connected
+in cascade, comprise the control loop.  For this 
+application, an optical telescope with a radial mechanical
+scanning mechanism was used that read out 
+lunar sight line measurement information.  This information
+is sequentially read into a special purpose 
+digital computer that extracts the measurements and
+computes the error signals that drive the tracker 
+to the appropriate attitude.

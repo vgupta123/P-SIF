@@ -1,0 +1,17 @@
+A Parametric Algorithm for Drawing Pictures
+of Solid Objects Composed of Quadric Surfaces
+An algorithm for drawing pictures of three-dimensional
+objects, with surfaces made up of patches 
+of quadric surfaces, is described.  The emphasis of
+this algorithm is on calculating the intersections 
+of quadric surfaces. A parameterization scheme is used.
+ Each quadric surface intersection curve (QSIC) 
+is represented as a set of coefficients and parameter
+limits.  Each value of the parameter represents 
+at most two points, and these may easily be distinguished.
+ This scheme can find the coordinates of points 
+of even quartic (fourth-order) intersection curves, using
+equations of no more than second order.  Methods 
+of parameterization for each type of OSIC are discussed,
+as well as surface bounding and hidden surface 
+removal.

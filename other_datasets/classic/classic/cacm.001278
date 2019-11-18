@@ -1,0 +1,11 @@
+Wengert's Numerical Method for Partial Derivatives,
+Orbit Determination and Quasilinearization
+In a recent article in the Communications
+of the ACM, R. Wengert suggested a technique for 
+machine evaluation of the partial derivatives of a function
+given in analytical form.  In solving non-linear 
+boundary-value problems using quasilinearization many
+partial derivatives must be formed analytically 
+and then evaluated numerically.  Wengert's method appears
+very attractive from the programming viewpoint 
+equations which might not otherwise be undertaken.

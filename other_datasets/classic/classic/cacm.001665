@@ -1,0 +1,42 @@
+Automatic Generation of Efficient Lexical
+Processors Using Finite State Techniques
+The practical application of the theory of
+finite-state automata to automatically generate 
+lexical processors is dealt with in this tutorial article
+by the use of the AED RWORD system, developed 
+at M.I.T. as part of the AED-1 system.  This system
+accepts as input description of the multicharacter 
+items or of words allowable in a language given in terms
+of a subset of regular expressions. The output 
+of the system is a lexical processor which reads a string
+of characters and combines them into the items 
+as defined by the regular expressions.  Each output
+item is identified by a code number together with 
+a pointer to a block of storage containing the characters
+and character count in the item.  The processors 
+produced by the system are based on finite-state machines.
+ Each state of a "machine" corresponds to 
+a unique condition in the lexical processing of a character
+string.  At each state a character is read, 
+and the machine changes to a new state.  At each transition
+appropriate actions are taken based on the 
+particular character read.  The system has been in operation
+since 1966, and processors generated have 
+compared favorably in speed to carefully hand-coded programs
+to accomplish the same task.  Lexical processors 
+for AED-O and MAD are among the many which have been
+produced.  The techniques employed are independent 
+of the nature of the items being evaluated.  If the
+word "events" is substituted for character string, 
+these processors may be described as generalized decision-making
+mechanisms based upon an ordered sequence 
+of events.  This allows the system to be used in a
+range of applications outside the area of lexical 
+processing.  However convenient these advantages may
+be, speed is the most important consideration.  
+In designing a system for automatic generation of a
+lexical processor, the goal was a processor which 
+completely eliminated backup or rereading, which was nearly
+as fast as hand-coded processors, which would 
+analyze the language and detect errors, and
+which would be convenient and easy to use.

@@ -1,0 +1,6 @@
+Solution of Transcendental Equations by Series Reversion
+An algorithm is developed for expressing the
+solution Y, of the equation F(Y) = G(X) as a power 
+series in (X - X0) when f and g are given as power series,and
+the root Y0, is known at Y=X0.  The algorithm 
+is illustrated for the equation Y^Y = X, i.e., (1+y)*ln(1+y) = ln(1+x).

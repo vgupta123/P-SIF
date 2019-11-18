@@ -1,0 +1,11 @@
+Sampling from the Gamma Distribution on a Computer
+This paper describes a method of generating
+gamma variates that appears to be less costly than 
+Wallace's recently suggested method.  For large shape parameter
+(a); the cost of computation is proportional 
+to (a), whereas Wallace's method is proportional to (a).
+ Experimentation by Robinson and Lewis indicates 
+that for small (a) the method suggested here also dominates
+methods recently suggested by Dieter and 
+Ahrens, albeit those methods dominate for large (a).  The
+method suggested here uses the rejection technique.

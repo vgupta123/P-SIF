@@ -1,0 +1,34 @@
+axisymmetric large deflections of circular plates subjected
+to thermal and mechanical load .
+axisymmetric large deflections of circular plates subjected
+to thermal and mechanical load .
+  this paper is concerned with the nonlinear
+axisymmetric analysis of circular plates with in-plane
+edge restraint .  both temperature and mechanical
+loads are accommodated as an extension of
+investigations performed for the isothermal mechanical
+loading problem .  an exact mathematical
+formulation within the framework of the v. karman large
+strain-displacement relations is developed .  the
+equilibrium equations and boundary conditions are then
+derived by utilizing the calculus of variations for
+arbitrary axisymmetrical temperatures and normal
+distributed loading .  the satisfaction of equilibrium and
+compatibility equations requires the solution of two
+simultaneous nonlinear ordinary differential equations
+subject to the prescribed boundary conditions .
+analytical solutions of such equations are apparently not
+possible and therefore numerical procedures must be
+employed .
+  a finite difference procedure utilizing /relaxed
+iterations,/ developed by h. keller and e. reiss, and
+employed by them for the solution of isothermal
+problems with apparently unlimited load parameter ranges,
+is used here for combined thermo-mechanical problems .
+numerical results are presented for the special case of
+a simply supported circular plate with radially
+immovable boundaries, subject to a uniform pressure and an
+arbitrary temperature variation through the thickness
+tained for a large range of temperature and load
+parameters .  however, because of space limitations, only
+a limited amount of data are presented in this paper .

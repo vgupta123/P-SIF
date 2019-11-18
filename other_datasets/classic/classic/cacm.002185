@@ -1,0 +1,8 @@
+A Note on Compiling Fixed Point Binary Multiplications
+An algorithm is developed for compiling, as
+a sequence of shifts, additions,and subtractions, 
+many fixed point binary multiplications involving a
+constant.  The most significant characteristics of 
+the algorithm are the simplicity of the test which
+determines if the algorithm should be applied and 
+the degree to which it "suggests" efficient object code.

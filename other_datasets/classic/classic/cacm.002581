@@ -1,0 +1,11 @@
+A Locally-Organized Parser for Spoken Input
+This paper describes LPARS, a locally-organized
+parsing system, designed for use in a continuous 
+speech recognizer.  LPARS processes a string of phonemes
+which contains ambiguity and error. The system 
+is locally-organized in the sense that it builds local
+parse structures from reliable word candidates 
+recognized anywhere in an input utterance.  These local
+structures are used as "islands of reliability" 
+to guide the search for more highly garbled
+words which might complete the utterance.  

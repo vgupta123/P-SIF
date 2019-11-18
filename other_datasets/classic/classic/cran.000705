@@ -1,0 +1,22 @@
+on the kernel function of the integral equation relating the lift and
+downwash distributions of oscillating finite wings in subsonic flow .
+on the kernel function of the integral equation relating the lift and
+downwash distributions of oscillating finite wings in subsonic flow .
+this report treats the kernel function of an integral equation that
+relates a known or prescribed downwash distribution to an unknown lift
+distribution for a harmonically oscillating finite wing in compressible
+subsonic flow . the kernel function is reduced to a form that can be
+accurately evaluated by separating the kernel function into two parts ..
+ a part in which the singularities are isolated and analytically
+expressed and a nonsingular part which may be tabulated . the form of the
+kernel function for the sonic case /mach number of 1/ is treated
+separately . in addition, results for the special cases of mach number
+of o /incompressible case/ and frequency of o /steady case/ are given .
+the derivation of the integral equation which involves this kernel
+function, originally performed elsewhere /see, for example, naca
+technical memorandum 979/, is reproduced as an appendix . another appendix
+gives the reduction of the form of the kernel function obtained herein
+for the three-dimensional case to a known result of possio for
+two-dimensional flow . a third appendix contains some remarks on the
+evaluation of the kernel function, and a fourth appendix presents an
+alternate form of expression for the kernel function .

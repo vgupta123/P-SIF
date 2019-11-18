@@ -1,0 +1,9 @@
+A Technique for Generating Almost Optimal
+Floyd-Evans Productions for Precedence Grammars
+A technique is developed for generating almost optimal Floyd-Evans productions 
+given a precedence grammar. A graph formulation is used for the problem of 
+merging productions.  The productions generated correspond to the minimum cost 
+inverse-arborescence of that graph.  The validity of the technique is
+demonstrated for weak precedence grammars defined here, but the productions
+mechanically generated for any precedence grammar can often be modified in 
+such a way that correct, almost optimal parsers are obtained.

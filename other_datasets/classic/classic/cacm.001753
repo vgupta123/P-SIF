@@ -1,0 +1,10 @@
+Virtual Memory, Processes, and Sharing in MULTICS
+Some basic concepts involved in the design
+of the MULTICS operating system are introduced. 
+ MULTICS concepts of processes, address space, and virtual
+memory are defined and the use of paging and 
+segmentation is explained.  The means by which users
+may share procedures and data is discussed and the 
+mechanism by which symbolic references are dynamically
+transformed into virtual machine addresses is 
+described in detail.

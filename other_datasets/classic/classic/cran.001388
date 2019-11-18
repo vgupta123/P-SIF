@@ -1,0 +1,15 @@
+a process for the step-by-step integration of differential
+equations in an automatic digital computing machine .
+a process for the step-by-step integration of differential
+equations in an automatic digital computing machine .
+  it is advantageous in automatic
+computers to employ methods of integration
+which do not require preceding function values
+to be known .  from a general theory given by
+kutta, one such process is chosen giving
+fourth-order accuracy and requiring the minimum
+number of storage registers .  it is developed into
+a form which gives the highest attainable
+accuracy and can be carried out by comparatively
+few instructions .  the errors are studied and
+a simple example is given .

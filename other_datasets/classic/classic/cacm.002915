@@ -1,0 +1,9 @@
+Considerations for Future Programming Language Standards Activities
+This paper reviews the current state of programming
+language standards activities with respect 
+to the anomalies which exist between the various published
+and proposed standards for Fortran, Cobol, 
+PL/I, and Basic.  Proposals are made for the inclusion
+of formalisms within future standards and the 
+extension of the standards to include additional items
+such as error conditions and documentation.

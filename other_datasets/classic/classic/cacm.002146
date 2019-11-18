@@ -1,0 +1,16 @@
+Optimizing the Polyphase Sort
+Various dispersion algorithms for the polyphase
+sorting procedure are examined.The optimum 
+algorithm based on minimizing the total number of unit
+strings read is displayed.  The logic of this 
+algorithm is rather complicated; hence, several other
+new dispersion algorithms with more straightforward 
+logic are presented.  Of the simple dispersion algorithms
+discussed, the  Horizontal is best.  It does 
+approximately one-fourth to one and one-half percent
+less reading and writing than most algorithms in 
+use today.  An additional two and one-fourth to three
+percent improvement can be achieved by utilizing 
+the Modified Optimum Algorithm.  This algorithm is relatively
+straightforward, but it requires a fairly 
+close estimate of the total number of unit strings before the dispersion begins.

@@ -1,0 +1,10 @@
+An Extended Arithmetic Package
+In many fields, for example algebraic number
+theory, arithmetic must be carried out to a degree 
+of precision which exceeds the normal hardware capacity
+of most machines.  In such cases, an extended 
+arithmetic package provides a comprehensive and easy-to-use
+way of performing such arithmetic.  Such 
+a package was coded for the IBM 7090.  In discussing
+the general problems associated with the design 
+of an extended arithmetic package, specific reference is made to this program.

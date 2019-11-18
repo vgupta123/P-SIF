@@ -1,0 +1,24 @@
+Implementing Clenshaw-Curtis Quadrature,
+II Computing the Cosine Transformation
+In a companion paper to this, "I Methodology
+and Experiences," the automatic Clenshaw-Curtis 
+quadrature scheme was described and how each quadrature
+formula used in the scheme requires a cosine 
+transformation of the integrand values was shown. 
+The high cost of these cosine transformations has 
+been a serious drawback in using Clenshaw-Curtis quadrature.
+ Two other problems related to the cosine 
+transformation have also been trouble some.  First, the
+conventional computation of the cosine transformation 
+by recurrence relation is numerically unstable, particularly
+at the low frequencies which have the largest 
+effect upon the integral.  Second, in case the automatic
+scheme should require refinement of the sampling, 
+storage is required to save the integrand values after
+the cosine transformation is computed.  This second 
+part of the paper shows how the cosine transformation can
+be computed by a modification of the fast Fourier 
+transform and all three problems overcome.  The modification
+is also applicable in other circumstances 
+requiring cosine or sine transformations, such as polynomial
+interpolation through the Chebyshev points.

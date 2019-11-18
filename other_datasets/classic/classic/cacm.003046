@@ -1,0 +1,14 @@
+Computer Generation of Gamma Random Variables - II
+A rejection method is proposed for generating
+gamma variates with nonintegral shape parameter 
+a, a > 1. This method is similar to other methods given
+by Fishman, Wallace, and Tadikamalla and is faster 
+than these methods for a> 2.  The core storage requirements
+and the programming effort for the proposed 
+method are similar to those of Wallace's or Tadikamalla's
+methods.  The computational times for the proposed 
+method remain fairly constant for medium and large
+values of a and are superior to times obtained by 
+Ahrens and Dieter's method for all values of a.  The
+proposed method is simpler than Ahrens and Dieter's 
+method.

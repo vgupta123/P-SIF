@@ -1,0 +1,9 @@
+A LISP Garbage-Collector for Virtual-Memory Computer Systems
+In this paper a garbage-collection algorithm
+for list-processing systems which operate within 
+very large virtual memories is described.  The object
+of the algorithm is more the compaction of active 
+storage than the discovery of free storage.  Because free
+storage is never really exhausted, the decision 
+to garbage collect is not easily made; therefore,
+various criteria of this decision are discussed.

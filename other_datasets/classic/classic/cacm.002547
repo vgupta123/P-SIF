@@ -1,0 +1,17 @@
+Representation of Contours ad Regions for Efficient Computer Search
+A novel computer-searchable representation
+for the three basic pictorial features, contour 
+maps, region coverage, and line structures, is described.
+ The representation, which has practical storage 
+requirements, provides a rapid mean of searching large
+files for data associated with geometric position 
+as well as with attribute value.  An application of this
+representation to handling terrain information 
+illustrates its utility.  The algebraic properties
+of the data structure make it computationally easy 
+to determine whether a point lies within a closed boundary;
+compute the area contained by a closed boundary; 
+generate the closed boundary representing the union or
+intersection of two closed boundaries; and determine 
+the neighboring boundaries to a point and the
+minimum distances between them and the point.

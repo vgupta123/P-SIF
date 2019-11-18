@@ -1,0 +1,28 @@
+method for calculation of compressible laminar boundary
+layer characteristics in axial pressure gradient with
+zero heat transfer .
+method for calculation of compressible laminar boundary
+layer characteristics in axial pressure gradient with
+zero heat transfer .
+  the karman-pohlhausen method is extended primarily to sixth-degree
+velocity profiles for determining
+the characteristics of the compressible
+laminar boundary layer over an adiabatic
+wall in the presence of an axial
+pressure gradient .  it is assumed that the prandtl number is unity and
+that the coefficient of viscosity varies linearly with the temperature .
+a general approximate solution which permits a rapid determination of
+the boundary-layer characteristics for any given free-stream mach number
+and given velocity distribution at the outer edge of the boundary layer
+is obtained .  numerical examples indicate that this solution will in
+practice lead to results of satisfactory
+accuracy, including the critical
+reynolds number for stability .  for the special purpose of calculating
+the location of the separation point in an adverse pressure gradient, a
+short and simple method, based on the use of a seventh-degree velocity
+profile, is derived .  the numerical example given here indicates that
+this method should in practice lead to sufficiently accurate results .
+for the special case of flow near a forward stagnation point it is shown
+that the karman-pohlhausen method with the usual fourth-degree profiles
+leads to results of adequate accuracy, even for the critical reynolds
+number .

@@ -1,0 +1,8 @@
+Simulation of Outpatient Appointment Systems
+An experimental computer program is described
+which simulates appointment systems employed 
+by outpatient departments of hospitals.  Both major kinds
+of appointment systems-individual and block-can 
+be simulated.  The purpose of the Simulator is to enable
+the user to evaluate the effectiveness of alternative 
+appointment systems in a given clinical environment.

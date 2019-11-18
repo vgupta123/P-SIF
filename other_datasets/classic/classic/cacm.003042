@@ -1,0 +1,14 @@
+Power Trees
+The new class of Pk trees is presented, where
+height balance is maintained for the nodes Iying 
+on particular paths.  The number of nodes of a Pk tree
+asymptotically grows as a power of the height, 
+in the worst case.  A procedure for node insertion is given,
+and the class of trees  considered is restricted 
+to IPk trees, which are buildable by such a procedure.
+ The average behavior of such trees, studied by 
+an extensive set of simulation runs, is close to that
+of AVL trees.  In particular, the family of IPO 
+trees whose main advantage is the reduced number of
+restructurings required after node insertion, is 
+analyzed.

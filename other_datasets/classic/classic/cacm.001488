@@ -1,0 +1,16 @@
+Programming Decision Tables in FORTRAN, COBOL or ALGOL
+A simple broad-based approach for programming
+decision tables in FORTRAN or COBOL is developed 
+and presented.  With inputs in standard form, as defined
+in the paper, the programming of any decision 
+table can be done with one or two FORTRAN statements,
+or with two COBOL statements, if the COMPUTE verb 
+is available in the COBOL processor.  It is  shown
+that the method is applicable even when there are 
+more than two mutually exclusive states of one, two or
+more table conditions.  It is further shown that 
+multi-state conditions in decision tables can often
+simplify the programming.  The method outlined has 
+the further advantage that all possible combinations
+of conditions are considered.  It is shown that 
+the suggested procedure is easily implemented in ALGOL.

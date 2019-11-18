@@ -1,0 +1,9 @@
+Time Sharing on a Computer with a Small Memory
+Techniques to make time sharing attractive on
+a computer with a small central memory are presented. 
+ "Small" is taken to mean that only one user program plus
+a monitor will fit into the memory at any time. 
+ The techniques depend on having two levels of secondary
+storage: level 1, several times larger than 
+the main memory and quite fast; and level 2,
+many times larger and slower than level 1.

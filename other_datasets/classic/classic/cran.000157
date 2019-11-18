@@ -1,0 +1,27 @@
+the hodographic transformation in transonic flow .
+the hodographic transformation in transonic flow .
+  the author studies the problem of finding the shape of a
+symmetrical nozzle with the velocity along the axis (x-axis)
+specified .  the velocity along each streamline is assumed to
+increase steadily .  the singularity at the sonic velocity and
+to the axis of the nozzle) is first studied in the physical
+plane by using a power series in .  in the hodograph plane,
+the two characteristics of the hodograph differential
+equation passing through the sonic point and are lines
+of branch points .  the region between these lines is a
+region of triple-valuedness for the stream function .
+outside this region is single-valued .  there are also
+singularities at the sonic point and the point corresponding to
+the specified condition at the exit of the nozzle .  the author
+then proposes to construct in the hodograph plane by
+at the exit velocity and (3) a finite sum regular throughout ..
+sin, where r is the square of the velocity
+and the are hypergeometric functions .  the a's are
+fixed by the required approximation to the specified velocity
+distribution along the axis .  this solution is single-valued,
+convergent and represents except a region near the sonic
+point in the nozzle .  for this excluded region, the author
+inverts the solution to obtain a power series in for 0 .  this
+is shown to be convergent for the region of interest .  the
+type of solution considered by the author gives a nozzle
+having an infinitely long supersonic part .

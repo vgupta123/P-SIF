@@ -1,0 +1,14 @@
+a note on the numerical solution of fourth order differential
+equations .
+a note on the numerical solution of fourth order differential
+equations .
+  an old numerical method
+of solving fourth order differential equations
+is put in relaxation form .  the higher
+order correction terms are included and the
+technique is illustrated by an example .
+the method has the advantage of being more
+rapidly convergent than the usual relaxation
+procedure for fourth order equations .
+some comments are made on the numerical
+solution of the viscous flow equation .

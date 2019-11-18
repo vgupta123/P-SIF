@@ -1,0 +1,20 @@
+Effective Information Retrieval Using Term Accuracy
+The performance of information retrieval systems
+can be evaluated in a number of different 
+ways.  Much of the published evaluation work is based
+on measuring the retrieval performance of an average 
+user query.  Unfortunately, formal proofs are difficult
+to construct for the average case.  In the present 
+study, retrieval evaluation is based on optimizing the
+performance of a specific user query.  The concept 
+of query term accuracy is in troduced as the probability
+of occurrence of a query term in the documents 
+relevant to that query.  By relating term accuracy
+to the frequency of occurrence of the term in the 
+documents of a collection it is possible to give formal
+proofs of the effectiveness with respect to a 
+given user query of a number of automatic indexing systems
+that have been used successfully in experimental 
+situations.  Among these are inverse document frequency
+weighting, thesaurus construction, and phrase 
+generation.

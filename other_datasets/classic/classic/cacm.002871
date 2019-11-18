@@ -1,0 +1,16 @@
+Logical Analysis of Programs
+Most present systems for verification of computer
+programs are incomplete in that intermediate 
+inductive assertions must be provided manually by the
+user, termination is not proven, and incorrect 
+programs are not treated.  As a unified solution to
+these problems, this paper suggests conducting a 
+logical analysis of programs by using invariants which
+express what is actually occurring in the program. 
+ The first part of the paper is devoted to techniques
+for the automatic generation of invariants.  The 
+second part provides criteria for using the invariants
+to check simultaneously for correctness (including 
+termination) or incorrectness.  A third part examines
+the implications of the approach for the automatic 
+diagnosis and correction of logical errors.

@@ -1,0 +1,19 @@
+Transient-Free Working-Set Statistics
+Transient-free average working set size and transient-free
+missing-page rate for a finite sample 
+of a reference string are defined.  Use of these statistics
+is appropriate if the contents of the working 
+set at the start of the recorded string are unknown.
+ If a certain stationarity condition holds, these 
+statistics provide unbiased estimates of expected working-set
+sizes, missing-page probabilities, and 
+in terreference distance probabilities.  Two other pairs
+of estimators are shown to be biased.  Expressions 
+for the transient-free statistics are obtained in terms
+of in terval statistics. Several methods of computation 
+are discussed, the usefulness of each depending on length
+of the sample, number of distinct references, 
+and the amount of main storage available to the computer
+performing the calculations.  In particular, 
+methods are described for handling long strings
+containing many distinct page names.

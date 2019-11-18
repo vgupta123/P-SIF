@@ -1,0 +1,10 @@
+RECOL-A Retrieval Command Language
+An interrogation scheme is described for the
+retrieval and manipulation of data file records. 
+ The language of the interrogation scheme allows for selecting
+file records with the are of logical condition 
+statements, defining record classes, associating file
+records, editing printed output, and summarizing 
+the results of the above operations.  Some examples of
+a typical file application and the more significant 
+features of a particular machine implementation are given.

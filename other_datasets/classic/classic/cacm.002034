@@ -1,0 +1,8 @@
+The Mobile Programming System: STAGE2
+STAGE2 is the second level of a bootstrap sequence which
+is easily implemented on any computer.  It is a flexible,
+provided by STAGE2 are summarized, and the implementation techniques
+which have made it possible to have STAGE2 running on a new
+machine with less than one man-week of effort are discussed.  The approach
+has been successful on over 15 machines of widely varying
+characteristics.

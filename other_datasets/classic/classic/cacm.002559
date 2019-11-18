@@ -1,0 +1,12 @@
+The Reallocation of Hash-Coded Tables
+When the space allocation for a hash-coded table
+is altered, the table entries must be rescattered 
+over the new space.  A technique for accomplishing
+this rescattering is presented.  The technique is 
+independent of both the length of the table and the hashing
+function used, and can be utilized in conjunction 
+with a linear reallocation of the table being rescattered.
+ Moreover, it can be used to eliminate previously 
+flagged deletions from any hash-coded table, or to change
+from one hashing method to another.  The efficiency 
+of the technique is discussed and theoretical statistics are given.

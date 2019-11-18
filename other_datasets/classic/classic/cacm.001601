@@ -1,0 +1,18 @@
+Parallel Numerical Methods for the Solution of Equations
+Classical iterative procedures for the numerical
+solution of equations provide at each stage 
+a single new approximation to the root in question.  A
+technique is given for the development of numerical 
+procedures which provide, at each stage, several approximations
+to a solution of an equation.  The s8everal 
+approximations obtained in any iteration are computationally
+independent, making the methods of interest 
+in a parallel processing environment.  Convergence is
+insured by extracting the "best information" at 
+each iteration.  Several families of numerical procedures
+which use the technique of the procedures in 
+a parallel processing environment are developed and measurements
+of these statistics are reported.  These 
+measurements are interpreted in a parallel processing
+environment.  In such an environment the procedures 
+obtained are superior to standard algorithms.

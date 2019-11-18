@@ -1,0 +1,8 @@
+Computing Connected Components on Parallel Computers
+We present a parallel algorithm which uses n2 processors to find the connected
+components of an undirected graph with n vertices in time O(log2n).  An
+O(log2n) time bound also can be achieved using only n$n/$log2n)) processors.
+The algorithm can be used to find the transitive closure
+of a symmetric Boolean matrix.  We assume that the processors have
+access to a common memory.  Simultaneous access to the same location
+is permitted for fetch instructions but not for store instructions.

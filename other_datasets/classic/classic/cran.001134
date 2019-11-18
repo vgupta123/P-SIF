@@ -1,0 +1,41 @@
+torispherical shells - a caution to designers .
+torispherical shells - a caution to designers .
+  it has recently become apparent, through
+a rigorous stress analysis of a specific case
+that designing torispherical shells by the
+current edition of the asme code on unfired
+pressure vessels can lead to failure during
+proof-testing of the vessel .  the purpose
+of the present paper is to show in what
+respects the code fails to give accurate results .
+as an illustrative example, a hypothetical
+pressure vessel with a torispherical head
+having a diameter-thickness ratio of 440 was
+selected .  the supports of the vessel were
+considered to be either on the main cylinder
+or around the torus .  the vessel was
+subjected to internal pressure and the elastic
+stresses in it were determined rigorously and
+by the code .  a comparison of the two
+revealed that the code predicted stresses in the
+head which were less than one half of those
+actually occurring .  furthermore, the code
+gave no indication of the presence of high
+compressive circumferential direct stresses
+which exceeded 30,000 psi for practically
+the entire torus .  if the head had been
+fabricated using a steel with a yield point of
+would have failed or undergone large
+deformations, whereas the code would have
+predicted that it was safe .  the code's rules
+for torispherical heads are thus in need of
+revision for certain geometries .  the
+implications of the foregoing results are currently
+being studied by the asme,. in the interim,
+however, designers should exercise care in
+applying the code to torispherical shells .
+  it is also shown in the paper that the use
+of the membrane state as a particular
+solution of the differential equations is not a
+good approximation for toroidal shells of the
+type considered .

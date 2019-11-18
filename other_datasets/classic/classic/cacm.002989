@@ -1,0 +1,18 @@
+Empirical Evaluation of Some Features
+of Instruction Set Processor Architectures
+This paper presents methods for empirical evaluation
+of features of Instruction Set Processors 
+(ISPs).  ISP features are evaluated in terms of the time
+used or saved by having or not having the feature. 
+ The methods are based on analysis of traces of program
+executions.  The concept of a register life is 
+in troduced, and used to answer questions like: How many
+registers are used simultaneously? How many would 
+be sufficient all of the time? Most of the time? What
+would the overhead be if the number of registers 
+were reduced? What are registers used for during their
+lives? The paper also discusses the problem of 
+detecting desirable but non-existing instructions. Other
+problems are briefly discussed.  Experimental 
+results are presented, obtained by analyzing 41
+programs running on the DEC system 10 ISP.

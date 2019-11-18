@@ -1,0 +1,10 @@
+A Technique for Computer Detection and Correction of Spelling Errors*
+The method described assumes that a word
+which cannot be found in a dictionary has at most 
+one error, which might be a wrong, missing or extra letter
+or a single transposition.  The unidentified 
+input word is compared to the dictionary again, testing
+each time to see if the words match-assuming 
+one of these errors occurred.  During a test run on garbled
+text, correct identifications were made for 
+over 95 percent of these error types.

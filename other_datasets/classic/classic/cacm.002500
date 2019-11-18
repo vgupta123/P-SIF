@@ -1,0 +1,19 @@
+A Practical Approach to Managing Resources and Avoiding Deadlocks
+Resource scheduling and allocation can be expensive
+with regard to time and space in multiprogramming 
+or time-sharing environments involving large numbers of
+tasks and resources with conflicting requirements. 
+ Detection and/or prevention of deadlocks can require
+massive amounts of additional overhead if efficient 
+usage of resources is to be maintained.  A resource
+management program is described which uses linked 
+lists along with other techniques to overcome a large
+portion of this overhead.  The program, which is 
+currently running as part of a large scale general purpose
+operating system, keeps resources relatively 
+active but does not detect or prevent all deadlocks
+in its implemented state.  Certain changes, which 
+would permit more comprehensive levels of deadlock
+prevention/detection at additional cost, have not 
+been incorporated in the running system due
+to the infrequency of deadlock situations.

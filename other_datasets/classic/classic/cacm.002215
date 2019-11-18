@@ -1,0 +1,21 @@
+Application of Game Tree Searching Techniques
+to Sequential Pattern Recognition
+A sequential pattern recognition (SPR) procedure
+does not test all the features of a pattern 
+at once.  Instead, it selects a feature to be tested.  After
+receiving the result of that test, the procedure 
+either classifies the unknown pattern or selects another
+feature to be tested, etc.  Medical diagnosis 
+is an example of SPR.  In this paper the authors suggest
+that SPR be viewed as a one-person game played 
+against nature (chance).  Virtually all the powerful techniques
+developed for searching two-person, strictly 
+competitive game trees can easily be incorporated either
+directly or by analogy into SPR procedures. 
+ In particular, one can incorporate the "mini average
+backing-up procedure" and the "gamma procedure," 
+which are the analogues of the "minimax backing-up procedure"
+and the "alpha-beta procedure," respectively. 
+ Some computer simulated experiments in character recognition
+are presented.  The results indicate that 
+the approach is promising.

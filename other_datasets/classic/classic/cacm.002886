@@ -1,0 +1,20 @@
+Semantic Evaluation from Left to Right
+This paper describes attribute grammars and their
+use for the definition of programming languages 
+and compilers; a formal definition of attribute grammars
+and a discussion of some of its important aspects 
+are included. The paper concentrates on the evaluation
+of semantic attributes in a few passes from left 
+to right over the derivation tree of a program.  A
+condition for an attribute grammar is given which 
+assures that the semantics of any program can be evaluated
+in a single pass over the derivation tree, 
+and an algorithm is discussed which decides how many
+passes from left to right are in general necessary, 
+given the attribute grammar. These notions are explained
+in terms of an example grammar which describes 
+the scope rules of Algol 60.  Practical questions, such
+as the relative efficiency of different evaluation 
+schemes, and the ease of adapting the attribute grammar
+of a given programming language to the left-to-right 
+evaluation scheme are discussed.

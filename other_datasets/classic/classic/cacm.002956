@@ -1,0 +1,12 @@
+Some Ideas on Data Types in High-Level Languages
+A number of issues are explored concerning the
+notion that a data type is a set of values together 
+with a set of primitive operations on those values.  Among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.

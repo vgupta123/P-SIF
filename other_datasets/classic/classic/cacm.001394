@@ -1,0 +1,15 @@
+Computation of Algebraic Properties of Elementary
+Particle Reactions Using a Digital Computer
+A large number of calculations in high-energy
+elementary particle physics involve the manipulation 
+of complicated algebraic expressions containing both
+tensor and noncommutative matrix quantities.  Many 
+of these calculations take several months to complete, although
+the operations involved follow straightforward 
+rules.  In this paper a program is described, which has
+been developed in LISP for solving such problems. 
+ The manner in which these problems are encountered is
+outlined, and their representation in the computer 
+discussed.  At present, about six months of human work
+takes less than fifteen minutes on an IBM 7090. 
+ Limitations of the present system and future plans are also outlined.

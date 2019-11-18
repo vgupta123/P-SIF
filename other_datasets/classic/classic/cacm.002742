@@ -1,0 +1,14 @@
+Improved Event-Scanning Mechanisms for Discrete Event Simulation
+Simulation models of large, complex "real-world"
+applications have occasionally earned the 
+reputation of eating up hours of computer time.  This
+problem may be attributed in part to difficulties 
+such as slow stochastic convergence.  However, an additional
+problem lies in the fact that a significant 
+amount of bookkeeping time is required to keep future events
+in their proper sequence.  This paper presents 
+a method for significantly reducing the time spent scanning
+future event lists in discrete event simulations. 
+ There models are presented, all of which improve in effectiveness
+as the events-list scan problem becomes 
+more burdensome.

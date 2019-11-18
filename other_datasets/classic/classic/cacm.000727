@@ -1,0 +1,8 @@
+On the Approximate Solution of Delta(u)=F(u)
+Three-dimensional Dirichlet problems for Delta(u)=F(u),
+Fu >= 0, are treated numerically by 
+an exceptionally fast, exceptionally accurate numerical
+method.  Programming details, numerous examples 
+and mathematical theory are supplied.Extension of the
+method in a natural way to n-dimensional problems 
+is indicated by means of a 4-dimensional example.

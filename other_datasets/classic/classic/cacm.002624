@@ -1,0 +1,11 @@
+Formal Requirements for Virtualizable Third Generation Architectures
+Virtual machine systems have been implemented
+on a limited number of third generation computer 
+systems, e.g. CP-67 on the IBM 360/67.  From previous
+empirical studies, it is known that certain third 
+generation computer systems, e.g. the DEC PDP-10, cannot
+support a virtual machine system.  In this paper, 
+model of a third-generation-like computer system is
+developed.  Formal techniques are used to derive 
+precise sufficient conditions to test whether such
+an architecture can support virtual machines.

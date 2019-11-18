@@ -1,0 +1,26 @@
+the analysis of redundant structures by the use of
+high-speed digital computers .
+the analysis of redundant structures by the use of
+high-speed digital computers .
+  large-scale redundant structure analyses are currently
+feasible by the use of modern high-speed digital computers .
+this capability opportunely meets the urgent need to solve
+complex problems which otherwise would be hopelessly beyond
+the capacity of the hand desk computer .  however, the difficulties
+have now shifted from tedious hand computations to the problems
+of adequately representing the structure by a model and
+of the peculiarities of irregular geometrical configurations .
+  a wide scope of problem types can be handled by a generalized
+program approach .  matrix formulation is used for the organization
+of input data and for handling data transfer in the large
+complex of subroutines, including the formation of equilibrium
+and continuity conditions to the final loads and deflections .
+simultaneous treatment of thermal expansions and plasticity
+is included .
+  the use of minimum-size redundant systems is emphasized,
+starting from the philosophy of cutting members to provide a
+statically determinate structure .  improved numerical accuracy
+and problem size capacity is gained for a given computer .
+examples are discussed ranging from simple plane-load diffusion
+problems to pressurized fuselage cutouts and complex
+wing-fuselage-shell intersection-type problems .

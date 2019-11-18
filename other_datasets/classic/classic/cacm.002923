@@ -1,0 +1,20 @@
+High-Level Data Flow Analysis
+In contrast to the predominant use of low-level
+in termediate text, high-level data flow analysis 
+deals with programs essentially at source level and
+exploits the control flow information implicit in 
+the parse tree.  The need for high-level flow analysis
+arises from several aspects of recent work on 
+advanced methods of program certification and optimization.
+ This paper proposes a simple general method 
+of high-level data flow analysis that allows free use
+of escape and jump statements, avoids large graphs 
+when compiling large programs, facilitates updating of
+data flow information to reflect program changes, 
+and derives new global information helpful in solving
+many familiar global flow analysis problems.  An 
+illustrative application to live variable analysis is presented.
+ Many of the graphs involved are constructed 
+and analyzed before any programs are compiled, thus avoiding
+certain costs that low-level methods incur 
+repeatedly at compile time.

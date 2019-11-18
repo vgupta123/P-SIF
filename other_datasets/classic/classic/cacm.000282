@@ -1,0 +1,15 @@
+Optimum Tape-Writing Procedures
+Consider a magnetic tape system with a read
+check after writing.  Where an error occurs in 
+writing a record, a programmed error routine may either
+bypass some or all of the area on tape or try 
+to rewrite the record on the same area.  This paper evaluates
+these two procedures on the basis of expected 
+loss of computer time and develops a decision rule for
+selecting the optimum procedure.  The rule depends 
+critically on the number of times the tape being written
+will be used in the future.  In the case where 
+the optimum procedure is to bypass an area, a second
+decision-the size of the area to be bypassed-is 
+necessary.  A formula is developed to determine the
+optimum area to be bypassed for each procedure.

@@ -1,0 +1,16 @@
+Control Structures in Illiac IV Fortran
+As part of an effort to design and implement
+a Fortran compiler on the ILLIAC IV, an extended 
+Fortran, called IVTRAN, has been developed.  This language
+provides a means of expressing data and control 
+structures suitable for exploiting ILLIAC IV parallelism.
+ This paper reviews the hardware characteristics 
+of the ILLIAC and singles out unconventional features
+which could be expected to influence language (and 
+compiler) design.  The implications of these features for
+data layout and algorithm structure are discussed, 
+and the conclusion is drawn that data allocation rather than
+code structuring is the crucial ILLIAC optimization 
+problem.  A satisfactory method of data allocation is
+then presented.  Language structures to utilize 
+this storage method and express parallel algorithms are described.

@@ -1,0 +1,15 @@
+A Vector Space Model for Automatic Indexing
+In a document retrieval, or other pattern matching
+environment where stored entities (documents) 
+are compared with each other or with incoming patterns
+(search requests), it appears that the best indexing 
+(property) space is one where each entity lies as far away
+from the others as possible; in these circumstances 
+the value of an indexing system may be expressible
+as a function of the density of the object space; 
+in particular, retrieval performance may correlate inversely
+with space density.  An approach based on 
+space density computations is used to choose an optimum
+indexing vocabulary for a collection of documents. 
+ Typical evaluation results are shown, demonstrating
+the usefulness of the model.

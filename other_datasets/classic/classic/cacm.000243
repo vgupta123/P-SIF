@@ -1,0 +1,20 @@
+N-Dimensional Codes for Detecting and Correcting Multiple Errors
+The paper introduces a new family of codes
+for detecting and correcting multiple errors in 
+a binary-coded message.  The message itself is arranged
+(conceptually) into a multidimensional rectangular 
+array.  The processes of encoding and error detection
+are based upon parity evaluations along prescribed 
+dimensions of the array.  Effectiveness of the codes
+is increased by introducing a "system check bit", 
+which is essentially a parity check on the other parity
+bits.  Only three-dimensional codes are discussed 
+in this paper with parity evaluations along the horizontal,
+the vertical, and one main diagonal.  However, 
+the family of codes is not restricted to three dimensions,
+as evidenced by the discussion by Minnick 
+and Ashenhurst on a similar multidimensional single-bit
+selection plan used for another purpose [6]. 
+ A four-dimensional code, correcting three and detecting
+four errors, has been developed; the extension 
+to higher-dimensional codes with greater correction power is straightforward.

@@ -1,0 +1,8 @@
+A Psychology of Learning BASIC
+This paper addresses the question: What does a person know
+following learning of BASIC programming?  Several underlying conceptual
+structures are identified: (1) a transaction is an event that
+occurs in the computer and involves some operation on some object
+at some location, (2) a prestatement is a set of transactions corresponding
+to a line of code, (3) chunks are frequently occurring
+ configurations of prestatements corresponding to several lines of code.

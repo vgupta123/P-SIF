@@ -1,0 +1,12 @@
+Symmetric List Processor 
+A list processing system in which each list
+cell contains both a forward and a backward link 
+as well as a datum is described.  This system is intended
+for imbeding in higher level languages capable 
+of calling functions and subroutines coded in machine language.
+ The presentation is in the form of FORTRAN 
+programs depending on only a limited set of FORTRAN programs
+depending on only a limited set of "primitive" 
+machine language subroutines which are also defined.
+ Finally, a set of field, particularly character, 
+manipulation primitives are given to round out the system.

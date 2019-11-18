@@ -1,0 +1,13 @@
+Assembling Code for Machines with Span-Dependent Instructions
+Many modern computers contain instructions
+whose lengths depend on the distance from a given 
+instance of such an instruction to the operand of that
+instruction.  This paper considers the problem 
+of minimizing the lengths of programs for such machines.
+ An efficient solution is presented for the 
+case in which the operand of every such "span-dependent"
+instruction is either a label or an assembly-time 
+expression of a certain restricted form.If this restriction
+is relaxed by allowing these operands to 
+be more general assembly-time expressions, then
+the problem is shown to be NP-complete.

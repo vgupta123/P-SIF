@@ -1,0 +1,15 @@
+The Design, Implementation, and Evaluation of a Working Set Dispatcher
+The behavior of a computer system is largely
+dependent upon the algorithms employed to allocate 
+the system resources to the processes competing for them.
+ Recent research in time-sharing paging systems 
+has developed the working set model for program behavior,
+and are source allocation strategy based on 
+this model has been proposed.  Two implementations
+along these principles have been reported, but it 
+seems that in neither case have further results been
+announced.  This report discusses the design and 
+implementation of a dispatcher based on the working set
+principle, presents data to permit analysis of 
+its behavior, and indicates future directions of research
+on methods of controlling a computer system.

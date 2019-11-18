@@ -1,0 +1,10 @@
+An Analysis of Algorithms for the Dutch National Flag Problem
+Solutions to the Dutch National Flag Problem
+have been given by Dijkstra [1] and Meyer [3]. 
+ Dijkstra starts with a simple program and arrives at
+an improved program by refinement.  Both of the 
+algorithms given by Dijkstra are shown to have an expected number
+of swaps which is 2/3N + 0(1) and that 
+these values differ at most by 1/3 of a swap and asymptotically
+by 1/4 of a swap.  The algorithm of Meyer 
+is shown to have expected swap complexity 5/9N.

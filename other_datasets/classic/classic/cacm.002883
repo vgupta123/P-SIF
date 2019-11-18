@@ -1,0 +1,20 @@
+An Application of Heuristic Search Methods to Edge and Contour Detection
+This paper presents a method for detecting edges
+and contours in noisy pictures.  The properties 
+of an edge are embedded in a figure of merit and the edge
+detection problem becomes the problem of minimizing 
+the given figure of merit.  This problem can be represented
+as a shortest path problem on a graph and 
+can be solved using well-known graph search algorithms.
+ The relations between this representation of 
+the minimization problem and a dynamic programming approach
+are discussed, showing that the graph search 
+method can lead to substantial improvements in computing
+time.  Moreover, if heuristic search methods 
+are used, the computing time will depend on the amount
+of noise in the picture.  Some experimental results 
+are given; these show how various information about the
+shape of the contour of an object can be embedded
+in the figure of merit, thus allowing the extraction
+of contours from noisy picture and the separation 
+of touching objects.

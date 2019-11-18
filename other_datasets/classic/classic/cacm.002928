@@ -1,0 +1,16 @@
+Hardware Estimation of a Process' Primary Memory Requirements
+A minor hardware extension to the Honeywell
+6180 processor is demonstrated to allow the primary 
+memory requirements of a process in Multics to be approximated.
+ The additional hardware required for 
+this estimate to be computed consists of a program accessible
+register containing the miss rate of the 
+associative memory used for page table words.  This
+primary memory requirement estimate was employed 
+in an experimental version of Multics to control the
+level of multiprogramming in the system and to bill 
+for memory usage.  The resulting system's tuning parameters
+display configuration insensitivity, and
+it is conjectured that the system would also track shifts
+in the referencing characteristics of its workload 
+and keep the system in tune.

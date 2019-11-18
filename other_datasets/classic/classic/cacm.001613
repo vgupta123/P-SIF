@@ -1,0 +1,14 @@
+One-Pass Compilation of Arithmetic Expressions for a Parallel Processor
+Under the assumption that a processor may have
+a multiplicity of arithmetic units, a compiler 
+for such a processor should produce object code to take
+advantage of possible parallelism of operation. 
+ Most of the presently known compilation techniques
+are inadequate for such a processor because they 
+produce expression structures that must be evaluated serially.
+ A technique is presented here for compiling 
+arithmetic expressions into structures that can be
+evaluated with a high degree of parallelism.  The 
+algorithm is a variant of the so-called "top-down"
+analysis technique, and requires only one pass of 
+the input text.

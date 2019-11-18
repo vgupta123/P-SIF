@@ -1,0 +1,8 @@
+A Language-Independent Macro Processor
+A macro processor is described which can be
+used with almost any source language.  It provides 
+all features normally associated with a macro facility,
+plus the ability to make arbitrary transformations 
+of the argument strings.  The program is used at the
+Basser Computing Department, University of Sydney, 
+Sydney, Australia, to process text for eight different compilers.

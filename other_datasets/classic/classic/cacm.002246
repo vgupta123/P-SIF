@@ -1,0 +1,12 @@
+Levels of Language for Portable Software
+An increasing amount of software is being
+implemented in a portable form.  A popular way of 
+accomplishing this is to encode the software in a specially
+designed machine-independent language and 
+then to map this language, often using a macro processor,
+into the assembly language of each desired 
+object machine.  The design of the machine-independent
+language is the key factor in this operation. 
+ This paper discusses the relative merits of pitching
+this language at a high level or a low level, and 
+presents some comparative results.

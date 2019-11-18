@@ -1,0 +1,18 @@
+A Statistical Model for Console Behavior in Multiuser Computers
+The ability of a computer system to communicate
+with the outside world efficiently is as important 
+as its ability to perform computations efficiently. 
+It is quite difficult to characterize a particular 
+user, but rather easy to characterize the entire user community.
+ Based on the properties of this community 
+we have postulated a hypothetical "virtual console."
+ No claim is made that a virtual console behaves 
+like any actual console, but the entire collection of
+virtual consoles models the collection of actual 
+consoles.  Using the model we answer questions like: 
+How many processes are suspended waiting for console 
+input?  What is the maximum rate at which a process can
+execute?  What bounds can be set on overall buffer 
+requirements?  Answers to these and similar questions
+are needed in certain aspects of operating system 
+design.

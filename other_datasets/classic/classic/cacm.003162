@@ -1,0 +1,5 @@
+On Improving the Worst Case Running Time
+of the Boyer-Moore String Matching Algorithm
+It is shown how to modify the Boyer-Moore string matching algorithm so that
+its worst case running time is linear even when multiple occurrences of the 
+pattern are present in the text.

@@ -1,0 +1,5 @@
+A  Nonrecursive List Compacting Algorithm 
+A simple nonrecursive list structure compacting scheme or garbage 
+collector suitable for both compact and LISP-like list structures is presented.
+The algorithm avoids the need for recursion by using the partial structure as 
+it is built up to keep track of those lists that have been copied.

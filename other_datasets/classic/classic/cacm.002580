@@ -1,0 +1,16 @@
+A Method for Composing Simple Traditional Music by Computer
+A method is described for composing musical
+rounds by computer.  This method uses some music 
+theory plus additional heuristics.  Fundamental to the
+method is a set of productions together with sets 
+of applicability rules and weight rules which operate
+on the productions deciding when and to what extent 
+they are available for use.  Several rounds generated
+by the computer implementation of the method are 
+presented.  Generally, the resultant music sounds mediocre
+to the professional although usually pleasing 
+to the layman.  It appears that full-blown music theory
+is not needed for rounds--all the hardware required 
+for structural levels is not necessary for these pieces.
+ The author has tried to address both musicians 
+and computer scientists.

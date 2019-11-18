@@ -1,0 +1,8 @@
+steady-state creep through dislocation climb .
+steady-state creep through dislocation climb .
+  a dislocation climb creep model is considered which does not require
+the production of immobile dislocations .  the creep equation that
+results from the analysis is
+where a and b are constants, is the stress, q is the activation energy
+of creep and kt has its usual meaning .  this equation is quite similar
+to one previously proposed .

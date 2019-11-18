@@ -1,0 +1,17 @@
+Production Systems: or Can We Do Better than BNF?
+Since the development of BNF, the definition
+of the syntax of programming languages has been 
+almost universally associated with context-free requirements.
+ Yet numerous interesting and difficult 
+issues in syntax stem from the context-sensitive requirements,
+notably the compatibility between the 
+declaration of an identifier and its uses, the correspondence
+between actual and formal parameters, and 
+issues arising from block structure.  This paper explores
+the use of a formal notation called Production 
+Systems in providing a readable and complete formal definition
+of syntax.  As a practical illustration, 
+a small but significant subset of PL/I is considered.  A
+more detailed presentation, as well as the application 
+to define abstract syntax and translations between languages,
+is given in a previous paper by the author.

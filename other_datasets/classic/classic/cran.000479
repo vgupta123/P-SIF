@@ -1,0 +1,19 @@
+on an equation occurring in falkner and skan's approximate
+treatment of the equation of the boundary layer .
+on an equation occurring in falkner and skan's approximate
+treatment of the equation of the boundary layer .
+  the differential analyser
+has been used to evaluate solutions of the equation y''' = -yy'' +
+with boundary conditions y = y' = 0 at x = 0, as
+which occurs in falkner and skan's approximate treatment of the
+laminar boundary layer (see abstract 1081 (1932)) .  a numerical
+iterative method has been used to improve the accuracy of the solutions,
+and the results show that the accuracy of the machine solutions is about
+insufficient to specify a unique solution for negative values of,.
+a discussion of this situation is given, and it is shown that for the
+application to be made of the solution the appropriate condition is that
+from below, and as rapidly as possible, as .  the condition that
+from below can be satisfied only for values of greater than a limiting
+value whose value is approximately -0.199, and which is related to the
+point at which the laminar boundary layer breaks away from the
+boundary .

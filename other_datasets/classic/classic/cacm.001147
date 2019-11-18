@@ -1,0 +1,12 @@
+On the Numerical Solution of Boundary Value Problems
+for Linear Ordinary Differential Equations*
+A numerical method is presented for the solution
+of boundary value problems involving linear 
+ordinary differential equations.  The method described
+is noniterative and makes use of any one-step 
+numerical integration scheme to reduce the problem from
+one of boundary values to one of initial values. 
+ Comments are made concerning some numerical results
+of applying the method to a specific problem.  In 
+addition an extension of the algorithm described
+to more general problems is discussed.

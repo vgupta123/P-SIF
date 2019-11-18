@@ -1,0 +1,14 @@
+Common Phrases and Minimum-Space Text Storage
+A method for saving storage space for text
+strings, such as compiler diagnostic messages, is 
+described.  The method relies on hand selection of a
+set of text strings which are common to one or more 
+messages.  These phrases are then stored only once. 
+The storage technique gives rise to a mathematical 
+optimization problem: determine how each message should
+use the available phrases to minimize its storage 
+requirement.  This problem is nontrivial when phrases
+which overlap exist.  However, a dynamic programming 
+algorithm is presented which solves the problem in time
+which grows linearly with the number of characters 
+in the text.  Algorithm 444 applies to this paper.

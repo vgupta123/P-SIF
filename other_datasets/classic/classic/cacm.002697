@@ -1,0 +1,22 @@
+A Fast Method for Solving a Class of Tridiagonal Linear Systems
+The solution of linear systems having real, symmetric,
+diagonally dominant,tridiagonal coefficient 
+matrices with constant diagonals is considered.  It is
+proved that the diagonals of the LU decomposition 
+converges when floating-point precision.  It is also
+proved that the computed LU decomposition converges 
+when floating-point arithmetic is used and that the limits
+of the LU diagonals using floating point are 
+roughly within machine precision of the limits using
+real arithmetic.  This fact is exploited to reduce 
+the number of floating-point operations required to
+solve a linear system from 8n-7 to 5n+2k-3, where 
+k is much less than n, the order of the matrix.  If the
+elements of the subdiagonals and superdiagonals 
+are 1, then only 4n+2k-3 operations are needed.  The
+entire LU decomposition takes k words of storage, 
+and considerable savings in array subscripting are achieved.
+ Upper and lower bounds on k are obtained 
+in terms of the ratio of the coefficient matrix diagonal
+constants and parameters of the floating-point 
+number system.  Various generalizations of these results are discussed.

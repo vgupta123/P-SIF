@@ -1,0 +1,10 @@
+The Automatic Integration of Ordinary Differential Equations
+An integration technique for the automatic
+solution of an initial value problem for a set of 
+ordinary differential equations is described.  A criterion
+for the selection of the order of approximation 
+is proposed.  The objective of the criterion is to increase
+the step size so as to reduce solution time. 
+An option permits the solution of "stiff" differential
+equations.  A program embodying the techniques 
+discussed appears in Algorithm 407.

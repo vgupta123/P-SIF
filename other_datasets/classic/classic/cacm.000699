@@ -1,0 +1,6 @@
+A Contour-Map Program for X-Ray Crystallography
+A FORTRAN program is described for use with
+the IBM 7090 system and an X, Y-plotter to produce 
+a contour map.  A matrix of points evenly spaced in
+each dimension is contoured.  Scale factors along 
+the axes may be different and the axes need not be perpendicular.

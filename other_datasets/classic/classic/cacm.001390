@@ -1,0 +1,18 @@
+CONVERT
+A programming language is described which
+is applicable to problems conveniently described 
+by transformation rules.  By this is meant that patterns
+may be prescribed, each being associated with 
+a skeleton, so that a series of such pairs may be searched
+until a pattern is found which matches an 
+expression to be transformed.  The conditions for a match
+are governed by a code which also allows subexpressions 
+to be identified and eventually substituted into the
+corresponding skeleton.  The primitive patterns 
+and primitive skeletons are described, as well as the
+principle which allow their elaboration in to more 
+complicated patterns and skeletons.  The advantages of the
+language are that it allows one to apply transformation 
+rules to lists and arrays as easily as strings, that both
+patterns and skeletons may be defined recursively, 
+and that as a consequence programs may be stated quite concisely.

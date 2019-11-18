@@ -1,0 +1,12 @@
+The Organization of Structured Files
+A data file is an integral part of a data processing
+system.  In many systems, the selection 
+of an organization for the data within the file can
+be critical to the system's operating efficiency. 
+ This paper provides the systems designer with an information
+source which describes ten techniques that 
+may be employed for organizing structured data.  The
+characteristics of the organizations described are 
+application independent, thus providing the designer with
+a reference which allows him to limit the number 
+of file organizations he must consider for his system.

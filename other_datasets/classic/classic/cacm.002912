@@ -1,0 +1,13 @@
+Concurrent Reading and Writing
+The problem of sharing data among asynchronous
+process is considered.  It is assumed that only 
+one process at a time can modify the data, but concurrent
+reading and writing is permitted.  Two general 
+theorems are proved, and some algorithms are presented
+to illustrate their use.  These include a solution 
+to the general problem in which a read is repeated if
+it might have obtained an incorrect result, and 
+two techniques for transmitting messages between processes.
+ These solutions do not assume any synchronizing 
+mechanism other than data which can be written
+by one process and read by other processes.

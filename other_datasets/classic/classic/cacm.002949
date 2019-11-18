@@ -1,0 +1,16 @@
+A Correctness Proof of a Topology Information
+Main tenance Protocol for a Distributed Computer 
+Network
+In order for the nodes of a distributed computer
+network to communicate, each node must have 
+information about the network's topology.  Since nodes
+and links sometimes crash, a scheme is needed 
+to update this information.  One of the major constrain ts
+on such a topology information scheme is that 
+it may not involve a central controller.  The Topology
+Information Protocol that was implemented on the 
+MERIT Computer Network is presented and explained; this
+protocol is quite general and could be implemented 
+on any computer network.  It is based on Baran's "Hot
+Potato Heuristic Routing Doctrine."  A correctness 
+proof of this Topology Information Protocol is also presented.

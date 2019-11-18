@@ -1,0 +1,19 @@
+General Performance Analysis of Key-to-Address
+Transformation Methods Using an Abstract File 
+Concept
+This paper presents a new approach to the analysis
+of performance of the various key-to-address 
+transformation methods.  In this approach the keys in
+a file are assumed to have been selected from the 
+key space according to a certain probabilistic selection
+algorithm.  All files with the same number of 
+keys selected from this key space will be suitably weighted
+in accordance with the algorithm, and the 
+average performance of the transformation methods on
+these files will be used as the potential of these 
+methods.  Using this analysis, methods with the same overall
+performance can be classified and key distributions 
+partial to certain transformations can be identified.
+ All this can be done analytically.  The approach 
+is applied to a group of transformation methods
+using files whose keys are selected randomly.

@@ -1,0 +1,10 @@
+A Control System For Logical Block Diagnosis With Data Loading
+This paper describes a section of an integrated
+diagnostic monitor system which facilitates 
+the checking of sections of instructions or subroutines
+anywhere in the object program.  A new method 
+of specifying all diagnostic operations in a format similar
+to a computer program makes the system convenient 
+to use and relatively simple to understand.  The paper
+also describes a number of other novel diagnostic 
+features which can be included in the system.

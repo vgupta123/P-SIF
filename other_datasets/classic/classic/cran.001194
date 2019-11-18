@@ -1,0 +1,24 @@
+magnetohydrodynamic flow past a thin airfoil .
+magnetohydrodynamic flow past a thin airfoil .
+  the steady flow of a perfectly conducting
+magnetohydrodynamic fluid past a thin
+nonconducting airfoil is studied with the usual model
+in which the fluid variables obey the lundquist
+equations linearized about a constant unperturbed
+flow .  /hyperliptic/ flows, in which
+hyperbolic and elliptic fields are superimposed,
+are considered .  results of grad, mccune and
+resler, and sears and resler are extended and
+considered in detail for the case of an arbitrarily
+inclined unperturbed field .  the general solution
+contains four line singularities along the
+characteristics through the ends of the body and
+has two arbitrary constants .  by a /
+generalized kutta-joukowski condition,/ these constants
+are fixed so that two of the line singularities
+disappear .  specifically, it is required that the
+solution be locally square integrable .  behavior
+of the exponents of the singularities is investigated
+by numerical computation and, in limiting
+cases, analytically .  the singular parts of some flows
+are investigated numerically .

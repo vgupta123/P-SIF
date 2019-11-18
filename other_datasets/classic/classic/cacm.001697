@@ -1,0 +1,14 @@
+Graphical Input/Output of Nonstandard Characters
+A system developed at Harvard for graphically
+inputting and outputting nonstandard characters 
+on a computer is printed.  In principle, the system
+can deal with any orthography, although at present 
+it is limited to 4000 Chinese characters and some mathematical
+symbols.  New characters can be added 
+to the repertoire of the system by graphical input on
+a display scope.  Text inputting is accomplished 
+via a display scope or a Rand Tablet.  The organization
+and operation of the current system are described, 
+and a discussion of the relative merits of such a system
+is given.  Illustrations of the computer input 
+and output of Chinese characters are included.  

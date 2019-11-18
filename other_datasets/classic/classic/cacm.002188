@@ -1,0 +1,24 @@
+An Approach to the Optimum Design of Computer Graphics Systems
+Display system designers are faced with the
+difficult task of selecting major subsystems in 
+an intelligent way.  Each subsystem is chosen from large
+numbers of alternatives; the selection is based 
+on considerations such as system response time, system
+cost, and the distribution of data storage and 
+processing between the graphics processor and its supporting
+data processing system.  The work reported 
+here develops an objective, quantitative design procedure
+and helps give a better understanding of now 
+to  configure display systems.  This is accomplished by
+means of a mathematical model of a computer driven 
+graphics system.  The parameters of the model are functions
+of the capabilities of the graphics hardware 
+and of the computational requirements of the graphics application.
+ The model can be analyzed using numerical 
+queueing analysis or simulation to obtain an average
+response time prediction.  By combining the model 
+with an optimization, the best graphics system configuration,
+subject to a cost constraint, is found 
+for several applications.  The optimum configurations
+are in turn used to find general display system 
+design guidelines.

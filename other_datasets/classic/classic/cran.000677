@@ -1,0 +1,29 @@
+methods for calculating the lift distribution of wings /subsonic
+lifting surface theory/ .
+methods for calculating the lift distribution of wings /subsonic
+lifting surface theory/ .
+this report contains some fairly simple and economic methods for
+calculating the load distribution on wings of any plan form based on
+the conceptions of lifting surface theory . the computer work required
+is only a small fraction of that of existing methods with comparable
+accuracy . this is achieved by a very careful choice of the positions
+of pivotal points, by plotting once for all those parts of the downwash
+integral which occur frequently and by a consequent application of
+approximate integration methods similar to those devised by the author
+for lifting line problems .
+the basis of the method is to calculate the local lift and pitching
+moment at a number of chordwise sections from a set of linear equations
+satisfying the downwash conditions at two pivotal points in each
+section . interpolation functions of trigonometrical form are used for
+spanwise integration both in setting up the downwash equations and in
+getting the resultant forces on the wing from the local forces . the
+preliminary chordwise integrations for the downwash are predigested in
+a series of charts/figs.1-6/,.it is these which make the method a
+practical computing proposition .
+the theory is outlined in sections 2-5,.section 6 deals with the
+solution of the linear equation and section 7 with the resultant forces
+on the wing . some examples are worked out in section 8 to compare with
+other methods,. one solution is given in full detail in tables 8-30 as a
+ guide for computers . appendices i-vi discuss more carefully some
+salient points of the mathematical theory, and appendix vii is intended
+to instruct the computer how to carry out the steps of the calculation .

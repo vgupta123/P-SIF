@@ -1,0 +1,17 @@
+Answering English questions by Computer: A Survey
+Fifteen experimental English language question-answering
+systems which are programmed and operating 
+are described and reviewed.  The systems range from a conversation
+machine to programs which make sentences 
+about pictures and systems which translate from English
+into logical calculi.  Systems are classified 
+as list-structured data-based, graphic data-based, text-based
+and inferential.  Principles and methods 
+of operations are detailed and discussed.  It is concluded
+that the data-base question-answer has passed 
+from initial research into the early developmental
+phase.  The most difficult and important research 
+questions for the advancement of general-purpose language
+processors are seen to be concerned with measuring, 
+dealing with ambiguities, translating into formal
+languages and searching large tree structures.

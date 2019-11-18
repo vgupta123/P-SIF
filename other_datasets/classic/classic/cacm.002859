@@ -1,0 +1,16 @@
+Interference in Multiprocessor Computer Systems with Interleaved Memory
+This paper analyzes the memory interference
+caused by several processors simultaneously using 
+several memory modules.  Exect results are computed for
+a simple model of such a system.   The limiting 
+value is derived for the relative degree of memory interference
+as the system size increases.  The model 
+of the limiting behavior of the system yields approximate
+results for the simple model and also suggests 
+that the results are valid for a much larger class of models,
+including those more nearly like real systems 
+that the simple model are tested against some measurements
+of program behavior and simulations of systems 
+using memory references from real programs.  The model
+results provide a good indication of the performance 
+that should be expected from real system of this type.

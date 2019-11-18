@@ -1,0 +1,18 @@
+Syntax-Directed Interpretation of Classes of Pictures
+A descriptive scheme for classes of pictures based
+on labeling techniques using parallel processing 
+algorithms was proposed by the author some years ago.
+ Since then much work has been done in applying 
+this to bubble chamber pictures.  The parallel processing
+simulator, originally written for an IBM 7094
+system, has now been rewritten for a CDC 3600 system.
+ This paper descriptive models by considering their 
+specific application to bubble chamber pictures.  How
+the description generated in this phase can be 
+embedded in a larger "conversation" program is explained
+by means of a certain specific example that 
+has been worked out.  A partial generative grammar for
+"handwritten" English letters is given, as are 
+also a few computer-generated outputs using this grammar
+and the parallel processing simulator mentioned 
+earlier.

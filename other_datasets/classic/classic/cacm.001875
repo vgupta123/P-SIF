@@ -1,0 +1,11 @@
+Polynomial and Spline Approximation by Quadratic Programming
+The problem of approximation to a given function,
+or of fitting a given set of data, where 
+the approximating function is required to have certain
+of its derivations of specified sign over the 
+whole range of approximation, is studied.  Two approaches
+are presented, in each of which quadratic programming 
+is used to provide both the constraints on the derivatives
+and the selection of the function which yields 
+the best fit.  The first is a modified Bernstein polynomial
+scheme, and the second is a spline fit.

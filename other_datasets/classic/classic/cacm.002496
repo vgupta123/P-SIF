@@ -1,0 +1,14 @@
+On the Near-Optimality of the Shortest-Latency-Time-First
+Drum Scheduling Discipline
+For computer systems in which it is practical
+to determine the instantaneous drum position, 
+a popular discipline for determining the sequence in which
+the records are to be accessed is the so-called 
+shortest-latency-time-first, SLTF, discipline.  When
+a collection of varying-length records is to be 
+accessed from specified drum positions, it is known that
+the SLTF discipline does not necessarily minimize 
+the drum latency time.  However, we show that the total
+time to access the entire collection for any 
+SLTF schedule is never as much as a drum revolution
+longer than a minimum latency schedule.

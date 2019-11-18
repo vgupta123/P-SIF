@@ -1,0 +1,5 @@
+A Recursive Relation for the Determinant of a Pentadiagonal Matrix
+A recursive relation, relating leading principal
+minors, is developed for the determinant of 
+a pentadiagonal matrix.  A numerical example is included
+to indicate its use in calculating eigenvalues.

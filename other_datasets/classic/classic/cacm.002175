@@ -1,0 +1,20 @@
+Subexpression Ordering in the Execution of Arithmetic Expressions
+An arithmetic expression can often be broken
+down into its component subexpressions.  Depending 
+on the hardware environment in which the expression is
+to be executed, these subexpressions can be evaluated 
+in serials, in parallel, or in a combination of these
+modes.  This paper shows that expression execution 
+time can be minimized only if consideration is given to
+the ordering of the subexpressions.  In particular, 
+subexpressions should be executed in order of decreasing
+memory and processor time requirements.  This 
+observation is valid for configurations ranging from
+a uniprocessor with an unbuffered main memory to 
+multiprocessor with a "cache" buffer memory.  If the
+number of subexpressions which can be executed in 
+parallel exceeds the number of available processors,
+then execution of some of these subexpressions must 
+be postponed.  A procedure is given which combines this
+requirement with the earlier ordering considerations 
+to provide an optimal execution sequence.

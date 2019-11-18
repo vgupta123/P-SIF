@@ -1,0 +1,10 @@
+An Extensible Editor for a Small Machine with Disk Storage
+A design philosophy for developing a sophisticated
+utility program is illustrated by the actual 
+design and implementation of a text editor.  A versatile
+data structure is employed so that only a small 
+number of programmed subroutines are necessary for all
+types of data manipulation.  Such a data structure 
+is described, and its merits are illustrated by the ease
+with which powerful extensions can be implemented 
+in terms of a few basic editing function.

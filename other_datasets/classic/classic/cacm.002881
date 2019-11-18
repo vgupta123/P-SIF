@@ -1,0 +1,6 @@
+A Counterintuitive Example of Computer Paging
+A counterexample is exhibited to a natural conjecture
+concerning the optimal way to group records 
+into pages in the independent reference model of computer
+paging (an organization is said to be optimal 
+if the "least recently used" miss ratio is minimized).

@@ -1,0 +1,18 @@
+Multiword List Items
+The list concept as originally proposed by
+Newell, Simon and Shaw specified single computer 
+words as elements of a list.  This report describes the
+use of two or more consecutive words as one element. 
+ Such use results in a considerable saving in both the
+space required to hold a given amount of data, 
+and in the execution time required to perform a given
+process on the data.  Following a brief description 
+of standard list structures with single-word items, the
+multiword items are introduced.  Then variable-length 
+items are described, along with the corresponding space-utilization
+problems.  Finally, several examples 
+are given to illustrate the use of multiword lists. This
+paper attempts to draw together various recent 
+papers which have applied some of these concepts in different
+ways, and indicate how they relate to the 
+more general problems.

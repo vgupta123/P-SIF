@@ -1,0 +1,13 @@
+Methods of Numerical Integration Applied to
+a System Having Trivial Function Evaluations
+A study has been made to determine which methods
+of numerical integration require the least 
+computation time for a given amount of truncation error
+when applied to a particular system of ordinary 
+differential equations where function evaluations are
+relatively trivial.  Recent methods due to Butcher 
+and Gear are compared with classic Runge-Kutta, Kutta-Nystrom
+and Adams methods.  Some of the newer one-step 
+methods due to Butcher are found to be slightly superior,
+but no one method is found to have any great 
+advantage over the others in the application to this particular problem.

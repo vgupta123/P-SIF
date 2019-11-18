@@ -1,0 +1,12 @@
+Analysis of a File Addressing Method
+This paper presents a new file addressing method
+based on the calculation of an address from 
+the identification of a record.  For large recirculating
+type files, it seems to be more advantageous 
+than customary ones.  The probability distribution of
+the displacement of records from their calculated 
+address, which is one less than the number of probes
+required to address a record, is computed on the 
+basis of a Markov chain model.  For the reader not interested
+in the mathematics, the introduction and 
+the summary should be sufficient.

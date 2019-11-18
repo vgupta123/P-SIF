@@ -1,0 +1,17 @@
+Connections Between Accuracy and Stability
+Properties of Linear Multistep Formulas
+This paper is concerned with stability and accuracy
+of families of linear k-step formulas depending 
+on parameters, with particular emphasis on the numerical
+solution of stiff ordinary differential equations. 
+ An upper bound, p=k, is derived for the order of accuracy
+of A(inf)-stable formulas.  Three criteria 
+are given for A(0)-stability.  It is shown that (1) for
+p=k, k arbitrary, A(inf)-stability implies certain 
+necessary conditions for A(0)-stability and for strict
+stability (meaning that the extraneous roots of 
+p(psi) satisfy |psi|<1); (2) for p=k=2,3,4,and 5, A(inf)-stability
+(for k=5 together with another constraint) 
+implies strict stability; and (3) for certain one-parameter
+classes of formulas with p=k=3,4,and/or 5, 
+A(inf)-stability implies A(0)-stability.

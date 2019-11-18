@@ -1,0 +1,19 @@
+A Model of Memory Contention in a Paging Machine
+This paper is concerned with certain aspects of contention
+for main memory resources in a multiprogrammed 
+computer system operating under demand paging.  In
+the model presented, the number of page-frames of 
+main memory allocated to a problem program varies in
+time.  These changes in memory configuration are 
+represented explicitly in the model, CPU requirements and
+page exception characteristics of program material 
+being described statistically.  Expressions for the distribution
+of the number of page-frames allocated 
+to an executing program, the long run expected fraction
+of a program's execution time in a given number 
+of page-frames, and the average execution interval of the
+multiprogrammed load are obtained.  It is pointed 
+out heuristically and demonstrated numerically that
+an increase is obtain able in the average execution 
+interval of the multiprogrammed load over that resulting
+from equal fixed partitioning of main memory.

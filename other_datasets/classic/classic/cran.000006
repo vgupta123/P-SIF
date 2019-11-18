@@ -1,0 +1,19 @@
+one-dimensional transient heat flow in a multilayer
+slab .
+one-dimensional transient heat flow in a multilayer
+slab .
+  in a recent contribution to the readers'
+forum wassermann gave analytic
+solutions for the temperature in a double
+layer slab, with a triangular heat
+rate input at one face, insulated at the other,
+and with no thermal resistance
+at the interface .  his solutions were for the
+three particular cases..
+i propose here to give the general solution
+to this problem, to indicate
+briefly how it is obtained using the method of
+reference 2, and to point out
+that the solutions given by wassermann are
+incomplete for times longer
+than the duration of the heat input .

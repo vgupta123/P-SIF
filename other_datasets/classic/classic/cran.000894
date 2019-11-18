@@ -1,0 +1,23 @@
+flutter of a two dimensional simply supported buckled
+panel with elastic restraint against edge displacement .
+flutter of a two dimensional simply supported buckled
+panel with elastic restraint against edge displacement .
+  the critical flutter speed is evaluated for a two-dimensional thin
+buckled panel with one surface exposed to a supersonic airstream and the
+other to still air at the same static pressure .  the panel is simply
+supported along the leading and trailing edges by rigid edge members
+separated by an elastic member represented by a compression spring .
+the whole system is acted upon by a constant compressive force uniformly
+distributed along the edge members .  the aerodynamic forces acting on
+the deflected panel are found from two-dimensional /quasi-steady/
+theory, valid for slow oscillations where the downwash velocity is small
+compared with the speed of flow and provided that the mach number is
+sufficiently greater than .  the elastic behaviour of the panel is given
+by von karman's large deflection equations modified to cover initially
+curved plates .  the solution of the equations is carried out by means
+of galerkin's method, which has been shown to give valid results for
+a panel with a non-zero bending rigidity .
+  the influence of the midplane compressive force carried by the panel
+itself, the initial buckle amplitude and the elastic restraint against
+edge displacements is investigated, and curves are presented giving the
+critical dynamic pressure ratio as a function of these variables .

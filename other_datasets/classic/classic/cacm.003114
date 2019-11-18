@@ -1,0 +1,18 @@
+A Technique for Isolating Differences Between Files
+A simple algorithm is described for isolating
+the differences between two files.  One application 
+is the comparing of two versions of a source program
+or other file in order to display all differences. 
+ The algorithm isolates differences in a way that corresponds
+closely to our intuitive notion of difference, 
+is easy to implement, and is computationally efficient,
+with time linear in the file length.  For most 
+applications the algorithm isolates differences similar
+to those isolated by the longest common subsequence. 
+ Another application of this algorithm merges files
+containing independently generated changes into a 
+single file.  The algorithm can also be used to generate
+efficient encodings of a file in the form of 
+the differences between itself and a given "datum" file,
+permitting reconstruction of the original file 
+from the difference and datum files.   

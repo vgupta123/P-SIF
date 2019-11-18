@@ -1,0 +1,16 @@
+Multiprocessor Memory Organization and Memory Interference
+The structure of shared memory in a multiprocessor
+computer system is examined with particular 
+attention to nonin terleaved memory.  Alternative memory
+organizations are compared and it is shown that 
+a home memory organization, in which each processor
+is associated with one or more memories in which 
+its address space is concentrated, is quite effective in
+reducing memory in terference.  Home memory organization 
+is shown to be particularly suited to certain specialized
+computation problems as well as to possess 
+advantages in terms of in terference and reliability for
+general purpose computation.  Results for in terleaved 
+memory are drawn from previous work and are used for
+comparison.  Trace-driven simulations are used to 
+verify the conclusions of the analysis.

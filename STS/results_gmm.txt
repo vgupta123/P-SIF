@@ -1,0 +1,8 @@
+STS12-en-testSTS.input.MSRpar.txt 0.499203prob_wordvecs_gmmparagram_sl999_small.txt_all_words_21.pkl data/enwiki_vocab_min200.txt 0.01 2
+STS12-en-testSTS.input.MSRpar.txt 0.499203prob_wordvecs_gmmparagram_sl999_small.txt_all_words_21.pkl data/enwiki_vocab_min200.txt 0.01 2
+STS12-en-testSTS.input.MSRvid.txt 0.855659prob_wordvecs_gmmparagram_sl999_small.txt_all_words_1.pkl data/enwiki_vocab_min200.txt 0.0001 1
+STS12-en-testSTS.input.MSRpar.txt 0.479229prob_wordvecs_ksvd_transform_n_nonzero_coefs_1paragram_sl999_small.txt_all_words_8.pkl data/enwiki_vocab_min200.txt 0.1 2
+STS12-en-testSTS.input.MSRvid.txt 0.824880prob_wordvecs_ksvd_transform_n_nonzero_coefs_6paragram_sl999_small.txt_all_words_10.pkl data/enwiki_vocab_min200.txt 0.0001 1
+STS12-en-testSTS.input.SMTeuroparl.txt 0.249627prob_wordvecs_ksvd_transform_n_nonzero_coefs_2paragram_sl999_small.txt_all_words_4.pkl data/enwiki_vocab_min200.txt 0.0001 2
+STS12-en-testSTS.input.MSRpar.txt 0.499203prob_wordvecs_gmm_paragram_sl999_small.txt_all_words_21.pkl data/enwiki_vocab_min200.txt 0.01 2
+STS12-en-testSTS.input.MSRvid.txt 0.855659prob_wordvecs_gmm_paragram_sl999_small.txt_all_words_1.pkl data/enwiki_vocab_min200.txt 0.0001 1

@@ -1,0 +1,10 @@
+Approximate Solution of Axially Symmetric Problems
+A variety of physical problems in such diverse
+fields as electrostatic  field theory, heat 
+and ideal fluid flow, and stress concentration theory
+reduce, under the assumption of axial symmetry, 
+to the study of an elliptic partial differential equation.
+ Dirichlet-type problems associated with this 
+equation are studied on regions whose boundaries include
+a nondegenerate portion of the x-axis and exceedingly 
+accurate numerical methods are given for approximating solutions.

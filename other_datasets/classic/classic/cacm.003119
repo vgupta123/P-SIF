@@ -1,0 +1,6 @@
+The Impact of Distributions and Disciplines
+on Multiple Processor Systems
+Simple queueing models are used to study the performance tradeoffs of 
+multiple processor systems.  Issues considered include the impact of CPU
+service disciplines and distributions, level of multiprogramming,
+multitasking, and job priorities. 

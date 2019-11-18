@@ -1,0 +1,12 @@
+The Manchester Mark I and Atlas: A His torical Perspective
+In 30 years of computer design at Manchester University
+two systems stand out: the Mark I (developed 
+over the period 1946-49) and the Atlas (1955-62). 
+This paper places each computer in its his torical 
+context and then describes the architecture and system
+software in present-day terminology.  Several 
+design concepts such as address-generation and store
+management have evolved in the progression from 
+Mark I to Atlas.  The wider impact of Manchester innovations
+in these and other areas is discussed, and 
+the contemporary performance of the Mark I and Atlas is evaluated.

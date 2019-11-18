@@ -1,0 +1,18 @@
+A Global Parser for Context-Free Phrase Structure Grammars
+An algorithm for analyzing any context-free phrase
+structure grammar and for generating a program 
+which can then parse any sentence in the language (or
+indicate that the given sentence is invalid) is 
+described. The parser is of the "top-to-bottom" type
+and is recursive . A number of heuristic procedures 
+whose purpose is to shorten the basic algorithm by quickly
+ascertaining that certain substrings of the 
+input sentence cannot correspond to the target nonterminal
+symbols are included.  Both the generating 
+algorithm and the parser have been implemented in RCA
+SNOBOL and have been tested successfully on a number 
+of artificial grammars and on a subset of ALGOL.  A
+number of the routines for extracting data about 
+a grammar, such as minimum lengths of N-derivable strings
+and possible prefixes, are given and may be 
+of interest apart from their application in this particular context.

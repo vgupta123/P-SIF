@@ -1,0 +1,26 @@
+the analytical design of an axially symmetric laval
+nozzle for a parallel and uniform jet .
+the analytical design of an axially symmetric laval
+nozzle for a parallel and uniform jet .
+  the equations for the nozzle's contours are derived by
+integration of the characteristic equations of the axially symmetric flow .
+since it is not possible to integrate these equations
+mathematically in an exact form, it was necessary to find a way to
+approximate the calculations .  the approximation offers itself by
+considering and comparing the conditions of the flow in a cone with
+those in a nozzle, as a linearization of the characteristic equations .
+  the first part of the report deals with equations for the
+transition curve by which the conical source flow is converted into a
+parallel stream of uniform velocity .  the equations are derived
+by integration along a mach line of the flow in the region where
+the conversion takes place .  a factor f is introduced expressing a
+relation between the direction and the velocity of the flow along
+a certain mach line .  f remains undetermined and is not involved
+in the final equations .
+  in the second part of the report, the spherical sonic flow
+section is converted into a plane circular section of the throat .
+the nozzle's contour adjacent to the throat is formed by the arc
+of a circle connected with the transition curve by a straight line .
+the gas dynamic properties of the boundary mach line are
+calculated in table 1, the use of which shortens the calculations
+considerably .

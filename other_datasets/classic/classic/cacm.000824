@@ -1,0 +1,14 @@
+DESCRIPTRAN-Automated Descriptive Geometry*
+Descriptive geometry consists of procedures originally
+designed to solve 3-space geometry problems 
+by graphical constructions and measurement instead of
+by computation.  However, in addition to this it 
+unifies and simplifies the approach to many such problems.
+ When one can call subroutines that compute 
+new coordinates that correspond to those obtainable from
+the graphical constructions, there is the three-way 
+advantage of the approach of descriptive geometry, the
+accuracy of computation and the speed of the digital 
+computer.  DESCRIPTRAN makes it possible to program
+many problems in 3-space with a few statements; it 
+consists of 15 subroutines analogous to the procedures of descriptive geometry.

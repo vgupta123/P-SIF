@@ -1,0 +1,22 @@
+On the Probability Distribution of the Values of Binary Trees
+An integral equation is derived for the generating
+function for binary tree values, the values 
+reflecting sorting effort. The analysis does not assume
+uniformly distributed branching ratios, and 
+therefore is applicable to a family of sorting algorithms
+discussed by Hoare, Singleton, and van Emden. 
+ The solution to the integral equation indicates that
+using more advanced algorithms in the family makes 
+only minor reductions in the expected sorting effort,
+but substantially reduces the variance in sorting 
+effort.  Statistical tests of the values of several
+thousand trees containing up to 10,000 points have 
+given first, second, and third moments of the value distribution
+function in satisfactory agreement with 
+the moments computed from the generating function.  The
+empirical tests, as well as the analytical results, 
+are in agreement with previously published results for the
+first moment in the cases of uniform and nonuniform 
+distribution of branching ratio, and for the second moment
+in the case of uniform distribution of branching 
+ratio.

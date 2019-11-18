@@ -1,0 +1,10 @@
+Algorithm and Bound for the Greatest Common Divisor of n Integers
+A new version of the Euclidean
+algorithm for finding the greatest common divisor of n integers a(i)
+and multipliers x(i) such that gcd = x(1)a(1) + ... + x(n)a(n)
+is presented.  The number of arithmetic operations and the number
+of storage locations are linear in n.  A theorem of Lame that gives a bound 
+for the number of iterations of the Euclidean algorithm for two integers 
+is extended to the case of n integers.  An algorithm to construct a minimal 
+set of multipliers is presented.  A Fortran program for the algorithm appears 
+as Comm. ACM Algorithm 386.

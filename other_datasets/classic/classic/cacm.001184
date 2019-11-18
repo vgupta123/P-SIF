@@ -1,0 +1,12 @@
+A Fast Storage Allocator
+A fast storage bookkeeping method is described
+which is particularly appropriate for list-structure 
+operations and other situations involving many sizes
+of blocks that are fixed in size and location.  
+ This scheme, used in the LLLLLL or L6 (Bell Telephone Laboratories
+Low-Level List Language), makes available 
+blocks of computer registers in several different sizes:
+the smaller blocks are obtained by successively 
+splitting larger ones in half, and the larger blocks are reconstituted
+if and when their parts are simultaneously 
+free.

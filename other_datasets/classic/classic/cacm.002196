@@ -1,0 +1,23 @@
+A Man-Machine Approach Toward Solving the Traveling Salesman Problem
+The traveling salesman problem belongs to an
+important class of scheduling and routing problems. 
+ It is also a subproblem in solving others, such as
+the warehouse distribution problem.  It has been 
+attacked by many mathematical methods with but meager
+success.  Only for special forms of the problem 
+or for problems with a moderate number of points can
+it be solved exactly, even if very large amounts 
+of computer time are used.  Heuristic procedures have
+been proposed and tested with only slightly better 
+results.  This paper describes a computer aided heuristic
+technique which uses only a modest amount of 
+computer time in real-time to solve large (100-200)
+point problems.  This technique takes advantage of 
+both the computer's and the human's problem-solving
+abilities.  The computer is not asked to solve the 
+problem in a brute force way as in many of today's heuristics,
+but it is asked to organize the data for 
+the human so that the human can solve the problem easily.
+ The technique used in this paper seems to 
+point to new directions in the field of man-machine interaction
+and in the field of artificial intelligence.

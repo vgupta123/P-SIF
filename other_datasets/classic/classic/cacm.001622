@@ -1,0 +1,8 @@
+An Efficient Procedure for the Generation of Closed Subsets
+An efficient algorithm is described for generating
+subsets of a set S which satisfy constraints 
+of the form: "If s(i) is a member of the subset, then
+s(j) must also be a member of the subset."  The 
+algorithm has been programmed in the WISP language and
+successfully run on the IBM 7094 in connection 
+with a routine to detect feedback in multidimensional iterative networks.

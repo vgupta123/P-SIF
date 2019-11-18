@@ -1,0 +1,16 @@
+note on creep buckling of columns .
+note on creep buckling of columns .
+it appears from librove's interesting analysis that, for
+the case of creep buckling of columns, the initial
+imperfections contained in ordinary columns provide the mechanism by
+which failure due to creep occurs after a period of time .  in fact,
+it can be concluded from this analysis that a theoretically perfect
+column that is initially loaded below the time-independent critical
+load will not buckle at all .  this is an interesting contrast to the
+case of static buckling where small initial imperfections play an
+insignificant role, since the failing load of an initially imperfect
+column is substantially the same as that of a theoretically perfect
+column .  it is of interest, therefore, to conjecture whether there is
+any possible mechanism by which a column containing no initial
+imperfections can fail as a result of creep when the initial load is
+less than the theoretical buckling load .

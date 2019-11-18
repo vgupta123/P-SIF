@@ -1,0 +1,10 @@
+VMIN-An Optimal Variable-Space Page Replacement Algorithm
+A criterion for comparing variable space page
+replacement algorithms is presented.  An optimum 
+page replacement algorithm, called VMIN, is described and
+shown to be optimum with respect to this criterion. 
+The results of simulating VMIN, Denning's working set,
+and the page partitioning replacement algorithms 
+on five virtual memory programs are presented to demonstrate
+the improvement possible over the known 
+realizable variable space algorithms.

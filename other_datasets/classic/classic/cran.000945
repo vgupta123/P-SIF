@@ -1,0 +1,18 @@
+method for design of pump impellers using a high speed
+digital computer .
+method for design of pump impellers using a high speed
+digital computer .
+  a method of designing pump impellers
+is derived from the equations of motion
+and continuity for incompressible nonviscous
+relative flow .  the flow is assumed
+to follow a known stream surface (representing
+blade shape) that extends from hub
+to shroud .  equations are also derived for
+approximate blade-surface velocities
+and pressures .  a detailed numerical procedure
+and block diagram are given for
+use on a digital computer .  a numerical example
+that illustrates limited use of
+the method is presented and further uses are
+indicated .

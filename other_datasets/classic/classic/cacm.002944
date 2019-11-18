@@ -1,0 +1,14 @@
+Shifting Garbage Collection Overhead to Compile Time
+This paper discusses techniques which enable automatic
+storage reclamation overhead to be partially 
+shifted to compile time.  The paper assumes a transaction
+oriented collection scheme, as proposed by 
+Deutsch and Bobrow, the necessary features of which are
+summarized.  Implementing the described optimizations 
+requires global flow analysis to be performed on the
+source program.  It is shown that at compile time 
+certain program actions that affect the reference counts
+of cells can be deduced.  This information is 
+used to find actions that cancel when the code is executed
+and those that can be grouped to achieve improved 
+efficiency.

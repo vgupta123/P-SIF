@@ -1,0 +1,14 @@
+Conversion of Limited-Entry Decision Tables to Computer Programs
+Decision tables are useful for describing a
+set of complex decision rules based on given sets 
+of conditions.  Algorithms that can efficiently convert
+the tables into computer programs will extend 
+the usefulness of decision tables to computer users.
+ Two such algorithms, based on work done by M. S. 
+Montalbano, are described and extended here to handle
+dashes and ELSE-decision rules.  The first algorithm 
+minimizes the computer storage space required for the
+resultant program, the second minimizes computer 
+running time. During the conversion process, both pinpoint
+any contradictions or redundancies among the 
+rules in a table.

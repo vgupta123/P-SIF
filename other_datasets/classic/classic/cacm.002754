@@ -1,0 +1,10 @@
+A Syntactic Algorithm for Peak Detection
+in Waveforms with Applications to Cardiography
+Peaks in a digitized waveform are detected by an
+algorithm incorporating piecewise linear approximation 
+and tabular parsing techniques.  Several parameters serve
+to identify the waveform context enabling accurate 
+measurement of peak amplitude, duration, and shape.  The
+algorithm is of sufficient speed to allow on-line 
+real-time processing.  An example of its application
+is demonstrated on an electrocardiogram.

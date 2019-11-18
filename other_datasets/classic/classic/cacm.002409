@@ -1,0 +1,7 @@
+An Algorithm for the Approximate Solution
+of Wiener-Hopf Integral Equations
+An explicit approximate solution is given for
+an equation.  Where it is assumed that the classical 
+Wiener-Hopf technique may be applied.  It is furthermore
+assumed that Fourier transforms are known explicitly. 
+ The approximate solution depends on two positive parameters.

@@ -1,0 +1,17 @@
+Sentence Paraphrasing from a Conceptual Base
+A model of natural language based on an underlying
+language-free representation of meaning 
+is described.  A program based on this model is able
+to produce sentence paraphrases which demonstrate 
+understanding with respect to a given context.  This
+generator operates in conjunction with a natural 
+language analyzer and a combined memory and inference model.
+ In generating sentences from meaning structures, 
+the program employs both the information retrieval and
+deduction capabilities of the memory model.  The 
+model encompasses several diverse classes of linguistic
+knowledge, which include: (1) executable tests 
+of conceptual properties stored in discrimination nets;
+(2) information relating conceptual to syntactic 
+roles, stored in a word-sense dictionary, and (3) surface
+grammatical knowledge, stored in a formal grammar.

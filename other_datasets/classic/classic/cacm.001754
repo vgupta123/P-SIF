@@ -1,0 +1,12 @@
+Dynamic Storage Allocation Systems
+In many recent computer system designs, hardware
+facilities have been provided for easing the 
+problems of storage allocation.  A method of characterizing
+dynamic storage allocation systems-according 
+to the functional capabilities provided and the underlying
+techniques used-is presented.  The basic purpose 
+of the paper is to provide a useful perspective from
+which the utility of various hardware facilities 
+may be assessed.  A brief survey of storage allocation
+facilities in several representative computer 
+systems is included as an appendix.

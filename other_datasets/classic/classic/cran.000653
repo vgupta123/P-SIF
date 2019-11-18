@@ -1,0 +1,19 @@
+transient magnetohydrodynamic duct flow .
+transient magnetohydrodynamic duct flow .
+  parallel flow of an electrically conducting viscous
+incompressible fluid in a rectangular duct with
+transverse magnetic field is considered .  the walls
+of the duct which are parallel and perpendicular
+to the imposed magnetic field are taken to be
+nonconducting and perfectly conducting, respectively .
+assuming the fluid to be at rest at the initial
+moment, exact solutions for the velocity and magnetic
+field components are obtained in the form of
+convolution integrals taking the longitudinal pressure
+gradient as an arbitrary given function of time .
+later, taking a step function for the pressure gradient,
+these expressions are integrated .  for this case,
+the effect of the strength of the imposed magnetic
+field on the development behavior of the flow is
+studied .  it is found that except for very large magnetic
+fields, the flows are over damped .

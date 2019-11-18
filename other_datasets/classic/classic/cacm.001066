@@ -1,0 +1,22 @@
+Growing Applications of Linear Programming
+Use of linear programming models has grown so
+extensively in recent years that the whole concept 
+for organizing a computer code has undergone a radical
+change.  It no longer is adequate merely to reduce 
+a mathematical algorithm (i.e. the simplex method) to
+a computer code.  An advanced code must cope with 
+such a variety of situations that the respective computer
+subprograms must be organized into an integrated 
+system.  Emphasis in this paper is devoted to the underlying
+principles upon which future linear programming 
+systems must be based.  These viewpoints are influenced
+by the new demands that applications within the 
+petroleum industry are placing on such systems.  Some
+of the components of such a system are: translation 
+of problem statement in terms of basic data to linear
+programming matrix coefficients, data transmission 
+for direct computer entry, data file at the computer center,
+data processing and editing prior to solving 
+the simplex algorithm, an efficient and reliable code
+for solving the above-mentioned algorithm, and 
+flexible means for summarizing the results.

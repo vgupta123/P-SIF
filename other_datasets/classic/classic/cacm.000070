@@ -1,0 +1,6 @@
+Construction of a Set of Test Matrices
+This paper develops the equations and properties
+of a set of test matrices which are useful 
+in the determination of the accuracy of routines for
+finding the inverse, determinant and/or eigenvalues 
+of a matrix.

@@ -1,0 +1,7 @@
+An Algorithm for the Probability of
+the Union of a Large Number of Events
+An algorithm is presented which efficiently evaluates
+the probability for the union of n independent 
+and not mutually exclusive events. The problem is that
+of evaluating the sums of the products of all 
+possible combinations of n variables in minimum time and storage space.

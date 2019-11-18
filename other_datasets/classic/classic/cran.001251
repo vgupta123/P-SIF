@@ -1,0 +1,21 @@
+viscous flow past a quarter infinite plate .
+viscous flow past a quarter infinite plate .
+  a study is made of the motion of an incompressible viscous
+fluid past a quarter-infinite plate, whose leading edge is
+perpendicular to and whose side edge is parallel to the undisturbed
+direction of the stream .  it is assumed that the kinematic
+viscosity is small .  the first approximation is taken to be the
+undisturbed motion, and successive approximations are obtained
+by iferation .  the second approximation is the blasius shear
+layer necessary to satisfy the boundary conditions on the plate .
+in turn, this layer leads to a velocity component normal to the
+plate which needs a potential solution, in which the velocities
+are 0, to match with the conditions at infinity .  further,
+the match at the edge of the blasius shear layer must be
+completed to 0 by introducing a secondary shear layer .  the
+regions near the leading and side edges are considered separately,.
+in particular, the neighborhood of the side edge needs special
+care, because the determination of the chief terms is complicated
+by the presence of powers of log .  in particular it is shown
+that the effect of the edge is to change the skin-friction coefficient
+by a factor

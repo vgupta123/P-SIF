@@ -1,0 +1,21 @@
+Code Extension in ASCII* (An ASA Tutorial)
+The American Standard Code for Information
+Interchange (ASCII) contains a number of control 
+characters associated with the principle of code extension,
+that is, with the representation of information 
+which cannot be directly represented by means of the characters
+in the Code.  The manner of use of these 
+characters has not previously been completely described.
+ This paper presents a set of mutually consistent 
+philosophies regarding code extension applications,
+and suggests a corollary set of doctrines for the 
+application of the code extension characters.  Distinctions
+are drawn between code extension and such 
+other concepts as "graphic substitution" or "syntactic
+representation" which are often used to meet similar 
+requirements.  Also covered are certain topics which
+are not truly concerned with code extension but 
+which are often linked with it in discussion on code applications.
+ The material in this paper is equally 
+applicable in principle to the (proposed) ISO international
+7-bit code for information interchange.

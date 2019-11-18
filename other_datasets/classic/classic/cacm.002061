@@ -1,0 +1,16 @@
+An Algorithm for the Construction Of Bounded-Context Parsers
+An algorithm is described which accepts an arbitrary context-free
+grammar and constructs a bounded-context parser for
+it whenever such a parser exists.  In the first part of the paper
+the definition of a context-free grammar and the working of a
+bounded-context parser are recalled.  The notion of reduction class for
+a context-free grammar is then introduced and its connection with
+the structure of a bounded-context parser is indicated.  Next,
+pushdown automata which generate the different reduction classes
+of a context-free grammar are defined.  Finally, the algorithm is described;
+it essentially carries out an exhaustive study of all possible
+runs of the pushdown automata generating the reduction classes.
+In the second part, the utility of the algorithm is discuss
+ed in the light of the experience gained from its use in compiler design.
+The algorithm is claimed to be particularly useful in the
+simultaneous design of a language and a compiler for it.

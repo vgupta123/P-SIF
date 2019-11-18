@@ -1,0 +1,24 @@
+SABRAG, A Time-Sharing Low-Cost Computer
+The serial SABRAC computer designed and built
+in the Scientific Department of the Israel defense 
+Ministry has a 5000-location magnetic drum, main store.
+ To avoid a need to resort to optimum programming 
+techniques and to increase its overall efficiency the
+computer has also been given a 224-word ferrite 
+core store from which the program is obeyed.  Transfers
+between the core and drum stores and to and from 
+the twin paper-tape input and output channels are all
+available autonomously (concurrently, time-shared). 
+ Multiplication and division orders are also autonomous,
+so that the machine may be executing up to three 
+orders simultaneously.  All functions naturally are interlocked.
+ A number of other advanced orders and 
+facilities are also incorporated.In particular, an
+"Execute" order permits a temporary jump for up 
+to four orders and a second modifier register permits double
+modification in general and relative addressing 
+of subroutines in particular.  Thus the overall effective
+speed of the machine is muchhigher than its 
+basic specification would lead one to expect and its
+design indicates one way in which the concepts of 
+time sharing may be incorporated in "low-cost" computers.

@@ -1,0 +1,11 @@
+An Interference Matching Technique for Inducing Abstractions
+A method for inducing knowledge by abstraction
+from a sequence of training examples is described. 
+ The proposed method, interference matching, induces abstractions
+by finding relational properties common 
+to two or more exemplars.  Three tasks solved by a program
+that uses an interference-matching algorithm 
+are presented.  Several problems concerning the description
+of the training examples and the adequacy 
+of interference matching are discussed, and directions
+for future research are considered.

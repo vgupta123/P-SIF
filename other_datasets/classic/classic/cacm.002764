@@ -1,0 +1,9 @@
+An Intelligent Analyzer and Understander of English
+The paper describes a working analysis and generation
+program for natural language, which handles 
+paragraph length input.  Its core is a system of preferential
+choice between deep semantic patterns, 
+based on what we call "semantic density."  The system
+is contrasted: (1) with syntax oriented linguistic 
+approaches, and (2) with theorem proving
+approaches to the understanding problem.

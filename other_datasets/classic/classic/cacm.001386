@@ -1,0 +1,13 @@
+Symbolic Factoring of Polynomials in Several Variables
+An algorithm for finding the symbolic factors of
+a multi-variate polynomial with integer coefficients 
+is presented.  The algorithm is an extension of a technique
+used by Kronecker in a proof that the prime 
+factoring of any polynomial may be found in a finite number
+of steps.  The algorithm consists of factoring 
+single-variable instances of the given polynomial by
+Kronecker's method and introducing the remaining 
+variables by interpolation.  Techniques for implementing the
+algorithm and several examples are discussed. 
+ The algorithm promises sufficient power to be used efficiently
+in an online system for symbolic mathematics.

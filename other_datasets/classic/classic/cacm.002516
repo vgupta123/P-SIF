@@ -1,0 +1,14 @@
+Hierarchical Storage in Information Retrieval
+A probabilistic analysis is employed to determine
+the effect of hierarchical storage organizations 
+on information retrieval operations.  The data storage
+hardware is assumed to consist on n-levels of 
+linearly connected memory hardware with increasing data
+access times and increasing data storage capabilities. 
+ A system might, for example, consist of fast semiconductor
+memory, computer core memory, extended core 
+storage, disk memory, and data cells.  Equations are derived
+to predict the effect of such a system on 
+data access times using sequential files, random access files,
+and structured files employing multiple-hierarchical 
+linked lists.

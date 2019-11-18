@@ -1,0 +1,27 @@
+Computer Formulation of the Equations of Motion Using Tensor Notation
+A means is described for extending the area
+of application of digital computers beyond the 
+numerical data processing stage and reducing the need for
+human participation in the formulation of certain 
+types of computer problems.  By the use of tensor calculus
+and a computer language designed to facilitate 
+symbolic mathematical computation, a method has been
+devised whereby a digital computer can be used to 
+do non-numeric work, that is, symbolic algebraic manipulation
+and differentiation. To illustrate the 
+techniques involved, a digital computer has been used
+to derive the equations of motion of a point mass 
+in a general orthogonal curvilinear coordinate system.
+ Since this operation involves a formulation in 
+terms of first- and second-order differential coefficients,
+it provides a good demonstration of a computer's 
+capability to do non-numeric work and to assist in the
+formulation process which normally precedes the 
+numerical data processing stage.  Moreover, this particular
+problem serves to illustrate the advantages 
+of the mathematical techniques employed.  With the program
+prepared for this purpose the computer will 
+derive the equations of motion in any coordinate system
+requested by the user.   Results are presented 
+for the following coordinate systems: cylindrical
+polar, spherical polar, and prolate spheroidal.

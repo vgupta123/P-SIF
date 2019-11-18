@@ -1,0 +1,18 @@
+A Stochastic Evaluation Model for Database
+Organization in Data Retrieval Systems
+Experimental work in the valuation of large
+scale data retrieval systems has been scarce due 
+to its difficulty and prohibitive cost. This paper
+discusses a simulation model of a data retrieval 
+system which has the effect of significantly reducing
+the cost of experimentation and enabling research 
+never attempted before.  The model is designed to estimate
+the retrieval workload of alternative data 
+retrieval systems.  These data retrieval systems can
+be organized under several database organizations, 
+including inverted list, threaded list, and cellular
+list organizations and hybrid combinations of these 
+systems.  Effectiveness of the methodology is demonstrated
+by using the model to study the effect of 
+database organizations in data retrieval systems.  In particular,
+the impact of query complexity is analyzed.

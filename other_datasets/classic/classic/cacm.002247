@@ -1,0 +1,17 @@
+On the Criteria To Be Used in Decomposing Systems into Modules
+This paper discusses modularization as a mechanism
+for improving the flexibility ad comprehensibility 
+of a system while allowing the shortening of its development
+time.  The effectiveness of a "modularization" 
+is dependent upon the criteria used in dividing the
+system into modules.  A system design problem is
+presented and both a conventional and unconventional
+decomposition are described.  It is shown that the 
+unconventional decompositions have distinct advantages
+for the goals outlined.  The criteria used in 
+arriving at the decompositions are discussed.  The
+unconventional decomposition, if implemented with 
+the conventional assumption that a module consists of
+one or more subroutines, will be less efficient 
+in most cases.  An alternative approach to implementation
+which does not have this effect is sketched.

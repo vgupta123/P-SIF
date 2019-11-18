@@ -1,0 +1,15 @@
+numerical construction of detached shock waves .
+numerical construction of detached shock waves .
+  this article proposes a new method for solving the problem
+of the detached shock wave .  if the shock wave is assumed
+known, a cauchy problem for a system of partial differential
+equations arises .  this has been solved by several authors
+in the region where the system is elliptic (near the peak of
+the shock wave) .  considering the plane stationary case, the
+author seeks an analytic continuation of the propagation
+function (x,y) in the complex plane y = y1 + y2, x real .
+in the plane (x, y2) the propagation function satisfies a
+hyperbolic equation (near the peak of the shock wave) .  a
+new cauchy problem is solved and the solution of the original
+problem obtained by analytic continuation .  a numerical
+example is treated with many details .

@@ -1,0 +1,6 @@
+"Logical" Arithmetic on Computers
+with Two's Complement Binary Arithmetic
+Algorithms are presented for multiplication
+and division of unsigned integer operands in which 
+the digits normally reserved for signs participate as
+significant arithmetic digits with positive weight.

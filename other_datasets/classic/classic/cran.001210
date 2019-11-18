@@ -1,0 +1,13 @@
+on slender airfoil theory for nonequilibrium flow .
+on slender airfoil theory for nonequilibrium flow .
+  an exact linear theory for nonequilibrium flow past a thin
+airfoil is given .  green's function technique is used to solve the
+boundary value problem for the governing third order equation .
+upon satisfying the boundary condition on the airfoil surface an
+integral equation is obtained which has an exact solution .  the
+final expression for the velocity potential, given as an integral over
+the source strength times the green's function, shows that the
+solution is dependent not only on the slope variation of the airfoil
+but also on its curvature variation .  this turns out to be the case
+for all free-stream mach numbers .
+  as an example, the supersonic flow past a wedge is considered .

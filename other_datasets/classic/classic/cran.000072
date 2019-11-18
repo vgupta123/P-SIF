@@ -1,0 +1,41 @@
+boundary layer behind shock or thin expansion wave
+moving into stationary fluid .
+boundary layer behind shock or thin expansion wave
+moving into stationary fluid .
+  the boundary layer behind a shock or thin expansion wave advancing
+into a stationary fluid has been determined .  laminar and turbulent
+boundary layers were considered .  the wall surface temperature behind
+the wave was also investigated .  the assumption of a thin expansion
+wave is valid for weak expansions but becomes progressively less
+accurate for strong expansion waves .
+  the laminar-boundary-layer problem was solved by numerical
+integration except for the weak wave case,
+which can be solved analytically .
+integral (karman-pohlhausen type)
+solutions were also obtained to provide
+a guide for determining expressions
+which accurately represent the
+numerical data .  analytical expressions
+for various boundary-layer parameters
+are presented which agree with the
+numerical integrations within 1 percent .
+  the turbulent-boundary-layer problem was solved using integral
+methods similar to those employed for the
+solution of turbulent compressible
+flow over a semi-infinite flat plate .
+the fluid velocity, relative to
+the wall, was assumed to have a
+seventh-power profile .  the blasius
+equation, relating turbulent skin friction
+and boundary-layer thickness, was
+utilized in a form which accounted for compressibility .
+  consideration of the heat transfer to the wall permitted the wall
+surface temperature, behind the wave,
+to be determined .  the wall
+thickness was assumed to be greater than the
+wall thermal-boundary-layer
+thickness .  it was found that the wall
+temperature was uniform (as a
+function of distance behind the wave)
+for the laminar-boundary-layer case
+but varied with distance for the turbulent-boundary-layer case .

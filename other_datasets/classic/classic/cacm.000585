@@ -1,0 +1,23 @@
+Initial Experience With an Operating Multiprogramming System
+The Lewis Research Center has been using various
+forms and degrees of program simultaneity 
+in the operation of its modified Sperry-Rand Univac Scientific
+Model 1103 computer during the last five 
+years.  This simultaneity has evolved from an initial
+achievement of self-searching input and output 
+to the automatic time sharing of independently coded
+problems.  Several important machine and program 
+system modifications were necessary to accomplish this
+evolution.  Several additional modifications, 
+although not required, were added to facilitate ease
+of coding and operation.  All modifications had 
+to proceed at a relatively temperate pace to insure that
+the basic data-reduction work load of the computing 
+center was completed on schedule.  Some educationally
+valuable mistakes were made, and their suggested 
+cures often pointed the way to useful future improvements
+or emphasized some of the basic principles 
+of a multiprogramming system.  The material that follows
+is a description of the evolution of the programming 
+and hardware system which has developed into the present
+multiprogramming system at Lewis research Center.

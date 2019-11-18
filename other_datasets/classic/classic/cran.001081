@@ -1,0 +1,13 @@
+numerical solution of the navier-stokes equations for the flow around a
+circular cylinder at reynolds number 40 .
+numerical solution of the navier-stokes equations for the flow around a
+circular cylinder at reynolds number 40 .
+the steady two-dimensional flow around a circular cylinder submerged in
+a viscous fluid for the case r 40 is investigated, integrating
+numerically the exact navier-stokes equations . the main results are as
+follows . /i/ the steady flow solution exists even for the reynolds
+number as high as 40 . moreover, it seems that the solution goes over
+smoothly to the solution of the kirchhoff discontinuous flow theory
+which seems to be the limiting flow for the case r . /ii/ the flow
+pattern and the coefficients of pressure and drag are in good agreement
+with the experimental data .

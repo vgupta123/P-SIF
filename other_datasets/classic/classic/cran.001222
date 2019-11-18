@@ -1,0 +1,24 @@
+axisymmetric magnetohydrodynamic channel flow .
+axisymmetric magnetohydrodynamic channel flow .
+  the axisymmetric subsonic and supersonic flow fields, and the
+skin friction and heat transfer of an electrically conducting
+compressible fluid flowing in a channel of constant circular area
+through a magnetic field are investigated when the magnetic
+reynolds number is small .  the inviscid-flow field for flow
+through a dipole field is solved by the method of characteristics
+in the supersonic case .  for the subsonic case, linearized
+equations are derived for small values of the magnetic interaction
+parameter .  numerical results are obtained by the relaxation
+method .
+  the inviscid-flow-field solutions are used as boundary
+conditions for the laminar boundary layer along the wall, in which
+axial pressure gradients form an important feature .  the exact
+continuum-flow equations are reduced by an order-of-magnitude
+analysis to the boundary-layer equations, which are solved
+numerically by an integral method using a fourth-degree velocity
+profile and a fifth-degree stagnation-enthalpy profile .
+  pressure, temperature, and heat-transfer measurements are
+made with a shock tube under supersonic-flow conditions closely
+approaching those used in the numerical computations .
+general agreement is found between the theoretical and the
+experimental results .

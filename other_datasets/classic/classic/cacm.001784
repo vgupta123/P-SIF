@@ -1,0 +1,12 @@
+Practical Error Coefficients for Estimating
+Quadrature Errors for Analytic Functions
+All published error coefficients for estimating
+quadrature errors for analytic functions were 
+computed on the assumption that the quadrature rule
+was exact for polynomials up to a given degree.  
+Since these rules use rounded values for the abscissas and
+weights and since the true values of the integrals 
+of some of the polynomials in question have an infinite
+binary expression, the quadrature rule is not 
+exact.  Hence these errors must be taken into consideration
+in computing practical error coefficients.

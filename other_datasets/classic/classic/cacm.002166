@@ -1,0 +1,13 @@
+Automated Algebraic Manipulation in Celestial Mechanics
+In this paper we consider some of the applications
+of automated algebraic manipulation which 
+have been made in celestial mechanics.  Particular attention
+is paid to the use of Poisson series, and 
+a typical problem in perturbation theory is described.
+ The requirements of processors for use in celestial 
+mechanics are considered and compared with those for general
+manipulation packages.  Some future directions 
+for research using these systems are briefly outlined.
+ To illustrate the relative simplicity of the 
+algorithm required in celestial mechanics, a typical
+integration problem is considered in an appendix. 

@@ -1,0 +1,15 @@
+Secure Communications Over Insecure Channels
+According to traditional conceptions of cryptographic
+security, it is necessary to transmit 
+a key, by secret means, before encrypted messages can
+be sent securely.  This paper shows that it is 
+possible to select a key over open communications channels
+in such a fashion that communications security 
+can be maintained.  A method is described which forces
+any enemy to expend an amount of work which increases 
+as the square of the work required of the two communicants
+to select the key.  The method provides a 
+logically new kind of protection against the passive
+eaves dropper.  It suggests that further research 
+on this topic will be highly rewarding, both
+in a theoretical and a practical sense.

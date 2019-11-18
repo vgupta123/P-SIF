@@ -1,0 +1,12 @@
+A Contribution to the Development of ALGOL
+A programming language similar in many respects
+to ALGOL 60, but incorporating a large number 
+of improvements based on six years experience with that
+language, is described in detail.  Part I consists 
+of an introduction to the new language and a summary
+of the changes made to ALGOL 60, together with a 
+discussion of the motives behind there visions.  Part II
+is a rigorous definition of the proposed language. 
+ Part III describes a set of proposed standard procedures
+to be used with the language, including facilities 
+for input/output.

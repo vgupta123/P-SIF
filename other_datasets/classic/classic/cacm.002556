@@ -1,0 +1,12 @@
+Adaptive Correction of Program Statements
+A method of analyzing statements in a programming
+language which can tolerate a considerable 
+inaccuracy in their specification is proposed. This method
+involves principles at present mainly confined 
+to studies in the area of artificial intelligence such
+as feature extraction, approximate tree matching, 
+and strategy improvement by feedback from the matching process.
+ A pilot program incorporating the principles 
+is described and preliminary operating results are presented.
+ A final section surveys further principles 
+which are currently being investigated.

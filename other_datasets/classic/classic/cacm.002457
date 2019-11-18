@@ -1,0 +1,10 @@
+Inductive Methodsfor Proving Properties of Programs
+There are two main purposes in this paper:
+first, clarification and extension of known results 
+about computation of recursive programs, with emphasis
+on the difference between the theoretical and 
+practical approaches; second, presentation and examination
+of various known methods for proving properties 
+of recursive programs.  Discussed in detail are two
+powerful inductive methods computational induction 
+and structural induction, including examples of their applications.

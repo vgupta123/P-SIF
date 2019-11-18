@@ -1,0 +1,17 @@
+application of inequality constraints to variational
+problems of lifting re-entry .
+application of inequality constraints to variational
+problems of lifting re-entry .
+  inequality constraints are introduced into the variational
+formulation of the optimum re-entry problem for a lifting
+vehicle to prevent human and or structural tolerances from being
+exceeded .  these constraints consist of minimum and maximum
+angle of attack, maximum load factor, and maximum convective
+heat transfer (equilibrium temperature) .
+  the equations have been programed for the ibm 704
+computer, and sample trajectories are presented for which the total
+heat transferred to certain critical areas on the windward
+surface of the vehicle is minimized .  these trajectories indicate the
+dominant effect of the constraints on the optimum flight path,
+which is shown to consist of both unconstrained and constrained
+arcs .

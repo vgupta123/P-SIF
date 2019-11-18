@@ -1,0 +1,18 @@
+A Software Design and Evaluation System
+A critical failure of current software system
+design and implementation methodology is that 
+the performance of a proposed design is not evaluated
+before it is actually implemented.  In this paper 
+the reasons for this failure are explored, and a new methodology
+which overcomes many of the difficulties 
+is proposed.  A system which integrates performance evaluation
+with design and implementation is described. 
+ This system is based on a simple, high level language
+which is used to describe the evolving system 
+at all stages of its development.  The source language
+description is used as direct input to performance 
+analysis and simulation routines.  Using the performance
+information obtained from these routines as 
+feedback, the problems which adversely affect performance
+are detected early enough so that they can 
+be corrected without costly major reimplementation of the proposed system.

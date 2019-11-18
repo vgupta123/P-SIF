@@ -1,0 +1,13 @@
+Some Complete Calculi for Matrices
+A matrix calculus is introduced with the intention of developing data structures
+suitable for a high level algorithmic language for mathematical programming.  
+The paper investigates how the special structure of matrices can be described
+and utilized for efficient computing by saving memory space and
+superfluous operations.  Sequences of Matrices (and sequences of sequences
+of matrices) are considered, and matrix operators areext
+ended to sequence operators and cumulative operators.  Algorithms
+are given which use symbol manipulation of matrix expressions so
+as to find the forms best suited for computation.  These forms are
+called normal forms.  Several completeness results are obtained
+in the sense that for each expression an equivalent expression
+in normal form can be found within a specified calculus.

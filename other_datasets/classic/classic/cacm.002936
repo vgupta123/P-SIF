@@ -1,0 +1,14 @@
+An Efficient Data Structure for the Simulation Event Set
+Recently algorithms have been presented for the
+realization of event scheduling routines suitable 
+for general purpose discrete event simulation systems.
+ Several exhibited a performance superior to that 
+of commonly used simple linked list algorithms.  In this
+paper a new event scheduling algorithm is presented 
+which improves on two aspects of the best of the previously
+published algorithms.  First, the new algorithm's 
+performance is quite insensitive to skewed distributions,
+and second, its worst-case complexity is O( 
+n), where n is the number of events in the set.  Furthermore,
+tests conducted to estimate the average 
+complexity showed it to be nearly independent of n.

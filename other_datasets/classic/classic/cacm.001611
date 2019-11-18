@@ -1,0 +1,8 @@
+Scheduling Project Networks
+Some of the basic concepts and terminology
+of project networking are developed.  The Critical 
+Path Algorithm incorporated in the C-E-I-R proprietary
+scheduling system RAMPS (Resource Allocation and 
+Multi-Project Scheduling) is described.  The error detection
+and network analysis features of the algorithm 
+are also described.

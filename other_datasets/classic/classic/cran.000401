@@ -1,0 +1,38 @@
+inviscid hypersonic airflows with coupled non-equilibrium
+processes .
+inviscid hypersonic airflows with coupled non-equilibrium
+processes .
+  analyses have been made of the effects of coupled chemical rate
+processes in external inviscid hypersonic airflows at high enthalpy
+levels .  exact (numerical) solutions have been obtained by the
+inverse method for inviscid airflow over a near-spherical nose
+under flight conditions where substantial nonequilibrium prevails
+through the nose region .  typical conditions considered include
+nose radii of the order of 1 ft at an altitude of 250,000 ft and
+velocities of 15,000 and 23,000 ft per sec .
+  the results illustrate the general importance of the coupling
+among the reactions considered .  these included
+dissociation-recombination, bimolecular-exchange, and ionization reactions .
+the exact solutions show the bimolecular, no exchange reactions
+to be important in blunt-nose flow for the kinetics of no and n,
+as they are in the case of a plane shock wave .  an important
+difference between blunt-nose flow and plane shock flow,
+however, is the gasdynamic expansion in the curved shock layer of the
+former .  this expansion reduces post-shock reaction rates .  as a
+consequence, in the regime studied the oxygen and nitrogen-atom
+concentrations tend to freeze in the nose region at levels below
+those for infinite-rate equilibrium .  the reduction below the
+equilibrium dissociation level can be large, particularly for
+nitrogen dissociation at higher velocities .
+  in the regime considered, the chemical kinetics are dominated
+by two-body collision processes .  the inviscid nose flow,
+including coupled nonequilibrium phenomena, is thus amenable to
+binary scaling for a given velocity .  the binary scaling is
+demonstrated for a range of altitude and scale by correlation of the
+exact solutions for given velocity and a constant product of
+ambient density and nose radius .  this similitude, which can
+also scale viscous nonequilibrium and radiation phenomena in the
+shock layer, provides a useful flexibility for hypersonic testing
+where it is applicable .
+  the afterbody inviscid-flow problem is briefly discussed in the
+light of the results for the nose flow .

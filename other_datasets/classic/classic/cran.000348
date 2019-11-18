@@ -1,0 +1,18 @@
+turbulent boundary layer in compressible fluids .
+turbulent boundary layer in compressible fluids .
+  the continuity, momentum, and energy differential equations
+for turbulent flow of a compressible fluid are derived, and the
+apparent turbulent stresses and dissipation function are
+identified .  a general formula for skin friction, including heat
+transfer to a flat plate, is developed for a thin turbulent boundary
+layer in compressible fluids with zero pressure gradient .  curves
+are presented giving skin-friction coefficients and heat-transfer
+coefficients for air for various wall-to-free-stream temperature
+ratios and free-stream mach numbers .
+  in the special case when the boundary layer is insulated, this
+general formula yields skin-friction coefficients higher than those
+given by the von karman wall-property compressible-fluid
+formula but lower than those given by the von karman
+incompressible-fluid formula .  heat transfer from the boundary layer
+to the plate generally increases the friction and heat-transfer
+coefficients .

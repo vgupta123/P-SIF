@@ -1,0 +1,30 @@
+similarity laws for aerothermoelastic testing .
+similarity laws for aerothermoelastic testing .
+  the similarity laws for aerothermoelastic testing are presented
+in the range .  these are obtained by
+making nondimensional the appropriate governing equations of
+the individual external aerodynamic flow, heat conduction to
+the interior, and stress-deflection problems which make up the
+combined aerothermoelastic problem .
+  for the general aerothermoelastic model, where the model is
+placed in a high-stagnation-temperature wind tunnel, similitude
+is shown to be very difficult to achieve for a scale ratio other
+than unity .  the primary conflict occurs between the
+free-stream mach number reynolds number aeroelastic
+parameter heat conduction parameter and
+thermal expansion parameter .
+  means of dealing with this basic conflict are presented .  these
+include (1) looking at more specialized situations, such as the
+behavior of wing structures and of thin solid plate lifting surfaces,
+and panel flutter, where the aerothermoelastic similarity
+parameters assume less restrictive forms, (2) the use of /incomplete
+aerothermoelastic/ testing in which the pressure and/or heating
+rates are estimated in advance and applied artificially to the
+model, and (3) the use of /restricted purpose/ models
+investigating separately one or another facet of the complete
+aerothermoelastic problem .
+  some numerical examples of modeling for the general
+aerothermoelastic case as well as for the specialized situations
+mentioned in (1) above are given .
+  finally, extension of the aerothermoelastic similarity laws to
+higher speeds and temperatures is discussed .

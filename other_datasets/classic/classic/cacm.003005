@@ -1,0 +1,17 @@
+Implications of Structured Programming for Machine Architecture
+Based on an empirical study of more than 10,000
+lines of program text written in a GOTO-less 
+language, a machine architecture specifically designed for
+structured programs is proposed.  Since assignment, 
+CALL, RETURN, and IF statements together account for
+93 percent of all executable statements, special 
+care is given to ensure that these statements can be implemented
+efficiently.  A highly compact instruction 
+encoding scheme is presented, which can reduce program
+size by a factor of 3.  Unlike a Huffman code, 
+which utilizes variable length fields, this method uses
+only fixed length (1-byte) op code and address 
+fields.  The most frequent instructions consist of a
+single 1-byte field.  As a consequence, instruction 
+decoding time is minimized, and the machine is
+efficient with respect to both space and time.

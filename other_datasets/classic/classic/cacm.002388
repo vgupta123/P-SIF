@@ -1,0 +1,12 @@
+Optimizing Binary Trees Grown With a Sorting Algorithm
+Items can be retrieved from binary trees grown
+with a form of the Algorithm Quicksort in an 
+average time proportional to log n, where n is the number
+of items in the tree.  The binary trees grown 
+by this algorithm sometimes have some branches longer
+than others; therefore, it is possible to reduce 
+the average retrieval time by restructuring the tree to
+make the branches as uniform in length as possible. 
+ An algorithm to do this is presented.  The use of this
+algorithm is discussed, and it is compared with 
+another which restructures the tree after each new item is added.

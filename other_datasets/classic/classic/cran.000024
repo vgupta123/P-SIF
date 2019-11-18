@@ -1,0 +1,33 @@
+theory of stagnation point heat transfer in dissociated
+air .
+theory of stagnation point heat transfer in dissociated
+air .
+  the boundary-layer equations are developed in general for the
+case of very high speed flight where the external flow is in a
+dissociated state .  in particular the effects of diffusion and of atom
+recombination in the boundary layer are included .  it is shown
+that at the stagnation point the equations can be reduced exactly
+to a set of nonlinear ordinary differential equations even when the
+chemical reactions proceed so slowly that the boundary layer is
+not in thermochemical equilibrium .
+  two methods of numerical solution of these stagnation point
+equations are presented, one for the equilibrium case and the
+other for the nonequilibrium case .  numerical results are
+correlated in terms of the parameters entering the numerical
+formulation so as not to depend critically on the physical assumptions
+made .
+  for the nonequilibrium boundary layer, both catalytic (to
+atom recombination) and noncatalytic wall surfaces are
+considered .  a solution is represented which shows the transition
+from the /frozen/ boundary layer (very slow recombination
+rates) to the equilibrium boundary layer (fast recombination rates) .
+a recombination rate parameter is introduced to interpret the
+nonequilibrium results, and it is shown that a scale factor is
+involved in relating the equilibrium state of a boundary layer on
+bodies of different sizes .
+  it is concluded that the heat transfer through the equilibrium
+stagnation point boundary layer can be computed accurately by
+a simple correlation formula and that the heat
+transfer is almost unaffected by a nonequilibrium state of the
+boundary layer provided the wall is catalytic and the lewis
+number near unity .

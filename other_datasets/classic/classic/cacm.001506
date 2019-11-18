@@ -1,0 +1,16 @@
+The LACONIQ Monitor: Time Sharing for Online Dialogues
+The LACONIQ (Laboratory Computer Online Inquiry)
+Monitor was developed primarily to support 
+non-numerical applications such as retrieval from very
+large files by means of a "dialogue" between a 
+system user and a retrieval application.  The monitor
+was designed so that it could work with a small 
+computer (an IBM System 360/30).  Therefore techniques
+for resource allocation were important.  For this 
+reason the use of core storage, computational facilities,
+and input-output were all scheduled.  An unusual 
+feature of the system is that it is event-driven rather
+than clock-driven.  The program segments called 
+into execution by the remote CRT consoles are invariably
+run to completion rather than "rolled-out" to 
+be brought back at a later time.

@@ -1,0 +1,44 @@
+piston theory - a new aerodynamic tool for the
+aeroelastician .
+piston theory - a new aerodynamic tool for the
+aeroelastician .
+  representative applications are described which illustrate the
+extent to which simplifications in the solutions of high-speed
+unsteady aeroelastic problems can be achieved through the use of
+certain aerodynamic techniques known collectively as /piston
+theory ./  based on a physical model originally proposed by
+hayes and lighthill, piston theory for airfoils and finite wings
+has been systematically developed by landahl, utilizing
+expansions in powers of the thickness ratio and the inverse of the
+flight mach number m .  when contributions of orders and
+are negligible, the theory predicts a point-function
+relationship between the local pressure on the surface of a wing and the
+normal component of fluid velocity produced by the wing's
+motion .  the computation of generalized forces in aeroelastic
+equations, such as the flutter determinant, is then always
+reduced to elementary integrations of the assumed modes of motion .
+  essentially closed-form solutions are given for the bending-
+torsion and control-surface flutter properties of typical section
+airfoils at high mach numbers .  these agree well with results of
+more exact theories wherever comparisons can be fairly made .
+moreover, they demonstrate the increasingly important influence
+of thickness and profile shape as m grows larger, a discovery that
+would be almost impossible using other available aerodynamic
+tools .  the complexity of more practical flutter analyses-e.g., on
+three-dimensional wings and panels-is shown to be substantially
+reduced by piston theory .  an iterative procedure is outlined, by
+which improved flutter eigenvalues can be found through the
+successive introduction of higher-order terms in and  .
+  other applications to unsteady supersonic problems are
+reviewed, including gust response and rapid maneuvers of elastic
+aircraft .  steady-state aeroelastic calculations are also discussed,
+but for them piston theory amounts only to a slight modification
+of ackeret's formulas .
+  suggestions are made regarding future research based on the
+new aerodynamic method, with particular emphasis on areas where
+computational labor can be reduced with a minimum loss of
+precision .  it is pointed out that a mach number zone exists where
+thermal effects are appreciable but nonlinear viscous interactions
+may be neglected, and that in this zone piston theory is the logical
+way of estimating air loads when analyzing aerodynamic-
+thermoelastic interaction problems .

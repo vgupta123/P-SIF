@@ -1,0 +1,10 @@
+String Similarity and Misspellings
+The problem of programming a computer to determine
+whether or not a string of characters is 
+a misspelling of a given word was considered.  A numberof
+algorithms were evaluated-some proposed by 
+other writers, some by the author.  These techniques
+were tested on a collection of misspellings made 
+by students at various grade levels.  While many of
+the methods were clearly unsatisfactory, some gave 
+as few as 2.1 percent incorrect determinations.

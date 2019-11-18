@@ -1,0 +1,33 @@
+a systematic kernel function procedure for determining aerodynamic
+forces on oscillating or steady finite wings at subsonic speeds .
+a systematic kernel function procedure for determining aerodynamic
+forces on oscillating or steady finite wings at subsonic speeds .
+a detailed description is given of a method of approximating solutions
+to the integral equation that relates oscillatory or steady lift and
+downwash distributions on finite wings in subsonic flow . the method of
+solution is applicable to general plan forms with either curved or
+straight leading and trailing edges . moreover, it is directly
+applicable to control surfaces such as all-movable tails but modifications
+are needed to apply it to controls in general . applications of the
+method involve evaluations of numerous integrals that must be handled by
+ numerical procedures but systematic schemes of evaluations have been
+adopted that are well suited to the routines of automatic digital
+computing machines . these schemes of evaluation have been incorporated in
+a program for an ibm 704 electronic data processing machine . with this
+machine, a pressure distribution together with such quantities as
+section or total lift and moment coefficients or generalized forces can be
+determined for a given value of frequency and mach number and for
+several /four or five/ modes of oscillation in about 4 minutes of
+machine time . in the case of steady downwash conditions corresponding
+quantities can be obtained in about 2 minutes of machine time .
+in order to illustrate applications of the method, results of several
+calculations are presented . in these illustrations total forces and
+moments are compared /1/ with results of analytic procedures for a
+circular plan form with steady downwash conditions, /2/ with results of
+other theories and with experiment for a rectangular plan form of aspect
+ ratio 1 at a uniform angle of attack, and /3/ with some experimental
+results for a rectangular plan form of aspect ratio 2 undergoing
+pitching and flapping oscillations . also included in the illustrations are
+results of flutter calculations compared with experimental results for
+an allmovable control surface of aspect ratio 3.50 and for a
+cantilevered rectangular plan form of aspect ratio 5.04 .

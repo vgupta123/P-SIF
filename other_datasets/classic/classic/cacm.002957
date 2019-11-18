@@ -1,0 +1,22 @@
+Database Abstractions: Aggregation
+Aggregation is in troduced as an abstraction
+which is important in conceptualizing the real 
+world.  Aggregation transforms a relationship between
+objects into a higher-level object.  A new data 
+type, called aggregation, is developed which, under
+certain criteria of "well-definedness," specifies 
+aggregation abstractions.  Relational databases defined
+as collections of aggregates are structured as 
+a hierarchy on n-ary relations.  To main tain well-definedness,
+update operations on such databases must 
+preserve two invariants.  Well-defined relations are
+distinct from relations in third normal form.  It 
+is shown that these notions are complementary and both are
+important in database design.  A top-down 
+methodology for database design is described which separates
+decisions concerning aggregate structure 
+from decisions concerning key identification.  It is
+suggested that aggregate types, and other types 
+which support real-world abstractions without in troducing
+implementation detail, should be incorporated 
+into programming languages.

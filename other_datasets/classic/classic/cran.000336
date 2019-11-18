@@ -1,0 +1,12 @@
+simplified laminar boundary layer calculations for
+bodies of revolution and for yawed wings .
+simplified laminar boundary layer calculations for
+bodies of revolution and for yawed wings .
+  since the introduction of momentum methods in
+boundary-layer calculations by von karman and pohlhausen, many
+improvements have been proposed .  an especially simple solution
+reduces the problem to a quadrature .  here, it is proposed to
+extend these methods to elementary three-dimensional cases and to
+compressible laminar boundary-layer calculations .  for
+comparison, the corresponding problems for the turbulent boundary
+layer are also discussed briefly .

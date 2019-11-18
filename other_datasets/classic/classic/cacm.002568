@@ -1,0 +1,21 @@
+A Graph Formulation of a School Scheduling Algorithm
+The problem classically titled "The Examination
+Schedule Problem" takes various forms in the 
+literature.  Most of these formulations can be presented
+in the terminology of classical Network Theory. 
+ One such formulation is:  Given a nondirected network,
+partition its nodes into a minimal number of 
+subsets such that no two members of the same subset
+are connected by anarc.  An obvious lower limit 
+to this number is the size of the largest strongly connected
+subgraph.  Kirchgassner proved that an upper 
+limit is this size plus one.  One logical extension of
+the previous work is the introduction of variable 
+length examinations where W(I) is the number of periods
+for exam I.  The object of this paper is to generalize 
+the definition of largest strongly connected subgraph
+to include the weighting of nodes, to present an 
+approximate algorithm which usually finds the largest
+strongly connected subgraph, and to discuss the 
+application of this algorithm to the solution of
+school scheduling and exam scheduling problems.

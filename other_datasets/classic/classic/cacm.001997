@@ -1,0 +1,14 @@
+Increasing the Efficiency of Quicksort
+A method is presented for the analysis of various generalizations of
+quicksort.  The average asymptotic number of comparisons needed is shown
+ to be an log^2(n).  A formula is derived expressing a in terms of
+the probability distribution of the "bound" of a partition.  This
+ formula assumes a particularly simple form for a generalization already
+considered by Hoare, namely, choice of the bound as median
+of a random sample. The main contribution of this paper is another
+generalization of quicksort, which uses a bounding interval instead
+of a single element as bound.  This generalization turns out to
+be easy to implement in a computer program.  A numerical approximation
+shows that a = 1.140 for this version of quicksort compared with
+1.386 for the original.  This implies a decrease in number of comparisons of 
+18 percent; actual tests showed about 15 percent saving in computing time.

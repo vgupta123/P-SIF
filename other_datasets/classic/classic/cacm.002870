@@ -1,0 +1,18 @@
+A Lattice Model of Secure Information Flow
+This paper investigates mechanisms that guarantee
+secure information flow in a computer system. 
+These mechanisms are examined within a mathematical framework
+suitable for formulating the requirements 
+of secure information flow among security classes. The
+central component of the model is a lattice structure 
+derived from the security classes and justified by the semantics
+of information flow.  The lattice properties 
+permit concise formulations of the security requirements
+of different existing systems and facilitate 
+the construction of mechanisms that enforce security.
+ The model provides a unifying view of all systems 
+that restrict information flow, enables a classification
+of them according to security objectives, and 
+suggests some new approaches.  It also leads to the construction
+of automatic program certification mechanisms 
+for verifying the secure flow of information through a program.

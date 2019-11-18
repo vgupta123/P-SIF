@@ -1,0 +1,18 @@
+Prevention of System Deadlocks
+A well-known problem in the design of operating
+systems is the selection of a resource allocation 
+policy that will prevent deadlock.  Deadlock is the
+situation in which resources have been allocated 
+to various tasks in such a way that none of the tasks
+can continue.  The various published solutions 
+have been somewhat restrictive: either they do not handle
+the problem in sufficient generality or they 
+suggest policies which will on occasion refuse a request
+which could have been safely granted.  Algorithms 
+are presented which examine a request in the light of
+the current allocation of resources and determine 
+whether or not the granting of the request will introduce
+the possibility of a deadlock.  Proofs given 
+in the appendixes show that the conditions imposed by
+the algorithms are both necessary and sufficient 
+to prevent deadlock.  The algorithms have been successfully used in the THE system.	

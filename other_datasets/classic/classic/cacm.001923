@@ -1,0 +1,7 @@
+Pseudofiles
+An approach to system interfaces for high
+level languages using basic input/output support 
+facilities is described.  It is shown that this technique
+can provide potentially inexpensive methods 
+for programs to communicate with deeply embedded
+facilities such as command language processors.

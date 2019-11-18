@@ -1,0 +1,13 @@
+An Event-Driven Compiling Technique
+Due to the linear structure of source text, difficulties may arise in a 
+one-pass compilation process.  These difficulties occur when an entity
+cannot be processed because of a forward reference to information
+only obtainable from subsequent entities.  Classic solutions
+ask for data structures appropriate for each case.  A technique is
+presented here which uses instead control structures, namely events
+and processes.  The work of the compiler-writer becomes easier both
+conceptually and in practice because he can forget these problems
+at the outset and he avoids special processing for each problem.
+This technique has been applied to the construction of an Algol
+68 compiler.  Three examples from that implementation
+are described and discussed here.

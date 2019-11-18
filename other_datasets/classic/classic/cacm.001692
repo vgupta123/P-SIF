@@ -1,0 +1,8 @@
+Numerical Solution of a Thin Plate Heat Transfer Problem
+The numerical solution of a system of linear
+equations resulting from a discrete approximation 
+to a thin plate heat transfer problem is considered.
+ The slow convergence of point iterative methods 
+is analyzed and shown to be caused by one of the boundary
+conditions. The difficulty may be removed by 
+a standard line iterative technique.

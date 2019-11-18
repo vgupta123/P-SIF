@@ -1,0 +1,17 @@
+Compact List Representation: Definition,
+Garbage Collection, and System Implementation
+Compact lists are stored sequentially in memory,
+rather than chained with pointers.  Since 
+this is not always convenient, the Swym system permits
+a list to be chained, compact, or any combination 
+of the two.  A description is given of that list representation
+and the operators implemented (most are 
+similar to those of LISP 1.5).  The system garbage collector
+attempts to make all lists compact; it relocates 
+and rearranges all of list storage using temporary storage.
+ This unique list-compacting garbage collection 
+algorithm is presented in detail.  Several classes of the
+macros used to implement the system are described. 
+ Finally, consideration is given to those design factors
+essential to the success of a plex processing 
+system implementation.

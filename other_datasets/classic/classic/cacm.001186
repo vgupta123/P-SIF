@@ -1,0 +1,8 @@
+Recursive Solution of a Class Of Combinatorial Problems: An Example
+Combinatorial problems requiring the selection
+of n elements from a set of m elements may be 
+solved by a recursion process analogous to that for
+computing binomial coefficients.  Several specific 
+problems are analyzed, the general technique is exposed,
+and an ALGOL program is developed for one of 
+the problems.

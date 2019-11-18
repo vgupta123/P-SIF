@@ -1,0 +1,12 @@
+Machine Calculation of Moments of a Probability Distribution
+A method is presented for the calculation on a
+machine of the moments of a probability distribution, 
+necessitating little more than n additions and n references
+to memory for each moment, instead of the 
+minimum of n multiplication, 2n additions, and 2n references
+to memory required by the most straightforward 
+method (where n is the number of entries in the probability
+distribution).  The method is directly applicable 
+when a tabulated distribution exists, as when it has
+been computed by repeated convolution; but in this 
+case it conserves both time and accuracy.

@@ -1,0 +1,12 @@
+On Self-Organizing Sequential Search Heuristics
+This paper examines a class of heuristics for
+maintaining a sequential list in approximately 
+optimal order with respect to the average time required
+to search for a specified element, assuming that 
+each element is searched for with a fixed probability
+independent of previous searches performed.  The 
+"move to front" and "transposition" heuristics are shown
+to be optimal to within a constant factor, and 
+the transposition rule is shown to be the more efficient
+of the two. Empirical evidence suggests that 
+transposition is in fact optimal for any distribution of search probabilities.

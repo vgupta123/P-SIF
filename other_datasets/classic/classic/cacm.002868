@@ -1,0 +1,14 @@
+Reflections on an Operating System Design
+The main features of a general purpose multiaccess
+operating system developed for the CDC 6400 
+at Berkeley are presented, and its good and bad points are
+discussed as they appear in retrospect.  Distinctive 
+features of the design were the use of capabilities
+for protection, and the organization of the system 
+into a sequence of layers, each building on the facilities
+provided by earlier ones and protecting itself 
+from the malfunctions of later ones. There were serious
+problems in maintaining the protection between 
+layers when levels were added to the memory hierarchy;
+these problems are discussed and a new solution 
+is described.

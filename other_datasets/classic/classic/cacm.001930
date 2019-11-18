@@ -1,0 +1,18 @@
+Extremely Portable Random Number Generator
+Extremely portable subroutines are sometimes
+needed for which moderate quality and efficiency 
+suffice.  Typically, this occurs for library functions
+(like random number generation and in core sorting) 
+which are not entirely universal or are not used in a
+standardized way.  The literature on random number 
+generators does not seem to contain an algorithm that
+meets requirements of this sort.  An extremely 
+portable 8-line FORTRAN program is provided which based
+on an important paper by Coveyou and MacPherson 
+(1967).Using their methods, Fourier analysis is applied
+to the probability function for the consecutive 
+n-tuples provided by our generator (with n less than
+or equal to 4).  While the small modulus which must 
+be used to maintain portability prevents the quality
+of the generator from being high, the generator 
+compares well with the bounds established in the above mentioned paper.

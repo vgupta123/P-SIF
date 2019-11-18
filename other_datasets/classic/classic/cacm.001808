@@ -1,0 +1,8 @@
+Advanced Cryptographic Techniques for Computers
+Cryptographic techniques which can be used to
+maintain the confidentiality of information processed 
+by computers are dealt with.  Special emphasis is paid
+to the unique characteristics of computer files 
+that make many cryptographic methods of little use.
+ Relative security, costs, and preferred methods 
+are included in this paper.

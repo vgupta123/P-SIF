@@ -1,0 +1,13 @@
+An ALGOL Compiler: Construction and Use
+in Relation to an Elaborate Operating System
+An ALGOL translator has been prepared and integrated
+into the IBSYS Operating System.  Assembly 
+and "go" features of IBSYS permit immediate execution with
+optional listings, decks and debugging information. 
+ Using the chain feature of IBSYS, links written in
+MAP or FORTRAN as well as ALGOL may be called by 
+the ALGOL main program.  In addition, procedures coded
+in MAP may be included in any ALGOL program.  
+Although assembly plus loading time exceeds compilation
+time, the total time is satisfactory and the 
+user gets ease and facility which are fully compensating.

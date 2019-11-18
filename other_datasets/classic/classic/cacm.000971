@@ -1,0 +1,9 @@
+Time Sharing in a Traffic Control Program
+The Toronto traffic signal control system consists
+of a variety of logically distinct computer 
+programs, all competing for machine time.  To satisfy
+these demands, a time-sharing program has been 
+written whose purpose is to execute, in the order of a
+predefined priority, the various subprograms within 
+the real-time system.  In this paper the more interesting
+aspects of the time-sharing program are outlined.

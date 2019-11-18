@@ -1,0 +1,8 @@
+A Theory of Discrete Patterns and Their Implementation in SNOBOL4
+The notion of a discrete pattern is formalized
+and certain properties deduced.  A pattern is 
+shown to be a generalization of a formal language. 
+Algorithms for implementing the kinds of patterns 
+in SNOBOL4 are given.  The general approach is to create,
+in-so-far as possible, a bottom-up parse from 
+a top-down specification.

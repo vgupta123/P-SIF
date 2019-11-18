@@ -1,0 +1,18 @@
+Display Procedures
+Although the use of structured display files
+is widespread in interactive computer graphics, 
+these structures present a number of problems which
+tend to restrict their generality and usefulness. 
+ This paper discusses some of these problems, and suggests an
+alternative approach to display system 
+design which avoids the use of structured display files.
+ This technique employs display procedures to 
+generate information for display.  By including transformations
+within calls to these procedures it is 
+possible both to simplify the specification of pictures
+and to speed up their generation.  Display procedures 
+permit picture elements to be defined conditionally
+and also facilitate the processing of inputs from 
+pointing devices.  The paper is illustrated by examples
+from aversion of the EULER language in which 
+display procedures were implemented.

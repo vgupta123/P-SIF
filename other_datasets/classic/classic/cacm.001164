@@ -1,0 +1,10 @@
+Emulation of Large Systems
+The conversion problem and a new technique
+called emulation are discussed.  The technique of 
+emulation is developed and includes sections on both the
+Central Processing Unit (CPU) and the Input/Output 
+unit (I/O).  This general treatment is followed by three
+sections that describe in greater detail the 
+implementation of compatibility features using the emulation
+techniques for the IBM 7074, 7080 and 7090 
+systems on IBM System/360.

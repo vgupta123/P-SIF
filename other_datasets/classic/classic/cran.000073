@@ -1,0 +1,33 @@
+investigation of the stability of the laminar boundary
+layer in a compressible fluid .
+investigation of the stability of the laminar boundary
+layer in a compressible fluid .
+  in the present report the stability of two-dimensional laminar
+flows of a gas is investigated by the method of small perturbations .
+the chief emphasis is placed on the case of the laminar boundary layer .
+  part 1 of the present report deals with the general mathematical
+theory .  the general equations governing one normal mode of the small
+velocity and temperature disturbances are derived and studied in great
+detail .  it is found that for reynolds numbers of the order of those
+encountered in most aerodynamic problems, the temperature disturbances
+have only a negligible effect on those particular velocity solutions
+which depend primarily on the viscosity coefficient (/viscous
+solutions/) .  indeed, the latter are actually of the same form in the
+compressible fluid as in the incompressible fluid, at least to the first
+approximation .  because of this fact, the mathematical analysis is
+greatly simplified .  the final equation determining the characteristic
+values of the stability problem depends on the /inviscid solutions/ and
+the function of tietjens in a manner very similar to the case of the
+incompressible fluid .  the second viscosity coefficient and the
+coefficient of heat conductivity do not enter the problem,. only the
+ordinary coefficient of viscosity near the solid surface is involved .
+  part 2 deals with the limiting case of infinite reynolds numbers .
+the study of energy relations is very much emphasized .  it is shown
+that the disturbance will gain energy from the main flow if the gradient
+of the product of mean density and mean vorticity near the solid surface
+has a sign opposite to that near the outer edge of the boundary layer .
+  a general stability criterion has been obtained in terms of the
+gradient of the product of density and vorticity, analogous to the
+rayleigh-tollmien criterion for the case of an incompressible fluid .
+if this gradient vanishes for some value of the velocity ratio of the
+main flow exceeding 1-1/m (where m is the free stream mach number) .

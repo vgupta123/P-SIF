@@ -1,0 +1,14 @@
+NEATER2: A PL/I Source Statement Reformatter
+NEATER2 accepts a PL/I source program and operates on it to produce
+a reformatted version.  When in the LOGICAL mode, NEATER2 indicates
+the logical structure of the source program in the indentation
+pattern of its output.  Logic errors discovered through NEATER2
+logical analysis are discovered much more economically than is possible
+through compilation and trial runs.  A number of options are
+available to give the user full control over the output format and
+to maximize the utility of NEATER2 as an aid during the early
+stages of development of a PL/I source deck.  One option, USAGE, causes
+NEATER2 to insert into each logical unit of coding a statement
+which will case the number of times each one is executed to be recorded
+during execution.  This feature is expected to provide a
+major aid in optimization of PL/I programs.

@@ -1,0 +1,10 @@
+An Automatic Grading Scheme for Simple Programming Exercises
+A discussion is given of alterations that were
+made to a typical university operating system 
+to record the results of programming exercises in three
+different languages, including assembly language. 
+ In this computer-controlled grading scheme provision
+is made for testing with programmer-supplied data 
+and for final runs with system-supplied data.  Exercises
+run under the scheme may be mixed with other 
+programs, and no special recognition of exercises by the operators is necessary.

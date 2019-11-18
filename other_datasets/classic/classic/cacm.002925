@@ -1,0 +1,20 @@
+Optimal Surface Reconstruction from Planar Contours
+In many scientific and technical endeavors,
+a three-dimensional solid must be reconstructed 
+from serial sections, either to aid in the comprehension
+of the object's structure or to facilitate its 
+automatic manipulation and analysis.  This paper presents
+a general solution to the problem of constructing 
+a surface over a set of cross-sectional contours. 
+This surface, to be composed of triangular tiles, 
+is constructed by separately determining an optimal
+surface between each pair of consecutive contours.
+ Determining such a surface is reduced to the problem
+of finding certain minimum cost cycles in a directed 
+toroidal graph.  A new fast algorithm for finding such
+cycles is utilized.  Also developed is a closed-form 
+expression, in term of the number of contour poin ts, for
+an upper bound on the number of operations required 
+to execute the algorithm.  An illustrated example which
+involves the construction of a minimum area surface 
+describing a human head is included.

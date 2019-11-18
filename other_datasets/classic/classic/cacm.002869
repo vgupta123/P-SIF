@@ -1,0 +1,8 @@
+Security Kernel Validation in Practice
+A security kernel is a software and hardware
+mechanism that enforces access controls within 
+a computer system. The correctness of a security kernel
+on a PDP-11/45 is being proved.  This paper describes 
+the technique used to carry out the first step of the
+proof: validating a formal specification of the 
+program with respect to a axioms for a secure system.

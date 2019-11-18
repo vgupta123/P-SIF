@@ -1,0 +1,38 @@
+the solution of the equations of the laminar boundary
+layer for schubauer's observed pressure distribution
+for an elliptic cylinder .
+the solution of the equations of the laminar boundary
+layer for schubauer's observed pressure distribution
+for an elliptic cylinder .
+  the solution of the equations of the laminar
+boundary layer has been carried out for the pressure
+distribution for an elliptic cylinder of axial ratio 2.96 ..  1 with
+its major axis in the direction of the incident stream .
+the solution has been obtained by the method of hartree and
+womersley .  in applying this method the derivatives
+parallel to the boundary are replaced by finite differences, so
+that the partial differential equation of the boundary
+layer is replaced by an ordinary equation relating the velocity
+distribution through the boundary layer at one section
+to that at another, at an interval upstream .  by two independent
+integrations covering the same range by finite intervals
+of different sizes, it is possible to estimate the errors
+involved in replacing the derivatives by finite differences,
+and so to correct for these errors .
+  the process of solution requires the values of the pressure
+gradient along the solid boundary, and there is a certain
+tolerance in the derivation of the pressure gradient distribution
+from a limited number of observed values of pressure .
+an analysis of schubauer's pressure distribution is outlined, and
+the results were used for the main solution calculated .
+it is found that the solution, for the distribution of pressure gradient
+so derived, does not give separation of the boundary
+layer from the solid boundary, whereas the actual flow does separate .
+  it is found that the calculated solution is very sensitive to
+the pressure distribution, and a comparatively small
+modification of the pressure distribution gives a solution which
+does indicate separation close to the point at which
+separation is observed to occur .  the solution with this pressure
+distribution also gives very good agreement with the
+observed velocity distribution through the boundary layer at
+points upstream from separation .

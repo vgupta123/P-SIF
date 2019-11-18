@@ -1,0 +1,11 @@
+Preliminary Report on a System for General Space Planning
+A computer language and a set of programs within
+that language are described which allow the 
+formulating and solving of a class of space planning
+problems.  The language is an extension of Algol 
+and includes means to represent spaces and objects, to manipulate
+them, and to test the resulting arrangements 
+according to a variety of constraints.  The algorithms
+used to solve problems expressed in this language 
+rely on heuristic programming.  Both the language
+and the search algorithms are detailed.

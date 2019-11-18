@@ -1,0 +1,30 @@
+Requirements for Advanced Programming Systems for List Processing
+List processing systems should be designed to
+facilitate production of large programs to manipulate 
+large complex symbolic data stores.  This paper presents
+an overview of a number of system features which 
+the author feels are important to improve the productivity
+of programmers working in such domains.  A 
+system view it taken, rather than focusing just on language
+features, since algorithms must be not only 
+coded in a language form, but debugged, modified, made
+efficient, and run on data.  Because of this general 
+framework,the requirements specified are applicable
+to the design of advanced programming systems for 
+a wide range of applications.  Three aspects of programming
+systems are highlighted: good interactive 
+facilities, programmable control structures, and sophisticated
+data communication mechanisms.  Interactive 
+features are described to facilitate program composition,
+entry, testing, debugging, editing, optimization, 
+and packaging.  Implementation of a generalized environment
+structure model specified would allow programming 
+of various control regimes including multiprocesses,
+coroutines and backtracking.  Alternative methods 
+of procedure invocation required include invocation
+by pattern and by monitoring condition.  The  need 
+for extended data forms, storage management, and extensibility
+are stressed, as is the duality of data 
+retrieval and function evaluation.  Syntax directed
+input and output of data would facilitate use of 
+complex data stores.

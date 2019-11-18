@@ -1,0 +1,13 @@
+Implementing Quicksort Programs
+This paper is a practical study of how to
+implement the Quicksort sorting algorithm and its 
+best variants on real computers, including how to apply
+various code optimization techniques.  A detailed 
+implementation combining the most effective improvements
+to Quicksort is given, along with a discussion 
+of how to implement it in assembly language.  Analytic
+results describing the performance of the programs 
+are summarized.  A variety of special situations are considered
+from a practical standpoint to illustrate 
+Quicksort's wide applicability as an internal sorting
+method which requires negligible extra storage. 

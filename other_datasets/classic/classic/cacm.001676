@@ -1,0 +1,16 @@
+The LRLTRAN Compiler
+Extensive software problems confront an organization
+which possesses a number of different 
+computers and which frequently acquires new ones. 
+To maintain cohesion, a system must be developed, 
+written in a high level language, which minimizes machine
+dependencies and isolates those which are necessary. 
+ A language and a compiler for the language are discussed
+here.  The language, called LRLTRAN, is a heavily 
+augmented FORTRAN.  The tree-pass compiler makes use
+internally of a postfix Polish notation (pass I 
+to pass II) and a tree representation referred to as
+a "composite blocking table" (pass I to pass III). 
+ Machine-independent optimization occurs in pass II
+and DO-loop and machine-dependent optimization in 
+pass III.

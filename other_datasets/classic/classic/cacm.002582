@@ -1,0 +1,16 @@
+Improving Locality by Critical Working Sets
+A new approach to program locality improvement
+via restructuring is described.  The method 
+is particularly suited to those systems where primary memory
+is managed according to a working set strategy. 
+ It is based on the concept of critical working set, a
+working set which does not contain the next memory 
+reference.  The data the method operates upon are extracted from
+a trace of the program to be restructured. 
+ It is shown that, except in some special cases, the
+method is not optimum.  However, the experimental 
+results obtained by using the method to restructure an
+interactive text editor and the file system module 
+of an operating system have shown its substantial superiority
+over the other methods proposed in the 
+literature.

@@ -1,0 +1,45 @@
+ignition and combustion in a laminar mixing zone .
+ignition and combustion in a laminar mixing zone .
+  the analytic investigation of laminar combustion
+processes which are essentially two- or three-dimensional
+present some mathematical difficulties .  there are,
+however, several examples of two-dimensional flame
+propagation which involve transverse velocities that are small in
+comparison with that in the principal direction of flow .
+such examples occur in the problem of flame quenching
+by a cool surface, flame stabilization on a heated flat plate,
+combustion in laminar mixing zones, etc .  in these cases
+the problem may be simplified by employing what is
+known in fluid mechanics as the boundary-layer
+approximation, since it was applied first by prandtl in his
+treatment of the viscous flow over a flat plate .  physically it
+consists in recognizing that if the transverse velocity is
+small, the variations of flow properties along the direction
+of main flow are small in comparison with those in a
+direction normal to the main flow .  the analytic
+description of the problem simplifies accordingly .  the present
+analysis considers the ignition and combustion in the
+laminar mixing zone between two parallel moving gas
+streams .  one stream consists of a cool combustible
+mixture, the second is hot combustion products .  the two
+streams come into contact at a given point and a laminar
+mixing process follows in which the velocity distribution is
+modified by viscosity, and the temperature and
+composition distributions by conduction, diffusion, and chemical
+reaction .  the decomposition of the combustible stream
+is assumed to follow first-order reaction kinetics with
+temperature dependence according to the arrhenius law .
+for a given initial velocity, composition, and temperature
+distribution, the questions to be answered are ..  (1) does
+the combustible material ignite,. and (2) how far
+downstream of the initial contact point does the flame appear
+and what is the detailed process of development .  since
+the hot stream is of infinite extent, it is found that ignition
+always takes place at some point of the stream .  however,
+when the temperature of the hot stream drops below a
+certain value, the distance required for ignition increases
+so enormously that it essentially does not occur in a
+physical apparatus of finite dimension .  the complete
+development of the laminar flame front is computed using
+an approximation similar to the integral technique
+introduced by von karman into boundary layer theory .

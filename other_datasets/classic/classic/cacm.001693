@@ -1,0 +1,15 @@
+GPL, a Truly General Purpose Language
+A truly general purpose programming language,
+GPL, is described which contains facilities for 
+constructing (within the language) new data types as
+well as facilities for operations performed upon 
+them.  The basic language is minimal in the sense that
+no basic element can be derived from the others 
+with high efficiency in the object programs.  Constructs
+like the ALGOL 60 for-statements,and if-statements 
+are not basic; they are special types of procedures.
+ New "symbols" (underlined words in ALGOL 60) are 
+implicitly defined by usage in other declarations.  As
+part words are definable, packed words are handled 
+as easily as full words.  "Address" variables
+(pointers) are included in full generality.

@@ -1,0 +1,6 @@
+Scatter Storage Techniques
+Scatter storage techniques as a method for
+implementing the symbol tables of assemblers and 
+compilers are reviewed and a number of ways of using
+them more effectively are presented.  Many of the 
+most useful variants of the techniques are documented.

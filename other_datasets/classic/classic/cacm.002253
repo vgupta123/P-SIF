@@ -1,0 +1,13 @@
+Index Ranges for Matrix Calculi
+The paper describes a scheme for symbolic
+manipulation of index expressions which arise as 
+a by-product of the symbolic manipulation of expressions
+in the matrix calculi described by the authors 
+in a previous paper.  This scheme attempts program optimization
+by transforming the original algorithm 
+rather than the machine code.  The goal is to automatically
+generate code for handling the tedious address 
+calculations necessitated by complicated data structures.
+ The paper is therefore preoccupied with "indexing 
+by position."  The relationship of "indexing by
+name" and "indexing by position" is discussed.

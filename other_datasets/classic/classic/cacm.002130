@@ -1,0 +1,13 @@
+Automatic Segmentation of Cyclic Program Structures
+Based on Connectivity and Processor Timing
+Time-shared, multiprogrammed, and overlayed batch systems frequently
+require segmentation of computer programs into discrete portions.  
+These program portions are transferred between executable and
+peripheral storage whenever necessary; segmentation of program
+s in a manner that  reduces the frequency of such transfers is the
+subject of this paper.  Segmentation techniques proposed by C. V.
+Ramamoorthy are subject to limitations that arise when the preferred
+segment size is not compatible with the physical restrictions
+imposed by the available computing equipment.  A generalization of
+Ramamoorthy's suggestions is made in order to allow their application 
+when circumstances are other than ideal.

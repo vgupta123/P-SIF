@@ -1,0 +1,16 @@
+Analysis and performance of Inverted Data Base Structures
+The need to envision and architecture data base
+systems in a hierarchical level by level framework 
+is stressed. The inverted data base (file) organization
+is then analyzed, considering implementation 
+oriented aspects.  The inverted directory is viewed realistically
+as another large data base which itself 
+is subjected to inversion.  Formulations are derived
+to estimate average access time (read only) and 
+storage requirements, formalizing the interaction of data
+base content characteristics, logical complexity 
+of queries, and machine timing and blocking specifications
+identified as having a first-order effect 
+on performance.  The formulations presented are necessary
+to be used in conjunction with any index selection 
+criteria to determine the optimum set of index keys.

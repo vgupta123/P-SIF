@@ -1,0 +1,8 @@
+Near-Minimax Polynomial Approximations and Partitioning of Intervals
+A method of near-minimax polynomial approximation
+is described.  As a by-product, this method 
+provides a formula for an estimate of the maximum error
+associated with a given degree of approximation. 
+ Using this formula, a partitioning algorithm is obtained
+for dividing a basic interval into subintervals 
+for which approximations of equal degree give equal maximum error.

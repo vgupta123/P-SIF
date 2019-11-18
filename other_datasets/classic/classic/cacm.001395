@@ -1,0 +1,9 @@
+On the Implementation of AMBIT, A Language for Symbol Manipulation
+A brief description is given of the implementation
+technique for the replacement rule of the 
+AMBIT programming language.  The algorithm for the "AMBIT
+scan" and an example of its application are 
+given.  The algorithm is applicable to other members
+of the family of string transformation languages 
+of which AMBIT is a member, and it provides a rationale
+for the design of the AMBIT language.

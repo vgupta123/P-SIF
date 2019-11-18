@@ -1,0 +1,4 @@
+Remark on Romberg Quadrature
+A modified form of Romberg quadrature is described,
+which is less sensitive to the accumulation 
+of rounding errors than the customary one.

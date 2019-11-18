@@ -1,0 +1,8 @@
+Sorting on a Mesh-Connected Parallel Computer
+Two algorithms are presented for sorting n^2
+elements on an n X n mesh-connected processor 
+array that require O(n) routing and comparison steps.
+ The best previous algorithm takes time O(n log 
+n).  The algorithms of this paper are shown to be optimal
+in time within small constant factors.  Extensions 
+to higher-dimensional arrays are also given.

@@ -1,0 +1,7 @@
+Permutation of Data Blocks in a Bubble Memory
+A common internal organization of bubble memories consists of a set of (minor) 
+loops, connected through another (major) loop.  The problem of obtaining any 
+give n permutation of the minor loop contents in minimum time is studied
+in this paper.  A lower bound to the number of steps required buy
+a permutation algorithm is derived, and the class of optimum algorithms is 
+identified.

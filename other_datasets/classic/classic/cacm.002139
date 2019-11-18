@@ -1,0 +1,8 @@
+Implementation of the Substring Test by Hashing
+A technique is described for implementing the
+test which determines if one string is a substring 
+of another.  When there is low probability that the test
+will be satisfied, it is shown how the operation 
+can be speeded up considerably if it is preceded by
+a test on appropriately chosen hash codes of the 
+strings.

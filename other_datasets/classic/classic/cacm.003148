@@ -1,0 +1,10 @@
+High Level Programming for Distributed Computing
+Programming for distributed and other loosely coupled systems
+is a problem of growing interest.  This paper describes an approach
+to distributed computing at the level of general purpose programming
+languages.  Based on primitive notions of module, message,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.  It appears to be useful for
+programming a wide range of tasks.  This is part of an ambitious
+program of development in advanced programming languages, and relations
+with other aspects of the project are also discussed.

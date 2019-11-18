@@ -1,0 +1,10 @@
+A Monte Carlo Algorithm for Assigning Students to Classes
+A technique of random choice is illustrated
+by application to the problem of assigning students 
+to a fixed schedule of courses.  Using the technique
+it is possible to reduce or eliminate difficulties 
+that result when a popular section is filled and closed
+before all students requesting and requiring 
+it have been scheduled.  The effectiveness of automatic
+scheduling is retained without loss of the students 
+privilege of picking favorite instructors.

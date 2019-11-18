@@ -1,0 +1,16 @@
+On the Conversion of Decision Tables to Computer Programs
+The use of execution time diagnostics in pinpointing ambiguities in decision
+tables is discussed.  It is pointed out that any attempt at resolving
+ambiguities at compile time will, in general, be impossible.  It
+is shown that, as a consequence, tree methods of converting decision
+tables to programs are inadequate in regard to ambiguity detection.
+Two algorithms for programming decision tables whose merits
+are simplicity of implementation and detection of ambiguities at
+execution time are presented. The first algorithm is for limited entry
+decision tables and clarifies the importance of proper coding
+of the information in the decision table.  The second algorithm programs
+a mixed entry decision table directly without going through
+the intermediate step of conversion to a limited entry form, thereby
+resulting in storage economy.  A comparison of the algorithms and others 
+proposed in the literature is made.  Some features of a decision table
+to Fortran IV translator for the IBM 7044 developed by the authors are given.

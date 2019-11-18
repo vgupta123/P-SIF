@@ -1,0 +1,11 @@
+PDEL-A Language for Partial Differential Equations
+Conventional computer methods available to solve
+continuous system problems characterized by partial
+differential equations are very time-consuming and cumbersome.  A
+convenient, easy to learn and to use, high level problem oriented
+language to solve and study partial differential equation problems
+has been designed; a practical translator for the language has also
+been designed, and a working version of it has been constructed
+for a significant portion of the language.  This Partial Differential
+Equation Language, PDEL, is outlined, and the highlights
+of the translator are briefly summarized.

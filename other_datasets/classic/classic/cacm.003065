@@ -1,0 +1,12 @@
+Right Brother Trees
+Insertion and deletion are provided for the
+class of right (or one-sided) brother trees which 
+have O (log n) performance.  The importance of these
+results stems from the close relationship of right 
+brother trees which have an insertion algorithm operating
+in O (log2 n).  Further, although both insertion 
+and deletion can be  carried out in O (log n) time for
+right brother trees, it appears that the insertion 
+algorithm is inherently much more difficult than the
+deletion algorithm-the reverse of what one usually 
+obtains.  

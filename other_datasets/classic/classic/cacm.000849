@@ -1,0 +1,20 @@
+Use of Tree Structures for Processing Files
+In data processing problems, files are frequently
+used which must both be searched and altered. 
+ Binary search techniques are efficient for searching
+large files, but the associated file organization 
+is not readily adapted to the file alterations.  Conversely,
+a chained file allocation permits efficient 
+alteration but cannot be searched efficiently. A file
+organized into a tree-like structure is discussed, 
+and it is shown that such a file may both be searched
+and altered with times proportional to slog(s)N, 
+where N is the number of file items and s is a parameter
+of the tree.  It is also shown that optimizing 
+the value of s leads to a search time which is only 25
+per cent slower than the binary search.  The tree 
+organization employs two data chains and may be considered
+to be a compromise between the organizations 
+for the binary search and the chained file.  The relation
+of the tree organization to multidimensional 
+indexing and to the trie structure is also discussed.

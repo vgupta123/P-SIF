@@ -1,0 +1,21 @@
+On Simulating Networks of Parallel Processes
+in Which Simultaneous Events May Occur
+Some of the problems of simulating discrete
+event systems, particularly computer systems, on 
+a conventional digital computer are dealt with.  The
+systems are assumed to be described as a network 
+of interconnected sequential processes.  Briefly reviewed
+are the common techniques used to handle such 
+simulations when simultaneous events do not occur, can
+be ignored, or can be handled by simple priority 
+rules.  Following this, the problem of dealing with simultaneous
+events in separate processes is introduced. 
+ An abstraction of this problem is developed which admits
+solution for a majority of commonly encountered
+problems.  The technique will either find a method of
+simulating the parallel events or report that none 
+can be found.  In some of the latter cases it is shown
+to be possible to find a solution by extending 
+the information available to the solution technique, but
+in many cases the technique becomes computationally 
+unfeasible when the additional information is provided.

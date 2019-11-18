@@ -1,0 +1,16 @@
+A Program for the Syntactic Analysis of English Sentences
+A program is described which produces syntactic
+analyses of English sentences with respect 
+to a transformational grammar.  The main features of the
+analyzer are that it uses only a limited dictionary 
+of English words and that it pursues all analysis paths
+simultaneously while processing the sentence 
+from left to right.  The form of representation used
+for the dictionary and the grammar is indicated 
+and an outline account is given of the analysis procedure.
+ Techniques for keeping the size of the analysis 
+record within reasonable limits and for avoiding the need
+for dynamic application of certain transformational 
+rules are described.   A number of examples of output
+produced by the program are given.  The output 
+includes timing information.

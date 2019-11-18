@@ -1,0 +1,8 @@
+On the Time Required for a Sequence of Matrix Products
+This paper discusses the multiplication of conformable
+sequences of row vectors, column vectors, 
+and square matrices.  The minimum time required to evaluate
+such products on ordinary serial computers 
+as well as parallel computers is discussed.  Algorithms
+are presented which properly parse such matrix 
+sequences subject to the constraints of the machine organization.

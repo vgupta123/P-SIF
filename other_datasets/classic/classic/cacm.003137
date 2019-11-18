@@ -1,0 +1,7 @@
+A Methodology for the Design of Distributed Information Systems
+A macro model of a distributed information system in presented.  The model
+describes the major costs of using an information
+system from the perspective of the end-user.  The making evident the effect of
+various design and operating parameters on overall cost per transaction.
+ The technique is illustrated by application to the design
+of an interactive transaction processing system.

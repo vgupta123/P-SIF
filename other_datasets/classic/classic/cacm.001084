@@ -1,0 +1,10 @@
+On Declaring Arbitrarily Coded Alphabets
+The inability of existing programming languages
+to handle character strings from more than 
+one or two alphabets is mentioned and a scheme for declaring
+additional alphabets is proposed.  The scheme 
+provides for: many-to-one encodings, right or left
+justification, collating sequences different from 
+numeric sequence, variations in character size (number
+of bits.) from alphabet to alphabet, and arbitrary 
+source-language character representation.

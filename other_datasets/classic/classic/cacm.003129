@@ -1,0 +1,8 @@
+Optimal Storage Allocation for Serial Files
+A computer system uses several serial files.  The files reside on a 
+direct-access storage device in which storage space is limited.  Records are 
+added to the files either by jobs in batch processing mode, or by on-line 
+transactions. Each transaction (or job) generates a demand vector which 
+designates the space required in each file for record addition. Whenever one 
+file runs out of space, the system must be reorganized.  This paper considers 
+several criteria for best allocating storage space to the files.

@@ -1,0 +1,21 @@
+further developments of new methods in heat flow analysis .
+further developments of new methods in heat flow analysis .
+  lagrangian methods in heat-flow problems and transport
+phenomena were introduced by the writer in some previous work .
+the present paper develops further one particular aspect of the
+method,--i.e., the elimination of /ignorable coordinates ./  this
+is accomplished by a special choice of generalized coordinates,
+each of which is constituted by an arbitrary temperature
+distribution and an /associated flow field ./  the latter is a vector
+field which is derived from the corresponding scalar field by a
+variational method .  the procedure is valid for a certain class of
+nonlinear problems, provided we replace the temperature by the heat
+content as the unknown .  it is shown that for normal coordinates
+derivation of the associated flow field is immediate .  the use
+of normal coordinates and their associated flow fields is
+illustrated by an example .  introduction of dirac functions and
+associated flow fields yields a procedure which constitutes a
+generalization of the classical formulation by green's functions
+and integral equations .  this is illustrated by application to
+one-dimensional problems of heating of a homogeneous or composite
+slab and directly verified by classical methods in the appendix .

@@ -1,0 +1,10 @@
+Automatic Contour Map
+Some methods for contour mapping by means of
+a digital plotter are discussed, and a new method 
+is presented that is simple enough to be implemented by
+programs with a rather small number of instructions 
+(about 120 FORTRAN IV instructions are required).  Comparisons
+with some methods proposed by other authors 
+are also performed,  A FORTRAN IV program implementing
+the proposed method is available at the Istituto 
+di Elettrotecnica ed Elettronica, Politencnico di Milano.

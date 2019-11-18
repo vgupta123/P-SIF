@@ -1,0 +1,14 @@
+Specifying Queries as Relational Expressions:
+The SQUARE Data Sublanguage
+This paper presents a data sublanguage called
+SQUARE, intended for use in ad hoc, interactive 
+problem solving by non-computer specialists. SQUARE
+is based on the relational model of data, and is 
+shown to be relationally complete; however, it avoids
+the quantifiers and bound variables required by 
+languages based on the relational calculus.  Facilities
+for query, insertion, deletion, and update on 
+tabular data bases are described.  A syntax is given,
+and suggestions are made for alternative syntaxes, 
+including a syntax based on English key words for
+users with limited mathematical background.

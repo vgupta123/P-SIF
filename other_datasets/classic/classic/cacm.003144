@@ -1,0 +1,7 @@
+A Model for and DIscussion of Multi-Interpreter Systems
+A multi-interpreter system is a system in which programs execute
+by virtue of being interpreted by other programs, which themselves may
+either be interpreted (i.e. nested interpreters) or run directly on
+the host machine.  The model reveals the anatomy of interpreters
+and how these differ from procedures, and exhibits links
+to protection domains and multiprocessor architectures.

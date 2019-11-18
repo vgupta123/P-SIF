@@ -1,0 +1,20 @@
+Algebraic Simplification: A Guide for the Perplexed
+Algebraic simplification is examined first from
+the point of view of a user who needs to comprehend 
+a large expression, and second from the point of view
+of a designer who wants to construct a useful and 
+efficient system.  First we describe various techniques
+akin to substitution.  These techniques can be 
+used to decrease thesize of an expression and make it
+more intelligible to a user.  Then we delineate 
+the spectrum of approaches to the design of automatic simplification
+capabilities in an algebraic manipulation 
+system.  Systems are divided into five types.  Each type
+provides different facilities for the manipulation 
+and simplification of expressions. Finally we discuss
+some of the theoretical results related to algebraic 
+simplification.  We describe several positive results
+about the existence of powerful simplification 
+algorithms and the number-theoretic conjectures on which
+they rely.  Results about the nonexistence of 
+algorithms for certain classes of expressions are included.

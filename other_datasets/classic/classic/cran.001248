@@ -1,0 +1,42 @@
+an analytic extension of the shock-expansion method .
+an analytic extension of the shock-expansion method .
+  the problem is considered of calculating approximately the
+inviscid rotational flow field and pressure distribution about a
+smooth two-dimensional airfoil with sharp leading and trailing
+edges in a uniform supersonic or hypersonic stream .  the
+assumption of a perfect gas is made, and the basic flow pattern for
+the analysis is taken to be given by the simple isentropic
+shock-expansion method with straight characteristics .  an elementary
+characteristics treatment is discussed to show when the simple
+shock-expansion method should be satisfactory for computing
+the surface pressure distribution, and under what circumstances
+it may be expected to break down .  by utilizing characteristic
+variables the isentropic shock-expansion method is then
+formulated analytically, and an analytic result is obtained for the shock
+shape corresponding to this zero-order approximation .  in the
+special case where hypersonic similitude is applicable, that is,
+for slender bodies and high mach numbers, the shock-shape
+expression for large distances is found to reduce to the result
+previously given by mahony, which for weak shocks and slender
+bodies in turn reduces to the simple-wave result first given by
+friedrichs .
+  employing the analytic form of the isentropic shock-expansion
+method as a zero-order approximation, an analytically consistent
+perturbation method is developed by expanding the dependent
+flow variables in the exact partial differential equations in powers
+of the reflection coefficient for simple waves interacting with an
+oblique shock .  the scheme by its nature helps to define those
+regions in which shock expansion can be used, in addition to
+taking into account in a perturbation sense the factors neglected
+in simple shock-expansion theory, namely, the curvature and
+reflection of the mach waves and the correct boundary
+conditions at the shock wave .  analytic solutions are obtained for
+the first-order corrections, including the surface pressure
+distribution .  the necessary numerical computation of the integrals
+involved is considerably simpler than a direct application of the
+method of characteristics .  to illustrate the method and its
+accuracy, the zero-order shock shape and first-order pressure
+distribution are calculated for a family of parabolic arc airfoils at
+an infinite free-stream mach number .  these results are
+compared with rotational characteristic solutions where available,
+and the present method is found to be in excellent agreement .

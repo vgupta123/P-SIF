@@ -1,0 +1,14 @@
+A Compiler-Building System Developed by Brooker and Morris
+In a number of articles published during the
+past two years, R. A. Brooker and D. Morris (joined 
+by J.S. Rohl in their most recent paper have presented
+a very interesting programming system that they 
+have developed for the Ferranti Atlas computer.  The
+present paper describes some of the major features 
+of their system. it expands on some points that the original
+authors cover briefly, and treats only very 
+lightly some topics to which they devote considerable space.
+ The purpose of this paper is purely expository. 
+ Except in some very small details, and in some comments,
+it does not intentionally depart from or add 
+to the material published in the listed references.

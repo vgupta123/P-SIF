@@ -1,0 +1,17 @@
+The Use of Interactive Graphics To Solve Numerical Problems
+With the advent of on-line (time-sharing) computer systems
+and graphic terminals, we have available a new dimension
+in numerical problem solving capabilities.  Rather than simply use
+the new power to achieve fast turnaround, we can develop interactive
+routines which are easy to use and also take advantage of the
+insight and visual capabilities of the human problem solver.  Several
+on-line systems for general purpose mathematical problem solving
+have already been implemented as well as some special purpose
+systems for solving problems in a particular area such as ordinary
+differential equations.  The advantage of restricting the problem
+area is that the interface with a user can be greatly simplified.
+In this paper we discuss some of the advantages accrued by such
+systems and design considerations for interactive routines.  Furthermore,
+an implementation of an on-line least squares data-fitting
+program, PEG, is presented with results obtained from empirical
+data.  In conclusion, area for future work in this field are discussed.

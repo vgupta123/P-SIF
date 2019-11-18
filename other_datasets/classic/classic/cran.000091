@@ -1,0 +1,16 @@
+periodic temperature distribution in a two-layer composite slab .
+periodic temperature distribution in a two-layer composite slab .
+in a recent contribution to the reader's forum, under the above title,
+stonecypher outlined a method for finding the periodic temperature
+distribution in a two-layer composite slab, one exposed surface of the slab
+being insulated and the other subject to a sinusoidal temperature
+variation .  perfect thermal contact between the two layers, and constant
+thermal properties were assumed .
+two years ago i drew attention in these pages to a method for
+determining the transient temperature in such a two-layer slab resulting from a
+triangular heat-input pulse .  i should like to point out that this same
+method also is applicable to the case where one external face is given
+a sinusoidal temperature variation with time .  the method is based on
+the analogy between one-dimensional heat flow and the flow of an
+electric current in a simple transmission line having only series resistance
+and parallel capacitance .

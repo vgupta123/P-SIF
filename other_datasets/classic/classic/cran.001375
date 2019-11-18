@@ -1,0 +1,34 @@
+an approximate solution for the axisymmetric jet of a laminar
+compressible fluid .
+an approximate solution for the axisymmetric jet of a laminar
+compressible fluid .
+an extension of the modified-oseen method of carrier, based on the
+linearization of the viscous term of the von mises transformation,
+is presented .  the method is employed to determine the velocity field
+associated with the laminar axisymmetric jet flow of a compressible
+gas with an arbitrary but constant external flow .  the approximate
+solution is shown to be in good agreement with the exact numerical
+calculation of pai .
+in many boundary layer problems it is not possible to make the
+assumption of flow similarity .  the solution in these cases can be
+obtained either by laborious finite difference techniques or by
+resort to approximate solutions .  carrier and lewis (1), and more
+recently carrier (2), have suggested a method of obtaining approximate
+solutions to problems involving convection and diffusion .  this
+method, termed by carrier /the modified-oseen method/, overcomes an
+essential difficulty of integral methods, namely, the generation of
+reasonable profiles .  it is well known that the integral method gives
+accurate results only if the analytical profiles represent closely
+the true profiles .  according to the modified-oseen method the
+convective operator in the original partial differential equation
+is replaced by a linear one .  the resulting equation for the
+boundary layer problem is the heat conduction equation which can be
+treated by well-known techniques .
+it is the purpose of this paper to indicate a modification of this
+procedure and to demonstrate its simplicity and accuracy by treating the
+axisymmetric laminar flow of a compressible gas with arbitrary but
+constant external flow .  the modification is based on the use of the
+von mises transformation with a subsequent linearization of the viscous
+term, rather than the linearization of the convective term . pai's
+problem (3), originally treated by a finite difference technique,
+is considered to illustrate the effectiveness of this method .

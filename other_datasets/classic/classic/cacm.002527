@@ -1,0 +1,12 @@
+Implementation of High Level Language Machine
+Computing machines which directly execute
+the statements of a high level language have been 
+proposed in the past.  This report describes the actual
+implementation of such a machine: it is a computer 
+whose "machine language" is APL.  The machine is fully
+operational and correctly executes almost all 
+of the APL operations on scalars, vectors, and arrays.
+ The machine automatically allocates memory, executes 
+statements, calls functions, converts numbers from one
+type to another, checks subscripts, and automatically 
+detects many types of programmer errors.

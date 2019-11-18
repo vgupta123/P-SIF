@@ -1,0 +1,15 @@
+Pitch Period Determination of Speech Sounds
+A computer procedure which determines pitch
+periods by the recognition of the peak structure 
+of the speech waveform is described.  Speech sounds were
+sampled by a microphone and an analog-to-digital 
+converter attached to an interconnected IBM 7090-PDP-1
+system.  These utterances were recorded at the 
+normal noise level of the computer room but were not
+band-compressed or phase-distorted in any manner. 
+ A sequence of operations defined on the speech wave selects
+a list of points along the waveform as candidates 
+for pitch markers.  These markers are validated by
+an error detection and correction procedure.About 
+95 percent of the pitch periods were recognized correctly
+within 1 to 2 times real-time on the IBM 7090.

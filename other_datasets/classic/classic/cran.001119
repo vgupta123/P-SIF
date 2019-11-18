@@ -1,0 +1,37 @@
+plastic stability theory of thin shells .
+plastic stability theory of thin shells .
+  considerable interest is currently centered on the
+role of deformation and flow types of plasticity
+theories in the solution of stability problems .  for
+thin flat plates, deformation theory combined with
+classical stability theory appears to yield results which
+are in substantially good agreement with test data .
+on the other hand, flow or incremental theories appear
+to require the introduction of initial imperfections in
+order to obtain a satisfactory degree of correlation with
+tests .
+  thus, in view of the current state of development of
+plastic stability theory, it appears fruitful to exploit
+the mathematical simplicity inherent in deformation
+theory in the investigation of the plastic stability of
+thin shells .  although there may be theoretical
+objections to deformation theories as a class, test data on
+flat plates do suggest the predictive value of the results
+obtained from this theory .
+  in this paper, a set of equilibrium differential
+equations for the plastic buckling of thin shells of constant
+unequal radii is derived .  this set of three equations
+applies to flat plates, cylinders, and spheres under any
+loading system leading to buckling .  for particular
+problems such as buckling of cylinders under axial
+compression, torsion or lateral pressure, and spheres
+under external pressure, the set of equations can be
+reduced to a single eighth-order partial differential
+equation of the donnell type in terms of the radial
+displacement only .  these donnell-type equations are
+used to obtain solutions for plastic buckling of spheres
+under external pressure and long and moderate length
+cylinders under lateral pressure or torsion loads .  the
+limiting cases of a simply supported flat plate under
+compression or shear, represent the solutions for short
+cylinders under lateral pressure or torsion, respectively .

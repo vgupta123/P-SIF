@@ -1,0 +1,16 @@
+A PL/I Program to Assist the Comparative Linguist
+A practical PL/I program is described which
+can assist comparative linguists to determine
+the regular sound correspondences between genetically related languages.
+The investigator must arrange data for input by aligning pairs
+of suspected cognates.  The program tabulates the correspondences,
+and uses list processing techniques to sort and count them.
+Each pair of words is then assigned a relative value that is a function
+of the total frequency in the data of each correspondence found
+in that pair of words.  The output is a list of all correspondence
+types with their frequency of occurrence in the data, and a
+separate listing of each correspondence with all word-pairs showing
+that correspondence (unless their relative value is below an arbitrarily 
+chosen cutoff point).  The article explains the usefulness,
+as well as the limitations, of the programs, and illustrates its
+use with a small portion of hypothetical data.

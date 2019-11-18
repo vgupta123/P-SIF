@@ -1,0 +1,22 @@
+A Model and Stack Implementation of Multiple Environments
+Many control and access environment structures
+require that storage for a procedure activation 
+exist at times when control is not nested within the
+procedure activated.  This is straightforward to 
+implement by dynamic storage allocation with linked
+blocks for each activation, but rather expensive 
+in both time and space.  This paper presents an implementation
+technique using a single stack to hold 
+procedure activation storage which allows retention
+of that storage for durations not necessarily tied 
+to control flow.  The technique has the property that,
+in the simple case,it runs identically to the 
+usual automatic stack allocation and deallocation procedure.
+ Applications of this technique to multitasking, 
+coroutines, backtracking, label-valued variables, and
+functional arguments are discussed.  In the initial 
+model, a single real processor is assumed, and the implementation
+assumes multiple-processes coordinate 
+by passing control explicitly to one another.  A multiprocessor
+implementation requires only a few changes 
+to the basic technique, as described.

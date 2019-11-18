@@ -1,0 +1,11 @@
+stagnation point viscous hypersonic flow .
+stagnation point viscous hypersonic flow .
+several methods have been developed for computing the
+hypersonic, low reynolds number flow in the stagnation
+region of a blunt body .  in general, these methods involve
+complicated numerical solutions .  simultaneous iterations on several
+parameters are usually required in view of the boundary-value
+nature of the problem .
+  the purpose of this note is to present an approximate
+closed-form solution to axisymmetric stagnation point hypersonic flow
+in the viscous layer regime .

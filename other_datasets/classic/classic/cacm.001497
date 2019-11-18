@@ -1,0 +1,23 @@
+On the Normalization Requirement of
+Divisor in Divide- and- Correct Methods
+This paper presents an analysis on the normalization
+requirement of the divisor in a divide-and-correct 
+method.  This analysis is made subject to the condition
+that not more than one correction is required 
+to obtain the true quotient character, from the trial
+estimate got from the division of a two-precision 
+segment of every partial remainder by a suitably rounded
+single-precision divisor.  (This segmented division 
+is denoted here as a (2, 1) precision basic division.)
+ It is found that the normalization requirement 
+could be narrowed down to a smaller range of divisors,
+provided the magnitude of the character next to 
+the leading character of the divisor is known.  If,
+however, the normalization is to be eliminated one 
+has to choose proper higher precision segments of operands
+for the basic division.  Also considered is 
+the possibility of eliminating the normalization by an
+increase on the number of corrections on the quotient 
+estimate got from a (2, 1) precision basic division.
+ It is shown that such a scheme is economical only 
+for small radices.

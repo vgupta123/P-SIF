@@ -1,0 +1,12 @@
+Telecommunications Using a Front-End Minicomputer
+The use of a front-end minicomputer to provide
+varied remote terminal access to a large scale 
+computer is considered.  The problems of embedding
+telecommunications I/O within an operating system 
+are discussed, and it is shown how the decentralization
+of intelligence acquired by front-end processing 
+vastly simplifies the problem.  A specific implementation is
+discussed with emphasis on the main processor-minicomputer 
+link, the hardware-software implementation, the effect
+of the main processor operating system, and an 
+assessment of the advantages over a hard wired line controller.

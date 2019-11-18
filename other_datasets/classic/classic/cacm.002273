@@ -1,0 +1,14 @@
+Conversion of Decision Tables By Rule Mask Method Without Rule Mask
+Two algorithms for generating computer programs
+from decision tables are described.  The algorithms 
+allow handling limited entry, extended entry, and mixed
+entry tables.  The algorithms are based on the 
+rule mask method but need not have the masks at execution
+time.  They perform the logical operations 
+immediately rather than at the end of the interpreting
+process.  Execution time can be considerably reduced 
+by instantly marking rules which are not applicable (Algorithms
+1 and 2) or conditions which are already 
+tested (Algorithm 2).  The new algorithms combine to a
+certain degree the advantages of mask methods with 
+those of tree methods.

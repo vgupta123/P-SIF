@@ -1,0 +1,13 @@
+ASP-A Ring Implemented Associative Structure Package
+ASP is a general purpose Associative Data
+Structure Package in which an arbitrary number of 
+data items and an arbitrary number of the relationships
+between these data items may be represented. 
+ A special picture language is described which has proved
+very useful for drawing ASP structures on paper. 
+ ASP structures are built and manipulated by means
+of a series of macro calls, which are outlined in 
+the Appendix.  Emphasis is on the philosophy of the system
+rather than a particular implementation, though 
+sufficient information is included to enable the
+reader to produce his own implementation of ASP.

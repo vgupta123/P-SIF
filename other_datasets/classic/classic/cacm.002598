@@ -1,0 +1,26 @@
+Extending the Information Theory Approach to Converting
+Limited-Entry Decision Tables to Computer 
+Programs
+This paper modifies an earlier algorithm for
+converting decision tables into flowcharts which 
+minimize subsequent execution time when compiled into
+a computer program.  The algorithms considered 
+in this paper perform limited search and, accordingly,
+do not necessarily result in globally optimal 
+solutions.  However, the greater search effort needed
+to obtain a globally optimal solution for complex 
+decision tables is usually not justified by sufficient
+savings in execution time.  There is an analogy 
+between the problem of converting decision tables into
+efficient flowcharts and the well-understood problem 
+in information theory of noiseless coding.  The results
+of the noiseless coding literature are used to 
+explore the limitations of algorithms used to solve
+the decision table problem.  The analogy between 
+the two problems is also used to develop improvements
+to the information algorithm in extending the depth 
+of search under certain conditions and in proposing
+additional conditions to be added to the decision 
+table.  Finally, the information algorithm is compared
+with an algorithm proposed in a recent paper by 
+Verhelst.

@@ -1,0 +1,15 @@
+A Fast Algorithm for Copying List Structures
+An algorithm is presented for copying an arbitrarily
+linked list structure into a block of 
+contiguous storage locations without destroying  the original
+list.  Apart from a fixed number of program 
+variables, no auxiliary storage, such as a stack, is used.
+ The algorithm needs no mark bits and operates 
+in linear time.  It is shown to be significantly faster
+than Fisher's algorithm, the fastest previous 
+linear-time algorithm for the same problem.  Its speed
+comes mainly from its efficient list-traversal 
+technique, which folds the processing stack into the
+structure being built, and from its classification 
+of list cells into nine types, which enables processing
+operations to be optimized for each type.

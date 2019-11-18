@@ -1,0 +1,15 @@
+Mechanization of Tedious Algebra-the
+e Coefficients of Theoretical Chemistry
+A table of formulas for certain integrals
+involving Legendre functions has been constructed 
+mechanically by a program which performed algebraic operations.
+ The formulas are all rational algebraic 
+expressions in a single variable and were constructed
+by a recurrence procedure.  They are of interest 
+in molecular quantum chemistry.  Trivial coding techniques
+were used to write the relevant programs in 
+FORTRAN.  The results were photo composed on a Photon
+S-560 system, that was controlled by tapes which 
+were punched directly from the computer output, so
+avoiding manual keyboarding, transcription errors 
+and keyboarded correction.

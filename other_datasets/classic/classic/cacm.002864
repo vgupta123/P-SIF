@@ -1,0 +1,20 @@
+Characteristics of Program Localities
+The term "locality" has been used to denote that
+subset of a program's segments which are referenced 
+during a particular phase of its execution.  A program's
+behavior can be characterized in terms of its 
+residence in localities of various sizes and lifetimes,
+and the transitions between these localities. 
+ In this paper the concept of a locality is made more explicit
+through a formal definition of what constitutes 
+a phase of localized reference behavior, and by a corresponding
+mechanism for the detection of localities 
+in actual reference strings.  This definition provides
+for the existence of a hierarchy of localities 
+at any given time, and the reasonableness of the definition
+is supported by examples taken from actual 
+programs.  Empirical data from a sample of production
+Algol 60 programs is used to display distributions 
+of locality sizes and lifetimes, and these results are
+discussed in terms of their implications for the 
+modeling of program behavior and memory management in virtual memory systems.

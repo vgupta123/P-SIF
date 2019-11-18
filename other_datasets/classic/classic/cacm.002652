@@ -1,0 +1,14 @@
+Reduction of Compilation Costs Through Language Contraction
+Programming languages tailored to particular
+groups of users can often be constructed by removing
+unwanted features from a general purpose language.  This
+paper describes the use of simulation techniques 
+to predict the savings in compilation cost achievable
+by such an approach.  The results suggest a function 
+which describes the effect of changes in the power of
+a language on the compilation cost of an algorithm 
+expressed in that language: when features not actually
+used by the algorithm are removed from the language, 
+the cost of compiling the algorithm decreases moderately,
+but when features that are needed are removed, 
+the compilation cost increases sharply.

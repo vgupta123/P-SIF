@@ -1,0 +1,15 @@
+Implementing Clenshaw-Curtis quadrature, I Methodology and Experience
+Clenshaw-Curtis quadrature is a particularly
+important automatic quadrature scheme for a variety 
+of reasons, especially the high accuracy obtained from
+relatively few integrand values.  However, it 
+has received little use because it requires the computation
+of a cosine transformation and the arithmetic 
+cost of this has been prohibitive.  This paper is in
+two parts; a companion paper, "II Computing the 
+Cosine Transformation," shows that this objection can
+be overcome by computing the cosine transformation 
+by a modification of the fast Fourier transform algorithm.
+ This first part discusses the strategy and 
+various error estimates, and summarizes experience
+with a particular implementation of the scheme.

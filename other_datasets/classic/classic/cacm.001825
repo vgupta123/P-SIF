@@ -1,0 +1,18 @@
+A Practical Method for Constructing LR(k) Processors
+A practical method for constructing LR(k) processors
+is developed.  These processors are capable 
+of recognizing and parsing an input during a single
+no-backup scan in a number of steps equal to the 
+length of the input plus the number of steps in its
+derivation.  The technique presented here is based 
+on the original method described by Knuth, but decreases
+both the effort required to construct the processor 
+and the size of the processor produced.  This procedure
+involves partitioning the given grammar into 
+a number of smaller parts.  If an LR(k) processor can be
+constructed for each part (using Knuth's algorithm) 
+and if certain conditions relating these individual
+processors are satisfied, then an LR(k) processor 
+for the entire grammar can be constructed for them.
+ Using this procedure, an LR(1) parser for ALGOL 
+has been obtained.

@@ -1,0 +1,7 @@
+The Choice of Base
+A digital computer is considered, whose memory
+words are composed on N r-state devices plus 
+two sign bits (two state devices).  The choice of base
+B for the internal representation of floating-point 
+numbers on such a computer is discussed.  It is
+shown that in a certain sense B= r is best.

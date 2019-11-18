@@ -1,0 +1,9 @@
+On Arithmetic Expressions and Trees
+A description is given of how a tree representing the
+evaluation of an arithmetic expression 
+can be drawn in such a way that the number of accumulators
+needed for the computation can be represented 
+in a straightforward manner.  This representation reduces
+the choice of the best order of computation 
+to a specific problem under the theory of graphs.
+ An algorithm to solve this problem is presented.

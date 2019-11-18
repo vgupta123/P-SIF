@@ -1,0 +1,7 @@
+Solving the Biharmonic Equation in a Square:
+A Direct Versus a Semidirect Method
+Two methods for solving the biharmonic equation
+are compared.  One method is direct, using 
+eigenvalue-eigenvector decomposition.  The other method
+is iterative, solving a Poisson equation directly 
+at each iteration.

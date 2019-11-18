@@ -1,0 +1,9 @@
+Mechanization of the Curve Fitting Process: DATAN
+A process for fitting a curve to approximate data
+and the problem it creates for the engineer-programmer 
+is defined.  An approach has also been defined and a system
+has been written for the SRU 1107 to mechanize 
+a major portion of this process.  The techniques developed
+to accomplish the mechanization are largely 
+empirical, and are dependent for their information
+only on the actual data points.

@@ -1,0 +1,11 @@
+Computer Simulation Of City Traffic
+In simulating traffic flow on city streets,
+the National Bureau of Standards has used data 
+processing techniques to tabulate and make motion pictures
+of vehicle movements in the model.  Each vehicle 
+is assigned a digital identification giving points of
+entry and exit, type of vehicle, desired speed, 
+and actual speed, in proportions simulating field data.
+ Changes in the model can be made to observe 
+their consequences and to determine the ability of a
+real street to carry loads expected in the future.

@@ -1,0 +1,16 @@
+CAT: A 7090-3600 Computer-Aided Translation
+A semi-automatic translation system has been implemented
+which converts 7090 FAP language programs 
+into 3600 assembly language.  The input to the system
+is a FAP program deck which has been specially 
+prepared for translation by the user.  The output consists
+of the translated COMPASS language program 
+together with a comprehensive diagnostic listing which the
+user must analyze in order to verify any questionable 
+areas of the translation.  The translation processor
+consists of three distinct phases: an assembly of 
+the FAP program, a comprehensive analysis of the assembled
+code with particular regard to the actions 
+of instructions upon other instructions and upon data,
+and finally the output pass which generates the 
+COMPASS program in the form of macro instructions.

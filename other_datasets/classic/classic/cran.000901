@@ -1,0 +1,14 @@
+long slender delta wings with leading edge separation .
+long slender delta wings with leading edge separation .
+  the slender-body approximation of linearized compressible flow is
+applied to the problem of a delta wing in which flow separation occurs
+at the leading edges .  the vortex sheets found in the real flow are
+approximated by concentrated vortices with feeding lattices, and a
+plausible adaptation of kelvin's theorem is applied to simulate the
+force-free nature of the vortex sheet .
+  the computations show that leading-edge separation produces an
+increase in lift over that given by the jones slender-wing theory and
+that the lift does not vary linearly with angle of attack .  computed
+pressure distributions and span loadings are presented and the
+theoretical lift results are compared with the results of simple force tests
+made at a mach number of 1.9 .

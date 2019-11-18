@@ -1,0 +1,21 @@
+Some Basic Determinants of Computer Programming Productivity
+The propose of this research was to examine
+the relationship between processing characteristics 
+of programs and experience characteristics of programmers
+and program development time.  The ultimate 
+objective was to develop a technique for predicting
+the amount of time necessary to create a computer 
+program.  The fifteen program characteristics hypothesized
+as being associated with an increase in programming 
+time required are objectively measurable from preprogramming
+specifications.  The five programmer characteristics 
+are experience-related and are also measurable before a programming
+task is begun.  Nine program characteristics 
+emerged as major influences on program development time,
+each associated with increased program development 
+time.  All five programmer characteristics were found
+to be related to reduced program development time. 
+ A multiple regression  equation which contained one programmer
+characteristic and four program characteristics 
+gave evidence of good predictive power for
+forecasting program development time.   

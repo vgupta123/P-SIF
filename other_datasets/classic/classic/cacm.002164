@@ -1,0 +1,15 @@
+Symbolic Integration: The Stormy Decade
+Three approaches to symbolic integration in the
+1960's are described.  The first, from artificial 
+intelligence, led to Slagle's SAINT and to a large
+degree to Moses' SIN.  The second, from algebraic 
+manipulation, led to Manove's implementation and to
+Horowitz' and Tobey's reexamination of the Hermite 
+algorithm for integrating rational functions.  The third,
+from mathematics, led to Richardson's proof 
+of the unsolvability of the problem for a class of functions
+and for Risch's decision procedure for the 
+elementary functions.Generalizations of Risch's algorithm
+to a class of special functions and programs 
+for solving differential equations and for finding
+the definite integral are also described.

@@ -1,0 +1,53 @@
+approximate analytical solutions for hypersonic flow
+past slender power-law bodies .
+approximate analytical solutions for hypersonic flow
+past slender power-law bodies .
+approximate analytical solutions are presented
+for two-dimensional and axisymmetric
+hypersonic flow over blunt-nosed slender bodies whose
+shapes follow a power law variation .  in particular,
+the body shape is given by where is the
+transverse body ordinate, is the streamwise distance
+from the nose, and m is a constant in the range .
+both zero-order
+solutions and first-order (small but nonvanishing values
+of solutions are presented, where m is the
+free-stream mach number and is a characteristic
+body or streamline slope .  the zero-order shock shape
+is similar to the body shape for these flows .  the
+solutions are found within the framework of
+hypersonic-slender-body theory .
+  the limiting case m=1 corresponds to a wedge
+or cone flow .  the limiting case
+corresponds to a constant-energy flow .
+the latter cases are included
+so that the present study may be applied to all flows
+wherein the zero-order shock shape is given by
+with m in the range .  flow
+fields associated with shock shapes having values of m
+outside this range are also discussed .  for all values
+of, except m=1, certain portions of the flow field
+riolate the hypersonic-slender-body approximations,
+while other portions are consistent with these
+approximations .  for m=1, all portions of the flow field
+are consistent with the approximations .
+  the approximate solutions are found as follows .
+the asymptotic form of the flow in the vicinity of the
+body surface is used as a guide to write approximate
+expressions for the dependent variables .  these
+expressions exactly satisfy the continuity and
+energy equations and contain arbitrary constants
+which are evaluated so as to satisfy boundary
+conditions at the shock .  the approximate solutions do
+not satisfy the lateral momentum equation except at
+the shock and (for the first-order problem) at the body
+surface .
+  the results of the approximate solutions are
+compared with numerical integrations of the
+equations of motion for various values of m and (ratio
+of specific heats) .  good agreement is noted,
+particularly when m and are both near one .  the
+shock is relatively close to the body for the latter
+cases .  sufficient results are presented to evaluate
+the accuracy of the approximate method for various
+values of m and .

@@ -1,0 +1,21 @@
+A General Formulation of storage Allocation
+Formalization of a general computer storage
+allocation process is attempted.  With a given 
+computer M is associated a fictitious computer M' essentially
+identical to M except in respect to possession 
+of unbounded primary storage.  Mappings of the total
+storage set (internal and external) of M into the 
+direct address set of M' are introduced.  A program
+sequence P for M' is termed M-admissible (relative 
+to a specific execution time period) if there is a mapping
+underwhich P and its effective data referents 
+are all located in the direct address set of M.  Storage
+allocation is considered as a process of establishing 
+for an arbitrary M' program  a sequence of mappings, a decoupling
+of the program into M-admissible subprograms 
+and a linking set of interludes.  An existence proof
+in terms of a completely interpretive M program 
+as indicated.  Some special cases are discussed.  Various
+restrictions on generality of M' programs are 
+considered under which more practical realization
+of allocation processes becomes tractable.

@@ -1,0 +1,20 @@
+spherical cap snapping .
+spherical cap snapping .
+  a nonlinear boundary value problem for the determination of
+the rotationally symmetric deformations of a clamped spherical
+cap under external pressure is solved by finite differences .  the
+numerical solutions are obtained by employing a previously
+developed iteration procedure .  a special case of the difference
+equations is solved explicitly and yields a justification of the
+iteration method as well as insight into the properties of the more
+accurate numerical solutions .
+  buckled and unbuckled equilibrium states are obtained and
+the shape of the pressure-deflection curve which is usually assumed
+for these states is verified for a large class of caps .  close
+estimates are given for the upper and lower buckling loads and an
+intermediate buckling load--i.e., the /dead-weight/ load .  the
+stresses and deflections in the buckled and unbuckled states are
+examined and compared with an asymptotic solution valid in the
+interior of very thin shells .  boundary layers are found to
+develop in the buckled states both as the loading increases and as
+the thickness of the shell decreases .

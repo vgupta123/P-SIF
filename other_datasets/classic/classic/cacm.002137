@@ -1,0 +1,16 @@
+New LISP Techniques for a Paging Environment
+The system described herein employs the block
+concept, and that of global and local variables, 
+in addition to the methods applied in most LISP systems.
+ Also, a new means of list representation is 
+used: "local sequential" for lists created during compilation,
+and "block level sequential" for those 
+created dynamically.  A new garbage collection algorithm
+has been introduced to make lists as compact 
+as possible; partial garbage collection is performed after
+each block exit instead of total garbage collection 
+when storage is exhausted.  The algorithm does not use
+the customary flagging procedure.  This combination 
+of features has eliminated the need for a free list,
+and effectively minimizes the number of pages used 
+at any moment.

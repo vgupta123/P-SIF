@@ -1,0 +1,12 @@
+Structured Data Structures
+Programming systems which permit arbitrary
+linked list structures enable the user to create 
+complicated structures without sufficient protection.
+ Deletions can result in unreachable data elements, 
+and there is no guarantee that additions will be performed
+properly.  To remedy this situation, this 
+paper proposes a gauge which provides for the creation
+of a restricted class of data structures but ensures 
+the correctness of the program.  This is accomplished
+by an explicit structure declaration facility, 
+a restriction on the permissible operations, and execution-time checks.

@@ -1,0 +1,12 @@
+An Algorithm for Hidden Line Elimination
+The algorithm presented causes the elimination of
+hidden lines in the representation of a perspective 
+view of concave and convex plane-faced objects on the
+picture plane.  All the edges of the objects are 
+considered sequentially, and all planes which hide every
+point of an edge are found.  The computing time 
+increases roughly as the square of the number of edges.
+ The algorithm takes advantage of a reduced number 
+of concave points and automatically recognizes if only
+one object with no concave points is considered. 
+In this last case, the result is obtained in a much simpler way.

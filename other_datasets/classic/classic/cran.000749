@@ -1,0 +1,21 @@
+the aerodynamic effects of aspect ratio and sweepback
+on wing flutter .
+the aerodynamic effects of aspect ratio and sweepback
+on wing flutter .
+  the report describes tests to obtain direct
+measurements of the aerodynamic effects of aspect ratio and
+sweepback on wing flutter .  the tests were made on rigid
+wings with root flexibilities .
+  it is shown that measured effects of aspect ratio and
+sweepback on the flutter of these wings can be represented
+quite closely in flutter calculations based on two-dimensional
+flow theory by multiplying the two-dimensional
+aerodynamic coefficients by appropriate factors .  the effect of
+sweepback is represented by multiplying all aerodynamic
+coefficients by cos, where is the wing leading-edge
+sweepback, and the effect of aspect ratio is represented by
+multiplying the aerodynamic damping coefficients by 1f(a) and,
+the stiffness coefficients by 1(f(a)) where a is the
+aspect ratio .
+  for the wings tested an average value for
+f(a) is f(a) = (1 + (0.8a)) .

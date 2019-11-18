@@ -1,0 +1,5 @@
+The Quadratic Quotient Method: A Hash
+Code Eliminating Secondary Clustering
+Secondary clustering as a cause of hash code inefficiency is discussed, and a 
+new hashing method based on its elimination is presented.  Comparisons with 
+previous methods are made both analytically and empirically.

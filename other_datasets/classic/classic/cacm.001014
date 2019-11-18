@@ -1,0 +1,11 @@
+Machine Controls for Analysis of Variance
+A major problem in using the analysis of variance,
+as the number of factors increases, is the 
+exponential rise in the number of interactions.  Even
+though the experimenter may not be interested in 
+these interactions it is impossible to ignore them in
+most experimental designs because of the problem 
+of getting error terms.  It is natural therefore to look
+to the computer to handle the bulk of work involved 
+in computing the interactions.  A program device
+to get the computer to do this is described.

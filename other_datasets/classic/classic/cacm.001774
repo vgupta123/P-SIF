@@ -1,0 +1,10 @@
+Program Overlay Techniques
+The general features of program overlay systems
+are described.  Three main types -- automatic, 
+semiautomatic and nonautomatic -- are classified, and the
+programming techniques are explained as a function 
+of machine hardware and other system features.  The
+implementation of semiautomatic overlay facility 
+in a multiprogrammed system on the CDC 6600 is described
+in detail, with special reference to real time 
+applications.

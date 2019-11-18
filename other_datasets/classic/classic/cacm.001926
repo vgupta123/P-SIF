@@ -1,0 +1,10 @@
+Description of FORMAT, a Text-Processing Program
+FORMAT is a production program which facilitates
+the editing and printing of "finished" documents 
+directly on the printer of a relatively small (64k) computer
+system.  It features good performance, totally 
+free-form input, very flexible formatting capabilities
+including up to eight columns per page, automatic 
+capitalization, aids for index construction, and a
+minimum of nontext items.  It is written entirely 
+in FORTRAN IV.

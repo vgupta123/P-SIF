@@ -1,0 +1,22 @@
+Shallow Binding in Lisp 1.5
+Shallow binding is a scheme which allows the
+value of a variable to be accessed in a bounded 
+amount of computation.  An elegant model for shallow binding
+in  Lisp 1.5 is presented in which context-switching 
+is an environment tree transformation called rerooting.
+ Rerooting is completely general and reversible, 
+and is optional in the sense that a Lisp 1.5 interpreter
+will operate correctly whether or not rerooting 
+is invoked one very context change.   Since rerooting
+leaves assoc [v, a] invariant, for all variables 
+v and all environments a, the programmer can have access
+to a rerooting primitive, shallow[], which gives 
+him dynamic control over whether accesses are shallow or
+deep, and which affects only the speed of execution 
+of a program, not its semantics.  In addition, multiple
+processes can be active in the same environment 
+structure, so long as rerooting is an indivisible operation.
+ Finally, the concept of rerooting is shown 
+to combine the concept of shallow binding in Lisp with
+Dijkstra's display for Algol and hence is a general 
+model for shallow binding.

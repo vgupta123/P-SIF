@@ -1,0 +1,11 @@
+A Language for Describing the Functions of Synchronous Systems* 
+Before the design of a system is started, the
+exact function desired of it should be specified. 
+ It is suggested that a computer-oriented language be
+used for this purpose.  The inadequacies of the 
+standard programming languages for the description of
+systems are discussed, and a dialect of ALGOL which 
+is suitable for describing synchronous systems is introduced.
+ These descriptions can be used for simulation 
+and automatic design of the system described, in
+addition to communicating system specifications.

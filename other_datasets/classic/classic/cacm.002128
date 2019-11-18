@@ -1,0 +1,6 @@
+A Processor Allocation Method for Time-Sharing
+A scheduling algorithm is proposed which is intended to minimize changes of 
+tasks on processors and thereby reduce over-head.  The algorithm also has
+application to more general resource allocation problems.  It is implemented 
+by means of a method for efficiently handling dynamically changing segmented 
+lists.

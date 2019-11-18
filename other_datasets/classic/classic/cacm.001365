@@ -1,0 +1,20 @@
+Eliminating Monotonous Mathematics with FORMAC
+The FORMAC (FORmula MAnipulation Compiler)
+programming system provides a powerful tool for 
+performing mathematical analysis.  It is an extension
+of FORTRAN IV which permits the use of the computer 
+to perform the tedious algebraic computations that arise
+in many different fields.  Among the areas in 
+which it has been successfully used are: differentiation
+of complicated expressions, expansion of truncated 
+power series, solution of simultaneous equations with
+literal coefficients, nonlinear maximum likelihood 
+estimation, tensor analysis, and generation of the coefficients
+of equations in Keplerian motion.  These 
+types of analysis-which arose in the solution of specific
+practical problems in physics, engineering, 
+astronomy, statistics and astronautics-are discussed in
+the paper.  In addition to its usage for specific 
+problem solutions, FORMAC can also be used to automate
+the analysis phase in certain production programming. 
+ Several such applications are presented.

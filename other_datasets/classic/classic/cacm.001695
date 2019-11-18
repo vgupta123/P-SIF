@@ -1,0 +1,23 @@
+PLEXUS-An On-Line System for Modeling Neural Networks
+A description is presented of PLEXUS, a system
+which enables a user to construct and specify 
+a neural network, to analyze the output data produced
+by the network, and to store and retrieve networks 
+and data from a library.  The system, operated entirely
+from a digital display unit, interacts directly 
+with the user and permits easy and rapid transitions
+between the various phases of the modeling process. 
+ PLEXUS is designed to complement neurophysiological research
+so that the systematic development of neural 
+models can be coordinated with experimental work.  PLEXUS
+networks are built up from components representing 
+individual neurons, external stimuli, and interconnecting
+fibers, each component being of a relatively 
+detailed nature.  Provision is also made for the use of
+experimental data as input to a network.  Convenient 
+means for specification and modification of a network and
+extensive error-checking capabilities are provided. 
+Data resulting from the simulation of a network may be
+analyzed by a variety of techniques ranging from 
+examinations of the gross characteristics of the data to
+the determination of detailed statistical properties.

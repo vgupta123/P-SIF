@@ -1,0 +1,6 @@
+Threaded Code
+The concept of "threaded code" is presented as
+an alternative to machine language code.  Hardware 
+and software realizations of it are given.  In software
+it is realized as interpretive code not needing 
+an interpreter.  Extensions and optimizations are mentioned.

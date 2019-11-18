@@ -1,0 +1,14 @@
+On a Solution to the Cigarette Smoker's
+Problem (Without Conditional Statements)
+This report discusses a problem first introduced
+by Patil, who has claimed that the cigarette 
+smoker's problem cannot be solved using the P and V operations
+introduced by Dijkstra unless conditional 
+statements are used.  An examination of Patil's proof
+shows that he has established this claim only under 
+strong restrictions on the use of P and V.  These restrictions
+eliminate programming techniques used 
+by Dijkstra and others since the first introduction
+of the semaphore concept.  This paper contains a 
+solution to the problem.  It also discusses the need
+for the generalized operators suggested by Patil.

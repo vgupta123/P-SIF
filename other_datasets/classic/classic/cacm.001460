@@ -1,0 +1,8 @@
+Evolution of the Meta-Assembly Program
+A generalized assembler called a "meta-assembler"
+is described.  The meta-assembler is defined 
+and factors which contributed to its evolution are presented.
+ How a meta-assembler is made to function 
+as an assembly program is described. Finally, the implication
+of meta-assemblers on compiler design is 
+discussed.

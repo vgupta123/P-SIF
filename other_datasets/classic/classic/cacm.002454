@@ -1,0 +1,11 @@
+Computational Algorithms for Closed Queueing
+Networks with Exponential Servers
+Methods are presented for computing the equilibrium
+distribution of customers in closed queueing 
+networks with exponential servers.  Expressions for
+various marginal distributions are also derived. 
+ The computational algorithms are based on two-dimensional
+iterative techniques which are highly efficient 
+and quite simple to implement.  Implementation considerations
+such as storage allocation strategies and 
+order of evaluation are examined in some detail.

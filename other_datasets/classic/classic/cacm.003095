@@ -1,0 +1,11 @@
+A Selective Traversal Algorithm for Binary Search Trees
+The problem of selecting data items from
+a binary search tree according to a list of range 
+conditions is considered.  The process of visiting a
+minimal number of nodes to retrieve data satisfying 
+the range conditions is called selective traversal.  Presented
+in this paper is an algorithm for selective 
+traversal which uses a tag field for each node in the
+tree.  The algorithm is particularly useful and 
+efficient when examination of data is more time
+consuming than examination of a tag field. 

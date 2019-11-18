@@ -1,0 +1,21 @@
+GEDANKEN-A Simple Typeless Language Based on the
+Principle of Completeness and the Reference Concept
+GEDANKEN is an experimental programming language with the following 
+characteristics.  (1) Any value which is permitted in some context of the 
+language is permissible in any other meaningful context.  In particular,
+functions and labels are permissible  results of functions and values
+of variables.  (2) Assignment and indirect addressing are formalized
+by introducing values, called reference, which in turn possess
+other values.  The assignment operation always affects the relation
+between some reference and its value,  (3) All compound data
+structures are treated as functions.  (4) Type declarations are
+not permitted.  The functional approach to data structures and the
+use of references insure that any process which accepts some data
+structure will accept any logically equivalent structure, regardless
+of its internal representation.  More generally, any data structure
+may be implicit; i.e. it may be specified by giving an arbitrary
+algorithm for computing or accessing its components.  The existence of 
+label variables permits the construction of coroutines,
+quasi-parallel processes, and other unorthodox control mechanisms.
+A variety of programming examples illustrates the generality of the language.
+Limitations and possible extensions are discussed briefly.

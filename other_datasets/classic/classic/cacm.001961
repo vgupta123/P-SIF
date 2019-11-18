@@ -1,0 +1,11 @@
+An Efficient Search Algorithm to Find the Elementary Circuits of a Graph
+A theoretically most efficient search algorithm is presented
+which uses an exhaustive search to find all of the elementary
+circuits of a graph.  The algorithm can be easily modified to find all
+of the elementary circuits with a particular attribute such as
+length.  A rigorous proof of the algorithm is given as well as an example
+of its application.  Empirical bounds are presented relating
+the speed of the algorithm to the number of vertices and the number
+of arcs.  The speed is also related to the number of circuits
+in the graph to give a relation between speed and complexity.
+Extensions to undirected and s-graphs are discussed.

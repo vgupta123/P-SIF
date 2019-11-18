@@ -1,0 +1,53 @@
+the transverse curvature effect in compressible axially
+symmetric laminar boundary layer flow .
+the transverse curvature effect in compressible axially
+symmetric laminar boundary layer flow .
+  the viscous transverse curvature effect in compressible axially
+symmetric laminar boundary-layer flow has been investigated,
+and it is found that the effect is characterized by the parameter
+which is essentially the ratio of the boundary-layer thickness
+to body radius .  it is shown that the busemann and crocco
+integrals of the two-dimensional energy equation for are
+still valid for axially symmetric flow in which the transverse
+curvature effects are considered .  by a generalization of
+mangler's transformation it is then shown that the boundary-layer
+equations are reducible to an almost two-dimensional form,
+making the analysis simpler for two asymptotic flow regions
+characterized by and less than or of the order of unity .
+it is with the latter region that the present paper is primarily
+concerned, and for this case it is shown that the additional term
+in the momentum and energy equations, which differentiates them
+from the two-dimensional form, behaves like an external
+favorable pressure gradient .
+  except for certain special cases it is necessary to obtain the
+of the order of unity by means of asymptotic expansions in
+ascending powers of a parameter that is small compared to unity
+but proportional to .  it is shown how the asymptotic
+solutions can be found for (1) the velocity and temperature
+distributions for the compressible zero pressure gradient case when the
+body shapes are given by and and (2) the
+velocity distribution for incompressible flow with an external
+velocity of the form past a body given by .  the
+zeroth approximation is the mangler result .  for the cases of a
+linear external velocity distribution, similar profiles can be found
+for all values of .  more generally it is shown that similar
+profiles exist if the exponents n and m satisfy the condition that .
+here, similar is used in the restricted meaning
+that the distributions are derivable from ordinary differential
+equations .
+  in the case of the cone and cylinder with zero pressure gradient
+where the equations have been numerically integrated for,
+the first-order correction to the mangler formulation shows that
+the effect on both the skin-friction coefficient and heat-transfer
+rate can become appreciable in the range where is less than
+or of the order of unity .  at a constant, the effects are
+increased in magnitude when either the ratio of wall to free-stream
+temperature, or mach number, is increased .  also, all other
+conditions being equal, for the same value of the skin-friction
+coefficient and heat-transfer increase on the cylinder is greater
+than that on the cone .
+  for flows with pressure gradient, the transverse curvature term
+behaves again like a favorable pressure gradient and tends to
+delay both separation and transition when compared with axially
+symmetric flows in which the transverse curvature effect is
+neglected .

@@ -1,0 +1,19 @@
+On the Construction of a Representative Synthetic Workload
+A general method of constructing a drive workload
+representative of a real workload is described. 
+The real workload is characterized by its demands on the
+various system resources.  These characteristics 
+of the real workload are obtained from the system accounting
+data. The characteristics of the drive workload 
+are determined by matching the joint probability density
+of the real workload with that of the drive 
+workload.  The drive workload is realized by using a
+synthetic program in which the characteristics can 
+be varied by varying the appropriate parameters. Calibration
+experiments are conducted to determine expressions 
+relating the synthetic program parameters with the workload
+characteristics.  The general method is applied 
+to the case of two variables, cpu seconds and number
+of I/O activities; and synthetic workload with 88 
+jobs is constructed to represent a month's
+workload consisting of about 6000 jobs.

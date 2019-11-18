@@ -1,0 +1,14 @@
+A Boolean Matrix Method for the Computation
+of Linear Precedence Functions
+A modified version of Bell's Boolean matrix
+method for the computation of linear precedence 
+functions associated with a conflict-free matrix of
+precedence relations is given.  This algorithm not 
+only detects when the precedence functions do not  exist,
+but also provides an indication of why they 
+do not exist, so that corrective action can be taken
+if possible.  Necessary and sufficient conditions 
+for the existence of precedence functions are given.
+ The use of Boolean matrices to prove the existence 
+of precedence functions associated with classes of conflict-free
+grammars is illustrated through an example.

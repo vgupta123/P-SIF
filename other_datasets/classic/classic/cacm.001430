@@ -1,0 +1,13 @@
+Multiple Precision Floating-Point Conversion
+from Decimal-to-Binary and Vice Versa
+Decimal-to-binary and binary-to-decimal floating-point
+conversion is often performed by using 
+a table of the powers 10^i, (ia positive integer) for
+converting from base 10 to base 2, and by using 
+a table of the coefficient of a polynomial approximation
+of 10^x, (0<=x<1) for converting from base 2 
+to base 10.  These tables occupy a large storage region
+in the case of a nonsingle precision conversion. 
+ This paper shows that a single small table suffices
+for a floating-point conversion from decimal to 
+binary, and vice versa, in any useful precision.

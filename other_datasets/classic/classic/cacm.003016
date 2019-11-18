@@ -1,0 +1,10 @@
+A Comparison of Numerical Techniques in Markov Modeling
+This paper presents several numerical methods which
+may be used to obtain the stationary probability 
+vectors of Markovian models.  An example of a nearly
+decomposable system is considered, and the results 
+obtained by the different methods examined.  A post
+mortem reveals why standard techniques often fail 
+to yield the correct results.  Finally, a means of estimating
+the error inherent in the decomposition 
+of certain models is presented.

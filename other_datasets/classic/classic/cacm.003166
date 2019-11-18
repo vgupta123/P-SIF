@@ -1,0 +1,12 @@
+Computing Standard Deviations: Accuracy
+Four algorithms for the numerical computation
+of the standard deviation of (unweighted) sampled data
+are analyzed.  Two of the algorithms are well-known in the statistical
+and computational literature; the other two are new algorithms
+specifically intended for automatic computation.  Our discussion is 
+expository, with emphasis on reaching a suitable definition of
+"accuracy."  Each of the four algorithms is analyzed for the conditions
+under which it will be accurate.  We conclude that all four
+algorithms will provide accurate answers for many problems, but two
+of the algorithms, one new, one old, are substantially more accurate
+on difficult problems than are the other two.

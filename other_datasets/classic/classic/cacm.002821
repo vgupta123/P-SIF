@@ -1,0 +1,11 @@
+Cobol Under Control
+A sample set of Cobol programming standards
+is offered.  These standards constrain code to 
+be developed in a "structured" form for both data and
+control structures.  They do not require syntax 
+beyond the existing Cobol language and in fact utilize
+a typical limited subset of the 1974 ANS Cobol 
+standard.  These standards have proved extremely valuable
+in practice and have reduced the cost and time 
+to produce and maintain large software systems that have
+been deployed in live multiple customer environments.

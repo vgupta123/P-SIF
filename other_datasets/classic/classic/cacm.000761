@@ -1,0 +1,6 @@
+A Note on the Dangling Else in ALGOL 60
+Some revisions of ALGOL 60 are proposed, which
+not only eliminate certain ambiguous statements 
+but also add some convenience to the language.  A discussion
+of the background of the problem and a sketch 
+of a proof that the ambiguities have been removed is included.

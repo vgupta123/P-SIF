@@ -1,0 +1,28 @@
+Introduction to "Feature Analysis of
+Generalized Data Base Management Systems"
+This paper is a separately published introduction
+to a main report which analyzes the features 
+of generalized data base management systems.  This introduction
+gives a review of the current state of 
+the art in these systems and discusses the differences
+and similarities between capabilities found in 
+host language systems and those found in self-contained
+systems.  After some discussion of the problems 
+of data independence and binding,the four user levels
+are identified and described.  Technical problems 
+facing future designers are described.  The first of
+these is that of handling existing stored data and 
+the next is that of providing more complex data structures
+than those already available in conventional 
+programming languages.  The problem of high level interrogation
+and update functions acting on network 
+structures is mentioned, followed by a discussion of the
+problem of catering to a high volume of transactions 
+initiated from terminals by parametric users-the lowest
+level of user.  The use of Cobol as a basis for 
+further development work is considered at some length
+with respect to data structures, host language 
+capabilities, and self-contained capabilities.  This
+section also assesses the effect of the Data Base 
+Task Group proposals.  The final section outlines the
+ten major topics in the main body of the full report.

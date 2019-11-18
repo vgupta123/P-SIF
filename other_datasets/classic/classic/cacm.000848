@@ -1,0 +1,8 @@
+A Note on Range Transformations for Square Root and Logarithm
+There was the germ of an idea in two previous
+papers [1,2] which no one seems to have picked 
+up in almost five years.  For certain functions it seems
+desirable to transform the argument to a short 
+range symmetric about 10.1 will give examples of this
+usage for the square root and logarithm function 
+for both binary and decimal machines.

@@ -1,0 +1,4 @@
+A Note on Storage of Strings
+A method for storing strings is described which
+uses blocks of indefinite size, and is therefore 
+completely dynamic.  Its relation to similar schemes is discussed.

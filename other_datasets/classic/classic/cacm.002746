@@ -1,0 +1,15 @@
+Efficient String Matching: An Aid to Bibliographic Search
+This paper describes a simple, efficient algorithm
+to locate all occurrences of any of a finite 
+number of keywords in a string of text.  The algorithm
+consists of constructing a finite state pattern 
+matching machine from the keywords and then using the
+pattern matching machine to process the text string 
+in a single pass.  Construction of the pattern matching
+machine takes time proportional to the sum of 
+the lengths of the keywords.  The number of state transitions
+made by the pattern matching machine in 
+processing the text string is independent of the number
+of keywords.  The algorithm has been used to 
+improve the speed of a library bibliographic
+search program by a factor of 5 to 10.

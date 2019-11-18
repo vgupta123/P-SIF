@@ -1,0 +1,31 @@
+real-gas laminar boundary layer skin friction and heat
+transfer .
+real-gas laminar boundary layer skin friction and heat
+transfer .
+  the laminar-boundary-layer equations have been integrated
+for the case of a flat plate over a wide range of free-stream
+enthalpies and velocities and over a wide range of enthalpies of
+the gas at the wall .  the range of free-stream velocities extended
+up to 25,000 ft sec at low free-stream enthalpies, corresponding
+to local conditions on a slender body traveling at high speeds .
+at low free-stream velocities, the range of free-stream enthalpies
+extended up to 400,000 btu slug, corresponding to the local
+conditions on a blunt body traveling at speeds up to 25,000 ft sec .
+the gas was assumed to be in thermodynamic equilibrium at each
+point in the boundary layer and diffusion effects were neglected .
+the solutions to the boundary-layer equations were carried out
+on a high-speed digital computing machine, both skin-friction and
+heat-transfer coefficients being obtained from the computations .
+  before presenting the results, the t' method of rubesin and
+johnson for computing skin-friction coefficients for the
+perfect-gas case is reviewed .  for the real-gas case, the average
+temperature, t', is replaced by the average enthalpy, h', and the h'
+method is then used to compute skin-friction coefficients .  these
+values are in excellent agreement with the computing-machine
+results .  it was found that the recovery factor for the real-gas
+case can be approximated by, the best results for the
+cases considered being obtained if a value of pr corresponding to
+the enthalpy, h', is used .  using this recovery factor and
+reynolds analogy, heat-transfer rates can be computed which,
+with a few exceptions, are within 5 percent of values obtained
+from computing-machine results .

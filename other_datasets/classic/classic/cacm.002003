@@ -1,0 +1,20 @@
+An Interactive Software System for Computers-Aided
+Design:  An Application to Circuit Project
+The characteristics of an interactive software system, intended to constitute 
+an interface between designer and computer during various steps of
+the design process, are presented.  The main emphasis is given to the
+description of the features of the two high level user oriented
+languages, operating at different levels, on which the interaction
+is based.  The first one is IMOL, an interactive monitor language,
+which is designed to perform the overall and control functions
+of the software system; its design criteria provide the user with
+commands which are both simple and efficient in order to perform all
+the functions needed in computer-aided circuit design.  The second one is 
+COIF, a circuit oriented graphic language, which is designed
+to describe, generate, and manipulate graphic problem specifications; 
+it is an  extension of Fortran with graphic-type variables,
+so that the designer who is familiar with Fortran need not learn a new 
+language.  The application to computer-aided circuit design
+is in particular examined; on the other hand, the adopted design
+criteria provide sufficient generality to extend the use of the two languages 
+to different computer-assisted applications.

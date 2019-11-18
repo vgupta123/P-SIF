@@ -1,0 +1,14 @@
+Matrix Reduction-An Efficient Method
+The paper describes an efficient method for
+reduction of the binary matrices which arise in 
+some school time-tabling problems.  It is a development
+of that described by John Lions.  It has been 
+generalized and adapted to fit into the complete timetabling
+process; to use a more compact data representation 
+and more efficient processing techniques; to take fuller
+advantage of possible available previous knowledge 
+about the matrix.  And it is designed as a structured
+program, which can readily be coded by the reader 
+in the high level or low level programming language
+of his choice.  Practical tests of the method have 
+shown it to be a good basis for a realistic timetabling algorithm.

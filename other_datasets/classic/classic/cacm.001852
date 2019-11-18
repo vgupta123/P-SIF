@@ -1,0 +1,10 @@
+A Base for a Mobile Programming System
+An algorithm for a macro processor which has
+been used as the base of an implementation, by 
+bootstrapping, of processors for programming languages is
+described.  This algorithm can be easily implemented 
+on contemporary computing machines.  Experience with
+programming languages whose implementation is based
+on this algorithm indicates that such a language can
+be transferred to a new machine in less than one 
+man-week without using the old machine.

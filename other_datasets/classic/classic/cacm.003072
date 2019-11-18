@@ -1,0 +1,20 @@
+Feedback Coupled Resource Allocation Policies
+in the Multiprogramming- Multiprocessor Computer 
+System
+Model studies of some integrated, feedback-driven
+scheduling systems for multiprogrammed- multiprocessor 
+computer systems are presented.  The basic control variables
+used are the data-flow rates for the processes 
+executing on the CPU.  The model systems feature simulated
+continuous-flow and preempt-resume scheduling 
+of input-output activity.  Attention is given to the
+amount of memory resource required for effective 
+processing of the I/O activity (buffer space assignment).
+ The model studies used both distribution-driven 
+and trace-driven techniques.  Even relatively simple dynamic
+schedulers are shown to improve system performance 
+(as measured by user CPU time) over that given by optimal
+or near-optimal static schedulers imbeded 
+in identical system structures and workload environments.
+ The improvement is greatest under a heavy 
+I/O demand workload.

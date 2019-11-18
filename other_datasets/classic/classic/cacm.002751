@@ -1,0 +1,16 @@
+Illumination for Computer Generated Pictures
+The quality of computer generated images of
+three-dimensional scenes depends on the shading 
+technique used to paint the objects on the cathode-ray
+tube screen.  The shading algorithm itself depends 
+in part on the method for modeling the object, which
+also determines the hidden surface algorithm.  The 
+various methods of object modeling, shading, and hidden
+surface removal are thus strongly interconnected. 
+ Several shading techniques corresponding to different
+methods of object modeling and the related hidden 
+surface algorithms are presented here.  Human visual
+perception and the fundamental laws of optics are 
+considered in the development of a shading rule that
+provides better quality and increased realism in 
+generated images.

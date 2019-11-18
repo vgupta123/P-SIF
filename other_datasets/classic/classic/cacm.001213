@@ -1,0 +1,5 @@
+Dynamic Format Specifications
+The use and implementation of two new FORTRAN
+format conversions are discussed.  These format 
+types give the FORTRAN programmer control of input/output
+specifications at execution time.

@@ -1,0 +1,16 @@
+A Data Definition and Mapping Language
+A data definition language i sa declarative
+computer language for specifying data structures. 
+ Most data definition languages concentrate on the declaration
+of logical data structures with little 
+concern for how these structures are physically realized
+on a computer system.  However, the need for 
+data definition languages which describe both the logical
+and physical aspects of data is increasingly 
+apparent.  Such languages will be a key systems, as well
+as in advanced data management systems and distributed 
+data bases.  This paper reviews past work in the data
+definition language for describing both logical 
+and physical aspects of data.  Applications of these
+"generalized" data definition languages are also 
+discussed.

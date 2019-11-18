@@ -1,0 +1,11 @@
+Efficient Algorithms for Graph Manipulation [H] (Algorithm A447)
+Efficient algorithms are presented for partitioning
+a graph into connected components, biconnected 
+components and simple paths.  The algorithm for partitioning
+of a graph into simple paths is iterative 
+and each iteration produces a new path between two
+vertices already on paths.  (The start vertex can 
+be specified dynamically.)  If V is the number of vertices
+and E is the number of edges, each algorithm 
+requires time and space proportional to max (V,E)
+when executed on a random access computer.

@@ -1,0 +1,16 @@
+convergence rates of iterative treatments of partial differential
+equations .
+convergence rates of iterative treatments of partial differential
+equations .
+the development of high-speed digital computers has made feasible the
+numerical solution by iterative methods of some partial differential
+equations . the convergence rates of several such iterative methods are
+estimated here . it is found that with the familiar elementary iterative
+ methods some quite simple problems require prohibitive computational
+labor .
+the iterative methods here considered are related to the various forms
+of the southwell /relaxation method/ in that they involve successively
+applied local corrections to improve an approximate solution . however,
+these iterative methods are routinized in conformity with the
+requirements of automatic computers while the relaxation method is flexible and
+ depends in an essential way on the skill of its practitioners .

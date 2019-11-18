@@ -1,0 +1,12 @@
+Stably Updating Mean and Standard Deviation of Data
+By considering the (sample) mean of a set of
+data as a fit to this data by a constant function, 
+a computational method is given based on a matrix formulation
+and Givens transformations. The (sample) 
+mean and standard deviation can be updated as data
+accumulates.  The procedure is numerically stable 
+and does not require storage of the data.  Methods for
+dealing with weighted data and data removal are 
+presented.  When updating the mean and square of the
+standard deviation, the process requires no square 
+roots.

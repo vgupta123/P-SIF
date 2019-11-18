@@ -1,0 +1,6 @@
+Mathematical Experimentation in Time-Lag Modulation
+Equations of the form du/dt = g(u(t),u(h(t)))
+arise in a number of scientific contexts.  The 
+authors point out some interesting properties of the
+solution u'(t) = -u(t-1-k*sin(wt))+sin(at).  These 
+properties were obtained by means of numerical solution.

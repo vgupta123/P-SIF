@@ -1,0 +1,8 @@
+On Computing Certain Elements of the Inverse of a Sparse Matrix
+A recursive algorithm for computing the inverse
+of a matrix from the LU factors based on relationships 
+in Takahashi, et al., is examined.  The formulas for the
+algorithm are given; the dependency relationships 
+are derived; the computational costs are developed; and some
+general comments on application and stability 
+are made.

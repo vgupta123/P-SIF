@@ -1,0 +1,6 @@
+A List-Type Storage Technique for Alphameric Information
+A method which is economic in terms of space and
+time is proposed for the storage and manipulation 
+of character strings of arbitrary length in a fixed
+word-length computer.  The method is illustrated 
+in an application to Algol-type identifiers in an Algol-like block structure.

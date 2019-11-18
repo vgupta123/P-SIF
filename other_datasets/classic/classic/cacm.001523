@@ -1,0 +1,12 @@
+SHARER, a Time Sharing System for the CDC 6600
+A time sharing system embedded within the
+standard batch processing system for the CDC 6600 
+is described.  The system is general purpose and file-based,
+providing facilities for file input, manipulation, 
+editing, compilation, and conversational execution.
+ It uses a simple scheme for system extension for 
+a machine with only one relocation and memory bound register.
+ No attempt was made to use reentrant code, 
+or to simulate segmentation or paging.  Implementation
+time was approximately six man-years, with the 
+majority of the code being written in FORTRAN.

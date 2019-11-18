@@ -1,0 +1,20 @@
+Storage Utilization in a Memory Hierarchy When Storage
+Assignment Is Performed by a Hashing Algorithm
+The utilization of storage is studied in a two-level
+memory hierarchy.  The first storage level, 
+which is the fast store, is divided into a number of
+storage areas.  When an entry is to be filed in 
+the hierarchy, a hashing algorithm will attempt to
+place the entry into one of these areas.  If this 
+particular area is full, then the entry will be placed
+into the slower second-level store, even though 
+other areas in the first-level store may have space
+available.  Given the N entries have been filed in 
+the entire hierarchy, an expression is derived for the
+expected number of entries filed in the first-level 
+store.This expression gives a measure of how effectively
+the first-level store is being used.  By means 
+of examples, storage utilization is then studied as a
+function of the hashing algorithm, the number of 
+storage areas into which the first-level store is divided
+and the total size of the first-level store. 

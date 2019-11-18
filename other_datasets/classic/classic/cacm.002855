@@ -1,0 +1,11 @@
+An Efficient List-Moving Algorithm Using Constant Workspace
+An efficient algorithm is presented for moving
+arbitrary list structures, using no storage 
+(apart from program variables) other than that required
+to hold the original list and the copy.  The 
+original list is destroyed as it is moved.  No mark
+bits are necessary, but pointers to the copy must 
+be distinguishable from pointers to the original.  The
+algorithm is superior in execution speed to previous 
+algorithms for the same problem.  Some variations
+and extensions of the algorithm are discussed.

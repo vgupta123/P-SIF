@@ -1,0 +1,19 @@
+stability of the cylindrical shell of variable curvature .
+stability of the cylindrical shell of variable curvature .
+the report is a first attempt to devise a calculation method
+for representing the buckling behavior of cylindrical shells
+of variable curvature .  the problem occurs, for instance, in
+dimensioning wing noses, the stability behavior of which is
+decisively influenced by the variability of curvature .  the
+calculation is made possible by simplifying the stability
+equations (permissible for the shell of small curvature) and
+by assuming that the curvature as a function of the arc
+length s can be represented by a very few fourier terms .
+we evaluated the formulas for the special case of an
+ellipse-like half oval with an axis ratio under
+compression in longitudinal direction, shear, and a combination of
+shear and compression .  however, the results can also be
+applied approximately to an unsymmetrical oval-shell segment
+under compression, shear, and bending so that the numerical
+values contained in the diagrams 10 to 12 represent directly
+dimensioning data for the wing nose .

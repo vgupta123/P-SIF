@@ -1,0 +1,8 @@
+POSEIDON
+Any computer that forms part of a control system-whether
+completely automatic or partly human-must 
+work at the same speed as the control system.  It must
+perform its calculations or data processing fast 
+enough for the results to be available at the required
+instants in the action of the control system. 
+ This known as working in "real time."

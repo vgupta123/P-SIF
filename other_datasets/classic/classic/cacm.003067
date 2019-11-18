@@ -1,0 +1,17 @@
+Generalized Working Sets for Segment Reference Strings
+The working-set concept is extended for programs
+that reference segments of different sizes. 
+ The generalized working-set policy (GWS) keeps as its
+resident set those segments whose retention costs 
+do not exceed their retrieval costs.  The GWS is a model
+for the entire class of demand-fetching memory 
+policies that satisfy a resident-set inclusion property.
+ A generalized optimal policy (GOPT) is also 
+defined; at its operating points it minimizes aggregated
+retention and swapping costs.  Special cases 
+of the cost structure allow GWS and GOPT to simulate
+any known stack algorithm, the working set, and 
+VMIN.  Efficient procedures for computing demand curves
+showing swapping load as a function of memory 
+usage are developed for GWS and GOPT policies.  Empirical
+data from an actual system are included.

@@ -1,0 +1,26 @@
+A Comparison of List-Processing Computer Languages
+(Including a Detailed Comparison of COMIT, 
+IPL-V, LISP 1.5, and SLIP)
+A detailed comparison is presented of COMIT,
+IPL-V, LISP 1.5 and SLIP - four well-known computer 
+programming languages which, among them, exhibit all the
+principal characteristics of existing list-processing 
+languages.  Important common features of list-processing
+languages are reviewed: forms of data structures 
+which are manipulated, necessity for dynamic allocation
+of storage, use of pushdown stores, and use of 
+recursive operations.  Principal differences between the
+four languages under consideration are detailed: 
+representations of data, both by the programmer and within
+the machine; methods for storage allocation; 
+programming formalisms and special processes available,
+including arithmetic facilities; and usability 
+in terms of availability, documentation, learning aids
+and debugging facilities.  A rough comparison 
+shows that all the languages discussed have approximately
+the same speed.  Finally, the authors give 
+some heuristics to aid in the selection of one of these
+languages for use in particular problem applications, 
+concluding that no one of the languages considered is
+distinctly superior in all possible list-processing 
+applications.

@@ -1,0 +1,15 @@
+The Evolution of the Sperry Univac 1100
+Series: A His tory, Analysis, and Projection
+The 1100 series systems are Sperry Univac's
+large-scale main frame computer systems.  Beginning 
+with the 1107 in 1962, the 1100 series has progressed
+through a succession of eight compatible computer 
+models to the latest system, the 1100/80, introduced
+in 1977.  The 1100 series hardware architecture 
+is based on a 36-bit word, ones complement structure
+which obtains one operand from storage and one from 
+a high-speed register, or two operands from high-speed
+registers.  The 1100 Operating System is designed 
+to support a symmetrical multiprocessor configuration
+simultaneously providing multiprogrammed batch, 
+timesharing, and transaction environments.

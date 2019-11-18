@@ -1,0 +1,22 @@
+laminar heat transfer around blunt bodies in dissociated
+air .
+laminar heat transfer around blunt bodies in dissociated
+air .
+  a method of predicting laminar heat-transfer rates to blunt,
+highly cooled bodies with constant wall temperature in dissociated
+air flow is developed .  attention is restricted to the case of
+axisymmetric bodies at zero incidence, although two-dimensional
+bodies could be treated the same way .  the method is based on
+the use of the /local similarity/ concept and an extension of the
+ideas used by fay and riddell .  a simple formula is given for
+predicting the ratio of local heat-transfer rate to stagnation-point
+rate .  it depends on wall conditions and pressure distribution,
+but not on the thermodynamic or transport properties of the hot
+external flow, except at the stagnation point .
+  experimental heat-transfer rates obtained with correct
+stagnation-point simulation and high wall cooling in shock tubes are
+also presented and compared with the theoretical predictions .
+on the whole, the agreement is good, although in regions of
+rapidly varying pressure there is evidence that the local similarity
+assumption breaks down, and the theory underestimates the
+actual heat-transfer rate by up to 25 per cent .

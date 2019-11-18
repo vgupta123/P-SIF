@@ -1,0 +1,18 @@
+Conversational Access to a 2048-Word Machine
+LAP6 is an on-line system running on a 2048-word LINC which provides full 
+facilities for text editing, automatic filing and file maintenance, and 
+program preparation and assembly.  It focuses on the preparation and editing 
+of continuously displayed 23,040-character text strings (manuscripts) which
+can be positioned anywhere by the user and edited by simply adding
+and deleting lines as though working directly on an elastic scroll.
+Other features are available through a uniform command set which itself can 
+be augmented by the user.  The machine, although small,
+aids program design by providing display scope and premarked
+randomly addressable LINC tapes as standard items, in an environment
+similar to that of a sophisticated terminal.  The tapes are logically 
+similar to a disk.  Priority was given to the design of efficient
+tape algorithms to minimize the limitations of the small memory.  Techniques 
+developed for handling scroll editing, filing, and the layered system 
+structure are outlined.  LAP6 is used by about 2000 people in 11 countries.  
+Its design was strongly influenced by performance criteria established in 
+interviews held with LINC users themselves during the specification period.

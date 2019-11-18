@@ -1,0 +1,11 @@
+Price/Performance Patterns of U.S. Computer Systems
+Econometric models of the U.S. computer market have been developed to study 
+the relationships between system price and hardware performance.  Single
+measures of price/performance such as "Grosch's Law" are shown to
+be so over simplified as to be meaningless.  Multiple-regression models
+predicting system cost as a function of several hardware
+characteristics do, however, reveal a market dichotomy.  On one hand there
+exists a stable, price predictable market for larger, general
+purpose computer systems.  The other market is the developing one
+for small business computer systems, a market which is relatively
+unstable with low price predictability. 

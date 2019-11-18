@@ -1,0 +1,32 @@
+nose drag in free-molecule flow and its minimization .
+nose drag in free-molecule flow and its minimization .
+  the superaerodynamic nose drag of a body in a free-molecule
+flow involves two parameters ..  the speed ratio s between
+ordered and random molecular motions (modified mach
+number), and the temperature ratio between the solid surface
+and undisturbed gas .  simplifications of the drag formula are
+obtained at hypersonic as well as low-subsonic extremes .  to
+minimize the drag on a nose of specified length and base radius,
+the ordinary method of calculus of variation was found
+inadequate .  a generalized approach has, accordingly, been developed,
+and the specification of end conditions is discussed at length .
+  results of the present investigation indicate that in all cases
+an optimum nose requires a flat tip .  the optimum nose curve
+for the hypersonic extreme does not depend on the temperature
+ratio, but that for the low-subsonic extreme varies in the
+following manner ..  for a hot body the curve is convex,. for a cold body,
+concave .  an optimum solution exists in a restricted range of
+specification only .  with prescribed tip and base radii the
+admissible nose length is bounded below for the cases of hypersonic
+and low-subsonic hot body and bounded above for the case of
+low-subsonic cold body .  a vanishing tip radius leads to an
+infinitely long nose in the former and a vanishing nose in the latter
+case .
+  optimum nose curves for several temperature ratios at the
+low-subsonic extreme, as well as the one for hypersonic extreme, are
+presented .  it is observed that at the low-subsonic extreme, with,
+the hot-body solution asymptotically approaches
+the hypersonic solution--i.e., a slender conventional warhead
+with a flat tip,. whereas with, the cold-body solution
+asymptotically approaches the minimal-surface solution--i.e.,
+tip radius, a flat disc .

@@ -1,0 +1,13 @@
+FORTRAN Subroutines for Time Series Analysis
+The authors have recently been concerned in a
+time-series study that constituted a fairly typical 
+piece of applied statistical research, involving extensive
+computations on a moderately large quantity 
+of data.  Wehave found that the many different numerical
+processes that were required could be built 
+up almost completely from a small number of basic operations,
+and a set of FORTRAN subroutines has been 
+written to perform these.  The main purpose of this
+note is to describe these subroutines, but since 
+the question of general statistical programs is
+topical [1], we include some general remarks.

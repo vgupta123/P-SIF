@@ -1,0 +1,23 @@
+A Simple Proof of Lewin's Ordered-Retrieval
+Theorem for Associative Memories
+An efficient method of ordered retrieval of binary
+words from an associative memory, as described
+by Lewin, is based on the use of special readout circuits
+which indicate the digit values present in 
+the individual digit columns of the memory.  Thus the
+circuits indicate whether the individual digit 
+columns contain digits of both values, or of only one
+value, or contain no digits at all (i.e. that the 
+memory is empty).  The use of these circuits, which
+in this paper are termed column value indicators, 
+reduces considerably the number of memory accesses necessary
+to retrieve in order a number of distinct 
+words from the memory.  Lewin proves that, for the readout
+by the described method of m distinct binary 
+words, 2m - 1 memory accesses are necessary.  (Thus he
+proves that the number of necessary memory accesses 
+of his method, unlike those of other methods, is independent
+of the word length.)  In this paper a very 
+simple proof of this theorem derived from some elementary
+aspects of the structure of sets of binary 
+numbers is presented.

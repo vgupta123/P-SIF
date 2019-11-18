@@ -1,0 +1,6 @@
+Notes on Geometric Weighted Check Digit Verification
+This note describes a method for utilizing
+geometric weight modulus 11 checking digits on a 
+computer which does not have either multiplication or
+division.  In addition some attempt has been made 
+to show some limitations of this system.

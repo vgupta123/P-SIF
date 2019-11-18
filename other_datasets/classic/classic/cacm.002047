@@ -1,0 +1,10 @@
+Incorporating Origin Shifts into the QR
+Algorithm for Symmetric Tridiagonal Matrices
+The QR iteration for the eigenvalues of a symmetric tridiagonal matrix can 
+be accelerated by incorporating a sequence of origin shifts.  The origin shift
+may be either subtracted directly from the diagonal elements of
+the matrix or incorporated by means of an implicit algorithm.  Both
+methods have drawbacks: the direct method can unnecessarily degrade small 
+eigenvalues, while the implicit method can effectively loose the shift and 
+thereby retard the convergence.  This paper presents a new method which has 
+neither drawback.

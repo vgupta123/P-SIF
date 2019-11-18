@@ -1,0 +1,16 @@
+Generating Parsers for Affix Grammars
+Affix grammars are two-level grammars which
+are similar to van Wijngaarden's two-level grammars 
+used in the definition of Algol 68.  Affix grammars are shown
+by Koster to be equal in power to van Wijngaarden 
+grammars.  They are much more suited to parsing than
+are the latter, however.  Koster, the inventor of 
+affix based on recursive procedures.  This paper presents
+a bottom-up scheme for parsing them, based 
+on an extension of Floyd Production Language (FPL).  Included
+is an algorithm, similar to that of DeRemer's, 
+for converting a large class of affix grammars into FPL.
+ The paper concludes by discussing briefly the 
+applicabilities of the conversion algorithm and affix
+grammars in general, and some possible extensions 
+to Koster's definition of affix grammars.

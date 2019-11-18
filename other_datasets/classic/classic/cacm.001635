@@ -1,0 +1,8 @@
+Parameters for Pseudo Runge-Kutta Methods
+The object of this note is to present a choice
+of the free parameters in the third- and fourth-order 
+pseudo Runge-Kutta methods involving two points. This
+choice of parameters causes a bound on the principal 
+part of the truncation error term to be near the minimum
+for the fourth-order method and at the minimum 
+for the third-order method.

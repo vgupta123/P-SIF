@@ -1,0 +1,16 @@
+Three-Dimensional Computer Display
+A stereographic display terminal has been
+produced using the raster display (BRAD) recently 
+developed at Brookhaven.  The system uses a rotating refresh
+memory to feed standard television monitors. 
+ To produce a stereographic display the computer calculates
+the projected video images of an object, 
+viewed from two separate points.  The resulting video
+maps are stored on separate refresh bands of the 
+rotating memory.  The two output signals are connected
+to separate color guns of a color television monitor, 
+thus creating a superimposed image on the screen.  Optical
+separation is achieved by viewing the image 
+through color filters.  The display is interactive and
+can be viewed by a large group of people at the 
+same time.

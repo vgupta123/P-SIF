@@ -1,0 +1,12 @@
+Double-Precision Squares Root for The CDC-3600
+In January of 1960, the late Hans J. Maehly completed
+a summary of approximations to the elementary 
+functions for the CDC-1604 computer.  The approximations
+and techniques suggested by Maehly are equally 
+applicable to the second large computer in the CDC line,
+the 3600.  Unlike the 1604, however, the 3600 
+has built-in double-precision floating-point arithmetic.
+ The present work, largely inspired by the successes 
+of Maehly and his associates, concerns the extension of one
+of Maehly's ideas to a double-precision subroutine 
+for the 3600.

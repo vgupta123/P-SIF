@@ -1,0 +1,13 @@
+A Terminal-Oriented Communication System
+This paper describes a system for full-duplex
+communication between a time-shared computer 
+and its terminals.  The system consists of a communications
+computer directly connected to the time-shared 
+system, a number of small remote computers to which
+the terminals are attached, and connecting medium 
+speed telephone lines.  It can service a large number
+of terminals of various types.  The overall system 
+design is presented along with the algorithms used to
+solve three specific problems: local echoing, error 
+detection and correction on the telephone lines,
+and multiplexing of character output.

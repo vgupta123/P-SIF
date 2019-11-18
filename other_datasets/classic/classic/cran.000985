@@ -1,0 +1,17 @@
+a rapid approximate method for the design of hub shroud profiles of
+centrifugal impellers of given blade shape .
+a rapid approximate method for the design of hub shroud profiles of
+centrifugal impellers of given blade shape .
+a rapid approximate method for the design of centrifugal compressors of
+given blade shape with compressible nonviscous flow characteristics has
+been developed using techniques based upon stream-filament theory .
+axial symmetry is assumed, but meridional-plane forces derived from
+tangential pressure gradients are included .
+the method was applied to the design of an impeller in order to
+determine the approximate maximum meridional streamline spacing that
+could be used . three numerical solutions for different streamline
+spacings were made using the same hub profile, blade shape, and
+prescribed velocity distribution along the hub . the shroud profiles
+obtained from the three solutions, which utilized 3, 5, and 9
+stream-tubes, were negligibly different . the approximate computing time
+required was 15 hours per streamtube .

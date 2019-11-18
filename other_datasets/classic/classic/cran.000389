@@ -1,0 +1,9 @@
+simple shear flow past a flat plate in a compressible
+viscous fluid .
+simple shear flow past a flat plate in a compressible
+viscous fluid .
+  by transformation of variables, the problem of a simple shear flow of
+a compressible fluid over a flat plate is reduced to the corresponding
+problem for an incompressible fluid .  the prandtl number of the
+compressible fluid is assumed to be unity and its viscosity to be a linear
+function of temperature .

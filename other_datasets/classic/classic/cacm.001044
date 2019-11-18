@@ -1,0 +1,6 @@
+An Automatic Loader for Subroutine Nests
+A method for automatic loading of library subroutines,
+which can be adapted to operate in conjunction 
+with any conventional two-pass assembler is described.
+ The method is specifically designed to cope with 
+a nested library structure.

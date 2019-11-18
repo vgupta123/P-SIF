@@ -1,0 +1,14 @@
+A Heuristic Approach to Inductive Inference in Fact Retrieval Systems
+Heuristic procedures are presented which have
+been developed to perform inferences by generalizing 
+from available information.  The procedures make use
+of a similarity structure which is imposed on the 
+data base using nonnumerical clustering algorithms.  They
+are implemented in a model fact retrieval system 
+which uses a formal query language and a property-list data
+structure.  A program of experiments is described 
+wherein the procedures are used with test data bases
+which are altered by deleting part of the data and 
+by purposely introducing false data.  It is found that
+the system can infer the correct response under 
+a variety of conditions involving incomplete and inconsistent data.

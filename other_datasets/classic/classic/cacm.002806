@@ -1,0 +1,6 @@
+Two Hadamard Numbers for Matrices
+A discussion is given of two functions of the entries
+of a square matrix, both related to Hadamard's 
+determinant theorem, which have some merits as alternatives
+to norm-bound "condition numbers."  One (for 
+linear systems) is known; the other (for eigen systems) seems to be new.

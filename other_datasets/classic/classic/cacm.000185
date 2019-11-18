@@ -1,0 +1,14 @@
+Multiprogram Scheduling Parts 1 and 2.  Introduction and Theory*
+In order to exploit fully a fast computer which
+possesses simultaneous processing abilities, 
+it should to a large extent schedule its own workload.
+ The scheduling routine must be capable of extremely 
+rapid execution if it is not to prove self-defeating.
+ The construction of a schedule entails determining 
+which programs are to be run concurrently and which sequentially
+with respect to each other.  A concise 
+scheduling algorithm is described which tends to minimize
+the time for executing the entire pending workload 
+(or any subset of it), subject to external constraints
+such as precedence, urgency, etc.  The algorithm 
+is applicable to a wide class of machines.

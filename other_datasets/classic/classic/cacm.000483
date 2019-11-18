@@ -1,0 +1,6 @@
+On the Nonexistence of a Phrase Structure Grammar for ALGOL 60
+ALGOL 60 is defined partly by formal mechanisms
+of phrase structure grammar, partly by informally 
+stated restrictions.  It is shown that no formal mechanisms
+of the type used are sufficient to define 
+ALGOL 60.

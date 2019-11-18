@@ -1,0 +1,10 @@
+An Improved Equivalence Algorithm
+An algorithm for assigning storage on the basis
+of EQUIVALENCE, DIMENSION and COMMON declarations 
+is presented.  The algorithm is based on a tree structure,
+and has reduced computation time by 40 percent 
+over a previously published algorithm by identifying all
+equivalence classes with one scan of the EQUIVALENCE 
+declarations.  The method is applicable in any problem
+in which it is necessary to identify equivalence 
+classes, given the element pairs defining the equivalence relation.

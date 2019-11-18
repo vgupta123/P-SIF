@@ -1,0 +1,10 @@
+Optimal Starting Values for Newton-Raphson Calculation of SQRT(x)
+The problem of obtaining starting values for
+the Newton-Raphson calculation of SQRT(x) on a 
+digital computer is considered.  It is shown that the
+conventionally used best uniform approximations 
+to SQRT(x) do not provide optimal starting values. 
+The problem of obtaining optimal starting values. 
+ The problem of obtaining optimal starting values is
+stated, and several basic results are proved.  A 
+table of optimal polynomial starting values is given.

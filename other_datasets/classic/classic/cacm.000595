@@ -1,0 +1,14 @@
+Guides to Teaching COBOL
+The teaching of COBOL can be divided into
+three main subject areas.  They are the syntax of 
+COBOL, the use of such syntax in solving any given problem,
+and programming concepts.  It is generally 
+accepted that some knowledge of the hardware and computer
+logic must be possessed by the programmer. 
+ The teaching problem arises in determining how thoroughly
+a student must know the hardware and logic 
+for that computer for which he will write COBOL programs.
+ Unfortunately, historical data concerning 
+students' programming proficiency is almost non-existent
+and, at best, difficult to measure.  How then 
+might we approach solving this problem?

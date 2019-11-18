@@ -1,0 +1,19 @@
+Covering Edges by Cliques with Regard to
+Keyword Conflicts and Intersection Graphs
+Kellerman has presented a method for determining
+keyword conflicts and described a heuristic 
+algorithm which solves a certain combinatorial optimization
+problem in connection with this method.  
+This optimization problem is here shown to be equivalent
+to the problem of covering the edges of a graph 
+by complete subgraphs with the objective of minimizing
+the number of complete subgraphs.  A relationship 
+between this edge-clique-cover problem and the graph coloring
+problem is established which allows algorithms 
+for either one of these problems to be constructed
+from algorithm for the other.  As consequences of 
+this relationship, the keyword conflict problem and the
+edge-clique-cover problem are shown to be NP-complete, 
+and if P=/NP then they do not admit polynomial-time approximation
+algorithms which always produce solutions 
+within a factor less than 2 from the optimum.

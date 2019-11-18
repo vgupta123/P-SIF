@@ -1,0 +1,18 @@
+Analysis of an Algorithm for Real Time Garbage Collection
+A real time garbage collection system avoids
+suspending the operations of a list processor 
+for the long times that garbage collection normally requires
+by performing garbage collection on a second 
+processor in parallel with list processing operations,
+or on a single processor time-shared with them. 
+ Algorithms for recovering discarded list structures in
+this manner are presented and analyzed to determine 
+sufficient conditions under which the list processor never
+needs to wait on the collector.  These techniques 
+are shown to require at most twice as much processing
+power as regular garbage collectors, if they are 
+used efficiently.  The average behavior of the program
+is shown to be very nearly equal to the worst-case 
+performance, so that the sufficient conditions are also
+suitable for measuring the typical behavior of 
+the algorithm.

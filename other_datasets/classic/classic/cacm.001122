@@ -1,0 +1,5 @@
+A Note on Some Compiling Algorithms
+Two compiling generators for arithmetic expressions
+are discussed: one presently in use in 
+an experimental compiler, and an improvement
+suggested by K. Speierman of Burroughs.

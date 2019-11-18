@@ -1,0 +1,13 @@
+an approximate treatment of unsteady heat conduction
+in semi-infinite solids with variable thermal properties .
+an approximate treatment of unsteady heat conduction
+in semi-infinite solids with variable thermal properties .
+  this very short paper presents an approximate procedure for the
+calculation of unsteady heat conduction in semi-infinite solids
+with variable thermal properties .  it is claimed to be an
+improvement over previous efforts in this area since it yields physically
+sensible results for cases where thermal properties have a large
+dependence on temperature .  instead of using polynomials to
+represent an unsteady temperature profile an exponential form is used .
+good agreement is shown for several cases where the method of
+the paper is compared with exact solutions .

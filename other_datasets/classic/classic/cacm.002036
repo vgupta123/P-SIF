@@ -1,0 +1,11 @@
+An Interactive Command Generating Facility
+A facility to permit conversationally controlled tasks
+to be executed in a noninteractive environment is proposed.
+A means by which programs can generate interactive time-sharing commands
+and receive the corresponding output response is presented.  The commands 
+will be invoked as if they had been typed at a console keyboard.  It is 
+argued that this facility will help overcome some of the current limitations 
+in man-computer communication. A set of functions to accomplish the above 
+which could be embedded into any string processing language is suggested, 
+and necessary information pertinent to implementation of the facility on 
+existing time-sharing systems is given.

@@ -1,0 +1,19 @@
+calculation of potential flow about bodies of revolution
+having axes perpendicular to the free-stream direction .
+calculation of potential flow about bodies of revolution
+having axes perpendicular to the free-stream direction .
+  a general method is described for calculating, with the aid of
+an electronic computer, the potential flow about arbitrary bodies
+of revolution whose axes are perpendicular to the free-stream
+direction .  when combined with the solution for the
+axisymmetric flow about these bodies, this method makes it possible to
+calculate the pressure distribution on any body of revolution at
+angle of attack forward of any separated region of the flow, and
+also to calculate the flow at points off the body surface .  after
+the basic equations of the method have been derived, its accuracy
+is exhibited by comparison with analytic solutions for ellipsoids
+of revolution .  calculated pressure distributions are then
+compared with experimental data for a variety of bodies .  the
+agreement is quite satisfactory in all cases .  the calculated
+velocities for other selected bodies are presented to exhibit
+certain properties of this type of flow .

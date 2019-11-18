@@ -1,0 +1,14 @@
+Digital Simulation of Discrete Flow Systems*
+The discrete flow systems discussed are characterized
+by the movement of randomly arriving 
+items along interacting channels.  Programing a digital
+computer to simulate such systems utilizes some 
+techniques not common in other approaches to physical
+problems.  The principal portion of the paper is 
+a discussion of two simulation studies that illustrate
+some of the programming problems involved. One 
+is of an extensive package-handling plant, with the
+objective being optimization of parameters such as 
+storage capacities and processing rates.  In the other,
+air traffic flow and control procedures are simulated 
+to compare the effects of alternative control decisions.

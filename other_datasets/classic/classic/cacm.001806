@@ -1,0 +1,14 @@
+On the Downhill Method
+The downhill method is a numerical method for
+solving complex equations f(z) = 0 on which the 
+only restriction is that the function w = f(z) must
+be analytical.  An introduction to this method is 
+given and a critical review of relating literature is
+presented.  Although in theory the method always 
+converges, it is shown that a fundamental dilemma exists
+which may cause a breakdown in practical applications. 
+ To avoid this difficulty and to improve the rate of
+convergence toward a root, some modifications of 
+the original method are proposed and a program (FORTRAN)
+based on the modified method is given in Algorithm 
+365.  Some numerical examples are included.

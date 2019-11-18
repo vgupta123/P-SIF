@@ -1,0 +1,22 @@
+MUSE: A Model To Understand Simple English
+MUSE is a computer model for natural language
+processing, based on a semantic memory network 
+like that of Quillian's TLC.  MUSE, from a Model to Understand
+Simple English, processes English sentences 
+of unrestricted content but somewhat restricted format.
+ The model first applies syntactic analysis to 
+eliminate some interpretations and then employs a simplified
+semantic intersection procedure to find 
+a valid interpretation of the input.  While the semantic
+processing is similar to TLC's, the syntactic 
+component includes the early use of parse trees and special
+purpose rules.  The "relational triple" notation 
+used during interpretation of input is compatible with MUSE's
+memory structures, allowing direct verification 
+of familiar concepts and the addition of new ones. 
+MUSE also has a repertoire of actions, which range 
+from editing and reporting the contents of its own
+memory to an indirect form of question answering. 
+ Examples are presented to demonstrate how the model interprets
+text, resolves ambiguities, adds information 
+to memory, generalizes from examples and performs various actions.

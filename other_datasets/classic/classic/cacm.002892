@@ -1,0 +1,12 @@
+A Study of Line Overhead in the Arpanet
+The form, extent, and effect of the communication line
+overhead in the ARPANET are considered. 
+ The source of this over head is separated into various
+levels of protocol hierarchy and the characteristics 
+of each level are summarized.  Then the line efficiency
+for various models of system use is studied. 
+ Some measurements of line efficiency for the ARPANET are
+presented and by extrapolation these measurements 
+are used to anticipate overhead in a heavily loaded network.
+Similar results are derived for a recently 
+proposed network protocol and compared with those for the current system.

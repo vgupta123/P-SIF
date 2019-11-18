@@ -1,0 +1,16 @@
+A Procedure for Inverting Large Symmetric Matrices
+In the least squares method for simultaneous
+adjustment of several parameters, the coefficients 
+of the normal equations are the elements of a symmetric
+positive-definite matrix.  In order to solve 
+the normal equations and evaluate the precision measures
+of the resulting parameters, inversion of this 
+matrix of coefficients is required.  Many available procedures
+for matrix inversion do not take advantage 
+of the symmetry.  Thus, when programmed for a high-speed
+computer, all n^2 elements must be stored and 
+manipulated, whereas only (n + 1)/2 of them are independent.
+ In order to allow a computer of given memory 
+capacity to handle a larger matrix, the following procedure
+for inverting a symmetric matrix has been 
+devised.

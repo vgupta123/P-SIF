@@ -1,0 +1,27 @@
+the calculation of aerodynamic loading on surfaces of any shape .
+the calculation of aerodynamic loading on surfaces of any shape .
+the object of the report is to establish a routine method for the
+calculation of aerodynamic loads on wings of arbitrary shape . the method
+developed is based on potential theory and uses a general mathematical
+formula for continuous loading on a wing which is equivalent to a double
+ fourier series with unknown coefficients . in order to evaluate the
+unknown coefficients the continuous loading is split up into a regular
+pattern of horseshoe vortices, the strengths of which are proportional
+to the unknown coefficients and to standard factors which are given in a
+ table . the total downwash at chosen pivotal points is obtained by
+summing the downwashes due to the individual vortices, a process which
+is simplified by the use of specially prepared tables of the properties
+of the horseshoe vortex . by equating the downwash to the slope of the
+wing at each pivotal point, simultaneous equations are obtained, the
+solution of which defines the unknown coefficients .
+the first layout involves a total of 76 vortices over the wing, and a
+second layout, involving a total of 84, is shown to be of superior
+accuracy . the effect on the solution of the number of pivotal points is
+ investigated and it is concluded that by a suitable choice, it is
+unnecessary to use a large number . results for a rectangular wing at
+with those obtained by other workers and it appears that there may be
+errors in published results in at least one of these cases . immediate
+development includes the application to the calculation of the
+characteristics of actual sweptback wings, including rotary derivatives, and
+ future development includes also applications in wind tunnel design and
+ technique .

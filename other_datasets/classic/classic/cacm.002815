@@ -1,0 +1,8 @@
+High-Level Binding with Low-Level Linkers
+An easy to implement scheme is described by
+which a compiler can enforce agreement between 
+complex data types in separately compiled modules.
+ The scheme is designed to work with any existing 
+link editor or linking loader, no matter how deficient.
+ Obscure run-time errors caused by inconsistent 
+usages are forestalled by static errors detected at linking time.

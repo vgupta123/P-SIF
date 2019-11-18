@@ -1,0 +1,6 @@
+An Algorithm for Coding Efficient Arithmetic Operations
+Most existing formula translation schemes
+yield inefficient coding.  A method is described 
+which reduces the number of store and fetch operations,
+evaluates constant subexpressions during compilation, 
+and recognizes many equivalent subexpressions.

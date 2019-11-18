@@ -1,0 +1,11 @@
+an automatic method for finding the greatest or least
+value function .
+an automatic method for finding the greatest or least
+value function .
+the greatest or least value of a function of several
+variables is to be found when the variables
+are restricted to a given region .  a method is
+developed for dealing with this problem and is
+compared with possible alternatives .  the method
+can be used on a digital computer, and is
+incorporated in a program for mercury .

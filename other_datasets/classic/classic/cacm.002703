@@ -1,0 +1,15 @@
+The Intrinsically Exponential Complexity of
+the Circularity Problem for Attribute Grammars
+Attribute grammars are an extension of context-free
+grammars devised by Knuth as a mechanism 
+for including the semantics of a context-free language
+with the syntax of the language.  The circularity 
+problem for a grammar is to determine whether the semantics
+for all possible sentences (programs) in 
+fact will be well defined.  It is proved that this problem
+is, in general, computationally intractable. 
+ Specifically, it is shown that any deterministic algorithm
+which solves the problem must for infinitely 
+many cases use an exponential amount of time.An improved
+version of Knuth's circularity testing algorithm 
+is also given, which actually solves the problem within exponential time.

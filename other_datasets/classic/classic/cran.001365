@@ -1,0 +1,19 @@
+approximate calculation of the laminar boundary layer .
+approximate calculation of the laminar boundary layer .
+  after analyzing a large class of boundary-layer
+velocity-profiles, the author discovered that the functions l(m) and
+h(m) for all such cases differ only slightly from each other
+over the whole range of positive and negative pressure
+gradients .  here l, m and h are defined by
+being the
+velocity-component in the x direction and u the value of u at the
+edge of the boundary-layer and and the displacement
+and momentum thickness, respectively .  based on this
+discovery, an approximate method is proposed by constructing
+two universal curves l(m) and h(m) for all conceivable
+boundary-layer flows found in practice .  once these are
+chosen, karman's momentum-integral can be written in the
+form, v being the kinematic
+viscosity coefficient, and can be integrated numerically .  as
+examples, both howarth's and hartree's
+tained is considered good for practical purposes .

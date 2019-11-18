@@ -1,0 +1,24 @@
+COKO III: The Cooper-Koz Chess Program
+COKO III is a chess player written entirely
+in Fortran.  On the IBM 360-65, COKO III plays 
+a minimal chess game at the rate of .2 sec cpu time
+per move, with a level close to lower chess club 
+play.  A selective tree searching procedure controlled
+by tactical chess logistics allows a deployment 
+of multiple minimal game calculations to achieve some optimal
+move selection.  The tree searching algorithms 
+are the heart of COKO's effectiveness, yet they are
+conceptually simple.  In addition, an interesting 
+phenomenon called a tree searching catastrophe has plagued
+COKO's entire development just as it troubles 
+a human player.  Standard exponential growth is curbed
+to a large extent by the definition and trimming 
+of the Fischer set.  A clear distinction between tree
+pruning and selective tree searching is also made. 
+ Representation of the chess environment is described
+along with a strategical preanalysis procedure 
+that maps the Lasker regions.  Specific chess algorithms
+are described which could be used as a command 
+structure by anyone desiring to do some chess program
+experimentation.  A comparison is made of some 
+mysterious actions of human players and COKO III.

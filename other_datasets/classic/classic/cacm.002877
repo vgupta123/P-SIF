@@ -1,0 +1,10 @@
+A Program Data Flow Analysis Procedure
+The global data relationships in a program
+can be exposed and codified by the static analysis 
+methods described in this paper.  A procedure is given
+which determines all the definitions which can
+possibly "reach" each node of the control flow graph
+of the program and all the definitions that are 
+"live" on each edge of the graph.  The procedure uses
+an "interval" ordered edge listing data structure 
+and handles reducible and irreducible graphs indistinguishably.

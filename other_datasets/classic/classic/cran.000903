@@ -1,0 +1,31 @@
+two dimensional transonic unsteady flow with shock
+waves .
+two dimensional transonic unsteady flow with shock
+waves .
+  a study is made of the unsteady flow around an
+airfoil at transonic mach numbers, the situation being
+such that local supersonic regions terminated by
+shock-waves are present in the vicinity of the airfoil .  for
+the unsteady part of the flow, small perturbations
+technique is employed and the interaction with the shock
+wave is taken into account .  the case of an oscillating
+aileron is considered first, and a solution is derived
+for the pressure distribution on the aileron .  it is
+found that the solution has a simple form when the
+shock-wave is well ahead of the hinge axis of the
+aileron .  as the shock approaches the hinge-axis a
+correction must be added to the solution .  an
+interpretation of these results is given .  the results are
+compared with results of a theory which neglects the
+presence of the shock and it is found that both agree
+for m = 1 .  for m   1, however, neglecting the presence
+of the shock waves introduces errors of the order of
+magnitude (1 - m), where m is the local mach number
+behind the shock .
+  the theory is finally extended to include the case
+in which the whole airfoil oscillates, but only the
+solution for the subsonic region behind the shock is
+treated .  the role of the unsteady shock-boundary layer
+interaction is discussed and it is shown that this
+mechanism can be included in the results of the present
+theory .

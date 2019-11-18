@@ -1,0 +1,12 @@
+A New Technique for Compression and Storage of Data
+The widespread tendency toward storage of
+large programs and blocks off text has produced a 
+need for efficient methods of compressing and storing
+data.  This paper describes techniques that can, 
+in most cases, decrease storage size by a factor of
+from two to four.  The techniques involve special 
+handling of leading and trailing blanks, and the encoding
+of other symbols in groups of fixed size as 
+unique fixed point numbers.  The efficiency of the
+system is considered and pertinent statistics are 
+given and compared with statistics for other information coding techniques.

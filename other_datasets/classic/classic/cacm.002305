@@ -1,0 +1,14 @@
+The "Plankalkul" of Konrad Zuse: A Forerunner
+of Today's Programming Languages
+Plankalkul was an attempt by Korrad Zuse in
+the 1940's to devise a notational and conceptual 
+system for writing what today is termed a program.  Although
+this early approach to a programming language 
+did not lead to practical use, the plan is described
+here because it contains features that are standard 
+in today's programming languages.  The investigation
+is of historical interest; also, it may provide 
+insights that would lead to advancements in the state
+of the art.  Using modern programming terminology, 
+the Plankalkul is presented to the extent it has possible
+to reconstruct it from the published literature.

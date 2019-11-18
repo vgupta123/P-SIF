@@ -1,0 +1,38 @@
+similar solutions for the compressible laminar boundary
+layer with heat transfer and pressure gradient .
+similar solutions for the compressible laminar boundary
+layer with heat transfer and pressure gradient .
+  stewartson's transformation is applied to the laminar compressible
+boundary-layer equations and the
+requirement of similarity is introduced,
+resulting in a set of ordinary nonlinear differential equations
+previously quoted by stewartson, but unsolved .  the requirements of the
+system are ..  prandtl number of 1.0, linear viscosity-temperature
+relation across the boundary layer, an
+isothermal surface, and the particular
+distributions of free-stream velocity
+consistent with similar solutions .
+this system admits axial pressure
+gradients of arbitrary magnitude, heat
+flux normal to the surface, and arbitrary mach numbers .
+  the system of differential equations is transformed to an integral
+system, with the velocity ratio as
+the independent variable .  for this
+system, solutions are found for pressure gradients varying from that
+causing separation to the infinitely favorable gradient and for wall
+temperatures from absolute zero to twice the free-stream stagnation
+temperature .  some solutions for separated flows are also presented .
+  for favorable pressure gradients, the solutions are unique .  for
+adverse pressure gradients, where the solutions are not unique, two
+solutions of the infinite family of possible solutions are identified as
+essentially viscid at the outer edge of the boundary layer and the
+remainder essentially inviscid .  for
+the case of favorable pressure gradients
+with heated walls, the velocity within
+a portion of the boundary layer is
+shown to exceed the local external velocity .
+the variation of a reynolds
+analogy parameter, which indicates the ratio of skin friction to heat
+transfer, is from zero to 7.4 for a surface of temperature twice the
+free-stream stagnation temperature, and from zero to 2.8 for a surface
+held at absolute zero where the value 2 applies to a flat plate .

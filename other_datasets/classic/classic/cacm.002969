@@ -1,0 +1,11 @@
+Optimal Program and Data Locations in Computer Networks
+An optimization procedure for the allocation
+of program and data files in a computer network 
+is presented.  This algorithm takes into account the
+dependencies between files and programs such as 
+occur in real heterogeneous computer networks.  Insights
+into whether or not to convert programs from 
+one computer to another can also be gained from the
+model.  A search procedure for the file location 
+problem is described, along with an example
+and a possible application of the model.

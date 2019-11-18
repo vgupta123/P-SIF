@@ -1,0 +1,8 @@
+A program to Solve the Pentomino Problem by the Recursive Use of Macros
+A coding technique is described in which certain
+macro-instructions are given lists as arguments 
+and are thereby used recursively.  The discussion covers
+primarily an example in which the technique 
+is used to solve the pentomino problem-the problem of
+fitting 12 pentominos without overlapping into 
+a plane area formed of 60 elemental squares.

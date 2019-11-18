@@ -1,0 +1,15 @@
+Experiments with Some Algorithms that Find
+Central Solutions for Pattern Classification
+In two-class pattern recognition, it is a standard
+technique to have an algorithm finding hyperplanes
+which separates the two classes in a linearly separable training
+set.  The traditional methods find a hyperplane which separates all
+points in the other, but such a hyperplane is not necessarily centered
+in the empty space between the two classes.  Since a central
+hyperplane does not favor one class or the other, it should have
+a lower error rate in classifying new points and is therefore better
+than a noncentral hyperplane.  Six algorithms for finding central
+hyperplanes are tested on three data sets.  Although frequently
+used practice, the modified relaxation algorithm is very poor. 
+Three algorithms which are defined in the paper are found to be
+quite good.

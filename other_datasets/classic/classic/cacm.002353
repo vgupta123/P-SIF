@@ -1,0 +1,8 @@
+Fast Finite-Difference Solution of Biharmonic Problems
+Setting the Reynolds number equal to zero, in
+a method for solving the Navier-Strokes equations 
+numerically, results in a fast numerical method for
+biharmonic problems.  The equation is treated as 
+a system of two second order equations and a simple
+smoothing process is essential for convergence.  
+An application is made to a crack-type problem.

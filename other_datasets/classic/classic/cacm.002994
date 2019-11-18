@@ -1,0 +1,7 @@
+A Linear Algorithm for Incremental Digital Display of Circular Arcs
+Circular arcs can be drawn on an incremental
+display device such as a cathode ray tube, digital 
+plotter, or matrix prin ter using only sign testing and
+elementary addition and subtraction.  This paper 
+describes methodology for producing dot or
+step patterns closet to the true circle.

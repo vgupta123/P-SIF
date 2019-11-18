@@ -1,0 +1,16 @@
+Permutation Enumeration: Four New Permutation Algorithms
+Classical permutation enumeration algorithms encounter
+special cases requiring additional computation 
+every nth permutation when generating the n! permutations
+on n marks.  Four new algorithms have the attribute 
+that special cases occur every n(n-1)permutations. 
+Two of the algorithms produce the next permutation 
+with a single exchange of two marks.  The other two algorithms
+infrequently exchange more than two marks, 
+but the rules for generating the next permutation are
+very simple.  Performance tests which have counted 
+execution of assignment statements, comparisons, arithmetic
+operations, and subscripted array references 
+have shown superiority of the new algorithms compared to
+Boothroyd's implementation of M. B. Well's algorithm 
+and Ehrlich's implementation of the Johnson-Trotter algorithm.

@@ -1,0 +1,8 @@
+A Fortran Technique for Simplifying Input to Report Generators
+Typical report generators allow the production
+of standard forms when tabulating a magnetic 
+tape file; the extraction of nonstandard sets of information,
+with suitable annotation, involves troublesome 
+forms design.  A method of information extraction involving
+the calculation of suitable FORTRAN FORMAT 
+statements, which combats this problem, is described.

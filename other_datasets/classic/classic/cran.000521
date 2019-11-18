@@ -1,0 +1,17 @@
+a note on application of transonic linearization to
+an airfoil with a round leading edge .
+a note on application of transonic linearization to
+an airfoil with a round leading edge .
+the profile of a symmetric airfoil of unit length with a round
+leading edge can be expressed, in general, as
+where p(x) has a finite slope at x = 0 .  it is well known that
+the conventional sub- and supersonic linear theories of
+compressible flow break down in the neighborhood of such a round
+leading edge due to the failure of the small-disturbance
+assumption .  the linearized transonic flow theory has the same
+short-coming, but if the determination of the sonic point on the airfoil
+plays an important role in any more advanced theory--e.g.,
+spreiter's local-linearization method or hosokawa's method of
+refinement--this theoretical barrier will become more serious
+because the sonic point is usually located in a flow region near
+the leading edge that may be greatly affected by the roundness .

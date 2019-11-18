@@ -1,0 +1,10 @@
+   Automation of Program  Debugging
+   Automatic Debugging can substantially reduce lead-time between the coding
+and the effective use of a complex program. It also enforces analysis of
+debugging criteria, resulting in verifiably accurate programs. The programmer
+specifies the program to be debugged, memory areas, set of input data, maximum
+repetition of loops, and checkpoint information for each set of data. The
+executive debugging program the runs the program to be debugged, performing
+checking functions and creating a trace record of its own later analysis and
+location of errors. Applications are quite flexible, and the system can be used
+alone or in conjunction with other debugging techniques.

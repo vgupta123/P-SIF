@@ -1,0 +1,13 @@
+An Improved Program-Synthesizing Algorithm and Its Correctness
+An improved program-synthesizing algorithm
+based on the algorithm proposed by Waldinger and 
+Lee in 1969 is given.  In the old algorithm, the program-synthesizing
+problem is translated into a theorem-proving 
+problem, and a program is obtained by analyzing a proof.
+ For the improved algorithm, the analysis is 
+not necessary, and a program is obtained as soon as
+the proof is completed.  This is achieved by using 
+a modified variable tracing mechanism invented by Green
+in 1969.  The correctness of the improved algorithm 
+is also proved; i.e. the program thus obtained
+always satisfies the specification.

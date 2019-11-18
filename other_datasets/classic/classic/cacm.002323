@@ -1,0 +1,12 @@
+Toward a General Theory of Special Functions
+A list of a number of natural developments
+for the field of algebraic manipulation is given. 
+ Then the prospects for a general theory of functions
+defined by ordinary differential equations are 
+discussed.  The claim is made that recent developments
+in mathematics indicate that it should be possible 
+to algorithmically generate many properties of solutions
+to differential equations.  Such a theory is 
+preferable to a less general effort to make algebraic
+manipulation systems knowledgeable about the usual 
+special functions (e.g. exponential, hypergeometric).

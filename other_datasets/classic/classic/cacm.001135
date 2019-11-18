@@ -1,0 +1,34 @@
+A General Business-Oriented Language Based on Decision Expressions*
+The structure of a digital compute programming
+language which covers a wide class of business 
+and file processing applications is presented.  Such
+a structure, based on identifying and incorporating 
+into a compiler the aspects common to all processes
+of such class, permits writing extremely compact 
+programs, even for comparatively complex applications,
+in terms of tables of control expressions which 
+express only information characteristic of the particular
+application.  Furthermore,local changes of 
+a process (e.g. changes affecting only one of the output
+files involved) can be effected by local modifications 
+in the program (e.g. modification of only one entry of the
+tables).  This structure also allows for inexpensive 
+preparation of loading-speed compilers which translate the
+source programs into efficient machine codes. 
+ The approach adopted here departs from conventional mechanical
+language design philosophies.  It stresses 
+the structural analysis of the class of processes to be represented
+in the languages, as opposed to emphasizing 
+formal (i.e., contents-independent) syntactical definitions.
+ It relies exclusively on nonprocedural 
+representation of process as sets (tables) of relations
+between data and results (there are no control 
+statements such as GO TO, etc.), instead of using procedure
+descriptions (which are one-to-one translations 
+of flowcharts).  Here an invariant pattern of procedure
+is identified as characteristic of the class 
+of all batch file processes.  This new philosophy has
+the potential to overcome well-known deficiencies 
+of other business-oriented languages and fully meets
+the requirements set by CODASYL for such languages, 
+including machine-independence.

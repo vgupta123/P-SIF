@@ -1,0 +1,17 @@
+SP/k: A System for Teaching Computer Programming
+SP/k is a compatible subset of the PL/I  language
+that has been designed for teaching programming. 
+The features of the SP/k language were chosen to encourage
+structured problem solving by computers, to 
+make the language easy to learn and use, to eliminate
+confusing and redundant constructs, and to make 
+the language easy to compile.  The resulting language
+is suitable for in troducing programming concepts 
+used in various applications, including business data
+processing, scientific calculations and non-numeric 
+computation.  SP/k is actually a sequence of language
+subsets called SP/1, SP/2,...SP/8.  Each subset 
+in troduces new programming language constructs while
+retaining all the constructs of preceding subsets. 
+Each subset is precisely defined and can be learned
+or implemented without the following subsets.

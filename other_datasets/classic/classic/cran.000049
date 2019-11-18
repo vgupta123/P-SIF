@@ -1,0 +1,46 @@
+temperature and velocity profiles in the compressible
+laminar boundary layer with arbitrary distribution
+of surface temperature .
+temperature and velocity profiles in the compressible
+laminar boundary layer with arbitrary distribution
+of surface temperature .
+  an analysis is presented which enables the temperature
+profiles, veiocity profiles, heat transfer, and skin friction to be
+calculated for laminar flow over a two-dimensional or axially
+symmetric surface without pressure gradient but with an arbitrary
+analytic distribution of surface temperature .  the general theory is
+applicable to a gas of any prandtl number, although the
+numerical results given herein have been computed for air .
+the predictions of the theory for the special case of constant
+surface temperature are compared with the calculations of crocco .
+on the basis of this comparison, it is inferred that the present
+theory enables heat-transfer and skin-friction calculations
+accurate to within about 5 per cent to be made for flight conditions
+up to mach numbers near 5 and to within about 1 or 2 per cent
+for supersonic wind-tunnel conditions up to considerably higher
+mach numbers .
+  a particular effort has been made to present the results, which
+are simple considering their generality, in a form that can be used
+readily in practical applications .  from the mathematical point
+of view, the theory is applicable to an arbitrary analytic
+distribution of surface temperature, but in any given practical case it is
+necessary that the surface-temperature distribution be
+approximated by a polynomial .  the only unknowns in the final
+equations developed are the coefficients of this polynomial, so that the
+work involved in applying the theory in any given case depends
+entirely on the work involved in approximating a given surface-
+temperature distribution by a polynomial .
+  an example is worked out in detail which illustrates some of the
+principal effects of variable surface temperature .  it is shown
+that both positively infinite and negatively infinite heat-transfer
+coefficients can occur .  the anomaly of infinite and negative
+heat-transfer coefficients is discussed and attributed to the
+customary definition of the heat-transfer coefficient, which is shown
+to be fundamentally inappropriate for flows with variable surface
+temperature .  in the particular example considered, a
+conventional method for calculating the net heat transferred yields
+completely incorrect results .  a brief qualitative discussion of the
+possible effects of the heat transfer on flow separation is given .
+in order to facilitate the use of the results, all of the principal
+equations developed are collected and summarized in the section
+entitled /practical use of results ./

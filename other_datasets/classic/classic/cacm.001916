@@ -1,0 +1,15 @@
+Analysis of Boolean Program Models for Time-Shared, Paged Environments
+Directed graphs or their associated matrices are
+frequently used to represent the logical structure 
+of sequences of computer instructions.  Such techniques
+are used and, in addition, data references are 
+represented in a nondirected model. The complete structural
+specification of a program is represented 
+by a combined model.  A transformation of the combined
+model yields a new model in which additional timing 
+information is also contained.  Analysis of these models
+prior to execution yields information valuable 
+in determining segmentation of instructions and data for
+a time-shared environment, as well as for initial 
+page loading; during execution, the analysis may be
+used for "look ahead" control of page turning.

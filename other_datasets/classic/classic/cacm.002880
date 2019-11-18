@@ -1,0 +1,7 @@
+A Fast Division Technique for Constant Divisors
+A fast algorithm for division by constant divisors
+is presented.  The method has proved very 
+useful implemented as microcode ona binary machine,
+and can be adapted directly into hardware.  The 
+mathematical foundations of the algorithm are presented
+as well as some performance measures.

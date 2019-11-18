@@ -1,0 +1,15 @@
+A Controlled Experiment in Program Testing
+and Code Walkthroughs/Inspections
+This paper describes an experiment in program
+testing, employing 59 highly experienced data 
+processing professionals using seven methods to test
+a small PL/I program.  The results show that the 
+popular code walk through/inspection method was as effective
+as other computer-based methods in finding 
+errors and that the most effective methods (in terms of
+errors found and cost) employed pairs of subjects 
+who tested the program independently and then pooled
+their findings.  The study also shows that there 
+is a tremendous amount of variability among subjects
+and that the ability to detect certain types of 
+errors varies from method to method.

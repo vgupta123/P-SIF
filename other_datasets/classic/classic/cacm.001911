@@ -1,0 +1,14 @@
+On Coordination Reduction and Sentence Analysis
+A class of coordination phenomena in natural
+languages is considered within the frame work 
+of transformational theory.  To account for these phenomena
+it is proposed that certain machinery be 
+added to the syntactic component of a transformational
+grammar. This machinery includes certain rule 
+schemata, the conditions under which they are to be
+applied, and conditions determining the sequence 
+of subtrees on which they are to be performed.  A solution
+to the syntactic analysis problem for this 
+class of grammars is outlined.  Precise specification
+of both the generative procedure of this paper 
+and its inverse is given in the form of LISP function definitions.

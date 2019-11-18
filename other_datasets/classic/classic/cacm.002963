@@ -1,0 +1,12 @@
+A Fast Algorithm for Computing Longest Common Subsequences
+Previously published algorithms for finding
+the longest common subsequence of two sequences 
+of length n have had a best-case running time of O(n^2).
+ An algorithm for this problem is presented 
+which has a running time of O((r + n)log n), where r
+is the total number of ordered pairs of positions 
+at which the two sequences match.  Thus in the worst
+case the algorithm has a running time of O(n^2 log 
+n).  However, for those applications where most positions
+of one sequence match relatively few positions 
+in the other sequence, a running time of O(n log n) can be expected.

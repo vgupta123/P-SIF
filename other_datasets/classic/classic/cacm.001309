@@ -1,0 +1,14 @@
+A Computer User-Oriented System
+A computer language system has been developed
+which makes possible fast preparation of management 
+reports, regardless of computational complexity or format
+variety.  Costs are sufficiently low so that 
+individually tailored reports can be prepared for every
+manager.  The system requires initial preparation 
+of large data banks containing data in elementary form.
+ Use of two special languages, EXTRACT and MATRAN, 
+permits selective extraction of any data subset, efficient
+processing through any computational sequence, 
+and flexible presentation of results in either tabular
+or graphical form.  Matrix algebra is used as 
+a fundamental vehicle for accomplishing both manipulation and computation.

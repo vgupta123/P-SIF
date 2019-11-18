@@ -1,0 +1,21 @@
+an approximate solution for laminar boundary layer flow .
+an approximate solution for laminar boundary layer flow .
+this paper presents an approximate solution for two-dimensional,
+incompressible, laminar boundary layer flow with arbitrary pressure
+gradient . von mises' form of the boundary layer equation is linearized
+by making a change in the coefficient of one of the terms .  the
+linearized equation yields a solution that is accurate for the outer portion
+of the flow but inaccurate near the surface .  a separate inner solution
+then is developed which is accurate at the surface and which joins with
+the outer solution at some point within the boundary layer .  the
+method may be considered a major modification of one developed earlier
+by von karman and millikan, with changes in both outer and inner
+solutions, and the point at which the two solutions are joined .  the changes
+improve the accuracy of the method and in some respects simplify the
+calculations .  as examples, results are presented for flow with a
+linear variation of velocity (including flat plate and stagnation
+point flow as special cases), flow with sinusoidal variation of
+velocity, flow past a circular cylinder (heimenz' velocity
+distribution), and flow past an ellipse (schubauer's data) . agreement
+with theoretically exact solutions is good, and better than
+results obtained using the pohlhausen method .

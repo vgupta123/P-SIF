@@ -1,0 +1,6 @@
+A Dispersion Pass Algorithm for the Polyphase Merge
+This paper presents a new manner of dispersing
+strings for a Polyphase merge.  If the number 
+of strings dispersed is between two levels acceptable
+by Polyphase merge, a more economical technique 
+of reaching the next level for Polyphase merge is shown and proved.

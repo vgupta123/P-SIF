@@ -1,0 +1,17 @@
+A Use of Macros in Translation of Symbolic
+Assembly Language of One Computer to Another
+A set of macro-operations has been prepared
+to assist in translating IBM 7090 symbolic assembly 
+language programs to IBM 7040 machine language programs.
+ This set, inserted at the beginning of the 
+7090 symbolic deck, treats incompatible instruction mnemonics
+as macro-instructions to produce equivalent 
+7040 instruction sets.  Incompatible instructions are
+categorized into basic operational classes which 
+can be expressed by a single basic skeleton.  Several levels
+of macro calls are required to supply arguments 
+to the basic skeleton for each particular instruction.
+ Modification at execution time of the address 
+or tag of an incompatible instruction requires incorporation
+of an address-tag equivalent.  I/O is handled 
+by generating calls to I/O simulation subroutines.

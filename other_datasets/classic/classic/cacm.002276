@@ -1,0 +1,15 @@
+Computer Methods for Sampling from
+the Exponential and Normal Distributions
+Various methods are known for transforming uniformly
+distributed random numbers into exponentially
+and normally distributed quantities.  The most efficient
+ones are compared, in terms of memory requirements 
+and speed, with some new algorithms.  A number of procedures
+convert Taylor series expansions directly 
+into sampling steps, an approach which may be used for
+sampling from any continuous distribution.  For 
+the exponential distribution a definite recommendation
+can be made, whereas in the case of the normal 
+distribution there remains a choice between slower and
+shorter algorithms and faster but space consuming 
+methods.

@@ -1,0 +1,10 @@
+Storage Allocation in a Certain Iterative Process
+A method of core storage allocation in a certain
+iterative process is described and estimates 
+of the machine time required are given.  The method is
+applicable to iterative processes in which input 
+data items once chosen are never again needed.  In this
+method the input data is continuously relocated 
+and the space made available apportioned to the output
+tables when an overflow occurs.  Some important 
+special cases are considered in which considerable simplification occurs.

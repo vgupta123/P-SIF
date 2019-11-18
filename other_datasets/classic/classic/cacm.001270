@@ -1,0 +1,9 @@
+On ALGOL Education: Automatic Grading Programs
+Two ALGOL grader programs are presented for
+the computer evaluation of student ALGOL programs. 
+One is for a beginner's program; it furnishes random data
+and checks answers. The other provides a searching 
+test of the reliability and efficiency of an integration
+procedure.  There is a statement of the essential 
+properties of a computer system, in order that
+grader programs can be effectively used.

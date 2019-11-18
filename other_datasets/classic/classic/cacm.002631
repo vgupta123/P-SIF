@@ -1,0 +1,18 @@
+An Information-Theoretic Approach to
+Text Searching in Direct Access Systems
+Using direct access computer files of bibliographic
+information, an attempt is made to overcome 
+one of the problems often associated with information
+retrieval, namely, the maintenance and use of large 
+dictionaries, the greater part of which is used only
+infrequently.  A novel method is presented, which 
+maps the hyperbolic frequency distribution.  This is
+more suited to implementation on storage devices. 
+ This method treats text as a string of characters rather
+than words bounded by spaces, and chooses subsets 
+of strings such that their frequencies of occurrence are
+more even than those of word types.  The members 
+of this subset are then used as index keys for retrieval.
+The rectangular distribution of key frequencies 
+results in a much simplified file organization
+and promises considerable cost advantages.

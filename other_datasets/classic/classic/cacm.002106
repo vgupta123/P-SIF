@@ -1,0 +1,19 @@
+Computer Education in a Graduate School of Management
+Several years of experience have led to the belief that the creative
+design and evaluation of management information systems requires
+a thorough understanding of the related computer technology.  Concepts
+such as paging and priority interrupt systems can best be explained at the 
+machine language level.  Any machine used for exposition
+should fulfill several criteria.  It should: (1) raise as few
+spurious issues as possible; (2) allow, without undue effort, the
+solution of interesting problems; (3) be capable of exposing all
+outstanding issues of significance, capable of exposing all outstanding
+issues of significance, within the chosen machine; (4) be
+seful for pursuing issues in great depth when appropriate; (5) not
+be committed to the equipment provided by any manufacturer; (6) be able to 
+provide the student with diagnostic aids to a great depth;
+(7) allow the student ready access to the machine; (8) be capable
+of extension to expose new issues as they come along.  We have
+constructed a simulated machine and its associated software which
+meets these criteria.  This system, called the PRISM system,
+is documented by a primer and a reference manual.

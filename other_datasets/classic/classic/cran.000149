@@ -1,0 +1,33 @@
+expansions at small reynolds number for the flow past
+a sphere and a circular cylinder .
+expansions at small reynolds number for the flow past
+a sphere and a circular cylinder .
+  this paper is concerned with the problem of obtaining higher
+approximations to the flow past a sphere and a circular cylinder
+than those represented by the well-known solutions of stokes
+and oseen .  since the perturbation theory arising from the
+consideration of small non-zero reynolds numbers is a singular
+one, the problem is largely that of devising suitable techniques for
+taking this singularity into account when expanding the solution
+for small reynolds numbers .
+  the technique adopted is as follows .  separate, locally valid
+the regions close to, and far from, the obstacle .  reasons are
+presented for believing that these 'stokes' and 'oseen' expansions
+are, respectively, of the forms
+where are spherical or cylindrical polar coordinates made
+dimensionless with the radius of the obstacle, r is the reynolds
+number, and and vanish with r .  substitution
+of these expansions in the navier-stokes equation then yields a
+set of differential equations for the coefficients and, but
+only one set of physical boundary conditions is applicable to each
+expansion (the no-slip conditions for the stokes expansion, and
+the uniform-stream condition for the oseen expansion) so that
+unique solutions cannot be derived immediately .  however, the
+fact that the two expansions are (in principle) both derived from
+the same exact solution leads to a 'matching' procedure which
+yields further boundary conditions for each expansion .  it is thus
+possible to determine alternately successive terms in each
+expansion .
+  the leading terms of the expansions are shown to be closely
+related to the original solutions of stokes and oseen, and detailed
+results for some further terms are obtained .

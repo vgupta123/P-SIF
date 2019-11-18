@@ -1,0 +1,7 @@
+A System for Interprocess Communication
+in a Resource Sharing Computer Network
+A system of communication between processes in a
+time-sharing system is described and the communication 
+system is extended so that it may be used between processes
+distributed throughout a computer network. 
+ The hypothetical application of the system to an existing network is discussed.

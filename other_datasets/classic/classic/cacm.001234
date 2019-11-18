@@ -1,0 +1,16 @@
+The Structure of Yet Another ALGOL Compiler
+A high-speed "top down" method of syntax analysis
+which completely eliminates "back-up" of 
+the source string has been implemented in a convenient
+macro-language.  A technique of  simulation at 
+compile time of the use of a conventional run-time stack
+enables the generation of code for expressions 
+which minimizes stores, fetches and stack-pointer motion
+at run time, while properly trating recursion 
+and side effects of procedures.  Block structure and
+recursion are handled without need for interpretive 
+methods at run times.  The "context problem" in the transmission
+to recursive procedures of parameters 
+"called by name" is solved in a manner which permits the
+handling of the common cases of simple expressions 
+and array identifiers with particular efficiency.

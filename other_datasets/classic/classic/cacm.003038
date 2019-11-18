@@ -1,0 +1,8 @@
+Using Encryption for Authentication in Large Networks of Computers
+Use of encryption to achieve authenticated
+communication in computer networks is discussed. 
+ Example protocols are presented for the establishment
+of authenticated connections, for the management 
+of authenticated mail, and for signature verification
+and document integrity guarantee.  Both conventional 
+and public-key encryption algorithms are considered as the basis for protocols.

@@ -1,0 +1,10 @@
+Creation and Control of Internal Data Bases
+Under a Fortran Programming Environment
+A method is described for the definition of a user's COMMON structure
+and the automatic generation of the necessary COMMON, DIMENSION, EQUIVALENCE,
+and type declarations for each of the user's routines.  The definition
+for the COMMON is contained in an easy to modify form, thus
+allowing the control of general communications of data between routines.
+The described system has been implemented on the IBM 7094,
+CDC 6000 series, and the IBM 360.  The method has proved to be invaluable
+for the definition and control of COMMON in many large-scale programs.

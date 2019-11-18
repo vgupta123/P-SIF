@@ -1,0 +1,10 @@
+On an Algorithm for Nonlinear Minimax Approximation
+Certain nonlinear minimax approximation problems are characterize
+d by properties which permit the application of special algorithms,
+mainly based on the exchange algorithms of Remes (1934, 1935), for
+their solution.  In this paper the application to problems of this
+type of a general nonlinear algorithm due to Osborne and Watson
+(1969) is considered.  Examples are given to illustrate that this
+algorithm can give satisfactory results and, in particular, can
+successfully solve problems which lead to difficulties
+with the more conventional specialist method.

@@ -1,0 +1,9 @@
+Full Table Quadratic Searching for Scatter Storage
+The quadratic residue search method for hash tables avoids much
+of the clustering experienced with a linear search method.  The simple
+quadratic search only accesses half the table.  It has been shown
+that when the length of the table is a prime of the form 4n+3, where n 
+is an integer, the whole table may be accessed by two quadratic
+searches plus a separate access for the original entry point. A search 
+method is presented which is computationally simple, has all the advantages 
+of the quadratic search, and yet accesses all the table in one sweep.

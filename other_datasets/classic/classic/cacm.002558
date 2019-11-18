@@ -1,0 +1,6 @@
+Protection in Programming Languages
+Linguistic mechanisms which can be used to protect
+one subprogram from another's malfunctioning 
+are described.  Function-producing functions and various
+type-tagging schemes are considered.  An attempt 
+is made to distinguish between access limitation and authentication.

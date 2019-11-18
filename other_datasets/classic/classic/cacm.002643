@@ -1,0 +1,7 @@
+The Minimization of Spatially-Multiplexed Character Sets
+The paper describes a technique for compacting
+character sets in a digital computer while retaining 
+fast access to individual bits.  It considers the problem
+of minimizing the storage needed to contain 
+such tables.  Reduction techniques are developed, and
+the problem is shown to reduce to a covering problem.

@@ -1,0 +1,20 @@
+Automation of Etching-Pattern Layout
+HELP (Heuristic Etching-Pattern Layout Program)
+is an application program developed to computerize 
+the tedious and error-prone although vitally important
+wiring design of printed circuit boards.  HELP 
+helps automate a design stage one step closer to production
+than logical design.  It can be used to design 
+wiring patterns of two-layer circuit boards on which
+ICs in dual-in-line packages as well as discrete 
+components such as transistors and resistors have been
+placed.  HELP employs two methods of wiring.  
+One is the heuristic method, which simulates human
+approaches to wiring design, and the other is the 
+theoretically interesting but time-consuming method of
+maze-running, based on the Lee's algorithm.  HELP 
+performs more than 90 percent of required wiring by
+the heuristic path with respect to a performance 
+function for each point-to-point, and point-to-line
+connection.  It can bring the number of successful 
+wiring connections very close to 100 percent.

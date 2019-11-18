@@ -1,0 +1,8 @@
+Fix point Approach to the Theory of Computation 
+Following the fix point theory of Scott, the
+semantics of computer programs are defined in terms 
+of the least fix points of recursive programs.  This
+allows not only the justification of all existing 
+verification techniques, but also their extension to the
+handling, in a uniform manner of various properties 
+of computer programs, including correctness, termination, and equivalence.

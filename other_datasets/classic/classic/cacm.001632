@@ -1,0 +1,14 @@
+Programming the Tabular Method of Analysis
+of Variance for Factorial Experiments 
+The ease of programming the tabular method of analysis
+of variance for complete factorial experiments 
+in a FORTRAN language is demonstrated.  In this method,
+the total sum of squares is partitioned into 
+orthogonal single degree of freedom sums of squares;
+main effect and interaction sums of squares are 
+then obtained by appropriate pooling of the single degree
+of freedom sums of squares.  Program segments 
+to accomplish the procedure are presented.  Modifications
+to handle hierarchical designs and replicated 
+experiments are mentioned. A FORTRAN II program
+for an IBM 7094 is described briefly.

@@ -1,0 +1,10 @@
+Retrieval-Update Speed Tradeoffs Using Combined Indices
+In a paper in the November 1970 Communications
+of the ACM, V. Y. Lum introduced a technique 
+of file indexing named combined indices.  This technique
+permitted decreased retrieval time at the cost 
+of increased storage space.  This paper examines combined
+indices under conditions of file usage with 
+different fractions of retrieval and update.  Tradeoff
+curves are developed to show minimal cost of file 
+usage by grouping various partially combined indices.

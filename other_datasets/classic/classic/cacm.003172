@@ -1,0 +1,10 @@
+An Algorithm for Planning Collision-Free
+Paths Among Polyhedral Obstacles
+This paper describes a collision avoidance algorithm
+for planning a safe path for a polyhedral object moving among
+known polyhedral objects.  The algorithm transforms the obstacles
+so that they represent the locus of forbidden positions for an arbitrary
+reference point on the moving object.  A trajectory of this
+reference point which avoids all forbidden regions is free of collisions.
+Trajectories are found by searching a network which indicates, for each vertex 
+in the transformed obstacles, which other vertices can be reached safely.

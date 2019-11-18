@@ -1,0 +1,12 @@
+Algorithm = Logic + Control
+An algorithm can be regarded as consisting of a logic component,
+which specifies the knowledge to be used in solving problems,
+and a control component, which determines the problem-solving
+strategies by means of which that knowledge is used.  The logic component
+determines the meaning of the algorithm whereas the control
+component only affects its efficiency.  The efficiency of an
+algorithm can often by improving the control component without changing
+the logic of the algorithm.  We argue that computer programs would
+be more often correct and more easily improved and modified if
+their logic and control aspects were identified and separated in
+the program text. 

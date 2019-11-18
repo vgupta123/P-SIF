@@ -1,0 +1,11 @@
+Concurrent Control with "Readers" and "Writers"
+The problem of the mutual exclusion of several
+independent processes from simultaneous access 
+to a "critical section" is discussed for the case where
+there are two distinct classes of processes known 
+as "readers" and "writers."  The "readers" may share
+the section with each other, but the "writers" must 
+have exclusive access.  Two solutions are presented:
+one of the case where we wish minimum delay for 
+the readers; the other for the case where we wish
+writing to take place as early as possible.

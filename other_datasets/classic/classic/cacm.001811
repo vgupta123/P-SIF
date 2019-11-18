@@ -1,0 +1,26 @@
+A Case Study in Programming for Parallel-Processors
+An affirmative partial answer is provided to
+the question of whether it is possible to program 
+parallel-processor computing systems to efficiently decrease
+execution time for useful problems.  Parallel-processor 
+systems are multiprocessor systems in which several of
+the processors can simultaneously execute separate 
+tasks of a single job, thus cooperating to decrease
+the solution time of a computational problem. The 
+processors have independent instruction counters, meaning
+that each processor executes its own task program 
+relatively independently of the other processors.  Communication
+between cooperating processors is by 
+means of data in storage shared by all processors.  A
+program for the determination of the distribution 
+of current in an electrical network was written for a
+parallel-processor computing system, and execution 
+of this program was simulated.  The data gathered from
+simulation runs demonstrate the efficient solution 
+of this problem, typical of a large class of important
+problems.  It is shown that, with proper programming, 
+solution time when N processors are applied approaches
+1/N times the solution time for a single processor, 
+while improper programming can actually lead to an increase
+of solution time with the number of processors. 
+ Stability of the method of solution was also investigated.

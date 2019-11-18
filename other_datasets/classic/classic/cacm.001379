@@ -1,0 +1,20 @@
+A Final Solution to the Dangling Else of ALGOL 60 and Related Languages
+The dangling else problem consists of a class
+of potential ambiguities in ALGOL-like conditional 
+statements whose basic form is "if B1 then if B2 then
+S1 else S2" where B1 and B2 are Boolean expressions 
+and S1 and S2 are basic statements.  The difficulty
+lies in whether to attach the else to the first if 
+or to the second one.  Existing solutions to the problem
+are either ambiguous or unnecessarily restrictive. 
+ Let Sand S1 be statements.  We define S to be closed
+if "S else S1" is not a statement, and to be open 
+if "S else S1" is a statement.  Thus an unconditional
+statement is  a closed statement.  Open and closed 
+conditional statements are defined by syntax equations
+in such a way as to preserve openness and closure. 
+ In each case, an else must always be preceded by a closed
+statement.  It is shown that the syntax equations 
+are unambiguous, and that may change in the statement
+types required within the syntax equations would 
+lead to either ambiguity or unnecessary restriction.

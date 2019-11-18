@@ -1,0 +1,18 @@
+Easy English,a Language for Information
+Retrieval Through a Remote Typewriter Console
+Easy English is a natural command language
+designed to simplify communication between man and 
+machine through remote typewriter console.  It has been developed
+for retrieval of documents from a computerized 
+data base, the Moore School Information Systems Laboratory
+files.  Requests are formulated in a standardized 
+syntactical form (examples of which are presented), and
+this form is then transformed into an equivalent 
+query expressed in the retrieval system's original Symbolic
+Command Language, which is briefly described. 
+ Operation of easy English is detailed by illustration
+of the transformations performed upon a sample 
+request up to the point at which the request string
+is sent to the system.  A macro flowchart of Easy 
+English is included, and an Appendix provides
+the printout of a retrieval demonstration.

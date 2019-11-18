@@ -1,0 +1,12 @@
+File Organization: The Consecutive Retrieval Property
+The consecutive retrieval property is an important
+relation between a query set and record 
+set.  Its existence enables the design of an information
+retrieval system with a minimal search time 
+and no redundant storage.  Some important theorems on
+the consecutive retrieval property are proved in 
+this paper.  Conditions under which the consecutive retrieval
+property exists and remain invariant have 
+been established.  An outline for designing an information
+retrieval system based on the consecutive 
+retrieval property is also discussed.

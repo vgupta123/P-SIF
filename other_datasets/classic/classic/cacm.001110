@@ -1,0 +1,9 @@
+A Fourier Series Method for the Numerical Solution
+of a Class of Parabolic Partial Differential 
+Equations*
+A Fourier series method is described which, when
+applied to a certain class of parabolic partial 
+differential equations, reduces the problem to a system
+of ordinary differential equations.  An application 
+is given for which the method shows a considerable advantage
+over conventional finite difference methods.

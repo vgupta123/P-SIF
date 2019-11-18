@@ -1,0 +1,13 @@
+Information Reference Coding
+Items in business systems have to be identified
+by reference codes, which can later be used 
+as data codes and file keys in an associated data processing
+system.  In business systems associated 
+with large collections of integrated files (database)
+it is vital to assign codes in a methodical way 
+so as to control future extension and changes while maintaining
+correct program action. The principles 
+of methodical coding are discussed, and the way in
+which logical connections between data items must 
+be reflected in the reference code framework is shown
+through a set-theoretic information model.

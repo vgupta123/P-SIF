@@ -1,0 +1,20 @@
+Design of Tree Structures for Efficient Querying
+A standard information retrieval operation is
+to determine which records in a data collection 
+satisfy a given query expressed in terms of data values.
+ The process of locating the desired responses 
+can be represented by a tree search model.  This paper
+poses an optimization problem in the design of 
+such trees to serve a well-specified application. The
+problem is academic in the sense that ordinarily 
+the optimal tree cannot be implemented by means of practical
+techniques.  On the other hand, it is potentially 
+useful for the comparison it affords between observed
+performance and that of an intuitively attractive 
+ideal search procedure.  As a practical application
+of such a model this paper considers the design of 
+a novel tree search scheme based on a bit vector representation
+of data and shows that essentially the 
+same algorithm can be used to design either an ideal
+search tree or a bit-vector tree.  An experimental 
+study of a small formatted file illustrates the concepts.

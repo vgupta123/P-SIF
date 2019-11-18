@@ -1,0 +1,13 @@
+Dynamic Computation of Derivatives
+It is shown how Wengert's procedure for computation
+of derivatives can be implemented conveniently 
+by use of compiler-generated complex addition, subtraction,
+and linkage to complex arithmetic subroutines.
+ Evaluation of a function and derivative proceed in
+parallel, as in Wengert's procedure, but with the 
+"imaginary" parts of variables declared complex bearing
+the values of the derivatives of the real parts. 
+ This technique provides a simple way to compute the
+derivatives of a function, without the need for 
+deriving and programming the evaluation of
+explicit formulas for the derivatives.

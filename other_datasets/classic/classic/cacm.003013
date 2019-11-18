@@ -1,0 +1,14 @@
+Some New Methods of Detecting Step Edges in Digital Pictures
+This note describes two operators that respond
+to step edges, but not to ramps.  The first 
+is similar to the digital Laplacian, but uses the max, rather
+than the sum, of the x and y second differences. 
+ The second uses the difference between the mean and
+median gray levels in a neighborhood.  The outputs 
+obtained from these operators applied to a set of test
+pictures are compared with each other and with 
+the standard digital Laplacian and gradient.  A third
+operator, which uses the distance between the center 
+and centroid of a neighborhood as an edge value, is also
+briefly considered; it turns out to be equivalent 
+to one of the standard digital approximations to the gradient.

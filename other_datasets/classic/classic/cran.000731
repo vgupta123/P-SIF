@@ -1,0 +1,34 @@
+upper and lower bounds for the solution of the first
+biharmonic boundary value problem .
+upper and lower bounds for the solution of the first
+biharmonic boundary value problem .
+  let w(x,y) be a solution of the boundary value problem
+where r is a plane
+domain with the boundary c .  the authors obtain upper and
+lower bounds for, the value of w at a point in r,
+by a method which is applicable to many other problems .
+  if u is a function satisfying the boundary conditions
+and v is a function satisfying the partial differential
+equation, then the authors obtain by applying green's
+classical identity and schwarz's inequality a pair of inequalities
+of the form where .
+  together with the function w the authors consider a
+function the solution of the boundary value problem
+on c, and in
+analogy with the functions u and v associated with the
+function w a pair of functions and associated with the
+function .  in the expression for derived from green's
+classical identity appears an unknown line integral
+containing the values of w and on c .  but the same line
+integral appears also in the expressions for
+to which the above inequalities are
+applicable .
+  in this way the authors obtain two inequalities of the form
+where b and b', respectively, are approximate
+values of .  in order to improve these bounds
+one may add to u a linear set of functions and to v a
+linear set of functions and then minimize h(u-v) in order
+to determine the coefficients of the best linear combinations .
+if the sequences and are complete in a certain sense
+defined by the authors the approximations will converge to
+the value .

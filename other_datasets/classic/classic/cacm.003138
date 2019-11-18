@@ -1,0 +1,17 @@
+A Mathematical Programming Updating Method Using Modified
+Givens Transformations and Applied to LP Problems
+An efficient and numerically stable method is presented for the problem of
+updating an orthogonal decomposition of a matrix of column (or row) vectors.
+The fundamental idea is to add a column (or row) analogous
+to adding an additional row of data in a linear least squares problem.
+A column (or row) is dropped by a formal scaling with the
+imaginary unit,  -1, followed by least squares addition of the column
+(or row).  The elimination process for the procedure is successive
+ssive application of the Givens transformation in modified (more efficient)
+form.  These ideas are illustrated with an implementation
+of the revised simplex method.  The algorithm is a general purpose
+one that does not account for any particular structure or sparsity
+in the equations.  Some suggested computational tests for determining
+signs of various controlling parameters in the revised simplex
+algorithm are mentioned.  A simple means of constructing
+test cases and some sample computing times are presented. 

@@ -1,0 +1,7 @@
+A Note on the Confinement Problem
+This note explores the problem of confining
+a program during its execution so that it cannot 
+transmit information to any other program except its
+caller.  A set of examples attempts to stake out 
+the boundaries of the problem.  Necessary conditions
+for a solution are stated and informally justified.

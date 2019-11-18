@@ -1,0 +1,20 @@
+Abstraction Mechanisms in CLU
+CLU is a new programming language designed to support
+the use of abstractions in program construction. 
+ Work in programming methodology has led to the realization
+that three kinds of abstractions-procedural, 
+control, and especially data abstractions-are useful
+in the programming process.  Of these, only the 
+procedural abstraction is supported well by conventional
+languages, through the procedure or subroutine. 
+ CLU provides, in addition to procedures, novel linguistic
+mechanisms that support the use of data and 
+control abstractions.  This paper provides an in troduction
+to the abstraction mechanisms in CLU.  By 
+means of programming examples, the utility of the three
+kinds of abstractions in program construction 
+is illustrated, and it is shown how CLU programs may
+be written to use and implement abstractions.  The 
+CLU library, which permits incremental program development
+with complete type checking performed at compile 
+time, is also discussed.

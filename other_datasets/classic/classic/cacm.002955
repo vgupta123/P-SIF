@@ -1,0 +1,10 @@
+Buddy Systems
+Two algorithms are presented for implementing
+any of a class of buddy systems for dynamic storage 
+allocation.  Each buddy system corresponds to a set of
+recurrence relations which relate the block sizes 
+provided to each other. Analyses of the in ternal fragmentation
+of the binary buddy system, the Fibonacci 
+buddy system, and the weighted buddy system are given.
+Comparative simulation results are also presented 
+for in ternal, external, and total fragmentation.

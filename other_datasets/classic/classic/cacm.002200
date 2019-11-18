@@ -1,0 +1,14 @@
+On Complement Division
+The division algorithm theorem is expressed
+in a form that permits it to serve as the basis 
+for devising division operations that produce both quotient
+and remainder in complement form.  Algorithms 
+for division yielding complement results are derived
+for numbers represented in any base greater than 
+one.  Both radix and radix-less-one complementation schemes
+are considered.  The binary form of the algorithms 
+thus includes both two's and one's complement implementation.
+ The problem of quotient overflow for complement 
+results is dealt with as is that of selecting an appropriate
+form of the remainder condition for complement 
+division. 

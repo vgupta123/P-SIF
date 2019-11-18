@@ -1,0 +1,17 @@
+Writing an Outline Debugging Program for the Experienced User
+Presently available online debugging routines
+are often unsatisfactory for the experienced 
+user because they require unnecessarily rigid and complicated
+typing formats, make it difficult for the 
+user to correct typing errors, and consume excessive
+memory with intricate features.  In a debugging 
+program it is of prime importance that the program
+be simple, flexible, and highly efficient to use. 
+ Communication between the user and the debugging program
+can be improved by using certain techniques 
+applicable to most online debugging programs.  These
+techniques are presented and are illustrated by 
+their use in OPAK (octal package), a debugging program coded
+for the PDP-5/8 and the SDS-930.  The compromise 
+between economy of utility program core storage and incorporation
+of elegant debugging features is discussed.

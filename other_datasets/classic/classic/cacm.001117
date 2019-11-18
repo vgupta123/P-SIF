@@ -1,0 +1,10 @@
+Polyphase Sorting With Overlapped Rewind*
+A variation of the polyphase merge technique
+of sorting is described which permits one tape 
+at a time to be rewound while the merge is continued on
+the remaining tapes.  The result is the overlapping 
+of a major portion of the rewind time.  The technique
+should be considered whenever a sort is written 
+to operate on five or more tapes that cannot be read backwards.
+ The savings of the overlap method appear 
+to increase as the number of available tapes is increased.

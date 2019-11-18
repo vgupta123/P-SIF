@@ -1,0 +1,7 @@
+Optimal Starting Approximations for Generating
+Square Root for Slow or No Divide
+On machine with slow or no division, it is preferable to
+use an iterative scheme for the square root different from
+the classical Heron scheme.  The problem of optimal initial 
+approximants is considered, and some optimal polynomial initial 
+approximations are tabulated.

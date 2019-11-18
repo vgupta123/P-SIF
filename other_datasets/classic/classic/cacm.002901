@@ -1,0 +1,15 @@
+An Encoding Method for Multifield Sorting and Indexing
+Sequences of character strings with an order
+relation imposed between sequences are considered. 
+ An encoding scheme is described which produces a single,
+order-preserving string from a sequence of 
+strings.  The original sequence can be recovered from
+the encoded string, and one sequence of strings 
+precedes another if and only if the encoding of the first
+precedes the encoding of the second.  The strings 
+may be variable length, without a maximum length restriction,
+and no symbols need be reserved for control 
+purposes.  Hence any symbol may occur in any string.  The
+scheme is useful for multifield sorting, multifield 
+indexing, and other applications where ordering
+on more than one field is important.

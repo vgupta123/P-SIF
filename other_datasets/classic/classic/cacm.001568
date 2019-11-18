@@ -1,0 +1,9 @@
+Plotting a Function of Three Independent Variables
+A method is developed for constructing an approximate
+plot of a function of three independent 
+variables.  The plot is similar to a conventional contour
+map except that there are three scales to represent 
+the independent variables.  Scale values of the three
+independent variables are added vectorially, and 
+the value of the function is then read from
+the values associated with nearby contours.

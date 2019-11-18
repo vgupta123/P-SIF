@@ -1,0 +1,7 @@
+Starting Approximations for Square Root Calculation on IBM System/360
+Several starting approximations for square
+root calculation by Newton's method are presented 
+in a form to facilitate their use in IBM System/360 square
+root routines.  These approximations include 
+several for the range [1/16, 1], which is the interval
+of primary interest on IBM System/360.

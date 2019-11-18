@@ -1,0 +1,17 @@
+Scan Conversion Algorithms for a Cell Organized Raster Display
+Raster scan computer graphics with "real time"
+character generators have previously been limited 
+to alphanumeric characters.  A display has been described
+which extends the capabilities of this organization 
+to include general graphics.  Two fundamentally different
+scan conversion algorithms which have been 
+developed to support this display are presented.  One
+is most suitable to non-interactive applications 
+and the other to interactive applications.  The algorithms
+were implemented in Fortran on the CDC 6400 
+computer.  Results obtained from the implementations show
+that the noninteractive algorithms can significantly 
+reduce display file storage requirements at little cost
+in execution time over that of a conventional 
+raster display.  The interactive algorithm can improve
+response time and reduce storage requirements.

@@ -1,0 +1,19 @@
+Some Characteristics of Sorting in Computing
+Systems Using Random Access Storage Devices 
+The substantial differences in characteristics
+of random access storage and tape devices dictate 
+that concepts and objectives of computer program design
+be considered from the viewpoint of the external 
+file medium used.  This is particularly true in the
+case of sorting.  In a tape-oriented system, the 
+major sorting problem is that of minimizing merge time
+despite the limited orders of merge possible. 
+ In contrast, sorting in a random access-oriented system
+encourages the selection of the optimum order 
+of merge from many possible orders.  The latter problem
+is discussed in this paper, along with criteria 
+developed for determining the optimum order of merge according
+to the various properties of random access 
+storage devices.  Attention is also given to the problem
+of key sorting versus record sorting and the 
+possibly serious disadvantage of key sorting on a random access system.

@@ -1,0 +1,19 @@
+some problems of polar missile control .
+some problems of polar missile control .
+  a polar-controlled missile is one in which manoeuvre
+is carried out by rotations about roll and pitch axes,
+that is, in the manner of a conventional aeroplane .  this
+paper discusses some problems in the application of this
+form of control to homing missiles .
+  in comparison with the alternative cartesian
+configuration, this method presents some special design
+problems .  in the former case, it is often possible to
+resolve the motion into two planes and consider the
+pitch and yaw control systems as independent
+two-dimensional problems .  this simplification is not
+possible in the case of polar control and it is usually
+necessary to consider the whole three-dimensional
+system .  the equations of motion which result are, in
+general, not susceptible to analysis .  because of this,
+the design of control systems requires extensive use of
+simulators .

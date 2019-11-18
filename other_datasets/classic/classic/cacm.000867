@@ -1,0 +1,16 @@
+Least Squares Fitting of Planes to Surfaces Using Dynamic Programming
+Dynamic programming has recently been used
+by Stone, by Bellman and by Gluss to determine the 
+closet fit of broken line segments to a curve in an
+interval under the constraint that the number of 
+segments is fixed.  In the present paper successive
+models are developed to extend the method to the 
+fitting of broken plane segments to surfaces z=g(x,y) defined
+over certain types of subareas of the (x,y)-space. 
+ The first model considers a rectangular area, with
+the constraint that the plane segments are defined 
+over a grid in the (x,y)-space.  It is then shown how
+this model may be incorporated into an algorithm 
+that provides successive approximations to optimal fits
+for any type of closed area.  Finally, applications 
+are briefly described.

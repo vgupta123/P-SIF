@@ -1,0 +1,10 @@
+Top-to-bottom Parsing Rehabilitated?
+This note is concerned with the efficiency
+of the Top-to-Bottom parsing algorithm as used in 
+connection with programming language grammars.  It is
+shown, for instance, that retracing of unprofitable 
+paths can often be eliminated by a suitable rearrangement
+of the productions defining the grammar.  The 
+essential weakness of the method is in dealing with complicated
+syntactic structures which are in practice 
+only sparsely occupied, e.g., arithmetic expressions.

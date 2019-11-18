@@ -1,0 +1,13 @@
+numerical solutions for supersonic flow of an ideal
+gas around blunt two-dimensional bodies .
+numerical solutions for supersonic flow of an ideal
+gas around blunt two-dimensional bodies .
+  the method described is an inverse one,. the shock shape is chosen
+and the solution proceeds downstream to a body .  bodies blunter than
+circular cylinders are readily accessible, and any adiabatic index can
+be chosen .  the lower limit to the free-stream mach number available in
+any case is determined by the extent of the subsonic field, which in
+turn depends upon the body shape .  some discussion of the stability of
+the numerical processes is given .  a set of solutions for flows about
+circular cylinders at several mach numbers and several values of the
+adiabatic index is included .

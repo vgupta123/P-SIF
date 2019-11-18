@@ -1,0 +1,32 @@
+some remarks on the flat plate boundary layer .
+some remarks on the flat plate boundary layer .
+  the authors discuss the solutions for the flow of a viscous
+incompressible fluid near the leading edge of a semi-infinite
+flat plate without pressure gradient .  the oseen
+linearization is employed which approximates the equations of motion
+and continuity by
+where are the coordinate directions, the
+corresponding velocity components and the uniform free stream
+velocity which is parallel to the plate .  defining a
+perturbation stream function by
+the differential
+equation to be solved is with boundary
+conditions far from the plate and
+when y=0 and .  the authors discuss the
+problem by applying the two-dimensional fourier
+transform and obtain an explicit solution for the velocity gradient
+at the plate which is in disagreement
+with the result of the blasius solution .  from this
+the authors conclude that it would be more appropriate to
+use a velocity other than in the linearization of the
+equations of motion and suggest replacing by where .
+this choice does not affect the solution far from
+the plate but gives on the plate and in
+comparison with blasius solution indicates that c=0.35 .
+the solution of the modified oseen equation with this value
+of c then seems acceptable as the approximate solution in
+the region intermediate between the stokes flow and the
+free stream .  on the basis of these considerations, the authors
+suggest an iteration procedure for obtaining the exact
+solution for the above problem as well as a solution for the plate
+of finite length .

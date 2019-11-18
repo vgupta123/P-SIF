@@ -1,0 +1,16 @@
+The Structure of Programming Languages
+In this paper the major components of every
+programming language are identified as: (1) the 
+elementary program statement, (2) mechanisms for linking
+elementary statements together, (3) the means 
+by which a program can obtain data inputs.  Several
+alternative forms of each of these components are 
+also described, compared and evaluated.  Many examples,
+frequently from list processing languages, illustrate 
+the forms described.  The advantages, disadvantages and
+factors influencing the choice of a form of component 
+for a language are discussed, and the paper concludes
+with the suggestion that programming languages 
+evolve toward one which will permit all the most convenient
+ways of structuring programs, organizing 
+systems and referencing data.

@@ -1,0 +1,10 @@
+Requirements for Real-Time Languages
+Real-time languages have different requirements
+from other programming languages because of 
+the special nature of their applications, the environment
+in which their object programs are executed 
+and the environment in which they may be compiled.  It
+may not be the language extensions that ultimately 
+advance developments in the field.  Progress may be made
+by attacking the special compiling and executing 
+system problems that must be solved.

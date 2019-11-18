@@ -1,0 +1,22 @@
+calculation of flutter characteristics for finite-span swept or unswept
+wings at subsonic and supersonic speeds by a modified strip analysis .
+calculation of flutter characteristics for finite-span swept or unswept
+wings at subsonic and supersonic speeds by a modified strip analysis .
+a method has been developed for calculating flutter characteristics of
+finite-span swept or unswept wings at subsonic and supersonic speeds .
+the method is basically a rayleigh type analysis and is illustrated with
+ uncoupled vibration modes although coupled modes can be used . the
+aerodynamic loadings are based on distributions of section lift-curve
+slope and local aerodynamic center calculated from three-dimensional
+steady-flow theory . these distributions are used in conjunction with
+the /effective/ angle-of-attack distribution resulting from each of the
+assumed vibration modes in order to obtain values of section lift and
+pitching moment . circulation functions modified on the basis of
+loadings for two-dimensional airfoils oscillating in a compressible flow are
+ employed to account for the effects of oscillatory motion on the
+magnitudes and phase angles of the lift and moment vectors .
+flutter characteristics have been calculated by this method for 12 wings
+ of varying sweep angle, aspect ratio, taper ratio, and center-
+of-gravity position at mach numbers from 0 to as high as 1.75 . comparisons
+ of the results with experimental flutter data indicate that this method
+ gives generally good flutter results for a broad range of wings .

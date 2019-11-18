@@ -1,0 +1,25 @@
+several approximate analyses of the bending of a rectangular
+cantilever plate by uniform normal pressure .
+several approximate analyses of the bending of a rectangular
+cantilever plate by uniform normal pressure .
+  three methods of approximating the deflections and
+moments occurring in a rectangular cantilever plate
+subjected to uniform normal pressure over its entire surface
+are presented in this paper .  the first is the application of
+the well-known finite-difference procedure .  the second
+and third are collocation methods, one based upon
+polynomial solutions of the lagrange equation, the other
+employing /mixed/ hyperbolic-trigonometric terms
+satisfying this equation .  in the last two methods the boundary
+conditions are satisfied exactly along the clamped edge and
+at a finite number of points along the free edges of the plate .
+the results obtained for the particular case of a cantilever
+plate with uniform normal load indicate that the use of a
+relatively small number of points in the collocation
+method yields values of deflections and moments that are
+in substantial agreement with those given by the
+finite-difference procedure .  it cannot be concluded from these
+results that the collocation method using the assumed
+functions will give satisfactory results with fewer points
+than the finite-difference method for cantilever plates with
+loading different from the one investigated .

@@ -1,0 +1,9 @@
+Guarded Commands, Nondeterminacy and Formal Derivation of Programs
+So-called "guarded commands" are introduced
+as a building block for alternative and repetitive 
+constructs that allow nondeterministic program components
+for which at least the activity evoked, but 
+possible even the final state, is not necessarily uniquely
+determined by the initial state.  For the 
+formal derivation of programs expressed in terms
+of these constructs, a calculus will be shown.

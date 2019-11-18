@@ -1,0 +1,18 @@
+Retrieval of Misspelled Names in an Airlines Passenger Record System
+This paper discusses the limited problem of
+recognition and retrieval of a given misspelled 
+name from among a roster of several hundred names, such
+as the reservation inventory for a given flight 
+of a large jet airliner.  A program has been developed
+and operated on the Telefile (a stored-program 
+core and drum memory solid-state computer) which will
+retrieve passengers' records successfully, despite 
+significant misspellings either at original entry time
+or at retrieval time.  The procedure involves 
+an automatic scoring technique which matches the names
+in a condensed form. Only those few names most 
+closely resembling the requested name, with their phone
+numbers annexed, are presented for the agents 
+final manual selecton.  The program has successfully
+isolated and retrieved names which were subjected 
+to a number of unusual (as well as usual) misspellings.

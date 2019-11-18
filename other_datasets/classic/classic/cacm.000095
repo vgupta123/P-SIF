@@ -1,0 +1,14 @@
+Elimination of Special Functions from Differential Equations
+A set of ordinary differential equations which
+contains mathematical functions requiring the 
+use of subroutines for numerical solution by electronic
+computer, tabular data for numerical solution 
+by hand calculation or function generators when analog
+methods are applied can sometimes be expanded 
+to an equivalent set of equations which do not contain
+the functions.  This is practical if these functions 
+satisfy sufficiently simple differential equations. 
+Thus among those functions which can be eliminated 
+by this procedure are the trigonometric, inverse trigonometric,
+exponential, and many other transcendental 
+functions.

@@ -1,0 +1,26 @@
+integration of the boundary layer equations .
+integration of the boundary layer equations .
+the equations of the boundary layer
+are integrated by an expression of the form
+where f(x) is a positive function with x=0
+as the stationary point,. (x) is slowly varying,.
+the integral contains an unknown parameter
+which is found from the condition .
+  the integral is evaluated by the method of
+steepest descent .  the expressions obtained are
+usually divergent, except in few cases which
+include blasius's equation,. the divergent
+expressions are summed by euler's transformation .
+  to check the procedure it is applied to falkner
+and skan's equation .  the results obtained
+are very striking,. few terms in the expansions
+are sufficient to obtain close agreement with
+hartree's laborious numerical computations .
+  the method is also applied to the general
+boundary-layer equation for the case of flow past
+an elliptic cylinder, measured by schubauer .
+the results obtained are in close agreement
+with schubauer's measurements for the velocities,
+almost up to separation, for the position of
+the separation point,. and in satisfactory agreement downstream of
+separation .

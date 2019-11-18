@@ -1,0 +1,9 @@
+Translation Equations
+Input limited transduction expressions, or translation equations,
+are used to describe the syntax and left-context sensitive semantics for 
+context-free languages.  A formal procedure is given for deriving from
+a set of translation equations the specifications for a pushdown translator.
+The translator consists of Mealy form finite-state automata interacting
+by means of a pushdown stack.  Within the framework described string 
+recognition and parsing may be treated as special cases of the translation 
+problem.

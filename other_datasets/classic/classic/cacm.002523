@@ -1,0 +1,13 @@
+A Region Coloring Technique for Scene Analysis
+A method of converting a picture into a "cartoon"
+or "map" whose regions correspond to differently 
+textured regions is described.  Texture edges in the
+picture are detected, and solid regions surrounded 
+by these (usually broken) edges are "colored in" using
+a propagation process.  The resulting map is cleaned 
+by comparing the region colors with the textures of
+the corresponding regions in the picture, and also 
+by merging some regions with others according to criteria
+based on topology and size.  The method has 
+been applied to the construction of cloud cover maps
+from cloud cover pictures obtained by satellites.

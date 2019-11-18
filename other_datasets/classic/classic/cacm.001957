@@ -1,0 +1,9 @@
+The List Set Generator: A Construct for Evaluating Set Expressions
+The list set generator is defined and algorithms
+for its use are given.  The list set generator is
+a construct which may be added to a list processing system or any
+system that handles sets.  It efficiently generates the set which
+results from any expression involving sets and set operators.  The
+efficiency derives from evaluating the expression as a whole and
+in parallel, rather than evaluating subexpressions and
+then using those sets to arrive at the final result.

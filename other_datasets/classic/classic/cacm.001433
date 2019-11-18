@@ -1,0 +1,22 @@
+A Note on Linear Programming Algorithm Design: A Combinatorial Problem
+As linear programming models grow bigger and
+bigger in size, much actual data that must be 
+memorized is often put on magnetic tape or disk, and
+consequently there is an improportionality fast 
+rise in the consumption of computer time.To cut down
+this expense, an ever increasing effort is made 
+to design more efficient algorithms.  This paper is
+meant to support the effort.  It is attempted to 
+find some characteristics of the way a pivot column
+is found.  The number of repetitions of a certain 
+transfer of data from tape to core memory is considered.
+ After some simplification, the problem is restated 
+in a general way.  The generating function of the probability
+distribution and the moment generating 
+function of the number of repetitions is found.  Asymptotic
+formulas are given for the moments using 
+a result from a paper of S. Narumi [1].  The results
+may be applied to write very efficient routines 
+that search for an extreme value in a table.  Formulas
+provide a means of calculating the computer timings 
+in this case.

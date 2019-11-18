@@ -1,0 +1,13 @@
+A Model for Automating File and Program Design in Business Application Systems
+This paper discusses a model for finding an efficient implementation of a 
+business application system whose logical specifications have been determined
+in advance.  The model views file and program design as a problem
+of systematically coordinating the configurations of datasets and
+computations.  It uses a straight forward search technique to
+determine aggregations of computations, aggregations of datasets, device,
+organization, and key order for each data set, key order for
+ each computation, and access method  for each dataset-computation
+pair.  Although computational results are presented for a sample
+problem involving 54 computations and 49 datasets, the main point of
+the paper is that the underlying model works computationally an
+d is simple enough to be adapted to many file design situations.

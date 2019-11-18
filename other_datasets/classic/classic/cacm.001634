@@ -1,0 +1,11 @@
+27 bits Are Not Enough for 8-digit Accuracy
+From the inequality 10^8 < 2^27, we are likely
+to conclude that we can represent 8-digit decimal 
+floating-point numbers accurately by 27-bit floating-point
+numbers.  However, we need 28 significant 
+bits to represent some 8-digit numbers accurately. 
+In general, we can show that if 10^p < 2^q-1, then 
+q significant bits are always enough for p-digit decimal
+accuracy.  Finally, we can define a compact 
+27-bit floating-point representation that will give 28
+significant bits, for numbers of practical importance.

@@ -1,0 +1,20 @@
+On Accurate Floating-Point Summation
+The accumulation of floating-point sums is
+considered on a computer which performs t-digit 
+base B floating-point addition with exponents in the range
+-m to M.  An algorithm is given for accurately 
+summing N t-digit floating-point numbers.  Each of
+these N numbers is split into q parts, forming qN 
+t-digit floating-point numbers.  Each of these is then
+added to the appropriate one of n auxiliary t-digit 
+accumulators.  Finally, the accumulators are added together
+to yield the computed sum.  In all, qN+n-1 
+t-digit floating-point additions are performed.  Under
+usual conditions, the relative error in the computed 
+sum is at most [(t+1)/v]B^(1-t) for some v.  Further,
+with an additional q+n-1 t-digit additions, the 
+computed sum can be corrected to full t-digit accuracy.
+ For example, for the IBM/360 (B=16, t=14, M=63, 
+m=64), typical values for q and n are q=2 and n=32. 
+In this case, (*) becomes N <= 32,768, and we have 
+[(t+1)/v]B^(1-t) = 4x16^-13.

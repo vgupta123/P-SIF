@@ -1,0 +1,29 @@
+a study of second-order supersonic flow theory .
+a study of second-order supersonic flow theory .
+  an attempt is made to develop a second approximation to the
+solution of problems of supersonic flow which can be solved by
+existing first-order theory .  the method of attack adopted is an
+iteration process using the linearized solution as the first step .
+  for plane flow it is found that a particular integral of the
+iteration equation can be written down at once in terms of the
+first-order solution .  the second-order problem is thereby
+reduced to an equivalent first-order problem and can be readily
+solved .  at the surface of an isolated body, the solution reduces
+to the well-known result of busemann .  the plane case is
+considered in some detail insofar as it gives insight into the
+nature of the iteration process .
+  again, for axially symmetric flow the problem is reduced to a
+first-order problem by the discovery of a particular integral .
+for smooth bodies, the second-order solution can then be
+calculated by the method of von karman and moore .  bodies
+with corners are also treated by a slight modification of the
+method .  the second-order solution for cones represents a
+considerable improvement over the linearized result .
+second-order theory also agrees well with several solutions for other
+bodies of revolution calculated by the numerical method of
+characteristics .
+  for full three-dimensional flow, only a partial particular
+integral has been found .  as an example of a more general
+problem, the solution is derived for an inclined cone .  the
+possibility of treating other inclined bodies of revolution and
+three-dimensional wings is discussed briefly .

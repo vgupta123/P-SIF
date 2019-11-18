@@ -1,0 +1,14 @@
+Computer-Made Perspective Movies as a Scientific and Communication Tool*
+It is easy to program the basic transformation
+required for a perspective drawing.  This fact 
+plus the advent of high speed microfilm printers such
+as the General Dynamics Electronics S-C 4020 makes 
+possible perspective movies as the direct output from
+a computer.  The programming of such a movie is 
+briefly described for studying the angular motions of
+a satellite containing an attitude control system. 
+ In the movie, a domino-shaped box represents the satellite
+and a sphere with circles of latitude and 
+longitude represents the earth.  The cost was approximately
+three to eight minutes of IBM 7090 time per 
+one minute of movie.

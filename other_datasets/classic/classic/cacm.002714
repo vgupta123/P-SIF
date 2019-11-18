@@ -1,0 +1,16 @@
+Merging with Parallel Processors
+Consider two linearly ordered sets A, B, |A|=m,
+|B|=n, m<=n, and p, p<=m, parallel processors 
+working synchronously.  The paper presents an algorithm
+for merging A and B with the p parallel processors, 
+which requires at most 2[log2 (2m+1)]+[3m/p] + [m/p][log2
+(n/m)] steps.  If n = (2^B)m (B an integer), 
+the algorithm requires at most 2[log2 (m+1)] + [m/p](2+B)
+steps.  In the case where m and n are of the 
+same order of magnitude, i.e. n=km with k being a constant,
+the algorithm requires 2[log2 (m+1)] + [m/p](3+k) 
+steps.  These performances compare very favorably with
+the previous best parallel merging algorithm, 
+Batcher's algorithm, which requires n/p + ((m+n)/2p)log2 m
+steps in the general case and km/p + ((k+1)/2)(m/p)log2 
+m in the special case where n=km.

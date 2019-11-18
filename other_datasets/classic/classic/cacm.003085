@@ -1,0 +1,13 @@
+An O(n) Algorithm for Determining a Near-Optimal
+Computation Order of Matrix Chain Products
+This paper discusses the computation of matrix
+chain products of the form M1 x M2 x ... x Mn 
+where Mi's are matrices.  The order in which the matrices
+are computed affects the number of operations. 
+ A sufficient condition about the association of the
+matrices in the optimal order is presented.  An 
+O(n) algorithm to find an order of computation which
+takes less than 25 percent longer than the optimal 
+time Topt is also presented.  In most cases, the algorithm
+yields the optimal order or an order which 
+takes only a few percent longer than Topt (less than 1 percent on the average).

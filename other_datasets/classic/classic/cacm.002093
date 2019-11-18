@@ -1,0 +1,11 @@
+A Comparison of Error Improvement Estimates
+for Adaptive Trapezoid Integration
+Various simple choices of error improvement estimates for the trapezoid
+rule are studied to demonstrate a comparison procedure which is
+relatively independent of the profusion of adaptive search and stopping
+strategies.  Comparisons are based on x^r, `; the inclusion
+of the noninteger powers makes this more realistic than the usual polynomial
+based comparison.  Behavior near the singularity was found
+to be the dominant factor, and a new estimate, based on a constant
+curvature assumption and parametric differences, was considered
+slightly better than the other choices considered.

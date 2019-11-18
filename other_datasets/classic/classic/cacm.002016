@@ -1,0 +1,8 @@
+The Instrumentation of Multics
+An array of measuring tools devised to aid in the implementation of a prototype
+computer utility is discussed.  These tools include special hardware
+clocks and data channels, general purpose programmed probing
+and recording tools, and specialized measurement facilities.  Some
+particular measurements of interest in a system which combines demand 
+paging with multiprogramming are described in detail.  Where appropriate, 
+insight into effectiveness (or lack there of) of individual tools is provided.

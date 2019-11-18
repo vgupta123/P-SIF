@@ -1,0 +1,16 @@
+Dynamic Memory Allocation in Computer Simulation
+This paper investigates the performance of
+35 dynamic memory allocation algorithms when used 
+to service simulation programs as represented by 18
+test cases.  Algorithm performance was measured in
+terms of processing time, memory usage, and external memory
+fragmentation.  Algorithms main taining separate 
+free space lists for each size of memory block used
+tended to perform quite well compared with other 
+algorithms.  Simple algorithms operating on memory ordered
+lists (without any free list) performed surprisingly 
+well.  Algorithms employing power-of-two block sizes
+had favorable processing requirements but generally 
+unfavorable memory usage.  Algorithms employing LIFO, FIFO,
+or memory ordered free lists generally performed 
+poorly compared with others.

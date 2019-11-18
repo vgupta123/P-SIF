@@ -1,0 +1,10 @@
+A Multiprogramming Environment for Online Data Acquis ition and Analysis
+An experimental system for acquis ition and analysis
+of large bodies of data derived from scientific 
+experiments is described.  Its architecture and implementation
+is largely based on certain objectives 
+and characteristics of a general data analysis scheme.
+ Early applications have been oriented towards 
+the investigation of data obtained in biological research.
+ Some of the problems encountered by the chosen 
+approach are discussed.

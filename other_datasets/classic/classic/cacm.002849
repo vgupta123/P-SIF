@@ -1,0 +1,20 @@
+Ethernet: Distributed Packet Switching for Local Computer Networks
+Ethernet is a branching broadcast communication
+system for carrying digital data packets among 
+locally distributed computing stations. The packet
+transport mechanism provided by Ethernet has been 
+used to build systems which can be viewed as either local
+computer networks or loosely coupled multiprocessors. 
+ An Ethernet's shared communication facility, its Ether,
+is a passive broadcast medium with no central 
+control.  Coordination of access to the Ether for packet
+broadcasts is distributed among the contending 
+transmitting stations using controlled statistical arbitration.
+ Switching of packets to their destinations 
+on the Ether is distributed among the receiving stations
+using packet address recognition.  Design principles 
+and implementation are described, based on experience
+with an operating Ethernet of 100 nodes along a 
+kilometer of coaxial cable.  A model for estimating performance
+under heavy loads and a packet protocol 
+for error controlled communication are included for completeness.

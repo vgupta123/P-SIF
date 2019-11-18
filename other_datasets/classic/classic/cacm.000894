@@ -1,0 +1,11 @@
+An Iterative Factorization Technique for Polynomials
+An iterative technique is displayed whereby factors
+of arbitrary degree can be found for polynomials 
+in one variable.  Convergence is shown to occur always
+if a certain Jacobian does not vanish and if the 
+initial approximation to a factor is near enough to an
+actual factor.  The process is simply programmed, 
+and preliminary results indicate it to be well adapted
+to use with digital computers.  For factors of 
+degree two, the technique is similar to that of Bairstow,
+the present method being somewhat simpler.

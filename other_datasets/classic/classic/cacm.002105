@@ -1,0 +1,10 @@
+An Interactive Computer System Using Graphical Flowchart Input
+An interactive computer system operational on a graphical computer terminal is 
+described.  This system was designed to demonstrate a method of programming by 
+computer interpretation of a flowchart.  The user draws a description of a
+sampled-data system and specifies description is transmitted to a large
+scale computer.  The design is simulated, and a graphic representation of the 
+processed signal is returned to the scope.  A successful design may require 
+numerous modifications of the original design.  A graphical interactive system 
+provides an environment to perform this iterative process efficiently and 
+effectively.

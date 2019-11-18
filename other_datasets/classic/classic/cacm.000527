@@ -1,0 +1,15 @@
+The Description List of Concepts
+A concept is defined as a class of objects
+whose members can be distinguished by processing 
+its properties.  Property is defined to mean a partition
+of the set of all objects into disjoint classes. 
+ The formal definition of a concept is recursive in nature.
+ A concept is described by a list structure. 
+ A one-to-one correspondence is established between the
+recursive definition of a concept and its description 
+list structure.  Like the definition, the description
+list structure of a concept is also built up from 
+elementary list structures by a recursive process. 
+The list structures obtained this way are compared 
+with the description list structure discussed
+by the author in a previous publication.

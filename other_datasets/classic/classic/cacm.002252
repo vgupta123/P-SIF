@@ -1,0 +1,20 @@
+A Method for Incrementally Compiling
+Languages with Nested Statement Structure
+A method of incremental compilation is presented
+which applies especially to programming languages 
+in which statements can be nested (such as Algol and
+PL/I).  The method permits editing of the source 
+language using a general purpose text editor, and incremental
+processing of changes without frequent 
+recompilation of entire routines.  The essential points
+of the method are: (1) the syntax of the language 
+is restricted insof ar as which constructs may occur
+on lines; (2) an internal data structure (called 
+the skeleton) is maintained to represent the statement
+structure; (3) the recompilation is partially 
+batched in the sense that recompilation of modified lines
+does not occur until the last of a set of editing 
+commands has been received; and (4) the parsing and
+compilation are factored into two parts, that done 
+on individual lines and that done globally to
+handle the relationships between the lines.

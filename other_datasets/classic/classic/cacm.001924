@@ -1,0 +1,16 @@
+Organizing Matrices and Matrix Operations for Paged Memory Systems
+Matrix representations and operations are examined
+for the purpose of minimizing the page faulting 
+occurring in a paged memory system.  It is shown that
+carefully designed matrix algorithms can lead to 
+enormous savings in the number of page faults occurring
+when only a small part of the total matrix can 
+be in main memory at one time.  Examination of addition,
+multiplication, and inversion algorithms shows 
+that a partitioned matrix representation (i.e. one submatrix
+or partition per page) in most cases induced 
+fewer page faults than a row-by-row representation.
+ The number of page-pulls required by these matrix 
+manipulation algorithms is also studied as a function
+of the number of pages of main memory available 
+to the algorithm.

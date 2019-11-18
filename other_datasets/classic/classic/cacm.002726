@@ -1,0 +1,20 @@
+Combining Decision Rules in a Decision Table
+The techniques for minimizing logic circuits
+are applied to the simplification of decision 
+tables by the combining of decision rules. This method
+is logically equivalent to the Quien-McCluskey 
+method for finding prime implicants.  If some of the
+decision rules implied in the ELSE Rule occur with 
+low frequency, then the ELSE Rule can be used to further
+simplify the decision table.  Several objectives 
+merit consideration in optimizing a decision table:(1)
+reducing machine execution time; (2) reducing 
+preprocessing time; (3) reducing required machine memory;
+(4) reducing the number of decision rules. 
+ (This often improves the clarity of the decision table
+to a human reader.)  It will be shown that objectives 
+(3) and (4) can be furthered with the above methods.
+ Objective (1) is also attained if overspecified 
+decision rules are not combined.  Objective (2) must be
+compared against the potential benefits of objectives 
+(1), (3), and (4) in deciding whether to use the above methods.

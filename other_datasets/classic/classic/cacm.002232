@@ -1,0 +1,21 @@
+Pattern Width at a Given Angle
+That the pattern feature "width as a function
+of angle" possesses several possible interpretations 
+is demonstrated in this paper, which is a review of
+the width concept in pattern recognition and the 
+geometrical concept itself.  The object of the work
+is to clarify how the word description can be made 
+precise so that computer algorithms for feature extraction
+may be obtained; the focus is on the theoretical 
+subject matter.  The results consist of a set-theoretic
+definition of width-at-angle, a theorem relating 
+it to the pattern boundary radius vector, and descriptions
+of alternate widths.  All widths are calculated 
+for an illustrative example; graphical and tabular comparisons
+are given.  Substantial variation in width-at-angle 
+magnitude is found.  The principal conclusion is that
+the set-theoretic width-at-angle is a useful pattern 
+feature when it can be easily computed.  Further investigation
+of the information contained in only part 
+of a width function is recommended for cases where
+computation of width-at-angle is difficult.

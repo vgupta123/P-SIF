@@ -1,0 +1,12 @@
+A Comparison of List Schedules for Parallel Processing Systems
+The problem of scheduling two or more processors
+to minimize the execution time of a program 
+which consists of a set of partially ordered tasks
+is studied.  Cases where task execution times are 
+deterministic and others in which execution times are
+random variables are analyzed.  It is shown that 
+different algorithms suggested in the literature vary significantly
+in execution time and that the B-schedule 
+of Coffman and Graham is near-optimal.  A dynamic programming
+solution for the case in which execution 
+times are random variables is presented.

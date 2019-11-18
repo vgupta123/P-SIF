@@ -1,0 +1,16 @@
+On the Interface Between Computers and Data Communications Systems
+Future systems that combine computers, digital
+terminals, and communications equipment present 
+design optimization problems that require reconsideration
+of the traditional functional responsibilities 
+of the respective subsystems.  Several "standard" interfaces,
+by means of which computers and digital 
+terminals connect to the communications systems will
+be required.  When specifying these interfaces, 
+consideration must be given to problems of coordination,
+synchronization, error control, signaling, stream 
+multiplexing, and switch control, in addition to minimizing
+the technological interdependence of specific 
+subsystem designs.  A focus on some of the problems is
+obtained in a discussion of a detailed specification 
+for a particular computer-communications system interface.

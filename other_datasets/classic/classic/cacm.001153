@@ -1,0 +1,5 @@
+A Fast Procedure for Generating Normal Random Variables*
+A technique for generating normally distributed
+random numbers is described.  It is faster 
+than those currently in general use and is readily
+applicable to both binary and decimal computers.

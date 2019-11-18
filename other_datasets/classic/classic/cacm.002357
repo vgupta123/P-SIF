@@ -1,0 +1,13 @@
+MUX, a Simple Approach to On-Line Computing
+An on-line system operating as part of a normal
+batch system for the CDC 6600 computer is described. 
+ The system, which required one man-year for initial
+software implementation, although basically simple,
+provides the necessary elements to input and modify files,
+submit them for batch execution, and provide 
+results at the user's terminal.  A multiplexer designed
+and developed as part of the project cost one 
+man-year for design and checkout, and $16,000 for parts
+and fabrication.  All aspects of the system are 
+described, including design criteria, implementation,
+cost, overhead, and user reactions.

@@ -1,0 +1,16 @@
+laminar boundary layers at the interface of co-current
+parallel streams .
+laminar boundary layers at the interface of co-current
+parallel streams .
+  the approximate solution of keulegan(1) for the steady flow of a
+stream of viscous incompressible fluid over another at rest is extended
+to the case where both fluids are moving co-current but at different
+velocities .  this solution utilizes a sextic polynomial for the
+velocity distribution in the boundary layers .  the solutions depend
+only on the ratio of the velocities of the two streams and on the
+product of the corresponding viscosity and density ratios .  numerical
+results are given for seven values of at one value of .  lock(2) has
+published an exact solution with a numerical result for and the sextic
+polynomial solution is evaluated f40umerical result for and the sextic
+indicates that in general the sextic polynomial is more accurate than
+the quartic polynomial but that the advantage is not great .

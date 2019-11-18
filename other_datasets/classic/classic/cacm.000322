@@ -1,0 +1,16 @@
+Operational Compatibility of Systems-CONVENTIONS
+The General Standards Committee of the SHARE
+organization has devoted considerable effort to 
+the problem of operating a computer efficiently in
+view of the growing number of programming systems 
+available.  Each of these programming systems has been
+coded to utilize a fixed set of hardware components 
+without recognizing the fact that others may be occupying
+a storage medium required by the first.  These 
+incompatibilities are currently resolved by manually setting
+up the computer for each system as required. 
+ The following set of conventions is being considered
+to minimize computer set-up time.  They are of 
+sufficiently broad interest that we feel other computer
+users should be aware of them. -George F. Ryckman, 
+Chairman

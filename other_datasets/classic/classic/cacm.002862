@@ -1,0 +1,17 @@
+Analysis of the PFF Replacement Algorithm via a Semi-Markov Model
+An analytical model is presented to estimate
+the performance of the Page Fault Frequency (PFF) 
+replacement algorithm.  In this model, program behavior
+is represented by the LRU stack distance model 
+and the PFF replacement algorithm is represented by a semi-Markov
+model.  Using these models, such parameters 
+as the inter-page-fault interval distribution, the
+probability of the number of distinct pages being 
+referenced during an inter-page-fault interval, etc. are
+able to be analytically determined.  Using these 
+models to evaluate these parameter values permits study
+of the performance of the replacement algorithm 
+by simulating the page fault events rather than every
+page reference event.  This significantly reduces 
+the required computation time in estimating
+the performance of the PFF algorithm.

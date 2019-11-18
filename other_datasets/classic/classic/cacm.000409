@@ -1,0 +1,14 @@
+CL-1, An Environment for a Compiler
+A flexible, large-scale programming system to
+facilitate the solution of information processing 
+problems and to provide intercommunication between programs
+and/or programmers has been developed and 
+realized on the IBM 709/7090 computer.  The system is
+based on a master file concept and has provisions 
+for accepting, storing, and retrieving both descriptions
+and instances of large and complex data sets, 
+as well as algorithms defined on these data sets.  Both
+data and algorithms may be expressed in a family 
+of command and descriptive languages.  The concept
+of distinct data descriptions and the content and 
+use of such descriptions are discussed in some detail.

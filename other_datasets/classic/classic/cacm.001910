@@ -1,0 +1,9 @@
+An Algorithm for Solving a Special Class
+of Tridiagonal Systems of Linear Equations
+An algorithm is presented for solving a system
+of linear equation Bu=k where B is tridiagonal 
+and of a special form.  It is shown that this algorithm
+is almost twice as fast as the Gaussian elimination 
+method usually suggested for solving such systems. 
+In addition, explicit formulas for the inverse and 
+determinant of the matrix B are given.

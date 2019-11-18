@@ -1,0 +1,12 @@
+SMALGOL-61
+Prior to and during the 1961 Western Joint
+Computer Conference, several people in the Joint 
+Users Groups had expressed interest in defining a "smalgol"
+language.  This is to be an ALGOL language 
+for use with compilers on relatively small size computers.
+ A preliminary report resulted.  At the ACM 
+National Conference four months later, after considering
+several counter proposals, a final version was 
+agreed upon by a subcommittee.  The recommendations
+of the Subcommittee for a standard subset of ALGOL 
+60 for use on small computers is presented here.

@@ -1,0 +1,22 @@
+Median Split Trees: A Fast Lookup Technique for Frequently Occuring Keys
+Split trees are a new technique for searching sets
+of keys with highly skewed frequency distributions. 
+ A split tree is a binary search tree each node of which
+contains two key values-a node value which is 
+a maximally frequent key in that subtree, and a split
+value which partitions the remaining keys (with 
+respect to their lexical ordering) between the left and
+right subtrees.  A median split tree (MST) uses 
+the lexical median of a node's descendents as its split
+value to force the search tree to be perfectly 
+balanced, achieving both a space efficient representation
+of the tree and high search speed.  Unlike 
+frequency ordered binary search trees, the cost of a
+successful search of an MST is log n bounded and 
+very stable around minimal values.  Further, an MST
+can be built for a given key ordering and set of 
+frequencies in time n log n, as opposed to n2 for an
+optimum binary search tree.  A discussion of the 
+application of MST's to dictionary lookup for English is
+presented, and the performance obtained is contrasted 
+with that of other techniques.

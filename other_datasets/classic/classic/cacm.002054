@@ -1,0 +1,15 @@
+On the Feasibility of Voice Input to
+an On-line Computer Processing System
+An on-line digital computer processing system is considered in which an 
+ordinary telephone is the complete terminal device, input to the computer 
+being provided as a sequence of spoken words, and output to the user being 
+audio responses from the machine.  The feasibility of implementing such a 
+system with a FORTRAN-like algebraic compiler as the object processor is 
+considered.  Details of a specific word recognition program are given.  This 
+technique depends on three simplifying restrictions, namely, a "small"
+vocabulary set, "known" speakers, and a "moment of silence"
+between each input word.  Experimental results are presented giving
+error rates for different experimental conditions as well as the machine 
+resources required to accommodate several users at a time. The results show 
+that at this time it is both economically and logically feasible to handle at 
+least 40 users at a time with an IBM 360/65 computer.

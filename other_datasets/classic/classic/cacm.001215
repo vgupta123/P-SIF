@@ -1,0 +1,7 @@
+Some Techniques Used in the ALCOR ILLINOIS 7090
+An ALGOL compiler has been written by the
+ALCOR group for the IBM 7090.  Some little known 
+but significant techniques in compiler writing, together
+with organizational details of this compiler, 
+are described.  Timing estimates and an indication
+of compiler requirements are also given.

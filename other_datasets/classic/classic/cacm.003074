@@ -1,0 +1,14 @@
+A Time- and Space- Efficient Garbage Compaction Algorithm
+Given an area of storage containing scattered,
+marked nodes of differing sizes, one may wish 
+to rearrange them into a compact mass at one end of the
+area while revising all pointers to marked nodes 
+to show their new locations.  An algorithm is described
+here which accomplishes this task in linear time 
+relative to the size of the storage area, and in a space
+of the order of one bit for each pointer.  The 
+algorithm operates by reversibly encoding the situation
+(that a collection of locations point to a single 
+location) by a linear list, emanating from the pointed-to
+location, passing through the pointing locations, 
+and terminating with the pointed-to location's transplanted contents.

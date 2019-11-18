@@ -1,0 +1,29 @@
+turbulent mixing of a rocket exhaust jet with a supersonic stream
+including chemical reactions .
+turbulent mixing of a rocket exhaust jet with a supersonic stream
+including chemical reactions .
+the equations for the turbulent mixing of a two-dimensional supersonic
+jet issuing into an ambient supersonic stream are formulated . both
+streams consist of a mixture of chemically active and possibly reacting
+gases, therefore any heat release by chemical reaction is included,. the
+ net mass rate of production of species is obtained on the assumption
+that the reaction rate constant is given by an expression reducible to
+the classical arrhenius law . the equations first given in terms of the
+x, and y coordinates, are expressed in dimensionless form and in terms
+of the x and coordinates, where is the stream function . the resulting
+expressions are all of the /heat conduction/ type,. they are put in a
+finite difference form by using the crank-nicolson method of
+substituting finite difference approximations for both the /time/ and /space/
+derivatives . the mixture is assumed to consist of six species, namely
+h2o, h2, o2, co2, co, and n2, and the oxidation of h2 and co is assumed
+to take place according to a single-step chemical reaction . the
+solution of the problem is based on the simultaneous solution of 8n linear
+algebraic equations in 8n unknowns, n being the number of internal grid
+points at every step in the x-direction, and 8 the total number of
+unknowns at each grid point, namely velocity, temperature, and
+concentration for each of the six species . a method of obtaining initial and
+boundary conditions from available inviscid jet flow solutions is
+discussed . the equations are programed for calculation on an ibm-704
+computer . finally, one typical case is considered, and plots of velocity,
+temperature, and concentration profiles are given for the initial stages
+ of development of the mixing layer .

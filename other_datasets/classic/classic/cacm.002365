@@ -1,0 +1,7 @@
+Matrix Computations with Fortran and Paging
+The efficiency of conventional Fortran programs
+for matrix computations can often be improved 
+by reversing the order of nested loops.  Such modifications
+produce modest savings in many common situations 
+and very significant savings for large problems run
+under an operating system which uses paging.

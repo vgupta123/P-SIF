@@ -1,0 +1,15 @@
+integration of the boundary layer equations for a plane in compressible
+flow with heat transfer .
+integration of the boundary layer equations for a plane in compressible
+flow with heat transfer .
+the equations of motion of compressible viscous flow with vanishing
+pressure gradient past a plane are integrated in semi-convergent
+expressions, for the case when the physical constants depend on
+temperature and the prandtl number is close to unity .
+simple expressions are obtained for the temperature and velocity
+distributions in the boundary layer, the drag coefficient, and their
+dependence on the physical constants,.they contain the well-known results
+and several new ones .
+for the case when the temperature of the boundary is either above, or
+not much below, the temperature of the main flow, the results obtained
+closely agree with crocco's numerical computations .

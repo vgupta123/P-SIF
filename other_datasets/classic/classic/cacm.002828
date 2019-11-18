@@ -1,0 +1,24 @@
+Hierarchical Geometric Models for Visible Surface Algorithms
+The geometric structure inherent in the definition
+of the shapes of three-dimensional objects 
+and environments is used not just to define their relative
+motion and placement, but also to assist in 
+solving many other problems of systems for producing
+pictures by computer.  By using an extension of 
+traditional structure information, or a geometric hierarchy,
+five significant improvements to current 
+techniques are possible.  First, the range of complexity
+of an environment is greatly increased while 
+the visible complexity of any given scene is kept within
+a fixed upper limit.  Second, a meaningful way 
+is provided to vary the amount of detail presented in
+a scene.  Third, "clipping" becomes a very fast 
+logarithmic search for the resolvable parts of the environment
+within the field of view.  Fourth, frame 
+to frame coherence and clipping define a graphical
+"working set," or fraction of the total structure 
+that should be present in primary store for immediate
+access by the visible surface algorithm.  Finally, 
+the geometric structure suggests a recursive descent,
+visible surface algorithm in which the computation 
+time potentially grows linearly with the visible complexity of the scene.

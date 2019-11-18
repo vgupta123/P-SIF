@@ -1,0 +1,10 @@
+Divide-and-Correct Methods for Multiple Precision Division
+A division problem is defined and notation
+to relate it to the problem of multiple precision 
+operation in a digital computer is introduced.  A basic
+divide-and-correct method for multiple precision 
+division is formulated and its known properties briefly
+reviewed.  Of particular interest is the fact 
+that the method produces at each step a set of precisely
+three estimates for the desired result, one 
+of which is exact.

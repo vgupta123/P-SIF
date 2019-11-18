@@ -1,0 +1,21 @@
+A Simple User-Oriented Compiler Source Language
+for Programming Automatic Test Equipment
+For the nonprogrammer, difficulty in using
+a language increases rapidly with the number of 
+nonproblem-oriented conventions.  A simple language, even
+if inelegant, which considers the user's background 
+as part of the problem may be more effective than a source
+language containing subtle and more powerful 
+capabilities.  The language described in this paper is
+used to write computer programs which test electronic 
+equipment.  Because this testing process contains few
+complex ideas, there is little need for the elegance 
+and redundancy of a highly syntax-oriented language.
+ A simple and direct language will suffice for the 
+problem.  The eventual users of this language are military
+depot personnel who cannot he expected to 
+have computer programming skill or significant programming
+training.  For this nonprogramming-oriented 
+user, it was essential to create a language using familiar
+engineering statements; programming-oriented 
+conventions would have unnecessarily complicated his task.

@@ -1,0 +1,12 @@
+An Experiment in a User-Oriented Computer System
+A version of a software-hardware system for
+the purpose of facilitating the programming and 
+analysis of well-formulated problems is described.  A modified
+Flexowriter is used to generate computer-acceptable 
+input when equations or computable requests are typed
+in much the same manner as they would appear in 
+conventional mathematical texts.  The typing and language
+rules are quite flexible and unrestrictive. 
+ While the compiler part is efficient, the system as
+a whole has much broader aspects as a tool for the 
+study of problem solving and self-teaching systems.

@@ -1,0 +1,47 @@
+approximate analysis of atmospheric entry corridors
+and angles .
+approximate analysis of atmospheric entry corridors
+and angles .
+  a simple closed-form solution
+for the achievable corridor depths
+and entry angles as a function of
+g-load limit, entry velocity, and
+vehicle aerodynamics and thermodynamics
+is developed for two modes of
+vehicle operation, constant angle
+of attack and modulated angle of attack .
+  for constant angle of attack,
+operation at maximum negative lift
+coefficient on the overshoot bound,
+and at an angle of attack between
+zero and that for maximum lift-drag
+ratio on the undershoot bound, gives
+the deepest corridor .  for modulated
+angle of attack, operating at
+maximum negative lift coefficient on the
+overshoot bound and modulating
+the angle of attack from maximum
+positive lift coefficient to zero on
+the undershoot bound give the deepest
+corridor .  the modulated angle of
+attack gives corridor depths two to
+four times larger than the fixed
+angle of attack .  for both cases the
+corridor depth is increased by
+increasing maximum lift-drag ratio,
+increasing g limit, and decreasing
+entry velocity .
+  consideration of hot-gas radiation
+places a limit on the maximum
+angle of attack for either mode of
+operation .  if a maximum free-stream
+reynolds number limit must be placed
+on the vehicle to ensure a laminar
+boundary layer, the deep atmospheric
+penetrations associated with
+configurations with high lift-drag ratio
+may be ruled out .  both of these
+thermodynamic considerations reduce
+the acceptable corridor depth below
+the value calculated from aerodynamic
+considerations alone .

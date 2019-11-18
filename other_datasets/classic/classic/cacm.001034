@@ -1,0 +1,12 @@
+Autosate
+An automated data system analysis technique is
+described. The technique is designed to alleviate 
+some of the principal problems that beset current analysis-large
+data workloads, long span of time between 
+project inception and system operational date, the lack
+of explicit directions for conducting data system 
+analysis and using the results, and the lack of a technique
+to control data system changes throughout 
+its lifetime. The analysis is geared to determining workload,
+relationships and storage characteristics 
+of documents in the information network automatically.

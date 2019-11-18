@@ -1,0 +1,12 @@
+Operations on Generalized Arrays with the Genie Compiler
+Operations on vectors, matrices, and higher dimensional storage arrays are 
+standard features of most compilers today.  The elements of such structures are
+usually restricted to be scalars.  For many sophisticated applications
+this restriction can impose cumbersome data representations.
+An efficient system has been devised and implemented which allows
+the elements of multidimensional arrays to themselves be multidimensional
+arrays.  This system was developed from a storage structure
+in which the location, length, and content of each array is described
+by a codeword which can be interpreted by the system.  Code words may describe 
+arrays containing more codewords, thus providing
+all needed descriptive information for hyperstructures of any form.

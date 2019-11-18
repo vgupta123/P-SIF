@@ -1,0 +1,16 @@
+an aerodynamic analysis for flutter in oseen-type viscous
+flow .
+an aerodynamic analysis for flutter in oseen-type viscous
+flow .
+  oseen's equations for unsteady flow are employed to obtain
+a linearized solution based on a discontinuous-wake model .
+the analysis is employed to estimate the viscous correction to
+unsteady lift and moment at large reynolds number .  if the
+asymptotic solution is not too slowly convergent, the correction
+is of the order of the ratio of the logarithm of reynolds number
+to the reynolds number .  the theory is preliminary in nature
+as it is limited by the accuracy of oseen's equations and is
+restricted to small angle of attack .  however, it also shows that
+the generalized trailing-edge condition for potential flow is
+reasonable and might predict the essential correction in a real
+fluid .

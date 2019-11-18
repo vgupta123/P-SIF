@@ -1,0 +1,34 @@
+non-linear shallow shell analysis by the matrix force
+method .
+non-linear shallow shell analysis by the matrix force
+method .
+  the matrix force method of redundant
+structure analysis is currently
+being extended by various users to cover
+a number of non-linear problems .
+one of these is the non-linear analysis
+of heated cambered wings, such as
+might be used in advanced flight vehicles .
+in this case the approach used
+by the present authors is equally applicable
+to shallow shells, the
+formulation of the strain-displacement and
+equilibrium relations being a
+finite element equivalent to that used
+by marguerre .  the solution is
+obtained by a combined iteration and step
+by step procedure utilizing a
+tangent flexibility matrix .  divergence
+in the calculations indicates
+that the range of stable configurations
+has been exceeded .  cambered
+plates subjected to several loadings are
+given as examples,. for one, an
+exact solution is available for comparison .
+  it is believed that the basic concepts
+involved in this shallow
+shell analysis can be extended to apply
+to other, more general shell
+instability problems, and that useful
+solutions to the latter are
+probably within the capability of present day digital computers .

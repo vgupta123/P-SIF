@@ -1,0 +1,12 @@
+Internal and Tape Sorting Using the Replacement-Selection Technique
+A general technique for sequencing unsorted
+records is presented.  The technique is shown to 
+be applicable for the first stage of a generalized sort
+program (the formation of initial strings) as 
+well as for sorting records within a memory storage (an
+internal sort).  It is shown that given N records 
+in memory storage, records are sequenced using 1+log2
+N tests per record, that initial string lengths 
+will average 2N for random input records, and that reading,
+writing and processing can be accomplished 
+simultaneously if the computer permits such overlap.

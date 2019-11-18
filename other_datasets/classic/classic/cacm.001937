@@ -1,0 +1,9 @@
+CODAS: A Data Display System
+CODAS, a Customer Oriented Data System, is
+a user-oriented data retrieval and display system. 
+ The command language of the system provides the user
+with an easy means for specifying data retrieval 
+and display requests.  Data is displayed as tables and
+graphs produced in a format ready for publication. 
+ In this paper the statements of the request language
+and the general system design are described.

@@ -1,0 +1,14 @@
+The Development of the MU5 Computer System
+Following a brief outline of the background
+of the MU5 project, the aims and ideas for MU5 
+are discussed.  A description is then given of the instruction
+set, which includes a number of features 
+conducive to the production of efficient compiled code
+from high-level language source programs.  The 
+design of the processor is then traced from the initial
+ideas for an associatively addressed "name store" 
+to the final multistage pipeline structure involving
+a prediction mechanism for instruction prefetching 
+and a function queue for array element accessing.  An
+overall view of the complete MU5 complex is presented 
+together with a brief indication of its performance.

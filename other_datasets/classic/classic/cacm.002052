@@ -1,0 +1,6 @@
+Scheduling to Reduce Conflict in Meetings
+Conflicts in scheduling can be treated as defining an undirected linear graph 
+independently of the relation of the activities in conflict to additional 
+constraints of time and space.  Each connected component of such a graph,
+which can be found by an algorithm described by Gotlieb and Corneil, 
+corresponds to a set of events that must be scheduled at different times.

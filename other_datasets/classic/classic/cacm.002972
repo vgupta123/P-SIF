@@ -1,0 +1,12 @@
+Proof Techniques for Hierarchically Structured Programs
+A method for describing and structuring programs
+that simplifies proofs of their correctness 
+is presented.  The method formally represents a program
+in terms of levels of abstraction, each level 
+of which can be described by a self-contained nonprocedural
+specification.  The proofs, like the programs, 
+are structured by levels.  Although only manual proofs
+are described in the paper, the method is also 
+applicable to semi-automatic and automatic proofs.  Preliminary
+results are encouraging, indicating that 
+the method can be applied to large programs, such as operating systems.

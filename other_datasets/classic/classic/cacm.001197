@@ -1,0 +1,17 @@
+Finding Zeros of a Polynomial by the Q-D Algorithm
+A method which finds simultaneously all the zeros
+of a polynomial, developed by H. Rutishauser, 
+has been tested on a number of polynomials with real
+coefficients.  This slowly converging method (the 
+Quotient-Difference (Q-D) algorithm) provides starting
+values for a Newton or a Bairstow algorithm for 
+more rapid convergence.  Necessary and sufficient conditions
+for the existence of the Q-D scheme are 
+not completely known; however, failure may occur when
+zeros have equal, or nearly equal magnitudes.  
+Success was achieved, in most of the cases tried, with
+the failures usually traceable to the equal magnitude 
+difficulty.  In some cases, computer roundoff may result
+in errors which spoil the scheme.  Even if the 
+Q-D algorithm does not give all the zeros,
+it will usually find a majority of them.

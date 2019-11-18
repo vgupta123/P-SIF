@@ -1,0 +1,13 @@
+A New Approach to Automatic Scanning of Contour Maps
+The problem of automatic digitizing of contour
+maps is discussed.  The structure of a general 
+contour map is analyzed, and its topological properties
+are utilized in developing a new scanning algorithm. 
+ The problem of detection and recognition of contour
+lines is solved by a two color labeling method. 
+ It is shown that for maps containing normal contour lines
+only, it suffices to distinguish between so-called 
+"even" and "odd" lines.  The "tangency problem" involved
+in practical scanning is discussed, and a solution 
+based on minimizing computer memory space and
+simplifying control program is suggested.

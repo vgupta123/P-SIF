@@ -1,0 +1,38 @@
+two-dimensional jet mixing of a compressible fluid .
+two-dimensional jet mixing of a compressible fluid .
+  the mixing and divergence of a supersonic jet exhausting into
+a supersonic stream are investigated theoretically .
+  in the first part of this paper, the flow is assumed to be laminar .
+when the velocity and temperature in the jet are different
+slightly from those of the surrounding stream, by the method of
+small perturbations and under ordinary boundary layer
+assumptions, the equation of motion of two-dimensional flow will be
+reduced to a form of the well-known equation of heat conduction,
+whose solution is known for any given boundary conditions .  it
+has also been shown that the exact solution of the two
+dimensional jet mixing of viscous compressible fluids can be obtained
+by successive approximations starting with the solution of small
+perturbations .
+  velocity and temperature distributions for two cases--one is
+the mixing of two-uniform flows and the other is the mixing of a
+jet of compressible fluid from a two-dimensional nozzle with full
+expansion exhausting into a supersonic stream--have been
+calculated .  the properties of the jet mixing depend mainly on the
+momentum of the jet regardless of whether the change of
+momentum is due to the change of velocity or the change of
+temperature--i.e., the change of density .  compressibility has a
+considerable effect on the properties of the jet .
+  in the second part, the cases of turbulent flow are investigated .
+by means of reichardt's theory of free turbulence, the turbulent
+shearing stress may be expressed as
+  it has been shown in this paper that
+where is a constant that can be determined experimentally .
+the value of n lies between 0 and 1 .  the exact value of n
+depends on the condition of mixing .
+  when the expression of turbulent shearing stress given above
+is used instead of the viscous stress in the equation of motion,
+by suitable transformation of variables, it has been shown that
+the equation of two-dimensional turbulent jet mixing is identical
+to that of the laminar case .  hence, the solution of the first part
+of this paper can be applied to the turbulent case, provided that
+the characteristic constants and n have been properly chosen .

@@ -1,0 +1,6 @@
+Tensor Calculations on the Computer
+A FORMAC program has been written which is capable
+of calculating various quantities of interest 
+in tensor calculus.  Using this code, Christoffel symbols
+have been calculated for 12 basic orthogonal 
+coordinate systems.

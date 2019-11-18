@@ -1,0 +1,30 @@
+the flow past pitot tube at low reynolds numbers, part 1-dash the
+numerical solution of the navier-stokes equations for steady viscous
+axisymmetric flow, part 2-dash the effects of viscosity and orifice
+size on a pitot tube at low reynolds numbers .
+the flow past pitot tube at low reynolds numbers, part 1-dash the
+numerical solution of the navier-stokes equations for steady viscous
+axisymmetric flow, part 2-dash the effects of viscosity and orifice
+size on a pitot tube at low reynolds numbers .
+in this report numerical methods used to solve the navier-stokes
+equations for steady viscous two-dimensional flow are extended to include
+the case of axial symmetry . the equations and their finite difference
+approximations are derived working in cylindrical polar co-ordinates
+with the stokes' stream function and the vorticity as variables . a new
+method of dealing with the boundary conditions is given .
+the effects of viscosity and orlfice size on a blunt-nosed pitot tube
+have been theoretically investigated up to a reynolds number of ten,
+where the reynolds number has been based on the radius of the tube .
+results are expressed in terms of a pressure coefficient where p is the
+pressure measured in the tube, p the density of the fluid, and p  and u
+the static pressure and velocity in an undisturbed flow at the position
+of the tube .
+the values of c for a blunt-nosed tube are found to be less than those
+for tubes with hemispheroidal heads, but always greater than unity in
+the range considered . the effect of the orifice size is to decrease c
+as the orifice size increases, this decrease is very small but increases
+ with the reynolds number . at a reynolds number of ten the decrease is
+at most five per cent of the value of c when there is no orifice .
+it is suggested that the decrease of c below unity found in some
+experimental investigations at a higher reynolds number could be due to the
+effects of orifice size .

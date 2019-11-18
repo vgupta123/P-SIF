@@ -1,0 +1,14 @@
+Modeling and Simulation of Digital Networks
+The simulation of digital networks on a digital
+computer provides the engineer with an effective 
+means of analyzing time-quantized logical behavior.  The
+digital network is modeled as a set of time-dependent 
+or time-independent Boolean transformations; each transformation
+describing the input-output relationship 
+of a model element comprising the network mode.  The
+simplicity of utilizing the FORTRAN IV Programming 
+System as a digital Network Simulator is discussed an
+illustrated.  This simplicity is derived from a 
+common modeling technique applicable to combinational
+and sequential digital networks and a systematic 
+programming approach.

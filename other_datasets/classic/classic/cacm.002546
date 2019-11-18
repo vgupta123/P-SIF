@@ -1,0 +1,14 @@
+The Use of Grammatical Inference for Designing Programming Languages
+Both in designing a new programming language
+and in extending an existing language, the designer 
+is faced with the problem of deriving a "natural" grammar
+for the language.  We are proposing an interactive 
+approach to the grammar design problem wherein the designer
+presents a sample of sentences and structures 
+as input to a grammatical inference algorithm.  The algorithm
+then constructs a grammar which is a reasonable 
+generalization of the examples submitted by the designer.
+ The implementation is presently restricted 
+to a subclass of operator precedence grammars, but
+a second algorithm is outlined which applies to a 
+larger class of context-free grammars.

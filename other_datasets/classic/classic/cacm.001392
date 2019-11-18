@@ -1,0 +1,14 @@
+Experience with FORMAC Algorithm Design
+Various facets of the design and implementation
+of mathematical expression manipulation algorithms 
+are discussed.  Concrete examples are provided by the
+FORMAC EXPAND and differentiation algorithms, a 
+basic FORMAC utility routine, and an experiment in the
+extraction of the skeletal structure of an expression. 
+ One recurrent theme is the need to avoid excessive
+intermediate expression swell in order to minimize 
+core storage requirements. Although many details from
+the FORMAC implementation are presented, an attempt 
+is made to stress principles and ideas of general relevance
+in the design of algorithms for manipulating 
+mathematical expressions.

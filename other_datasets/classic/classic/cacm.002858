@@ -1,0 +1,15 @@
+A Process for the Determination of
+Addresses in Variable Length Addressing
+An algorithm is presented for the assignment
+of instruction addresses and formats under the 
+following conditions: (1) the length of the instruction varies
+as a function of the distance of the instruction 
+from its target; (2) there exists an optimality criterion
+which implies some preferential choices subject 
+to the addressing constraints.  This may be, for example,
+achieving the smallest number of long instructions, 
+in which case the total code length is minimized, or
+minimizing the assigned address of a specified point 
+in the program.  The algorithm is suitable for arbitrary
+program structure and a choice of optimization 
+criteria.

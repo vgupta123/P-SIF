@@ -1,0 +1,16 @@
+Simulation of Traffic Flows in a Network
+A computer simulation program which deals
+with traffic flows in the network of a large area 
+is described.  Each road is segmented into blocks of
+several ten-meter lengths and is represented by 
+a bidirectional list in computer memory.  The movement
+of cars, i.e. the transfer of cars from one block 
+to the next, is expressed by a proper formula.  This
+formula is based on the supposition that the speed 
+of cars in a block is determined only by the density of
+cars in the block, and this speed-versus-density 
+curve is empirically given the numerical values.  This
+simulation scheme has its excellent point in that 
+it makes it possible to trace the dynamic behavior
+of traffic flows in a variety of situations, some 
+examples of which are given for an actual area of the city of Kyoto, Japan.

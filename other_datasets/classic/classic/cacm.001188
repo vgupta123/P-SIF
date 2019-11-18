@@ -1,0 +1,17 @@
+An ALGOL-like Computer Design Language
+The idea of constructing a computer design
+language by making use of an ALGOL-like programming 
+language is presented.  A computer designer can benefit
+from using a design language at a higher level 
+just as a computer user can benefit from a higher level
+programming language.  The purposes and requirements 
+of the design language are enumerated.  To achieve most
+of the purposes a translator is required to translate 
+a design of computer logic into a set of Boolean equations.
+ The design language is presented in terms 
+of vocabulary, statements, sequences and microprogram.
+ Included are examples of identifiers, expressions 
+with both unary and binary operators, declaration statements,
+transfer statements, terminal statements, 
+exchange statements, if statements, do statements, go
+to statements, several sequences and a microprogram.

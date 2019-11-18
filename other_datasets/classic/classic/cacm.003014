@@ -1,0 +1,21 @@
+Is "Sometime" Sometimes Better than "Always"? (Intermittent
+Assertions in Proving Program Correctness)
+This paper explores a technique for proving the
+correctness and termination of programs simultaneously. 
+ This approach, the intermittent-assertion method, involves
+documenting the program with assertions that 
+must be true at some time when control passes through
+the corresponding point, but that need not be true 
+every time.  The method, introduced by Burstall, promises
+to provide a valuable complement to the more 
+conventional methods.  The intermittent-assertion method
+is presented with a number of examples of correctness 
+and termination proofs.  Some of these proofs are markedly
+simpler than their conventional counterparts. 
+ On the other hand, it is shown that a proof of correctness
+or termination by any of the conventional 
+techniques can be rephrased directly as a proof using
+intermittent assertions.  Finally, it is shown 
+how the intermittent-assertion method can be applied
+to prove the validity of program transformations 
+and the correctness of continuously operating programs.

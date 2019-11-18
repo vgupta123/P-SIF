@@ -1,0 +1,30 @@
+On the Optimization of Performance of Time-Sharing Systems by Simulation
+A simulation model of a time-sharing system
+with a finite noncontiguous store and an infinite 
+auxiliary store is used to study the variation of system
+parameters such as store size, number of jobs 
+allowed to execute simultaneously, job-scheduling algorithm,
+etc.  The effects of these variations on 
+a measure of system performance is used to ascertain which
+of the parameters controllable by the job-scheduling 
+algorithm, including the scheduling itself, require optimization,
+and which of the parameters not normally 
+controllable by the scheduling algorithm have a marked
+effect on system performance.  System performance 
+is based upon the mean cost of delay to all jobs processed.
+ It is shown that significant improvements 
+in the measure of system performance can be obtained by
+using variable time-slice techniques and by selecting 
+the optimum round-robin cycle time.  It appears that these
+features would benefit from optimization whereas 
+other parameters controllable by the scheduling algorithm
+affect system performance in a predictable 
+manner and would not benefit from optimization.  Features
+not normally under the control of the scheduling 
+algorithm can also have a marked effect on the measure
+of performance; in particular, supervisor overheads, 
+the size of the store, and the speed of the CPU.  A comparison
+is made between the results of the simulation 
+model and two analytical equations for quantum-oriented
+nonpreemptive time-sharing systems.  The comparison 
+is found to be very favorable.

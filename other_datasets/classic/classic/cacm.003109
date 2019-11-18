@@ -1,0 +1,6 @@
+A Data Structure for Manipulating Priority Queues
+A data structure is described which can be used
+for representing a collection of priority queues. 
+ The primitive operations are insertion, deletion,
+union, update, and search for an item of earliest 
+priority.

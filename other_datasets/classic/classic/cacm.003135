@@ -1,0 +1,14 @@
+Detection of Three-Dimensional Patterns of Atoms in Chemical Structures
+An algorithm for detecting occurrences of a three-dimensional pattern of
+objects within a larger structure is presented.  The search technique
+presented uses the geometric structure of the pattern to define
+characteristics demanded of candidates for matching. This is useful
+in cases where the properties of each atom, considered individually,
+do not adequately limit the number of sets of possible matchings.
+Several applications of this technique in the field of chemistry
+are: (1) in pharmacology: searching for a common constellation
+of atoms in molecules possessing similar biological activities;
+(2) in X-ray crystallography: fitting a structure or a structural fragment
+to a set of peaks in the electron-density distribution of
+a Fourier map; (3) in chemical documentation; retrieving from
+a file the structures containing specified substructures.

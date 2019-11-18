@@ -1,0 +1,10 @@
+Breaking Substitution Ciphers Using a Relaxation Algorithm
+Substitution ciphers are codes in which each letter
+of the alphabet has one fixed substitute, and the word divisions 
+do not change.  In this paper the problem of breaking substitution
+ciphers is represented as a probabilistic labeling problem.
+Every code letter is assigned probabilities of representing plain text
+letters.  These probabilities are updated in parallel for all
+code letters, using joint letter probabilities.  Iterating the updating
+scheme results in improved estimates that finally lead to
+breaking the cipher.  The method is applies successfully to two examples.

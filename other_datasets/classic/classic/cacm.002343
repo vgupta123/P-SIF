@@ -1,0 +1,18 @@
+A Proposal To Establish a Pseudo Virtual Memory via Writable Overlays
+Many computer systems solve executable storage
+size problems for large programs by using overlays. 
+ However, it appears that no one overlay scheme contains
+a well-balanced combination of the most useful 
+capabilities which are found in various existing techniques.
+ A proposal is presented which utilizes 
+several of the best capabilities from existing schemes
+and is complemented by several additional features, 
+e.g. writable overlays.  The writable overlay capability
+provides a virtual memory effect, although the 
+programmer may still be required to design the overlay
+configuration.  Since overlay structuring is a 
+complex task, several tools (including a graphic display)
+are included in the proposal in order to aid 
+the programmer in the design.  The content of overlays
+is briefly discussed, and it is noted that many 
+of the details of the final overlay configuration may be decided after the fact.

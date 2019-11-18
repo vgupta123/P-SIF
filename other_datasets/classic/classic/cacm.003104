@@ -1,0 +1,11 @@
+Test Data as an Aid in Proving Program Correctness
+Proofs of program correctness tend to be long
+and tedious, whereas testing, though useful in 
+detecting errors, usually does not guarantee correctness.
+ This paper introduces a techniques whereby 
+test data can be used in proving program correctness.
+ In addition to simplifying the process of proving 
+correctness, this method simplifies the process of providing
+accurate specification for a program.  The 
+applicability of this technique to procedures
+and recursive programs is demonstrated.

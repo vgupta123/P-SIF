@@ -1,0 +1,16 @@
+Some Effects of the 6600 Computer on Language Structures*
+The problem of compiling efficient 6600 codes
+prompted the development of an intermediate language 
+reflecting the structure of the machine, that is more
+easily manipulated in improving object program 
+efficiency.  The subject of this paper is the intermediate
+language and methods of manipulating it.  
+Compilations of a series of arithmetic statements are
+discussed.  It is assumed that all functions and 
+exponentials have been removed from these statements,
+and replaced by simple variables.  For purposes 
+of simplicity the treatment of subscripts is ignored. 
+A simplified 6600 structure is presented to illustrate
+the compiling method.  Several assumptions are made
+for purposes of simplification, although there are 
+cases in which the assumptions are violated in the actual machine.

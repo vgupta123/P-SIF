@@ -1,0 +1,10 @@
+Logic and Semantic Networks
+An extended form of semantic network is defined, which can
+be regarded as a syntactic variant of the clausal form of logic.
+By virtue of its relationship with logic, the extended
+semantic network is provided with a precise semantics,
+inference rules, and a procedural interpretation.  On
+the other hand, by regarding semantic networks as an 
+abstract data structure for the representation of clauses, we provide a
+theorem-prover with a potentially useful indexing scheme and path-following
+strategy for guiding the search for a proof.

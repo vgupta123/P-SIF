@@ -1,0 +1,8 @@
+Weighted Increment Linear Search for Scatter Tables
+A new linear search for hash tables whose increment
+step is a function of the key being addressed 
+is presented.  Comparisons with known methods are given,
+in terms of efficiency and computation complexity. 
+ In particular, the new method applies to tables of
+size n = 2^r.  It allows full table searching, and 
+practically eliminates primary clustering at a very low cost.

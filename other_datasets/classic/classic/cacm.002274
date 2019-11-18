@@ -1,0 +1,19 @@
+Generating English Discourse from Semantic Networks
+A system is described for generating English
+sentences from a form of semantic nets in which 
+the nodes are word-sense meanings and the paths are
+primarily deep case relations.  The grammar used 
+by the system is in the form of a network that imposes
+an ordering on a set of syntactic transformations 
+that are expressed as LISP functions.  The generation
+algorithm uses the information in the semantic 
+network to select appropriate generation paths through
+the grammar.  The system is designed for use as 
+a computational tool that allows a linguist to develop
+and study methods for generating surface strings 
+from an underlying semantic structure.  Initial finding
+with regard to form determiners such as voice, 
+form, tense, and mood, some rules for embedding sentences,
+and some attention to pronominal substitution 
+are reported.  The system is programmed in LISP
+1.5 and is available from the authors.

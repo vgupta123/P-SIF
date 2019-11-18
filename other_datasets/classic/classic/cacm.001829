@@ -1,0 +1,22 @@
+An Interactive Graphical Display Monitor in
+a Batch-Processing Environment with Remote Entry
+A graphic monitor program is described.  It
+was developed at Carnegie-Mellon University for 
+the CDC G21 computer, which is a general purpose, batch-processing
+system with remote entry.  The existing 
+G21 system and the graphics hardware are described. 
+The graphic monitor is a resident auxiliary monitor 
+which provides comprehensive managerial capability
+over the graphical system in response to commands 
+from the human user.  It also will respond to commands
+from a user program through a similar interface, 
+where routine calls take the place of manual actions.  Thus
+the human and program can interact on a symmetrical 
+and equal basis through the medium of the graphic monitor.
+ The choice made in designing the graphic 
+monitor, given the constraints of the existing hardware
+and computer system, are discussed.  The structure 
+of the monitor program and the human and program interfaces
+are described.  There is also a transient 
+swapping version with a small resident part,
+and provision for swapped used submonitors.

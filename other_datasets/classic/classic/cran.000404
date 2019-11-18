@@ -1,0 +1,18 @@
+two dimensional transonic flow past airfoils .
+two dimensional transonic flow past airfoils .
+  this report concerns the problem of constructing solutions for
+transonic flows over symmetric airfoils .  the aspect of the problem
+emphasized is, of necessity, not how to form a solution for compressible
+flow but how to simplify the initial phase of the problem, namely, the
+mapping of the incompressible flow .  in the case of the symmetric
+joukowski airfoil without circulation, the mapping is relatively simple,
+but the coefficients in the power series are difficult to evaluate .  as
+a result, the problem requires simplification .  instead of the exact
+incompressible flow past the airfoil, an approximate flow is used, which
+is derived from a combination of source and sink .  this flow differs
+only slightly from the exact one when the thickness is small .  by the
+same method, the flow with circulation is also considered .
+  after the incompressible-flow functions are approximated in this
+fashion, the numerical calculation of the corresponding compressible
+flow, by the hodograph theory, does not present any
+essential difficulty .

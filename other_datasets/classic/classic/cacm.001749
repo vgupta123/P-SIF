@@ -1,0 +1,9 @@
+The Structure of the "THE"-Multiprogramming System
+A multiprogramming system is described in
+which all activities are divided over a number of 
+sequential processes.  These sequential processes are placed
+at various hierarchical levels, in each 
+of which one or more independent abstractions have been
+implemented.  The hierarchical structure proved 
+to be vital for the verification of the logical soundness
+of the design and the correctness of its implementation.

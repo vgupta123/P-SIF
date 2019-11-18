@@ -1,0 +1,17 @@
+Generating Pseudorandom Numbers on a Two's
+Complement Machine such as the IBM 360
+The familiar multiplicative congruential generator
+is examined in the context of the type of 
+two's complement arithmetic used in the IBM 360 series.
+ Different sequences of residues are considered 
+and relationships established among them.  It is shown
+that a sequence of positive and negative residues 
+may be produced more simply and economically than with
+the conventional approach and yet have twice the 
+period of the latter without loss of desirable statistical
+properties.  Another easily generated sequence 
+involving absolute values is also shown to have twice
+the period but with less attractive statistical 
+properties.  The statistical properties of these sequences
+are given and related to previously established 
+criteria.

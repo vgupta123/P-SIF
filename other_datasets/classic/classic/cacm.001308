@@ -1,0 +1,20 @@
+A Mathematical Model for Mechanical part Description
+The flexibility of a mathematical model takes
+advantage of the common information requirements 
+of computer-aided engineering drawing, numerical control
+tape generation, and physical characteristic 
+computation.  By judicious control of man-machine communication
+requirements, improved results over conventional 
+engineering design processes are possible.  An English-like
+input language, tailored for use by draftsmen 
+and designers, will describe the part and specify the
+output desired.  One approach to the mathematical 
+model consists of a group of surface-defining quadric
+equations, which are created by a system of modular 
+subprogram.  Other subprograms will convert the mathematical
+model into instructions for driving automatic 
+drafting machines and numerical controlled machine tools.
+ Physical part characteristics, such as center 
+of gravity, can be computed by subprograms and used in
+dynamic analysis work.  The proposed overall system 
+is presented and experiments and demonstrations are discussed.

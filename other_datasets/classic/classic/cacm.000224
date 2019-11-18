@@ -1,0 +1,12 @@
+Sequential Formula Translation
+The syntax of an algorithmic language such
+as ALGOL is conveniently described as a sequence 
+of states indicated by an element called cellar.  Transitions
+are controlled by admissible state-symbol 
+pairs which may be represented by a transition matrix.
+This description of syntax furnishes at the same 
+time an extremely simple rule for translating into machine
+programs statements in the algorithmic language. 
+ Sequential treatment, however, is not feasible in the case
+of certain optimizing processes such as recursive 
+address calculation.

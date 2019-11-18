@@ -1,0 +1,26 @@
+One Way of Estimating Frequencies of Jumps in a Program
+For the segmentation of a program it is useful
+to have a reasonable estimation of the values 
+of S(ij), where S(ij) is the mean value of the number
+of jumps from the i-th instruction on to the j-th 
+instruction in the run time.  In the cases where the
+S(ij) are estimated directly, the structure of the 
+whole program must be generally taken into account;
+therefore it is very difficult for the programmer 
+and/or the translator to obtain a good estimation of
+the S(ij).  It is easier to estimate not S(ij) but 
+the quantities P(ij)=S(ij)*C(i)/SUM[S(ij), j=1,N], where
+C(i) is an arbitrary positive constant for each 
+i.  Although the P(ij) are, for each i, proportional to
+S(ij), the estimation of P(ij) is easier, because 
+we must estimate only the "probabilities" of events
+where instruction i is executed after instruction 
+I(i).  This estimation can often be done without considering
+the structure of the whole program.  In 
+the first part of the paper, using the theory of the
+Markov chains, an algorithm for the computation 
+of the S(ij) from the P(ij) is found, and some ways
+of obtaining estimates of the P(ij) are given.  In 
+the second part a variant of this algorithm is derived,
+avoiding the necessity of computation involving 
+large matrices.

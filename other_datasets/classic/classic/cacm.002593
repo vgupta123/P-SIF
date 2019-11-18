@@ -1,0 +1,12 @@
+A Back-end Computer for Data Base Management
+It is proposed that the data base management
+function be placed on a dedicated back-end computer 
+which accepts commands (in a relatively high level language
+such as the CODASYL Data Base Task Group, 
+April 1971 Report) from a host computer, accesses the
+data base on secondary storage, and returns results. 
+ The advantages of such a configuration are discussed.  An
+experimental implementation, called the experimental 
+Data Management System, XDMS, is described and certain
+conclusions about the back-end approach are drawn 
+from this implementation.

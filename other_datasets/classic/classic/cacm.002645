@@ -1,0 +1,23 @@
+Two Languages for Estimating Program Efficiency
+Two languages enabling their users to estimate
+the efficiency of computer programs are presented. 
+ The program whose efficiency one wishes to estimate is written
+in the first language, a go-to-less programming 
+language which includes most of the features of Algol
+60.  The second language consists of interactive 
+commands enabling its users to provide additional information
+about the program written in the first 
+language and to output results estimating its efficiency.
+ Processors for the two languages are also 
+described.  The first processor is a syntax-directed
+translator which compiles a program into a symbolic 
+formula representing the execution time for that program.
+ The sound processor is a set of procedures 
+for that program.  The second processor is a set of
+procedures for algebraic manipulation which can be 
+called by the user to operate on the formula produced
+by the first processor.  Examples of the usage 
+of the two languages are included.  The limitations of
+the present system, its relation to Knuth's work 
+on the analysis of algorithms, and some of the directions
+for further research are also discussed.

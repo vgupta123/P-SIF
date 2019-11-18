@@ -1,0 +1,18 @@
+Experimental Personalized Array Translator System
+A system designed for intimate man-machine
+interaction in a general-purpose problem-solving 
+environment is experimentally operational.  The system
+utilizers an array-oriented symbolic source language 
+containing powerful statement types.  These include numeric,
+Boolean, relational and selection operators 
+on operands which can be entire arrays.  The system also
+permits simple specification of test and argument 
+arrays in single statements.  The completely symbolic
+operating system includes display and entry of 
+program and data.  Sequence control is aided by an interrupt
+switch which allows the user to interact 
+with the program during execution. In addition to normal
+stored program sequencing, the system provides 
+trace options and the ability to enter any statement
+for immediate execution.  Present implementation 
+of the system is with an interpretive translator on an IBM 1620 computer.

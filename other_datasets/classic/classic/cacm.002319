@@ -1,0 +1,16 @@
+Operating System Performance
+An overview of the current and future positions
+with respect to operating system performance 
+is given.  While a great deal of information and a large
+number of models for subsystems have been developed, 
+gaps still exist in out knowledge.  Because of the
+severe interactions between the various subsystems 
+of an operating system, an overall model of the total
+system must be developed to be able to analyze 
+and design the performance aspects of an operating system
+although such total system designs are exceptional 
+today, it is projected that they will become increasingly
+more common and necessary in the near future. 
+ Such a design philosophy will clearly have a severe impact
+on the way we go about modularizing operating 
+and computer systems.

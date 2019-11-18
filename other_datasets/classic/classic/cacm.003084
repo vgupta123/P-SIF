@@ -1,0 +1,11 @@
+Interpolation Search -A Log LogN Search
+Interpolation search is a method of retrieving
+a desired record by key in an ordered file by 
+using the value of the key and the statistical distribution
+of the keys.  It is shown that on the average 
+log logN file accesses are required to retrieve a key,
+assuming that the N keys are uniformly distributed. 
+ The number of extra accesses is also estimated and shown
+to be very low.  The same holds if the cumulative 
+distribution function of the keys is known.  Computational
+experiments confirm these results.  

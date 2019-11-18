@@ -1,0 +1,15 @@
+Computer Photocomposition of Technical Text
+In computer assisted typesetting by means of
+photocomposition, special problems arise in highly 
+technical material such as mathematical formulas.  New
+solutions to several of these problems have been 
+devised in the information system of the American Institute
+of Physics.  They include: the representation 
+of special characters (foreign alphabets, mathematical
+symbols, etc.) not available on input keyboards 
+or on the photocomposer; the generation of such symbols,
+e.g. by overprinting; the precise positioning 
+of accent marks (floating diacritics); line breaks,
+i.e. words or formulas placed partly at the end of 
+one line and partly at the beginning of the next;
+and certain aspects of error correction.

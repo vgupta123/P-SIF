@@ -1,0 +1,12 @@
+A Comment on Index Register Allocation
+A technique is presented to reduce the enumeration
+required by a known procedure for optimal 
+index register allocation in straight-line programs.
+ This technique is based on the construction of 
+a link diagram, which shows at any step the future occurrences
+of indexes which must be loaded into index 
+registers.  This diagram determines in advance the required
+register configuration at certain steps of 
+the program, so that the program is subdivided into separate
+portions to which the allocation procedure 
+may be applied independently.

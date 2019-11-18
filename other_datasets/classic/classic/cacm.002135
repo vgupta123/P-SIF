@@ -1,0 +1,9 @@
+Rapid Computation of General Interpolation
+Formulas and Mechanical Quadrature Rules
+Let f have n continuous on a closed interval
+[a,b] and let L be a linear functional.  The attempt 
+is made to approximate L (f) with L (Q) where Q is a polynomial,
+approximating f.  Algorithms are developed 
+for rapid computation of L (Q) for a wide class of
+selections of Q which includes the Lagrangian and 
+Hermitian rules as special cases.

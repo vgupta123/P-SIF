@@ -1,0 +1,32 @@
+heat conduction through a polyatomic gas .
+heat conduction through a polyatomic gas .
+  a heat conduction problem is set up
+which, in essence, simulates the conditions
+arising when a plane shock wave reflects
+from a co-planar solid boundary .  the gas
+is assumed to be polyatomic, with one
+  the quantity of primary interest is
+the temperature of the solid at the interface,
+since this can be observed experimentally
+without much difficulty .  solutions are
+obtained for this quantity which cover a
+range of practically plausible relaxation times
+and 'wall effect' parameters .  it is essential
+to include proper temperature jump
+boundary conditions for both active and
+relaxing (or inert) energy modes .  thus it is
+necessary to know accommodation coefficients
+for these modes of energy storage .
+the temperature jump effects are found to
+dominate the (interface) solid's temperature
+time history, with relaxation effects playing
+a very secondary role .
+  the theoretical results are compared
+with some experimental observations and
+encouraging agreement is found .  as a
+result of this agreement it proves possible to
+estimate the accommodation coefficient
+for the active modes (in this case for the
+combination platinum air), the pressure
+being about 15 atmospheres .  the pressure
+sensitivity of accommodation effects is commented on .

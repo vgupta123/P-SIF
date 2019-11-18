@@ -1,0 +1,8 @@
+Petri Nets and Speed Independent design
+Petri nets are investigated as one method of
+modeling speed independent asynchronous circuits. 
+ A study of circuit realizations of Petri nets leads
+to a demonstration of their usefulness in modeling 
+speed independent operation.  This usefulness is emphasized
+by the design of a speed independent processor 
+from modules developed in the investigation of Petri net implementation.

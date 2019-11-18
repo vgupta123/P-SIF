@@ -1,0 +1,35 @@
+the fundamental solution for small steady three dimensional
+disturbances to a two dimensional parallel shear flow .
+the fundamental solution for small steady three dimensional
+disturbances to a two dimensional parallel shear flow .
+  after a brief review of methods of calculating the flow
+fields produced by disturbances in rotational basic flows,
+the author points out a fundamental difficulty in the
+treated as a perturbation of the disturbance field that
+would occur if the basic flow were uniform) ..  slow
+attenuation of the secondary-flow disturbance with distance
+from the obstacle .  the author conjectured (same j. 1
+the trouble was caused by nonuniform validity of the
+approximation sequence in the region far from the
+obstacle .  the analogy with /stokes' and whitehead's
+paradoxes/ is mentioned, and a solution analogous to
+oseen's is suggested, one in which disturbances, but not
+the shear, are assumed to be small .  in this paper, such a
+solution is found, and is shown to overlap with the
+small-shear, secondary-flow solution .  the basic flow is a parallel,
+steady, inviscid, two-dimensional shear flow .  the /
+fundamental solution/ due to a weak source is sought .
+  the method of fourier transforms is used .  simple
+solutions are found for a uniformly sheared basic flow (where
+the result coincides with the secondary-flow solution) and
+for an exponential basic-flow profile .  in the general case
+it is assumed that the parallel basic flow becomes uniform
+at, where the x-axis lies in the flow direction .
+the character of the solution is determined by studying
+its hankel transform, especially for the class of flows
+where the total variation of the basic stream speed v(y)
+is small .  an interpretation in terms of images, due to
+m. b. glauert, is given, and finally the relationship of the
+present work to theories of the displacement of the
+stagnation streamline (displacement effect of pitot
+tubes) is discussed .

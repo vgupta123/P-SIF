@@ -1,0 +1,6 @@
+Discrete Least Squares Polynomial Fits
+The recurrence relation between orthogonal polynomials
+is widely used for discrete least squares 
+data fitting.  A variant of the classical algorithm
+which has better numerical properties is presented 
+and the reason for its improved performance is explained.

@@ -1,0 +1,8 @@
+A Note on Reliable Full-Duplex Transmission over Half-Duplex Links
+A simple procedure for achieving reliable full-duplex
+transmission over half-duplex links is 
+proposed. The scheme is compared with another of the
+same type, which has recently been described in 
+the literature.  Finally, some comments are made on
+another group of related transmission procedures 
+which have been shown to be unreliable under some circumstances.

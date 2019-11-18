@@ -1,0 +1,14 @@
+Beyond Programming Languages
+As computer technology matures, our growing ability to create large systems is 
+leading to basic changes in the nature of programming.  Current programming 
+language concepts will not be adequate for building and maintaining
+systems of the complexity called for by the tasks we attempt.  Just
+as high level languages enabled the programmer to escape from the
+intricacies of a machine's order code, higher level programming systems
+can provide the means to understand and manipulate complex
+systems and components.  In order to develop such systems, we need
+to shift our attention away from the detailed specification of
+algorithms, towards the description of the properties of the packages
+and objects with which we build.  This paper analyzes some of the
+shortcomings of programming languages as they now exist,
+and lays out some possible directions for future research.

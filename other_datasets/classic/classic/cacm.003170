@@ -1,0 +1,5 @@
+On the Proof of Correctness of a Calendar Program
+A formal specification is given for a simple calendar
+program, and the derivation and proof of correctness of the program are 
+sketched.  The specification is easy to understand, and its correctness is 
+manifest to humans.

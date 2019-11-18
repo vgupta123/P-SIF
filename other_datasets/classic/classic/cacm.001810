@@ -1,0 +1,18 @@
+Is Automatic "Folding" of Programs Efficient Enough To Displace Manual?
+The operation of "folding" a program into
+the available memory is discussed.  Measurements 
+by Brown et al. and by Nelson on an automatic folding
+mechanism of simple design, a demand paging unit 
+built at the IBM Research Center by Belady, Nelson,
+O'Neil, and others, permitting its quality to be 
+compared with that of manual folding, are discussed,
+and it is shown that given some care in use the 
+unit performs satisfactorily under the conditions tested,
+even though it is operating across a memory-to-storage 
+interface with a very large speed difference.  The disadvantages
+of prefolding, which is required when 
+the folding is manual, are examined, and a number of
+the important troubles which beset computing today 
+are shown to arise from, or be aggravated by, this
+source.  It is concluded that a folding mechanism 
+will probably become a normal part of most computing systems.

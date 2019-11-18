@@ -1,0 +1,5 @@
+Treesort 3 (Algorithm 245 $M1))
+The certification of an algorithm can take
+the form of a proof that the algorithm is correct.  As an illustrative
+but practical example, Algorithm 245, TREESORT 3 for sorting
+an array, is proved correct.

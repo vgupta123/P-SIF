@@ -1,0 +1,27 @@
+A Model for a Multifunctional Teaching System
+A teaching system model that was incorporated
+into an operating system of a large computer 
+is described.  The model transferred control to the
+operating system to execute functions other than 
+teaching, and then recovered control in order to resume
+teaching.  The teaching system (ABAC-II) was 
+written to run under the operating system (IBSYS) for
+the IBM 7044 Graphic System.  Because the teaching 
+system automatically terminated and rescheduled itself,
+a student studying a course presented at a cathode-ray 
+display terminal could switch readily between student
+mode and programmer mode.  During the latter, the 
+full resources of the operating system (language processors,
+compilers, library and user's programs) 
+were at his disposal.  He could for example, write, assemble,
+debug, and execute at the terminal a program 
+written in any language processed by the operating system.
+ A course could therefore include text material 
+interleaved with programming problems which the student
+could solve without leaving the terminal.  Exercises 
+in simulation and gaming could also be provided.  The
+implications of a teaching system with this degree 
+of flexibility for industrial and executive training
+as well as academic education are discussed.  In 
+addition, the advantages of this type of system for computer
+programming and operation are also considered.

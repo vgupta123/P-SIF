@@ -1,0 +1,21 @@
+Optimal His togram Matching by Monotone Gray Level Transformation
+This paper investigates the problem of optimal
+his togram matching using monotone gray level 
+transformation, which always assigns all picture points
+of a given gray level i to another gray level 
+T(i) such that if i > j, then T(i) > T(j).  The objective
+is to find a transformed digital picture of 
+a given picture such that the sum of absolute errors
+between the gray level his togram of the transformed 
+picture and that of a reference picture is minimized.
+ This is equivalent to placing k1 linearly ordered 
+objects of different sized one by one into k2 linearly ordered
+boxes of assorted sizes, such that the 
+accumulated error of space under packed or overpacked
+in the boxes is minimized; the placement function 
+is monotonic, which ensures a polynomial time solution
+to this problem.  A tree search algorithm for 
+optimal his togram matching is presented which has time
+complexity O(k1 x k2).  If the monotone property 
+is dropped, then the problem becomes NP-complete,
+even if it is restricted to k2 = 2. 

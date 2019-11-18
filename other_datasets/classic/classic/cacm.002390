@@ -1,0 +1,18 @@
+A Proposal for a Computer-Based Interactive Scientific Community
+Because of the problems created by the explosion
+of papers in the mathematical sciences and 
+the drawbacks that this places on research, it is suggested
+that a tree of all mathematical results and 
+terminology be maintained in a multiterminal computer system.
+ Users of the system can store in the computer 
+an updated file of their current knowledge, and on selecting
+a paper to read, they can obtain from the 
+computer the minimum subtree of theorems required to bring
+them from what they already know to the background 
+knowledge which the paper assumes.  Under certain conditions,
+means are also provided for the contribution 
+of useful comments by the readers of a work and for interaction
+between commentators and with the author. 
+ This paper describes how the system can be organized
+and the role required of readers, writers, and 
+commentators. 

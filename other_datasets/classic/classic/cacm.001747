@@ -1,0 +1,16 @@
+Three Criteria for Designing Computing Systems to Facilitate Debugging
+The designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  Three possible criteria of this
+kind are input recordability, input specifiability, 
+and asynchronous reproducibility of output.  These criteria
+imply that a user can, if he desires, either 
+know or control all the influences affecting the content
+and extent of his computer's output.  To define 
+the scope of the criteria, the notion of an abstract
+machine of a programming language and the notion 
+of a virtual computer are explained.  Examples of applications
+of the criteria concern the reading of 
+a time-of-day clock,  the synchronization of parallel
+processes, protection in multiprogrammed systems, 
+and the assignment of capability indexes.

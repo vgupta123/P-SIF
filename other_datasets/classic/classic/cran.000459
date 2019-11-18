@@ -1,0 +1,37 @@
+on the solution of the laminar boundary layer equations .
+on the solution of the laminar boundary layer equations .
+  the theory of the laminar boundary layer
+offers a means of determining the skin friction
+under the assumption of a given velocity
+distribution outside the boundary layer .  owing to the
+mathematical difficulties, however, exact solutions
+are possible only when the velocity distribution
+is expressed as a simple function of the distance
+along the surface .  more complicated velocity
+distributions necessitate recourse to the method of
+expansion in series or that of step-by-step
+calculations, but the labor involved is too great for the
+methods to be of practical use .  approximate
+method due to pohlhausen (1921), which had long
+been recommended for general use, gives a
+reasonably accurate solution in a region of accelerated
+flow, but recently its adequacy in a region of
+retarded flow has been questioned .  separation of
+flow may actually occur where the solution of
+pohlhausen fails to give it .  more recently howarth
+solution, which gives fairly reasonable results in
+a region of retarded flow .
+  howarth's solution essentially consists in
+solving the boundary layer equations for the particular
+case in which the velocity u outside the boundary
+layer decreases linearly with the distance x
+measured along the surface, and utilizing the solution
+by replacing the actual distribution of u by a
+circumscribing polygon of infinitesimal sides .
+therefore, it is assumed that the velocity
+distribution at any section depends on the velocity
+gradient du/dx at that section only, being affected
+by the conditions upstream only in so far as this
+affects the momentum thickness 0 .  in other words,
+the velocity distribution across the boundary layer
+is determined by a parameter .

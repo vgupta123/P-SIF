@@ -1,0 +1,6 @@
+The Parallel Execution of DO Loops
+Methods are developed for the parallel execution
+of different iterations of a DO loop.  Both 
+asynchronous multiprocessor computers and array computers
+are considered.  Practical application to the 
+design of compilers for such computers is discussed.

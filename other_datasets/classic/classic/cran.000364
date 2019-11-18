@@ -1,0 +1,42 @@
+a method for analysing the insulating properties of
+the laminar compressible boundary layer .
+a method for analysing the insulating properties of
+the laminar compressible boundary layer .
+  in some cooling problems associated with high energy flows
+it may be convenient to localize strongly the cooling, as for
+example by injecting a coolant through an upstream porous strip,
+and to depend on the insulating properties of the boundary layer
+to reduce, or to eliminate completely the need for further cooling
+on the surface downstream of the highly cooled section .  this
+upstream cooling technique may be of interest in connection with
+optical windows in hypersonic wind tunnels, and on radomes,
+wings, and bodies of high-speed aircraft and missiles .
+  in this paper a method for investigating the insulating
+properties of a laminar compressible boundary layer on a two-
+dimensional surface with zero heat transfer is presented .  the physical
+situation considered thus corresponds to the case in which the
+heat transfer downstream of the strongly cooled section is
+completely eliminated .  of practical concern is how the
+temperature of the uncooled surface varies in the downstream direction
+from its low initial value and thus how the low energy layer
+established by the upstream cooling insulates the downstream
+surface .
+  the karman integral method extended to both the momentum
+and energy partial differential equations of the boundary layer
+has been used .  the station, at which cooling and or injection
+ceases, corresponds to a discontinuity in boundary conditions
+and thus in solutions .  at this point the flux of mass, momentum,
+and energy within the boundary layer has been made continuous
+by the introduction of three additional parameters in the velocity
+and stagnation enthalpy profiles .  thus the velocity and
+stagnation enthalpy profiles have both been taken as sixth degree
+polynomials .  the resulting two integral-differential equations
+are then solved for two unknown functions of the distance along
+the wall .  these two functions are related to the boundary-layer
+thickness and to the wall temperature .  initial conditions
+corresponding to a given initial wall temperature and an initial
+boundary-layer thickness are prescribed .  exact closed-form solutions
+for the case of zero axial pressure gradient are obtained .  for
+flows with significant pressure gradients, numerical solutions
+are required in general .  several numerical examples of practical
+interest are presented .

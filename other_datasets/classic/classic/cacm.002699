@@ -1,0 +1,16 @@
+Automatic Data Structure Choice in a Language of Very High Level
+SETL is a set-theoretically oriented language
+of very high level whose repertoire of semantic 
+objects includes finite sets, ordered n-tuples, and
+sets of ordered n-tuples usable as mappings.  This 
+paper describes the structure of an optimizer for this
+language.  Among other methods of interest, the 
+optimizer uses techniques which allow relations of inclusion
+and membership to be established, the domains 
+and ranges of (tabulated) mappings to be estimated from
+above and below, and the single-valuedness of 
+(tabulated) mappings to be proved.  Once facts of this
+kind have been established, automatic choice of 
+data structures becomes possible. The methods employed
+are based upon, and extend, known techniques of 
+data flow analysis.

@@ -1,0 +1,31 @@
+Experiments in Automatic Learning for a Multipurpose Heuristic Program
+An automatic learning capability has been developed
+and implemented for use with the MULTIPLE 
+(MULTIpurpose Program that LEarns) heuristic tree-searching
+program, which is presently being applied 
+to resolution theorem-proving in predicate calculus.
+MULTIPLE's proving program (PP) uses two evaluation 
+functions to guide its search for a proof of whether
+or not a particular goal is achievable.  Thirteen 
+general features of predicate calculus clauses were created
+for use in the automatic learning of better 
+evaluation functions for PP.  A multiple regression
+program was used to produce optimal coefficients 
+for linear polynomial functions in terms of the features.
+ Also, automatic data-handling routines were 
+written for passing data between the learning program
+and the proving program, and for analyzing and 
+summarizing results.  Data was generally collected for
+learning (regression analysis) from the experience 
+of PP.  A number of experiments were performed to test
+the effectiveness and generality of the learning 
+program. Results showed that the learning produced dramatic
+improvements in the solutions to problems 
+which were in the same domain as those used for collection
+learning data.  Learning was also shown to 
+generalize successfully to domains other than those used
+for data collection.  Another experiment demonstrated 
+that the learning program could simultaneously improve
+performance on problems in a specific domain and 
+on problems in a variety of domains.  Some variations
+of the learning program were also tested.

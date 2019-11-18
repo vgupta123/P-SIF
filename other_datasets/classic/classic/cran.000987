@@ -1,0 +1,26 @@
+a general theory of three dimensional flow in subsonic and supersonic
+turbo-machines of axial-radial-and mixed-flow types .
+a general theory of three dimensional flow in subsonic and supersonic
+turbo-machines of axial-radial-and mixed-flow types .
+a general theory of steady three-dimensional flow of a nonviscous fluid
+in subsonic and supersonic turbomachines having arbitrary hub and casing
+ shapes and a finite number of blades is presented . the solution of the
+ three-dimensional direct and inverse problem is obtained by
+investigating an appropriate combination of flows on relative stream surfaces
+whose intersections with a z-plane either upstream of or somewhere
+inside the blade row form a circular arc or a radial line . the equations
+obtained to describe the fluid flow on these stream surfaces show
+clearly the several approximations involved in ordinary two-dimensional
+treatments . they also lead to a solution of the three-dimensional
+problem in a mathematically two-dimensional manner through iteration .
+the equation of continuity is combined with the equation of motion in
+either the tangential or the radial direction through the use of a
+stream function defined on the surface, and the resulting equation is
+chosen as the principal equation for such flows . the character of this
+equation depends on the relative magnitude of the local velocity of
+sound and a certain combination of velocity components of the fluid . a
+general method to solve this equation by both hand and high-speed
+digital machine computations when the equation is elliptic or hyperbolic
+ is described . the theory is applicable to both irrotational and
+rotational absolute flow at the inlet of the blade row and at both design
+and off-design operations .

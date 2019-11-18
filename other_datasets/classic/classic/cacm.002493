@@ -1,0 +1,8 @@
+Optimum Data Base Reorganization Points
+In certain data base organization schemes the
+cost per access may increase due to structural 
+inefficiencies caused by updates.  By reorganizing
+the data base the cost per access may be reduced. 
+ However, the high cost of a reorganization prohibits
+frequent reorganizations.  This paper examines 
+strategies for selecting the optimum reorganization points.

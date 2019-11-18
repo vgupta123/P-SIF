@@ -1,0 +1,13 @@
+Toward a Discipline of Real-Time Programming
+Programming is divided into three major categories
+with increasing complexity of reasoning 
+in program validation: sequential programming, multiprogramming,
+and real-time programming.  By adhering 
+to a strict programming discipline and by using a suitable
+high-level language molded after this discipline, 
+the complexity of reasoning about concurrency and execution
+time constrain ts may be drastically reduced. 
+ This may be the only practical way to make real-time
+systems analytically verifiable and ultimately 
+reliable.  A possible discipline is outlined and
+expressed in terms of the language Modula.

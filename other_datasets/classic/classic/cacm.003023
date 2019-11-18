@@ -1,0 +1,13 @@
+Architecture of the IBM System/370
+This paper discusses the design considerations
+for the architectural extensions that distinguish 
+System/370 from System/360.  It comments on some experiences
+with the original objectives for System/360 
+and on the efforts to achieve them, and it describes the
+reasons and objectives for extending the architecture. 
+It covers virtual storage, program control, data-manipulation
+instructions, timing facilities, multiprocessing, 
+debugging and monitoring, error handling, and input/output
+operations.  A final section tabulates some 
+of the important parameters of the various IBM
+machines which implement the architecture.

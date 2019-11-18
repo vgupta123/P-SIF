@@ -1,0 +1,39 @@
+symmetric joukowsky airfoils in shear flow .
+symmetric joukowsky airfoils in shear flow .
+  the velocity components of the fluid far from the airfoil
+are given by where c is the chord of
+the airfoil, and k are constants, u and v are velocity
+components in the directions of the coordinates x and y .
+the solution is sought in the form of the stream function
+and satisfies laplace's equation .  a general expression for
+for vanishing disturbance velocities at points far from
+the origin is written, and the flows due to a source, a vortex
+and a solid circular cylinder in shear flow are considered
+as examples .  typical streamline patterns are shown for
+these cases .  from the eulerian equations of motion the
+author obtains the expression for in terms of the
+parameter and derivatives of .  the general form
+of is introduced and the appropriate solution for the
+pressure p is obtained .  by integration around a contour
+enclosing the body, expressions are obtained, analogous to
+the blasius formulae, for the force and couple on any
+cylinder in this type of flow .  these formulae are applied to
+the case of a symmetrical joukowsky airfoil .  the method of
+conformal transformation is employed in the determination
+of .  the boundary condition of tangential flow at the
+airfoil surface must be satisfied by the total flow in the airfoil
+plane, but this condition leads to a boundary condition for
+in the transformed plane .  the kutta-joukowsky
+condition of finite velocity at the trailing edge also leads to a
+condition on in this plane .  from these conditions and the
+general expression for the circulation and the strengths
+of the doublets and quadruplets required for the force and
+moment are determined .  hence, the formulae for lift and
+moment coefficient are obtained .  these involve, in addition
+to the usual (potential-flow) terms, terms proportional to .
+  the ten functions that appear in the expressions for the
+lift and moment coefficients are tabulated for values of the
+thickness ratio between 0 and 1 .  the aerodynamic-center
+position and the coefficient of the moment about the
+aerodynamic center are also calculated and are presented
+graphically as functions of .

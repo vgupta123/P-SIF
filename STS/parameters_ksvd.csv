@@ -1,0 +1,24 @@
+task,weight_parameter,principal component removed,non zero coefs,ksvd clusters
+SentEval/data/senteval_data/STS/STS12-en-test/STS.input.MSRpar.txt,0.1,2,1,9
+SentEval/data/senteval_data/STS/STS12-en-test/STS.input.MSRvid.txt,0.0001,1,9,11
+SentEval/data/senteval_data/STS/STS12-en-test/STS.input.SMTeuroparl.txt,0.0001,2,1,5
+SentEval/data/senteval_data/STS/STS12-en-test/STS.input.surprise.OnWN.txt,0.01,2,13,16
+SentEval/data/senteval_data/STS/STS12-en-test/STS.input.surprise.SMTnews.txt,0.1,0,11,12
+SentEval/data/senteval_data/STS/STS13-en-test/STS.input.headlines.txt,0.0001,2,19,24
+SentEval/data/senteval_data/STS/STS13-en-test/STS.input.OnWN.txt,0.0001,2,21,24
+SentEval/data/senteval_data/STS/STS13-en-test/STS.input.FNWN.txt,0.001,2,20,26
+SentEval/data/senteval_data/STS/STS14-en-test/STS.input.deft-forum.txt,0.001,2,20,28
+SentEval/data/senteval_data/STS/STS14-en-test/STS.input.deft-news.txt,0.0001,0,13,23
+SentEval/data/senteval_data/STS/STS14-en-test/STS.input.headlines.txt,0.001,2,13,16
+SentEval/data/senteval_data/STS/STS14-en-test/STS.input.images.txt,0.001,2,22,29
+SentEval/data/senteval_data/STS/STS14-en-test/STS.input.OnWN.txt,0.0001,2,27,28
+SentEval/data/senteval_data/STS/STS14-en-test/STS.input.tweet-news.txt,0.01,1,23,27
+SentEval/data/senteval_data/STS/STS15-en-test/STS.input.belief.txt,0.001,2,13,24
+SentEval/data/senteval_data/STS/STS15-en-test/STS.input.headlines.txt,0.001,2,19,24
+SentEval/data/senteval_data/STS/STS15-en-test/STS.input.answers-students.txt,0.01,1,9,21
+SentEval/data/senteval_data/STS/STS15-en-test/STS.input.answers-forums.txt,0.001,2,23,24
+SentEval/data/senteval_data/STS/STS15-en-test/STS.input.images.txt,0.0001,1,11,15
+SentEval/data/senteval_data/STS/STS16-en-test/STS.input.headlines.txt,0.001,1,5,28
+SentEval/data/senteval_data/STS/STS16-en-test/STS.input.plagiarism.txt,0.001,1,27,28
+SentEval/data/senteval_data/STS/STS16-en-test/STS.input.postediting.txt,0.01,2,11,23
+SentEval/data/senteval_data/STS/STS16-en-test/STS.input.answer-answer.txt,0.01,2,3,20

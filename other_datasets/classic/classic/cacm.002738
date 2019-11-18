@@ -1,0 +1,8 @@
+Use of the Concept of Transparency in the
+Design of Hierarchically Structured Systems
+This paper deals with the design of hierarchically
+structured programming systems.  It develops 
+a method for evaluating the cost of requiring programmers
+to work with an abstraction of a real machine. 
+ A number of examples from hardware and software
+are given as illustrations of the method.

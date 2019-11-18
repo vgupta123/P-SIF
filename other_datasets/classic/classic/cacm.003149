@@ -1,0 +1,7 @@
+The Cyclic Order Property of Vertices as an Aid in Scene Analysis
+A cyclic-order property is defined for bodies bounded by smooth-curved faces.
+The property is shown to be useful for analyzing pictures of such bodies,
+particularly when the line data extracted from the pictures are imperfect.
+This property augments previously known grammatical rules that
+determine the existence of three-dimensional bodies corresponding
+to given two-dimensional line-structure data.

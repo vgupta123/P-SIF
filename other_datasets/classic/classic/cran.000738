@@ -1,0 +1,23 @@
+finding zero's of arbitrary functions .
+finding zero's of arbitrary functions .
+  a method for finding real and complex
+roots of polynomial equations, due to
+d. muller, is applied to finding roots of
+general equations of the form f(z) = 0,
+where f(z) is analytic in the neighborhood
+of the roots .  the procedure does not
+depend on any prior knowledge of the
+location of the roots nor on any special
+starting process .  all that is required is
+the ability to evaluate f(z) for any
+desired value of z .  multiple roots can also be
+obtained .  a general purpose program,
+prepared for the univac scientific 1103
+and 1103a, is described and numerical
+results are presented for the following
+applications ..  finding eigenvalues of
+differential operators ,. finding eigenvalues of
+arbitrary matrices ,. finding zeros of the
+generalized eigenvalue problem ,. finding
+roots of a number of transcendental
+equations .

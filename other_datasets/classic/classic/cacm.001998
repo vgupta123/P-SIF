@@ -1,0 +1,7 @@
+Complex Matrix Inversion Versus Real
+A comparison of complex matrix with real matrix inversion
+is made.  It is shown that the complex inversion can be up to 
+twice as fast as the real inversion.  Further, the rounding error
+bound for complex inversion is about one-eighth that of real,
+for Gaussian elimination.  Using extended inner product
+accumulation the bound is half of the real system.

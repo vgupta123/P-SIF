@@ -1,0 +1,20 @@
+on laminar boundary-layer flow near a position of separation .
+on laminar boundary-layer flow near a position of separation .
+  singularities are considered in the solution of
+the laminar boundary-layer
+equations at a position of separation .  a singularity of
+the type here considered occurred
+in a careful numerical computation by hartree
+for a linearly decreasing velocity
+distribution outside the boundary layer ,. it may
+occur generally .  whenever it does
+occur, the boundary-layer equations cease to be
+valid at and near separation on the
+upstream side, and also downstream of separation .
+the work suggests that
+singularities may arise in the solution of non-linear
+parabolic equations due to their
+non-linearity .  the formulae found may help
+computers of laminar boundary layers,
+who desire more than a rough solution, to have
+an end-point at which to aim .

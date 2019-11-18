@@ -1,0 +1,21 @@
+nonlinear deflections of shallow spherical shells .
+nonlinear deflections of shallow spherical shells .
+  the equations obtained by chien for the nonlinear deflection
+of shallow spherical shells under uniform external pressure are
+solved by means of power series expansions, following procedures
+introduced by friedrichs and stoker in their treatment of
+buckling of circular plates .  these equations depend upon two
+parameters .  one of these parameters is related to the external
+pressure, while the other depends upon the dimensions of the shell .
+the equations are solved for several ranges of the parameters
+under boundary conditions corresponding to a fixed edge .
+  the solution, carried out numerically on the aec univac
+at new york university, yields a complete description of the
+stresses and deflections as functions of the polar angle over a
+wide range of values of the loading parameter and the
+dimensional parameter .  prediction of the upper buckling load is then
+made by means of a numerical criterion based on the load vs.
+deflection curve .  for some cases, the postbuckling behavior
+is investigated .  the results agree well with existing
+experimental and theoretical studies and cover a wide range of cases
+not previously treated .

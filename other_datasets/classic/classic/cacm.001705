@@ -1,0 +1,22 @@
+A Set of Basic Input-Output Procedures (Algorithm 335 [15])
+By means of the primitives in symbol, outsymbol
+and length, as requested by this journal's 
+Algorithms Policy [Comm. ACM 10 (Nov. 67), 729] a basic
+set of input-output procedures is defined aiming 
+at quality and flexibility.  Outreal, for instance, is
+written as a derived procedure; it outputs using 
+the fixed point or the floating point representation,
+and rounds properly.  Variants can easily be written 
+because of the explicit call of the procedures decompose
+integer and decompose real.  The highly recommended 
+practice of echoing input is made easy with one subset
+of derived procedures (ioi, ior, iob, ioa).  The 
+documentation of output in the form of equivalent ALGOL
+statements is also provided when use is made 
+of the subset oti, otr, otb, ota.  The Berkeley style
+of providing information on the form of output 
+using prior calls of procedures such as real format is
+defined.  A use of the parameter outchannel to 
+provide information for simultaneous output to several
+channels is suggested.  Interrelationship between 
+the declared procedures is furnished in tabular form.

@@ -1,0 +1,10 @@
+note on the convergence of numerical solutions of the navier-stokes
+equations .
+note on the convergence of numerical solutions of the navier-stokes
+equations .
+a criterion is given for the convergence of numerical solutions of the
+navier-stokes equations in two dimensions under steady conditions . the
+criterion applies to all cases of steady viscous flow in two dimensions
+and shows that if the local 'mesh reynolds number', based on the size of
+ the mesh used in the solution, exceeds a certain fixed value, the
+numerical solution will not converge .

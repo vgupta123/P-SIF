@@ -1,0 +1,12 @@
+Improving the Access Time for Random Access Files
+Clustering in the key set is decreased by
+smoothing the key-to-address transformation, and 
+by adding shadow buckets to an open chaining file.  The
+keys are pre-hashed before the address division, 
+to remove the effect of sequential properties in the
+key set.  Shadow buckets in the key search sequence 
+reduce the effect of nonuniformity in file loading,
+and decrease the number of maximum probes needed 
+to locate a record.  The combined effects of these techniques
+lead to improved file performance for secondary 
+storage devices, as shown by empirical studies.

@@ -1,0 +1,20 @@
+The CRAY-1 Computer System
+This paper describes the CRAY-1, discusses
+the evolution of its architecture, and gives an 
+account of some of the problems that were overcome during
+its manufacture.  The CRAY-1 is the only computer 
+to have been built to date that satisfies ERDA's Class
+VI requirement (a computer capable of processing 
+from 20 to 60 million floating point operations per
+second) [1].  The CRAY-1's Fortran compiler (CFT) 
+is designed to give the scientific user immediate access
+to the benefits of the CRAY-1's vector processing 
+architecture.  An optimizing compiler, CFT, "vectorizes"
+innermost DO loops.  Compatible with the ANSI 
+1966 Fortran Standard and with many commonly supported
+Fortran extensions, CFT does not require any source 
+program modifications or the use of additional nonstandard
+Fortran statements to achieve vectorization. 
+ Thus the user's investment of hundreds of man months
+of effort to develop Fortran programs for other 
+contemporary computers is protected.

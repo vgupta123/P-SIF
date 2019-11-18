@@ -1,0 +1,10 @@
+Social Processes and Proofs of Theorems and Programs
+It is argued that formal verifications of
+programs, no matter how obtained, will not play the
+same key role in the development of computer science and software
+engineering as proofs do in mathematics.  Furthermore the absence
+of continuity, the inevitability of change, and the complexity of
+specification of significantly many real programs make the form
+al verification process difficult to justify and manage.  It is felt
+that ease of formal verification should not dominate program
+language design.

@@ -1,0 +1,21 @@
+Computing Polynomial Resultants: Bezout's Determinant
+vs. Collins' Reduced P.R.S. Algorithm
+Algorithms for computing the resultant of two
+polynomials in several variables, a key repetitive 
+step of computation in solving systems of polynomial
+equations by elimination, are studied.  Determining 
+the best algorithm for computer implementation depends
+upon the extent to which extraneous factors are 
+introduced, the extent of propagation of errors caused by
+truncation of real coefficients, memory requirements, 
+and computing speed.  Preliminary considerations narrow
+the choice of the best algorithm to Bezout's 
+determinant and Collins' reduced polynomial remainder sequence
+(p.r.s.) algorithm.  Detailed tests performed 
+on sample problems conclusively show that Bezout's determinant
+is superior in all respects except for 
+univariate polynomials, in which case Collins' reduced
+p.r.s. algorithm is somewhat faster.  In particular 
+Bezout's determinant proves to be strikingly superior in
+numerical accuracy, displaying excellent stability 
+with regard to round-off errors. Results of tests are reported in detail.

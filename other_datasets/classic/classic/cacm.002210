@@ -1,0 +1,18 @@
+Toward Automatic Program Synthesis
+An elementary outline of the theorem-proving
+approach to automatic program synthesis is given, 
+without dwelling on technical details.  The method is
+illustrated by the automatic construction of both 
+recursive and iterative programs operating on natural
+numbers,lists, and trees,  In order to construct 
+a program satisfying certain specifications a theorem
+induced by those specifications is proved, and 
+the desired program is extracted from the proof.  The
+same technique is applied to transform recursively 
+defined functions into iterative programs, frequently
+with a major gain inefficiency.  It is emphasized 
+that in order to construct a program with loops or with
+recursion, the principle of mathematical induction 
+must be applied. The relation between the version of
+the induction rule used and the form of the program 
+constructed is explored in some detail.

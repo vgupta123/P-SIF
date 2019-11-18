@@ -1,0 +1,17 @@
+Preserving Average Proximity in Arrays
+Programmers and data structure designers are often
+forced to choose between alternative structures. 
+ In storing these structures, preserving logical adjacencies
+or "proximity" is usually an important consideration. 
+ The combinatorial problem of storing arrays as various
+kinds of list structures is examined.  Embeddings 
+of graphs are used to model the loss of proximity involved
+in such storage schemes, and an elementary 
+proof that arrays cannot be stored as linear lists with
+bounded loss of proximity is presented.  Average 
+loss of proximity is then considered, and it is shown
+that arrays cannot be stored as linear lists with 
+only bounded loss of average proximity, but can be so
+stored in binary trees.  The former result implies, 
+for instance, that row major order is an asymptotically
+optimal storage strategy for arrays.

@@ -1,0 +1,11 @@
+A Precise Numerical Analysis Program
+A description is given of a program for computing
+the solution to a small number of standard 
+numerical analysis problems to any specified accuracy,
+up to a limit of 2000 correct decimal places. 
+ Each computed number is bounded in an interval with a
+multiple precision midpoint.  Arithmetic operations 
+involving these numbers are executed according to interval
+arithmetic concepts, with non-significant 
+digits automatically discarded.  Details are supplied
+of problem specification and problem computation.

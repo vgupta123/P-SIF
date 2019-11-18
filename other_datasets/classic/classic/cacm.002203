@@ -1,0 +1,16 @@
+Key-to-Address Transform Techniques: A Fundamental
+Performance Study on Large Existing Formatted 
+Files
+The results of a study of eight different
+key-to-address transformation methods applied to 
+a set of existing files are presented.  As each method
+is applied to a particular file, load factor and 
+bucket size are varied over a wide range.  In addition,
+appropriate variables pertinent only to a specific 
+method take on different values.  The performance of
+each method is summarized in terms of the number 
+of accesses required to get to a record and the number
+of overflow records created by a transformation. 
+ Peculiarities of each method are discussed.  Practical
+guidelines obtained from the results are stated. 
+ Finally, a proposal for further quantitative fundamental study is outlined.

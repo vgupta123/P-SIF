@@ -1,0 +1,31 @@
+An Information Algebra - Phase I Report-Language
+Structure Group of the CODASYL Development Committee
+This report represents the results of the
+first phase of the work of the Language Structure 
+Group.  The goal of this work is to arrive at a proper
+structure for a machine-independent problem-defining 
+language, at the systems level of data processing.  The
+report is based, for the most part, on a mathematical 
+model called "An Information Algebra" developed primarily
+by R. Bosak.  It is hoped that this report 
+will be read (a) with avid interest by programming language
+designers and implementors, and all those 
+interested in developing a theoretical approach to data
+processing; (b) with interest and understanding 
+by professional programmers and systems analysts; and (c)
+with appreciation by the businessman-analyst-manager. 
+ The authors have not attempted an exhaustive discourse
+in this report.  Rather, they have tried to present 
+a philosophy to the professional people who are vitally
+concerned with providing a working language for 
+the systems analyst's use.  They trust that the ideas
+in this report will stimulate others to think along 
+similar lines.  Questions and comments will be welcomed,
+and can be addressed to any of the members of 
+the Language Structure Group:  Robert Bosak, System
+Development Corporation;  Richard F. Clippinger, 
+Honeywell EDP Division;  Carey Dobbs, Remington Rand
+Univac Division;  Roy Goldfinger (Chairman), IBM 
+Corporation;  Renee B. Jasper, Navy Management Office;
+ William Keating, National Cash Register;  George 
+Kendrick, General Electric Company;  Jean E. Sammet, IBM Corporation.

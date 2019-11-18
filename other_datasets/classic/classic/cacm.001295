@@ -1,0 +1,16 @@
+PERT Time Calculations Without Topological Ordering
+A simplified technique is presented for PERT
+Time calculations without topological ordering. 
+ Each event is assigned a unique memory location.  An activity
+is represented by a link.  A link is defined 
+as a memory location containing the address of another
+memory location.  The time information for an 
+activity is carried with its link.  For a typical net,
+the majority of activities can be described by 
+one 36-bit cell each.  The remainder use two 36-bit
+cells each.  The links are unidirectional; forward 
+during the T(E) calculation (expected completion time for
+an activity);backward during the T(L) calculation 
+(time latest allowable for completion of an activity). 
+The calculations progress through the net topologically 
+even though the net is not represented topologically in core.

@@ -1,0 +1,14 @@
+Structural Pattern Recognition Of Carotid Pulse
+Waves Using A General Waveform Parsing System
+A general waveform parsing system with application
+to structural pattern recognition of carotid 
+pulse waves is described.  The carotid arterial pulse
+wave is of medical importance because of variation 
+in its structure induced by arterial aging and cardiovascular
+disease.  The syntax-driven waveform analysis 
+system has been applied with good results to these pulse
+waves to detect and measure structural variations. 
+ The waveform parsing system is modeled on a compiler-compiler
+system and allows the user to enter application 
+specific information as data.  It is thus general
+enough to be applicable to other waveforms.

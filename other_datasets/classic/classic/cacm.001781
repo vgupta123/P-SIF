@@ -1,0 +1,8 @@
+Translator Writing systems
+A critical review of recent efforts to automate
+the writing of translators of programming languages 
+is presented.  The formal study of syntax and its application
+to translator writing are discussed in 
+Section II.  Various approaches to automating the post syntactic
+(semantic) aspects of translator writing 
+are discussed in Section III, and several related topics in Section IV.

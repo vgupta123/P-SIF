@@ -1,0 +1,17 @@
+further comments on the inversion of large structural matrices .
+further comments on the inversion of large structural matrices .
+in a recent note, klein referred to a paper co-authored by the writer,
+and to ref. 3 .  regarding the subject of inversion of large-order
+matrices, klein stated that he would show 'that the situation is not as
+hopeless as the anove-mentioned authors intimate' .
+the purpose of this note is not to take exception to klein/s
+conclusions, but rather to disagree with his implication that the
+authors of ref. 2 were pessimistic with respect to large-matrix
+inversions .  two general methods of analysis were treated..  the
+method of consistent distortion and the method of transfer matrices .
+the first method leads directly to a relatively large matrix of
+structural coefficients of both internal forces and displacements .
+this matrix must be inverted to solve the problem .  the second method
+ultimately produces a relatively small matrix requiring inversion.,
+however, to arrive at this point one must perform a number of matrix
+multiplications .

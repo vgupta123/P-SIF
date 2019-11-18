@@ -1,0 +1,12 @@
+Consecutive Storage of Relevant Records with Redundancy
+This paper studies the properties of a new
+class of file organizations (CRWR) where records 
+relevant to every query are stored in consecutive storage
+locations but the organizations contain redundancy. 
+Some theorems which provide tools for reducing redundancy
+in CRWR organizations have been also developed. 
+Redundancies obtained by the application of these theorems
+are compared with that of query-inverted file 
+organizations.  Some CRWR organization with minimum redundancy
+have also been developed for queries which 
+specify sets of keys.

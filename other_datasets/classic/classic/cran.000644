@@ -1,0 +1,22 @@
+a study of the cantilever square plate subjected to
+a uniform loading .
+a study of the cantilever square plate subjected to
+a uniform loading .
+  plate problems involving free edges have been historically
+difficult to solve, particularly when two free edges are adjacent,
+resulting in a free corner .  the cantilevered square plate
+subjected to a transverse loading is one such problem for which an
+exact solution has not been achieved .
+  in the present paper results obtained by various approximate
+methods are presented for this problem for the case of a uniform
+loading .  solutions obtained by the authors using the technique
+of point matching and the rayleigh-ritz method are compared
+with previously published finite-difference and experimental
+results and with bernoulli-euler beam and plane-strain approaches .
+numerical results for deflections, slope components, bending and
+twisting moments, and transverse distributed shears are presented
+for a relatively fine gridwork of points on the plate boundary
+and within the interior .  the antielastic curvature is exhibited by
+all methods except beam theory .  all methods present the
+interesting conclusion that the free edge deflection is greater when
+the plate is treated as a plate rather than a beam .

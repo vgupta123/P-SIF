@@ -1,0 +1,16 @@
+A SIMSCRIPT-FORTRAN Case Study
+Two programs for a vehicle dispatching model,
+one written in 7040 SIMSCRIPT and the other in 
+7040 FORTRAN IV are compared. The comparison is made
+in terms of basic program design decisions, storage 
+requirements, computer time used, and the ease of making
+changes.  In the SIMSCRIPT program, the primary 
+design considerations center around the choice of model
+variables, model changing events, and model testing. 
+ In the FORTRAN program, basic design problems relate
+to the representation of the passage of time, the 
+allocation of storage, and the organization of input
+data.  The comparison of these differently designed 
+programs shows that the SIMSCRIPT program uses more computer
+storage and more computer time, but requires 
+fewer program changes to introduce model revisions.

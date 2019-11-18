@@ -1,0 +1,59 @@
+the calculation of transient temperature in turbine
+blades and tapered discs using biot's variational method .
+the calculation of transient temperature in turbine
+blades and tapered discs using biot's variational method .
+  transient temperatures in aerofoil
+sections and tapered discs are
+calculated taking advantage of simplifications
+in heat flow analysis
+achieved in biot's variational method .
+cross-sections are represented by
+a line of adjacent squares of various
+sizes suitable for the local
+dimensions, e.g. small squares near the leading
+and trailing edges .  the
+potential, dissipation and surface dissipation
+functions of biot's method are
+set up, and the lagrange equations lead,
+by automatic procedures, to an
+eigenvalue formulation in matrix form for
+the temperatures and their first
+time derivatives .  solutions are sums
+of exponentials in time, and are
+evaluated by digital computer, requiring
+about five minutes for each
+cross-section and heat transfer coefficient .
+transient temperatures in a
+particular aerofoil section for variation
+of heat transfer coefficient and for
+external temperature depending exponentially
+on time agree with results
+obtained on an analogue computer .
+maximum transient temperature
+differences are evaluated for tapered discs
+by a simple electrical analogue) with
+variation of edge radius and heat
+transfer coefficient .  peculiarities
+in the solution for cyclic
+temperature external to an aerofoil over
+a range of frequencies indicate
+limitations in the mathematical formulation .
+a successful solution for cyclic
+external temperature might enable
+eigenvalues to be separated out in
+experimental measurements using
+electronic equipment, and this might be
+extended to exponential external
+temperature if a relationship between
+cyclic and exponential external
+temperature could be established .
+eigenvalues and eigenvectors as discrete
+values arise fictitiously from the
+sub-division into squares and the
+possibility of an integral formulation
+is mentioned .  there is a possible,
+but not immediate, extension to
+cooled blades, whose cross-sections
+are multiply-connected regions .
+transient stresses due to creep, and
+viscoelasticity might be included .

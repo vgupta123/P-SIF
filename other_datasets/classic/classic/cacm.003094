@@ -1,0 +1,26 @@
+Analyses of Deterministic Parsing Algorithms
+This paper describes an approach for determining
+the minimum, maximum, and average times to 
+parse sentences acceptable by a deterministic parser.
+ These quantities are presented in the form of 
+symbolic formulas, called time-formulas.  The variables
+in these formulas represent not only the length 
+of the input string but also the time to perform elementary
+operations such as pushing, popping, subscripting, 
+iterating, etc.  By binding to the  variables actual numerical
+values corresponding to a given compiler-machine 
+configuration, one can determine the execution time
+for that configuration.  Time-formulas are derived 
+by examining the grammar rules and the program representing
+the algorithm one wishes to analyze.  The 
+approach is described by using a specific grammar that defines
+simple arithmetic expressions.  Two deterministic
+parsers are analyzed: a top-down recursive descent
+LL(1) parser, and a bottom-up SLR(1) parser.  The 
+paper provides estimates for the relative efficiencies
+of the two parsers.  The estimates applicable 
+to a specific machine, the PDP-10, are presented and
+substantiated buy benchmarks.  Finally, the paper 
+illustrates the proposed approach by applying it to
+the analyses of parsers for a simple programming 
+language.  

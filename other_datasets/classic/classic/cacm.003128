@@ -1,0 +1,15 @@
+Synchronization with Eventcounts and Sequencers
+Synchronization of concurrent processes requires controlling the relative 
+ordering of events in the processes.
+A new synchronization mechanism is proposed, using 
+abstract objects called eventcounts and sequencers, that allows processes
+to control the ordering of events directly, rather than using mutual
+exclusion to protect manipulations of shared variables that control
+ordering of events.  Direct control of ordering seems to simplify
+correctness arguments and also simplifies implementation in distributed
+systems.  The mechanism is defined formally, and then several
+examples of its use are given.  The relationship of the mechanism
+to protection mechanisms in the system is explained; in particular,
+eventcounts are shown to be applicable to situations where confinement
+of information matters.  An implementation of eventcount
+s and sequencers in a system with shared memory is described.

@@ -1,0 +1,23 @@
+Performance of Height-Balanced Trees
+This paper presents the results of simulations
+that investigate the performance of height-balanced 
+(HB[k]) trees.  It is shown that the only statistic
+of HB[1] trees (AVL trees) that is a function of 
+the size of the tree is the time to search for an item
+in the tree.  For sufficiently large trees, the 
+execution times of all procedures for maintaining HB[1]
+trees are independent of the size of the tree. 
+ In particular, an average of .465 restructures are required
+per insertion, with an average of 2.78 nodes 
+revisited to restore the HB[1] property; an average of
+ .214 restructures are required per deletion, with 
+an average of 1.91 nodes revisited to restore the HB[1]
+property.  Moreover,the execution times of procedures 
+for maintaining HB[k] trees, for k>1, are also independent
+of the size of the tree except for the average 
+number of nodes revisited on a delete operation in
+order to restore the HB[k] property on trace back. 
+ The cost of maintaining HB[k] trees drops sharply as the
+allowable imbalance (k) increases.  Both analytical 
+and experimental results that show the cost of maintaining
+HB[k] trees as a function of k are discussed.

@@ -1,0 +1,42 @@
+concerning some solutions of the boundary layer equations
+in hydrodynamics .
+concerning some solutions of the boundary layer equations
+in hydrodynamics .
+  the boundary-layer equations for
+a steady two-dimensional motion
+are solved for any given initial
+velocity distribution (distribution along a
+normal to the boundary wall,
+downstream of which the motion is to be
+calculated) .  this initial velocity
+distribution is assumed expressible
+as a polynomial in the distance from
+the wall .  three cases are considered ..
+first, when in the initial distribution
+the velocity vanishes at the wall,
+but its gradient along the normal
+does not,. second, when the velocity in
+the initial distribution does not
+vanish at the wall,. and third, when both
+the velocity and its normal gradient
+vanish at the wall (as at a point
+where the forward flow separates
+from the boundary) .  the solution is
+found as a power series in some
+fractional power of the distance along
+the wall, whose coefficients are
+functions of the distance from the wall to
+be found from ordinary differential
+equations .  some progress is made
+in the numerical calculation of
+these coefficients, especially in the first
+case .  the main object was to
+find means for a step-by-step calculation
+of the velocity field in a boundary
+layer, and it is thought that such a
+procedure may possibly be successful
+even if laborious .  the same
+mathematical method is used to calculate
+the flow behind a flat plate along a
+stream .  the results are shown in
+curves in the original .

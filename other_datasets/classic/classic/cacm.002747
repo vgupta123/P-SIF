@@ -1,0 +1,5 @@
+A Simplified Recombination Scheme for the Fibonacci Buddy System
+A simplified recombination scheme for the Fibonacci
+buddy system which requires neither tables 
+nor repetitive calculations and uses only two
+additional bits per buffer is presented.

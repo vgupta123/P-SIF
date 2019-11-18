@@ -1,0 +1,35 @@
+stresses from local loadings in cylindrical pressure
+vessels .
+stresses from local loadings in cylindrical pressure
+vessels .
+  a short discussion is given of the possible methods for
+computing the stresses caused in cylindrical shells by local
+loadings .  it is concluded that the method of developing
+the loads and displacements into double fourier series
+leads to formulas which are best suited for numerical
+evaluation .  with this method the pertinent expressions
+for the displacements caused by radial loads are found by
+reducing the three partial differential equations of the
+shell theory to an eighth-order differential equation in the
+radial displacements, which is similar to, but not identical
+with, those derived by donnell and yuan .  insertion of the
+fourier series for the radial displacements and the external
+loading in this equation leads directly to a double series
+expression of the radial displacement w in terms of the load
+factors of the radial load .  this results in the pertinent
+expressions for the other displacements and for the
+bending moments and membrane forces .  the cases of radial
+loading considered here and those which can be reduced to
+it are (a) a load uniformly distributed within a rectangle,
+tion, uniformly distributed over a short distance in the
+circumferential direction, (d) a moment in the
+circumferential direction, uniformly distributed over a short
+distance in the longitudinal direction .  for all these
+loadings the load factors, which have to be used in the
+pertinent formulas for the displacements, bending
+moments, and membrane forces, are computed .  for the case
+of tangential loading an eighth-order differential
+equation is derived in terms of the radial displacement and the
+tangential load .  using this equation, formulas for the
+displacements, bending moments, and membrane forces for
+tangential loading within a rectangle are found .

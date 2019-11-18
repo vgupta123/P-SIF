@@ -1,0 +1,17 @@
+An Operating System Based on the Concept of a Supervisory Computer
+An operating system which is organized as a
+small supervisor and a set of independent processes 
+are described.  The supervisor handles I/O with external
+devices-the file and directory system-schedules 
+active processes and manages memory, handle errors, and
+provides a small set of primitive functions which 
+it will execute for a process.  A process is able to
+specify a request for a complicated action on the 
+part of the supervisor (usually a wait on the occurrence
+of a compound event in the system) by combining 
+these primitives into a "supervisory computer program."
+ The part of the supervisor which executes these 
+programs may be viewed as a software implemented "supervisory
+computer."  The paper develops these concepts 
+in detail, outlines the remainder of the supervisor, and
+discusses some of the advantages of this approach.

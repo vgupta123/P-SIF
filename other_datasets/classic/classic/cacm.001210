@@ -1,0 +1,6 @@
+File-Handling Within FORTRAN
+This note describes some FORTRAN subroutines
+to facilitate handling of tape files.  They allow 
+symbolic naming of information files, without violating
+the casual scientific programmer's idea of simplicity. 
+ Some comments on two years use of these subroutines are given.

@@ -1,0 +1,12 @@
+Demand Paging Through Utilization of Working Sets on the MANIAC II
+A hardware implementation on the Maniac II computer
+of the working set model for demand paging, 
+as introduced by Denning, is discussed.  Characteristics
+of the Maniac II are given, along with a description 
+of the basic demand paging scheme and the associate memory
+which has been added to the Maniac II hardware. 
+ Finally, a description of the hardware design for implementation
+of the working set model is discussed 
+and a specification of the actions taken under various
+conditions which may arise during the operation 
+of the full working set model, demand paging system is given.

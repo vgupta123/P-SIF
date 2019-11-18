@@ -1,0 +1,18 @@
+An Overview of the ISPL Computer System Design
+This paper explores the advantages of the concurrent
+design of the language, operating system, 
+and machine (via microcode) to create an interactive programming
+laboratory.  It describes the synergistic 
+effect that the freedom to move and alter features from
+one of these domains to another has had on the 
+design of this system (which has not been implemented).
+ This freedom simplified both incremental compilation 
+and the system's addressing structure, and centralized the
+communication mechanisms enabling the construction 
+of hierarchical subsystems.  It also suggested an important
+new concept for operating systems: separation 
+of the scheduling from the maintenance functions in resource
+allocation. This separation enables incorporation 
+of new scheduling algorithms (decision of what to do) without
+endangering the system integration (correctly 
+performing the scheduling decisions).

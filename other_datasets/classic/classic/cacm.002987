@@ -1,0 +1,15 @@
+Representation of Many-Sided Polygons
+and Polygonal Lines for Rapid Processing
+A representation for polygons and polygonal
+lines is described which allows sets of consecutive 
+sides to be collectively examined.  The set of sides are
+arranged in a binary tree hierarchy by inclusion. 
+ A fast algorithm for testing the inclusion of a poin t
+in a many-sided polygon is given.  The speed of 
+the algorithm is discussed for both ideal and practical
+examples.  It is shown that the poin ts of intersection 
+of two polygonal lines can be located by what is essentially
+a binary tree search.  The algorithm and 
+a practical example are discussed.  The representation
+overcomes many of the disadvantages associated 
+with the various fixed-grid methods for representing curves and regions

@@ -1,0 +1,15 @@
+Nonlinear Regression and the Solution of Simultaneous Equations
+If one has a set of observables (Z1,...,Zm) which
+are bound in a relation with certain parameters 
+(A1,...,An) by an equation S(Z1,...;A1,...)=0, one frequently
+has the problem of determining a set of 
+values of the Ai which minimizes the sum of squares of
+differences between observed and calculated values 
+of a distinguished observable, say Zm.  If the solution
+of the above equation for Zm,  Zm=N(Z1,...;A1,...) 
+gives rise to a function N which is nonlinear in the Ai,
+then one may rely on a version of Gaussian regression 
+[1,2] for an iteration scheme that converges to a minimizing
+set of values.  It is shown here that this 
+same minimization technique may be used for the solution
+of simultaneous (not necessarily linear) equations.

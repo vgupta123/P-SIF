@@ -1,0 +1,11 @@
+Efficient Implementation of a Variable Projection
+Algorithm for Nonlinear Least Squares Problems
+Nonlinear least squares frequently arise for which
+the variables to be solved for can be separated 
+into a linear and a nonlinear part.  A variable projection
+algorithm has been developed recently which 
+is designed to take advantage of the structure of a problem
+whose variables separate in this way.  This 
+paper gives a slightly more efficient and slightly more
+general version of this algorithm than has appeared 
+earlier.

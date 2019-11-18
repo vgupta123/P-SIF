@@ -1,0 +1,19 @@
+A Comparison of the Correlational Behavior
+of Random Number Generators for the IBM 360
+Hutchinson states that the "new" (prime modulo)
+multiplicative congruential pseudorandom generator, 
+attributed to D. H. Lehmer, has passed the usual statistical
+tests for random number generators.  It 
+is here empirically shown that generators of this type
+can produce sequences whose autocorrelation functions 
+up to lag 50 exhibit evidence of nonrandomness for many
+multiplicative constants.  An alternative generator 
+proposed by Tausworthe, which uses irreducible polynomials
+over the field of characteristic two, is shown 
+to be free from this defect.  The applicability of these
+two generators to the IBM 360 is then discussed. 
+ Since computer word size can affect a generator's statistical
+behavior the older mixed and simple congruential 
+generators, although extensively tested on computers
+having 36 or more bits per word, may not be optimum 
+generators for the IBM 360.

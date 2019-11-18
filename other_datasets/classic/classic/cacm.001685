@@ -1,0 +1,10 @@
+GAN, a System for Generating and Analyzing Activity Networks
+GAN, a system for generating activity networks,
+is designed to save time in the preparation 
+of activity networks and to deal conveniently with network
+programs.  A defining description of a programming 
+language designed for generating activity network from
+a set of standard networks is presented.  Also, 
+a general idea of a language for performing calculations
+on activity networks (scheduling activity networks) 
+is given.

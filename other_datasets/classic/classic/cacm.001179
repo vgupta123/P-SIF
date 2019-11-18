@@ -1,0 +1,14 @@
+PUFFT-The Purdue University Fast FORTRAN Translator
+A core resident, compile-and-go system designed
+for the IBM 7090/7094 computer is described. 
+ In little more than half of the 32k word core memory
+PUFFT provides a monitor for job sequencing, a 
+translator for the full FORTRAN IV language, the FORTRAN
+subroutine library, an input--output system 
+for use at compile time and at execute time, and a rather
+elaborate diagnostic message writing routine. 
+ Batches of small- and medium-sized FORTRAN IV source
+language programs are processed at very high speeds. 
+ Language compatibility has been maintained so that
+programs may be debugged in the PUFFT system and 
+then recompiled and run in the IBJOB-IBFTC system supplied by the manufacturer.

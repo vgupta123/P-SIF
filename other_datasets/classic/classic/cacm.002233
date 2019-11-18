@@ -1,0 +1,49 @@
+Signature Simulation and Certain Cryptographic Codes
+Three cyphers allegedly authored by Thomas
+Jefferson Beale in 1822 have been the subject of 
+intensive study for over 100 years.  Generations of
+cryptanalysts have expended untold man-years, thus 
+far without success, attempting tode code them; vast armies
+of fortune hunters and treasure seekers have 
+devoted Herculean labors to digging up the rolling hills
+of Virginia trying to locate the promised bonanza. 
+ The history of pertinent activities would fill volumes,
+yet serious students of cryptography have always 
+had nagging doubts about the cyphers' authenticity.
+ It has been alleged that the "known solution" to 
+Cypher Number Two: 115, 73, 24, 818, 37, 52, 49,...("I
+have deposited in the County of Bedford about 
+four miles from Buford's in an excavation or vault...")
+with the aid of an unsanitized version of the 
+Declaration of Independence was merely a superb, imaginative,
+and grandiose hoax perpetrated ages ago 
+for whatever reasons.  Modern computer technology could
+obviously perform signature analyses the process 
+of encoding itself so as to yield new clues and deeper
+insights into their construction.  For the benefit 
+of the uninitiated, the encoding method used in the
+second cypher employs a specified document whose 
+words are simply numbered consecutively, and first letters
+of these words are sought out at random to 
+match the letters of these words are sought out at random
+to match the letters of the clear text or message. 
+ The sequence of numbers corresponding to these matches
+is then written down as the final code.  While 
+primitive, the process has the advantage of relative
+security until the source document becomes known; 
+at that moment the cypher can be decoded even by second
+graders.  The work now completed with the help 
+of our UNIVAC 1108 includes numerous analytical studies
+of the Beale cyphers and various types of simulations. 
+ For example, we have turned the entire process of
+simulated encoding by various schemes over to the 
+machine and analyzed the signatures of these synthetic
+codes; we have also encoded various messages by 
+hand, using different texts and a variety of methods to
+obtain their signatures. These simulations provide 
+convincing evidence that the signatures are both process
+and data dependent; they indicate also very 
+strongly that Mr. Beale's cyphers are for real and that
+it is merely a matter of time before someone 
+finds the correct source document and locates the
+right vault in the common-wealth of Virginia.

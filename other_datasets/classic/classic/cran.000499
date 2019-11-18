@@ -1,0 +1,42 @@
+a closed-form solution for the oscillations of a vehicle
+entering a planetary atmosphere .
+a closed-form solution for the oscillations of a vehicle
+entering a planetary atmosphere .
+  author considers the equation of the yawing motion of a missile,
+derived with a series of customary assumptions and with the
+distance traveled as the independent variable .  his assumptions
+include the linearity of the aerodynamic forces, the constancy of the
+aerodynamic coefficients with respect to mach number, the
+absence of spin, and the absence of gravity .  if to these assumptions
+one could add the common ballistic assumption of a constant air
+density, the coefficients of this equation would have been
+con-damped sinusoids .  in ballistics any slow variation of these
+coefstant, and the solution would have been simply the
+exponentially-ficients is usually treated by adding an approximate correction
+term to the damping rate (which is spoken of as the wkb
+perturbation) .  however, with a body entering the planetary atmosphere the
+variation of the air density is apparently of greater essence (this
+is a point not stated explicitly in this brief communication), and
+the equation is of the type .
+the author shows that with a series of further transformations
+the equation can be reduced to the form
+the solutions of which are confluent
+hypergeometric functions .  these functions are defined as series
+involving gamma functions, and with a series of further assumptions
+can be reduced to laguerre polynomials and bessel functions .
+  it is certainly nice to have an exact solution to a problem which
+has heretofore been extensively treated by approximations and by
+the numerical approach .  this reviewer is puzzled, however, as to
+the practical significance of the proposed approach .  an
+idealization is of value in that it facilitates our understanding,. and the
+numerical approach, in that it allows refinements of the problem,
+freeing us from the necessity of idealizing .  but the proposed
+solution is certainly more difficult to refine than the original
+problem,. and it is certainly not simple (the solution of the original
+equation is not the value of z, but the various /reverse/
+transformations of z) .  an evaluation of a series in practice must compete
+with the numerical approach,. and the equation suggested is of the
+zero) .  viewing the problem /afresh/ (in the light of the /
+computer revolution/ and without the constraints imposed by the prior
+art), it seems at least equally easy to /standardize/ the
+solutions of the original equation .

@@ -1,0 +1,10 @@
+A Language for Treating Geometric Patterns in a Two-dimensional space
+In this paper CADEP, a problem-oriented language
+for positioning geometric patterns in a two-dimensional 
+space, is presented.  Although the language has been
+specifically designed for the automatic generation 
+of integrated circuit masks, it turns out to be well
+suited also for such other placement problems as 
+architecture design, urban planning, logical and block
+diagram representation.  The design criteria, 
+the structure, and the specific features of CADEP are illustrated.

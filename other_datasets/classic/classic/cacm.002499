@@ -1,0 +1,28 @@
+Efficient Multiprogramming Resource Allocation and Accounting
+Although sometimes thought of as only a component
+of time-sharing operation, multiprogramming 
+can involve broader questions of resource allocation,
+since fairness is not required to meet a response 
+criterion.  In a multiprogrammed system, it may serve
+maximal resource use to be unfair, for example 
+by holding an input/output channel idle for a program
+while it completes a small amount of processor 
+usage, enabling further use of the channel.  Several
+applications of this principle are given, and it 
+is suggested that a multiprogramming executive might
+dynamically adjust its allocation algorithms to 
+gain efficiency.  Allocation of resources is closely connected
+to accounting for those resources, raising 
+the problems of repeatability, minimal uncharged overhead,
+and relative weighting of charges for dependent 
+resources.  Since weightings may depend on allocation
+algorithms, these are not arbitrary accounting 
+parameters.  Often the only repeatable accounting is
+one which omits an extensive overhead will be paid, 
+and should multiprogramming prove efficient, overcharges
+will result.  Multiprogramming turns on allocation 
+of the memory resource essential to control of other
+resources.  The general suggestions for allocation 
+and accounting are applied to this question, and some
+details provided for the case of a monitor which 
+controls a virtual-memory machine.

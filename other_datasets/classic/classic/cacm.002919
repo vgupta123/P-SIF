@@ -1,0 +1,17 @@
+The Programmer's Workbench-A Machine for Software Development
+On almost all software development projects the
+assumption is made that the program development 
+function will be done on the same machine on which the
+eventual system will run.  It is only when this 
+production machine is unavailable or when its programming
+environment is totally inadequate that alternatives 
+are considered.  In this paper it is suggested that
+there are many other situations where it would be 
+advantageous to separate the program development and
+main tenance function onto a specialized computer 
+which is dedicated to that purpose.  Such a computer
+is here called a Programmer's Workbench.  The four 
+basic sections of the paper in troduce the subject,outline
+the general concept, discuss areas where such 
+an approach may prove beneficial, and describe
+an operational system utilizing this concept.

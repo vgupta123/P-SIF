@@ -1,0 +1,9 @@
+Some Comments on the Use of Ambiguous Decision
+Tables and Their Conversion to Computer Programs
+This paper comments upon recently published
+work on decision table translation using methods 
+similar to the rule-mask technique.  The applicability
+of these methods under various possible conventions 
+on overall table meaning is discussed, and it is argued
+that there is a place both for the multi-rule 
+and the single-rule (or action set) convention in decision tale usage.

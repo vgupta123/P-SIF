@@ -1,0 +1,7 @@
+Expected Time Bounds for Selection
+A new selection algorithm is presented which
+is shown to be very efficient on the average, 
+both theoretically and practically.  The number of comparisons
+used to select the ith smallest of n numbers 
+is n+min(i,n-i)+o(n).  A lower bound within 9
+percent of the above formula is also derived.

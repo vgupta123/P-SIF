@@ -1,0 +1,8 @@
+Decomposition Programming An Analysis of Matrix Substructure 
+A petroleum blending problem was analyzed in order
+to compare the primal and primal-dual decomposition 
+algorithms.  In the course of the analysis, a substructure
+was discovered which has relevance to the 
+relative performance of the two algorithms and to their
+absolute performance as compared with a standard 
+primal-Simplex solution without decomposition.

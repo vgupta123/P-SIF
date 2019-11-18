@@ -1,0 +1,22 @@
+Capability-Based Addressing
+Various addressing schemes making use of segment
+tables are examined.  The inadequacies of 
+these schemes when dealing with shared addresses are
+explained. These inadequacies are traced to the 
+lack of an efficient absolute address for objects in
+these systems.  The direct use of a capability as 
+an address is shown to overcome these difficulties
+because it provides the needed absolute address.  
+Implementation of capability-based addressing is discussed.
+ It is predicted that the use of tags to 
+identify capabilities will dominate.  A hardware address
+translation scheme which never requires the 
+modification of the representation of capabilities is
+suggested. The scheme uses a main memory hash table 
+for obtaining a segment's location in main memory given
+its unique code.  The hash table is avoided for
+recently accessed segments by means of a set of associative
+registers.  A computer using capability-based 
+addressing may be substantially superior to present
+systems on the basis of protection, simplicity of 
+programming conventions, and efficient implementation.

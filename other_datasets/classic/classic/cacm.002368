@@ -1,0 +1,12 @@
+An Implemented Graph Algorithm for Winning Shannon Switching games
+In this tutorial paper a computer program
+which wins Shannon Switching Games is described.
+ Since these games are played on graphs, the program
+is a good example of the implementation of graph 
+algorithms.  The two players in a Shannon Switching Game,
+CONNECT and CUT, have nonsimilar goals.  Either 
+CONNECT, CUT, or the player moving first is guaranteed
+the existence of a winning strategy.  The simple 
+strategy explained in this paper is valid in all three
+cases.  In fact, the major routines never need 
+to know whether the computer is CONNECT or CUT.

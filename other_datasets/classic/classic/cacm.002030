@@ -1,0 +1,13 @@
+Context-Sensitive Parsing
+This paper presents a canonical form for context-sensitive
+derivations and a parsing algorithm which finds
+each context-sensitive analysis once and only once.  The amount of memory
+required by the algorithm is essentially no more than the required to 
+store a single complete derivation.  In addition, a modified
+version of the basic algorithm is presented which blocks infinite analyses 
+for grammars which contain loops.  The algorithm is
+also compared with several previous parsers for context-sensitive
+grammars and general rewriting systems, and the difference between
+the two types of analyses is discussed.  The algorithm appears to
+be complementary to an algorithm by S. Kuno in several respects, including 
+the space-time trade-off and the degree of context dependence involved.

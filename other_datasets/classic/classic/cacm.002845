@@ -1,0 +1,8 @@
+A Buddy System Variation for Disk Storage Allocation
+A generalization of the buddy system for storage
+allocation is described. The set of permitted 
+block sizes {SIZE(i)}, i=0,n, must satisfy the condition
+SIZE(i)=SIZE(i-1)+SIZE(i-k(i)) where k may be 
+any meaningful integral-valued function.  This makes it
+possible to force logical storage blocks to coincide 
+with physical storage blocks, such as tracks and cylinders.

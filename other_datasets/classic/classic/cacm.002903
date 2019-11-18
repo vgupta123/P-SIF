@@ -1,0 +1,14 @@
+Improving Programs by the Introduction of Recursion
+A new technique of program transformation,
+called "recursion in troduction," is described and 
+applied to two algorithms which solve pattern matching problems.
+ By using recursion in troduction, algorithms 
+which manipulate a stack are first translated into
+recursive algorithms in which no stack operations 
+occur.  These algorithms are then subjected to a second
+transformation, a method of recursion elimination 
+called "tabulation," to produce programs with a very
+efficient running time.  In particular, it is shown 
+how the fast linear pattern matching algorithm of Knuth,
+Morris, and Pratt can be derived in a few steps 
+from a simple nonlinear stack algorithm.

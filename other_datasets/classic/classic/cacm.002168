@@ -1,0 +1,6 @@
+List Tracing in Systems Allowing Multiple Cell-Types
+List-processing systems have each allowed the
+use of only a single size and configuration of 
+list cell.  In this paper a system is described which
+allows the use of arbitrarily many different sizes 
+and configurations of list cells, possibly not specified until run time.

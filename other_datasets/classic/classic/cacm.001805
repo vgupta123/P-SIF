@@ -1,0 +1,23 @@
+Productivity of Multiprogrammed Computers-Progress
+in Developing an Analytic Prediction Method
+Multiprogramming as it is discussed here is
+a mode of computer operation in which two or more
+programs are concurrently in processor memory and proceeding,
+each using the same central processor unit 
+(CPU) and input-output (I/O) channels.  These programs
+are actually proceeding intermittently and singly, 
+according to eligibility (readiness to proceed) and priority.
+ It is useful to be able to represent them 
+as proceeding continuously and simultaneously, each
+at an effective rate, which may be a fraction of 
+that which it would enjoy in the absence of the other
+programs.  The effective progress rate of each 
+program is sensitive to many detailed characteristics
+of itself and its co-residents and simulation has 
+been the best available method of predicting it.  This
+paper presents the results of progress in developing 
+an alternative to simulation, a simulation-tested iterative
+computation of these rates under certain 
+situations.  The algorithm is sensitive to most of the
+factors that control the phenomenon, including 
+nonquantitative or topological features of the programs' structures.

@@ -1,0 +1,8 @@
+Integer and Signed Constants in ALGOL
+A few remarks are given on the relations between
+syntax and semantics in the programming languages. 
+ The aim is to point out that, if it is true that the grammar
+of a context-free language should be conceived 
+not only as a strings-generating device but also as a
+method for expressing a meaning, then the grammar 
+of ALGOL is open to some criticism.

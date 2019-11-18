@@ -1,0 +1,10 @@
+An Inductive Approach to Language Translation
+The possibility of natural language translation
+by means of fixed operations on example translations 
+is considered.  The conception of sentence translation
+which motivates the work is informally presented, 
+and the measurement of physical similarity in pairs of
+strings is discussed, a notion which plays a central 
+role in the proposed type of translator.  Experimental
+evidence is presented in support of the premise 
+upon which this conception is based.

@@ -1,0 +1,34 @@
+laminar heat transfer over blunt-nosed bodies at hypersonic flight
+speeds .
+laminar heat transfer over blunt-nosed bodies at hypersonic flight
+speeds .
+this paper deals with two limiting cases of laminar heat transfer over
+blunt-nosed bodies at hypersonic flight speeds, or high stagnation
+temperatures..  (a) thermodynamic equilibrium, in which the chemical
+reaction rates are regarded as /very fast/ compared to the rates of diffusion
+across streamlines., (b) diffusion as rate-governing, in which the
+volume recombination rates within the boundary layer are /very slow/
+compared to diffusion across streamlines .  in either case the gas density
+near the surface of a blunt-nosed body is much higher than the density
+just outside the boundary layer, and the velocity and stagnation
+enthalpy profiles are much less sensitive to pressure gradient than in the
+more familiar case of moderate temperature differences .  in fact, in
+case (a), the nondimensionalized enthalpy gradient at the surface is
+represented very accurately by the /classical/ zero pressure gradient
+value, and the surface heat-transfer rate distribution is obtained
+directly in terms of the surface pressure distribution .  in order to
+illustrate the method, this solution is applied to the special cases
+of an unyawed hemisphere and an unyawed, blunt cone capped by a
+spherical segment .
+in the opposite limiting case where diffusion is rate-controlling the
+diffusion equation for each species is reduced to the same form as the
+low-speed energy equation, except that the prandtl number is replaced
+by the schmidt number .  the simplifications introduced in case (a) are
+also applicable here, and the expression for surface heat transfer rate
+is similar., the maximum value of the ratio between the rate of heat
+transfer by diffusion alone and by heat conduction alone in the case of
+thermodynamic equilibrium is given by..  (prandtl no./schmidt no .)
+when the diffusion coefficient is estimated by taking a reasonable value
+of atom-molecule collision cross section this ratio is 1.30 .
+additional theoretical and (especially) experimental studies are clearly
+required before these simple results are accepted .

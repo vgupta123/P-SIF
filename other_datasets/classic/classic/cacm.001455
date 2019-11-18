@@ -1,0 +1,17 @@
+TRAC, A Procedure-Describing Language for the Reactive Typewriter
+A description of the TRAC (Text Reckoning
+And Compiling) language and processing algorithm 
+is given.  The TRAC language was developed as the basis
+of a software package for the reactive typewriter. 
+ In the TRAC language, one can write procedures for
+accepting, naming and storing any character string 
+from the typewriter; for modifying any string in any way;
+for treating any string at any time as an executable 
+procedure, or as a name, or as text; and for printing
+out any string.  The TRAC language is based upon 
+an extension and generalization to character strings
+of the programming concept of the "macro."  Through 
+the ability of TRAC to accept and store definitions of
+procedures, the capabilities of the language can 
+be indefinitely extended, and can deal with character
+strings, integers and Boolean vector variables.

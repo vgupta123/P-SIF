@@ -1,0 +1,11 @@
+Coding the Lehmer Pseudo-random Number Generator
+An algorithm and coding technique is presented
+for quick evaluation of the Lehmer pseudo-random 
+number generator modulo 2**31 - 1, a prime Mersenne
+number with produces 2**31 - 2 numbers, on a p-bit 
+(greater than 31) computer.  The computation method is
+extendible to limited problems in modular arithmetic. 
+ Prime factorization for 2**61 - 2 and a primitive root
+for 2**61 - 1, the next largest prime Mersenne 
+number, are given for possible construction of a pseudo-random
+number generator of increased cycle length.

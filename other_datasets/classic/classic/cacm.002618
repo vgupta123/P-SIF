@@ -1,0 +1,4 @@
+A New Solution of Dijkstra's Concurrent Programming Problem
+A simple solution to the mutual exclusion problem
+is presented which allows the system to continue 
+to operate despite the failure of any individual component.

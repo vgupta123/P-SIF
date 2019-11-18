@@ -1,0 +1,20 @@
+Further Remarks on Line Segment Curve-Fitting Using Dynamic Programming
+In a recent paper, Bellman showed how dynamic
+programming could be used to determine the solution 
+to a problem previously considered by Stone.  The problem
+comprises the determination, given N, of the 
+N points of subdivision of a given interval (a,B) and
+the corresponding line segments, that give the 
+best least squares fit to a function g(x) in the interval.
+ Bellman confined himself primarily to the 
+analytical derivation, suggesting briefly, however,
+how the solution of the equation derived for each 
+particular point of subdivision u(i) could be reduced to
+a discrete search.  In this paper, the computational 
+procedure is considered more fully, and the similarities
+to some of Stone's equations are indicated. 
+ It is further shown that an equation for u(i) involving
+no minimization may be found.  In addition, 
+it is shown how Bellman's method may be applied to the
+curve-fitting problem when the additional constraints 
+are added that the ends of the line segments must be on the curve.

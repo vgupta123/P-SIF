@@ -1,0 +1,16 @@
+Reconstruction of Pictures from Their Projections
+There are situations in the natural sciences
+and medicine (e.g. in electron microscopy and 
+X-ray photography) in which it is desirable to estimate the
+gray levels of a digital picture at the individual 
+points from the sums of the gray levels along straight
+lines (projections) at a few angles.  Usually, 
+in such situations, the picture is far from determined
+and the problem is to find the "most representative" 
+picture.  Three algorithms are described (all using
+Monte Carlo methods) which were designed to solve 
+this problem.  The algorithms are applicable in a large
+and varied number of fields.  The most important 
+uses may be the reconstruction of possibly asymmetric particles
+from electron micrographs and three-dimensional 
+X-ray analysis.

@@ -1,0 +1,11 @@
+Multiple Terminals Under User Program
+Control in a Time-Sharing Environment
+User-written programs on the Dartmouth Time-Sharing
+system can communicate with many remote 
+terminals simultaneously and can control the interactions
+between these terminals.  Such programs can 
+be written using standard input and output instructions
+in any language available on the system.  This 
+paper describes how this multiple-terminal facility
+was implemented without requiring any changes in 
+the system executive or in any of the system's compilers or interpreters.

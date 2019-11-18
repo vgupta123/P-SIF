@@ -1,0 +1,13 @@
+Structured Multiprogramming
+This paper presents a proposal for structured
+representation of multiprogramming in a high 
+level language.  The notation used explicitly associates
+a data structure shared by concurrent processes 
+with operations defined on it.  This clarifies the meaning
+of programs and permits a large class of time-dependent 
+errors to be caught at compile time.  A combination of
+critical regions and event variables enables the 
+programmer to control scheduling of resources among
+competing processes to any degree desired.  These 
+concepts are sufficiently safe to use not only within
+operating systems but also within user programs.

@@ -1,0 +1,15 @@
+Systematic Recursion Removal
+The recursion removal algorithm presented
+by Strong and Walker is amplified and applied to 
+a relatively complex PL/I program.  The aim is to demonstrate
+systematic recursion-removal techniques 
+on something more complex than Knuth's "sturdy toddler"
+and to obtain measurements of the cost of procedure 
+linkage in PL/I and the savings achievable via procedure
+integration in the presence of recursion.  First, 
+the paper describes the recursion-removal process and the
+example on which it will be illustrated.  Recursion 
+removal is then applied to the two major parts of this
+example and the final result of the process is 
+displayed.  Our performance comparison results are presented
+and our conclusions are briefly discussed. 

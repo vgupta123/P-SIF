@@ -1,0 +1,13 @@
+Simple LR(k) Grammars
+A class of context-free grammars, called the
+"Simple LR(k)" or SLR(k) grammars is defined. 
+ This class has been shown to include weak precedence
+and simple precedence grammars as proper subsets. 
+ How to construct parsers for the SLR(k) grammars is
+also shown.  These parser-construction techniques 
+are extendible to cover all of the LR(k) grammars of
+Knuth; they have been implemented and by direct 
+comparison proved to be superior to precedence techniques,
+not only in the range of grammars covered, 
+but also in the speed of parser construction and
+in the size and speed of the resulting parsers.

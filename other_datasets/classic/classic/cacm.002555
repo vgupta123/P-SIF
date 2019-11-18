@@ -1,0 +1,14 @@
+Variable-Precision Exponentiation
+A previous paper presented an efficient algorithm,
+called the Recomputation Algorithm, for 
+evaluating a rational expression to within any desired tolerance
+on a computer which performs variable-precision 
+arithmetic operations.  The Recomputation Algorithm can be
+applied to expressions involving any variable-precision 
+operations having O(10^(-p) + SUM{|Ei|}) error bounds,
+where p denotes the operation's precision and 
+Ei denotes the error in the operation's ith argument.
+ This paper presents an efficient variable-precision 
+exponential operation with an error bound of the above
+order.  Other operations such as log, sin, and 
+cos, which have simple series expansions, can be handled similarly.

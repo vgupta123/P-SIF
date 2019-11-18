@@ -1,0 +1,17 @@
+Dynamic Partitioning for Array Languages
+The classical process of partitioning an array
+into subarrays is extended to a more useful 
+array language operation.  Various modes of partitioning
+are defined for different types of arrays, so 
+that subarrays may vary over the original array in
+a nearly arbitrary manner.  These definitions are 
+motivated with several realistic examples to illustrate
+the value of partitioning for array languages. 
+ Of general interest is the data structure for partitioning.
+ This consists of dynamic tree structures 
+which are used to derive and maintain the array control
+information.  These are described in sufficient 
+detail to be of value in the design of other array languages.
+ The description presented in this paper 
+is implemented in a new array language, OL/2, currently
+under development at the University of Illinois.

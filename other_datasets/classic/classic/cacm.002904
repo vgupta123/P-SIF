@@ -1,0 +1,7 @@
+An Algorithm for Reduction of Operator Strength
+A simple algorithm which uses an indexed temporary
+table to perform reduction of operator strength 
+in strongly connected regions is presented.  Several extensions,
+including linear function test replacement, 
+are discussed.  These algorithms should fit well into an
+integrated package of local optimization algorithms.

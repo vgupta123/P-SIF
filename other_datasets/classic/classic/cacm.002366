@@ -1,0 +1,12 @@
+Complex Gamma Function with Error Control
+An algorithm to compute the gamma function and
+log gamma function of a complex variable is presented. 
+ The standard algorithm is modified in several respects
+to insure the continuity of the function value 
+and to reduce accumulation of round-off errors.  In
+addition to computation of function values, this 
+algorithm includes an object-time estimation of round-off
+errors.  Experimental data with regard to the 
+effectiveness of this error control are presented. 
+A Fortran program for the algorithm appears in the 
+algorithms section of this issue.

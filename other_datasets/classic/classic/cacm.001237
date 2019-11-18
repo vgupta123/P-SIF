@@ -1,0 +1,12 @@
+Conversion of Decision Tables To Computer Programs
+Several translation procedures for the conversion
+of decision tables to programs are presented 
+and then evaluated in terms of storage requirements,
+execution time and compile time.  The procedures 
+are valuable as hand-coding guides or as algorithms for
+a compiler.  Both limited-entry and extended-entry 
+tables are analyzed.  In addition to table analysis,
+the nature of table-oriented programming languages 
+and features is discussed.  It is presumed that the reader
+is familiar with the nature of decision tables 
+and conventional definitions.

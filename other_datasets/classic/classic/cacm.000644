@@ -1,0 +1,14 @@
+A String Language for Symbol Manipulation Based on ALGOL 60
+An artificial computer programming language
+is proposed for describing the manipulation of 
+strings of characters and symbols.  The concept of strings,
+introduced in the ALGOL 60 report, is extended 
+by adding: (1) the declaration of strings, substrings,
+and string arrays with explicit lengths; (2) the 
+ability to concatenate and shift strings; and (3) the
+ranking of symbols for comparing stings in Boolean 
+relations.  A primer or informal description of the
+language is followed by examples, a description of 
+experiments with the language on an IBM 704 computer,
+and a formal description which, taken with the 
+ALGOL 60 Report, defines the proposed string language.

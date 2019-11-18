@@ -1,0 +1,8 @@
+Data Input by Question and Answer
+A data input scheme for a time-sharing computer
+is described in this paper.  Instead of using
+format statements to determine the input, the computer
+asks the user for the required values one at a 
+time.  The computer converses with the user during the
+input process, checks for errors, provides standard 
+data, and allows editing of values input.

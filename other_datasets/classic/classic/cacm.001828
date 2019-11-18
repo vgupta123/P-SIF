@@ -1,0 +1,11 @@
+Synchronization in a Parallel-Accessed Data Base
+The following problem is considered:  Given
+a data base which can be manipulated simultaneously 
+by more than one process, what are the rules for synchronization
+which will maximize the amount of parallel 
+activity allowed.  It is assumed that the data base
+can be represented as a graph.  An example of such 
+a data base is a hierarchy of directories for an on-line
+file system.  Methods for synchronization of 
+processes are examined; their validity is
+discussed and their performance compared.

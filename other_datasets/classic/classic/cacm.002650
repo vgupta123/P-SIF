@@ -1,0 +1,12 @@
+Order-n Correction for Regular Languages
+A method is presented for calculating a string
+B, belonging to a given regular language L, 
+which is "nearest" (in number of edit operations) to a
+given input string a.  B is viewed as a reasonable 
+"correction" for the possibly erroneous string a, where
+a was originally intended to be a string of L. 
+ The calculation of B by the method presented requires
+time proportional to |a|, the number of characters 
+in a.  The method should find applications in information
+retrieval, artificial intelligence, and spelling 
+correction systems.

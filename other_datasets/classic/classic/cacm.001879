@@ -1,0 +1,22 @@
+A Note on Storage Fragmentation and Program Segmentation
+The main purpose of this paper is the presentation
+of some of the results of a series of simulation 
+experiments investigating the phenomenon of storage fragmentation.
+ Two different types of storage fragmentation 
+are distinguished: (1) external fragmentation, namely the
+loss in storage utilization caused by the inability 
+to make use of all available storage after it has been
+fragmented into a large number of separate blocks; 
+and (2) internal fragmentation, the loss of utilization
+caused by rounding up a request for storage, 
+rather than allocating only the exact number of words required.
+ The most striking result is the apparently 
+general rule that rounding up requests for storage,
+to reduce the number of different sizes of blocks 
+coexisting in storage, causes more loss of storage
+by increased internal fragmentation than is saved 
+by decreased external fragmentation.  Described also are
+a method of segment allocation and an accompanying 
+technique for segment addressing which take advantage
+of the above result.  Evidence is presented of 
+possible advantages of the method over conventional paging techniques.

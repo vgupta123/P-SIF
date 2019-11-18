@@ -1,0 +1,16 @@
+acoustical signal detection in turbulent airflow .
+acoustical signal detection in turbulent airflow .
+  improvement in detected signal-to-noise ratio is obtained
+for a periodic signal masked by additive noise
+and turbulent noise backgrounds .  comparisons are made
+between autocorrelation, crosscorrelation, and a
+combination of frequency filtering and crosscorrelation .
+although the latter method provided the greatest
+improvement, the crosscorrelation technique was the
+most successful single method .  it turned out that
+the maximum improvement obtainable was limited by
+the dynamic range of the correlator computer and
+not by errors due to finite averaging time and scanning
+the delay .  the improvement for signals masked by
+turbulent noise was found to be about 5 db less than that
+obtained for additive noise .

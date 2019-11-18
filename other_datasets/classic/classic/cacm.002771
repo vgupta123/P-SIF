@@ -1,0 +1,12 @@
+The Synthesis of Solids Bounded by Many Faces
+A technique is presented which allows a class
+of solid objects to be synthesized and stored 
+using a computer.  Synthesis begins with primitive solids
+like a cube, wedge, or cylinder.  Any solid 
+can be moved, scaled, or rotated.  Solids may also be
+added together or subtracted.  Two algorithms to 
+perform addition are described.  For practical designers,
+the technique has the advantage that operations 
+are concise, readily composed, and are given in terms
+of easily imagined solids.Quite short sequences 
+of operations suffice to build up complex solids bounded by many faces.

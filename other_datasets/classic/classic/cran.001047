@@ -1,0 +1,54 @@
+the bending strength of pressurized cylinders .
+the bending strength of pressurized cylinders .
+be described here is attributed to the russian
+investigator v. g. galerkin, whose original papers are
+inaccessible to the present writer .  his knowledge
+of the method is derived from a description given in
+a paper by e. p. grossman .  grossman states
+that the method was given by galerkin in his treatise
+p. 897), and that applications to oscillation problems
+were first made by v. p. lyskov .  it is pointed
+out by grossman that galerkin's process in applications
+to mechanics leads to the same results as
+lagrange's principle of virtual work, but employs a
+special co-ordinate system .
+  the method of galerkin belongs to the same general
+class as those of rayleigh and ritz, for it seeks
+to obtain an approximate solution of a differential
+equation with given boundary conditions by taking
+a function which satisfies these conditions exactly,
+and proceeds to specialise the function in such a
+manner as to secure approximate satisfaction of the
+differential equation .  the selected function is
+a linear combination of n independent functions, and
+the coefficients are determined by a process of
+integration .
+  the galerkin process can be considered from two
+points of view, (a) simply as a means for the
+approximate solution of differential equations, and
+treatment of problems concerning the statics and
+dynamics of elastic and other deformable bodies .
+these two aspects are treated separately in parts 1
+and 2 of the paper respectively, and will now
+be briefly discussed .
+which satisfies the boundary conditions, in
+the differential equation be .  since the result should be
+zero, is the error in the differential equation .
+then the galerkin process consists in choosing the n
+coefficients in the function in such a manner that
+n distinct weighted means of the error, taken throughout
+a certain range of representation, shall all
+be zero .
+as a generalised force, and the multipliers used
+to weight the errors are the virtual displacements
+corresponding to increments of each of the generalised
+co-ordinates in turn .  thus the vanishing of the
+weighted mean is here interpreted as the vanishing
+of the virtual work in the appropriate displacement .
+  the degree of accuracy attaindd can be increased
+indefinitely by increasing the number of
+independent functions employed, but this entails a great
+increase of labour .  however, when the functions
+are well chosen, an excellent approximation can be
+obtained by the use of a very small number, as is
+sufficiently shown by the examples included in this paper .

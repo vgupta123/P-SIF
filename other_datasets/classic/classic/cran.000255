@@ -1,0 +1,22 @@
+an approximate solution of the turbulent boundary layer
+equations in incompressible and compressible .
+an approximate solution of the turbulent boundary layer
+equations in incompressible and compressible .
+  if over the 'outer region' of the boundary layer, where the mean
+velocity varies but little from its value outside the shear layer, a
+virtual eddy viscosity is defined, which is constant over the outer
+region but varies in the direction of the mainstream, a solution of the
+turbulent boundary layer equations can be found which satisfies the
+appropriate boundary conditions .  the solution leads to a compatibility
+condition for the virtual eddy viscosity in terms of the wall shear
+stress, the boundary layer momentum thickness and the mainstream
+velocity, at least for the case of a constant external velocity .  this
+compatibility condition, which can be expressed as
+for moderate to high reynolds numbers, where is the shear velocity,
+is the boundary layer thickness and is the virtual eddy (kinematic)
+viscosity, is just the condition townsend (1956) found for the
+equilibrium of the large eddies .  the numerical value of the constant
+derived by townsend agrees with ours for reynolds numbers (based on x)
+of about .  with this relation for an equation, analoguous to the
+momentum integral equation solution, can be found for as a function of
+local freestream velocity, with one disposable parameter .

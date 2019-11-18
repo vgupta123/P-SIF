@@ -1,0 +1,13 @@
+Interval Arithmetic Determinant Evaluation
+and Its Use in Testing for a Chebyshev System
+Two recent papers, one by Hansen and one by
+Hansen and R. R. Smith, have shown how Interval 
+Arithmetic (I.A.) can be used effectively to bound errors
+in matrix computations.  In the present paper 
+a method proposed by Hasen and R. R. Smith is compared
+with straightforward use of I.A. in determinant 
+evaluation.  Computational results show the accuracy
+and running times that can be expected when using 
+I.A. for determinant evaluation.  An application using
+I.A. determinants in a program to test a set of 
+functions to see if they form a Chebyshev system is then presented.

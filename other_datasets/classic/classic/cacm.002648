@@ -1,0 +1,9 @@
+A Design for a Number Theory Package
+with an Optimized Trial Division routine
+A number theory package is described which uses
+doubly linked list structures for storing multiprecise 
+integers.  The package has been coded in IBM's Basic
+Assembly Language and makes heavy use of the macro 
+language and conditional assembly.  An optimally coded
+trial division routine is also described which 
+can be used to determine the unique factorization of large integers.

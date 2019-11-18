@@ -1,0 +1,40 @@
+a new series for calculation of steady laminar boundary
+layer flows .
+a new series for calculation of steady laminar boundary
+layer flows .
+  a new and general method for solving
+problems of plane and steady laminar
+boundary layer flows in incompressible
+fluids with arbitrary outer pressure
+distribution is developed .  this method
+is based on the introduction of the
+dimensionless quantities
+as new independent spatial variables .
+ordinates, u(x) the given outer velocity
+distribution, v the kinematic viscosity .)
+the solution of the boundary layer problem
+is then given as a power series in e
+with coefficient functions depending on n .
+this series is a formally exact solution
+of the boundary layer problem .
+  the new series solution has the following qualities ..
+      have the significance only of cartesian
+      coordinates, the influence of wall
+      curvature being neglected in boundary
+      layer theory, the new coordinates
+      are adjusted to the data of the special
+      problem in any case of application .
+      the new variables represent a logical
+      development of former efforts in
+      the field of boundary-layer flow calculation .
+      with other series solutions known for
+      some special cases is that the leading
+      term of the new series satisfies
+      exactly the outer boundary condition
+      at all cross-sections along the wall .
+      therefore, the succeeding terms give
+      corrections only in the inner part of
+      the boundary layer .  accordingly,
+      taking also no. 1 into account, the zero
+      order term by itself gives a good
+      approximation for the boundary layer flow .

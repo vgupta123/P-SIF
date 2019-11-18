@@ -1,0 +1,18 @@
+Achieving Specific Accuracy in Simulation Output Analysis
+This paper extends the use of the regenerative
+property of queueing systems in the analysis 
+of simulation output.  In particular, it describes a
+sequential estimation method which when used with 
+the regenerative property allows results to be obtained
+with specified statistical accuracy.  This method 
+includes a test to check the normality assumption on
+which the sequential procedure relies.  The paper 
+illustrates the method using the empty and idle state
+as the regenerative state.  A second example then 
+describes how using the most frequently entered state
+as the regenerative state reduces the chance of 
+making a costly error in a preliminary simulation run.
+ The paper also described how a variance reduction 
+method due to Page [9] can be used to obtain a specified
+accuracy with considerably fewer job completions 
+than are required when no variance reduction technique is applied.

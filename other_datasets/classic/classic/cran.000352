@@ -1,0 +1,24 @@
+on heat transfer over a sweat-cooled surface in laminar
+compressible flow with a pressure gradient .
+on heat transfer over a sweat-cooled surface in laminar
+compressible flow with a pressure gradient .
+  a simple expression is derived for the normal injection velocity
+distribution theoretically required to maintain a given uniform
+temperature along a porous surface in the laminar
+boundary-layer region of a compressible flow with a given velocity
+distribution outside of the boundary layer .  this expression is valid for
+any given free-stream mach number but is based on a prandtl
+number of unity and on the assumption that the viscosity
+coefficient varies linearly with the temperature .  by using the
+dorodnitsyn type of transformation, the variation of fluid
+properties even in the case of zero mach number is taken into
+account .  this study is of particular practical interest in
+connection with the sweat-cooling of turbine blades and of airfoil surfaces
+in high speed flow .  the method of analysis consists of applying
+the karman-pohlhausen method to both the momentum and
+energy boundary-layer equations and of using an additional heat
+balance equation, involving the coolant temperature .  a
+closed-form approximate solution of the equations is then derived .
+numerical examples for flow in the immediate vicinity of a
+stagnation point and for a typical type of flow over a turbine blade are
+given .

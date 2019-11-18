@@ -1,0 +1,8 @@
+A Language for Treating Graphs
+A language for the representation of graph is described, and the formulation of 
+graph operations such as node and/or link deletion or insertion, union, 
+intersection, comparison, and traversal of graphs is given.  Graphs
+are represented by linked lists.  The language is syntactically defined
+as an extension to ALGOL 60, and it is translated into ALGOL
+by means of a syntax-driven compiler.  Application areas for this language are
+operation research, network problems, control theory, traffic problems, etc.

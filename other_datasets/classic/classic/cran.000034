@@ -1,0 +1,21 @@
+constant-temperature magneto-gasdynamic channel flow .
+constant-temperature magneto-gasdynamic channel flow .
+in the course of investigating boundary-layer flow in
+continuous plasma accelerators with crossed electric and
+magnetic fields, it was found advantageous to have at hand simple
+closed-form solutions for the magneto-gasdynamic flow in the
+duct which could serve as free-stream conditions for the boundary
+layers .  nontrivial solutions of this sort are not available at
+present, and in fact, as in the work of resler and sears, the
+variation of conditions along the flow axis must be obtained
+through numerical integration .
+  consequently, some simple solutions of magneto-gasdynamic
+channel flow were sought, possessing sufficient algebraic simplicity
+to serve as free-stream boundary conditions for analytic
+investigations of the boundary layer in a physically reasonable accelerator .
+in particular, since the cooling of the accelerator tube is likely to
+be an important physical problem because of the high gas
+temperatures required to provide sufficient gaseous conductivity,
+channel flow with constant temperature appears interesting .
+some simple algebraic solutions for the case of a constant
+temperature plasma are developed in the following paragraphs .

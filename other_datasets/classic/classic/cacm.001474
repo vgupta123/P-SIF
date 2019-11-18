@@ -1,0 +1,12 @@
+Tests of Probabilistic Models for Propagation of Roundoff Errors
+In any prolonged computation it is generally
+assumed that the accumulated effect of roundoff 
+errors is in some sense statistical.  The purpose of this
+paper is to give precise descriptions of certain 
+probabilistic models for roundoff error, and then to
+describe a series of experiments for testing the 
+validity of these models.  It is concluded that the models
+are in general very good.  Discrepancies are 
+both rare and mild.  The test techniques can also be
+used to experiment with various types of special 
+arithmetic.

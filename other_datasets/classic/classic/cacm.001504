@@ -1,0 +1,13 @@
+Algorithms for Finding a Fundamental Set
+of Cycles for an Undirected Linear Graph
+Given the adjacency matrix of the graph, the algorithm
+presented in this paper finds a spanning 
+tree and then constructs the set of fundamental cycles.
+ Our algorithm is slower than an algorithm presented 
+by Welch by a ratio of N/3 (N is the number of nodes)
+but requires less storage.  For graphs with a large 
+number of nodes and edges, when storage is limited our
+algorithm is superior to Welch's; however, when 
+the graphs are small, or machine storage is very large,
+Welch's algorithm is superior.  Timing estimates 
+and storage requirements for both methods are presented.

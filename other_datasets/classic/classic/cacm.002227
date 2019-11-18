@@ -1,0 +1,10 @@
+Proof of a Program: FIND
+A proof is given of the correctness of the
+algorithm "Find."  First, a informal description 
+is given of the purpose of the program and the method
+used.  A systematic technique is described for 
+constructing the program proof during the process of coding
+it, in such a way as to prevent the intrusion 
+of logical errors.  The proof of termination is treated
+as a separate exercise.  Finally, some conclusions 
+relating to general programming methodology are drawn.

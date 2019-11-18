@@ -1,0 +1,24 @@
+An English Language Question Answering System
+for a Large Relational Database
+By typing requests in English, casual users
+will be able to obtain explicit answers from a 
+large relational database of aircraft flight and maintenance
+data using a system called PLANES.  The 
+design and implementation of this system is described and
+illustrated with detailed examples of the operation 
+of system components and examples of overall system
+operation.  The language processing portion of the 
+system uses a number of augmented transition networks,
+each of which matches phrases with a specific 
+meaning, along with context registers (his tory keepers)
+and concept case frames; these are used for judging 
+meaningfulness of questions, generating dialogue for clarifying
+partially understood questions, and resolving 
+ellipsis and pronoun reference problems.  Other system components
+construct a formal query for the relational 
+database, and optimize the order of searching relations.
+ Methods are discussed for handling vague or 
+complex questions and for providing browsing ability.
+ Also included are discussions of important issues 
+in programming natural language systems for limited domains,
+and the relationship of this system to others. 

@@ -1,0 +1,8 @@
+Practical Syntactic Error Recovery
+This paper describes a recovery scheme for syntax
+errors which provides automatically-generated 
+high quality recovery with good diagnostic information
+at relatively low cost. Previous recovery techniques 
+are summarized and empirical comparisons are made.  Suggestions
+for further research on this topic conclude 
+the paper.

@@ -1,0 +1,13 @@
+Transition Network Grammars for Natural Language Analysis
+The use of augmented transition network grammars for the analysis
+of natural language sentences is described.  Structure-building
+actions associated with the arcs of the grammar network allow for the reordering,
+restructuring, and copying of constituents necessary to produce
+deep-structure representations of the type normally obtained from a
+transformational analysis, and conditions on the arcs allow for a
+powerful selectivity which can rule out meaningless analyses and take
+advantage of semantic information to guide the parsing.  The
+advantage of this model for natural language analysis are discussed
+in detail and illustrated by examples.  An implementation of an
+experimental parsing system for transition network grammars is briefly 
+described.

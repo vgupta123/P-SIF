@@ -1,0 +1,48 @@
+aerodynamic forces, moments and stability derivatives
+for slender bodies of general cross section .
+aerodynamic forces, moments and stability derivatives
+for slender bodies of general cross section .
+  the problem of determining the total
+forces, moments, and stability
+derivatives for a slender body performing
+slow maneuvers in a compressible
+fluid is treated within the assumptions
+of slender-body theory .  general
+expressions for the total forces (except
+drag) and moments are developed
+in terms of the geometry and motions of
+the airplane, and formulas for
+the stability derivatives are derived in
+terms of the mapping functions
+of the cross sections .
+  all components of the motion are
+treated simultaneously and second
+derivatives as well as first are obtained,
+with respect to both the
+motion components and their time rates of
+change .  coupling of the
+longitudinal and lateral motions is thus
+automatically included .  a number of
+general relationships among the various
+stability derivatives are found
+which are independent of the configuration,
+so that, at most, only 35
+of a total of 325 first and second
+derivatives need be calculated
+directly .  calculations of stability
+derivatives are carried out for two
+triangular wings with camber and thickness,
+one with a blunt trailing
+edge, and for two wing-body combinations, one having a plane wing and
+vertical fin .
+  the influence on the stability
+derivatives of the squared terms in
+the pressure relation is demonstrated,
+and the apparent mass concept as
+applied to slender-body theory is discussed
+at some length in the light
+of the present analysis .  it is shown that
+the stability derivatives can
+be calculated by apparent mass although the
+general expressions for the
+total forces and moments involve additional terms .

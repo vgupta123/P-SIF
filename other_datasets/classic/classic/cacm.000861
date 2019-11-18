@@ -1,0 +1,12 @@
+Read-Backward Polyphase Sorting
+Read-backward Polyphase sorting provides more
+efficient use of the tapes available to a sort 
+than most other sorting techniques.  Backward Polyphase
+produces a continuous merging process from n-1 
+tapes where n is the total number of tapes being used in
+the sorting process.  Any of the available presorting 
+techniques may be used in conjunction with the Polyphase
+merge sort provided that the presort has the 
+capability of producing both ascending and descending
+strings and distributing the strings on the various 
+tapes as required by the Polyphase Merge.

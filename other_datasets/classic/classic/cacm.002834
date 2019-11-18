@@ -1,0 +1,10 @@
+Efficient Generation of the Binary
+Reflected Gray Code and Its Applications
+Algorithms are presented to generate the n-bit
+binary reflected Gray code and codewords of 
+fixed weight in that code.  Both algorithms are efficient
+in that the time required to generate the next 
+element from the current one is constant.  Applications
+to the generation of the combinations of n things
+taken k at a time, the compositions of integers, and
+the permutations of a multiset are discussed.

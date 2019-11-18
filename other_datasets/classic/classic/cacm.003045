@@ -1,0 +1,8 @@
+A Simple Recovery-Only Procedure For SImple Precedence Parsers
+A simple method is described enabling simple
+precedence parsers to recover from syntax errors. 
+ No attempt to repair errors is made, yet parsing and
+most semantic processing can continue.  The result 
+is a good "first approximation" to syntax error handling
+with negligible increase in parsing time, space, 
+and complexity of both the parser and its table generator. 

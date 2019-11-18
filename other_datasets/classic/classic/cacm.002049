@@ -1,0 +1,5 @@
+Accurate Floating-Point Summation
+This paper describes an alternate method for summing a set
+of floating-point numbers.  Comparison of the error bound for
+this method with that of the standard summation method shows that it
+is considerably less sensitive to propagation of round-off error.

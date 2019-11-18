@@ -1,0 +1,10 @@
+An Anomaly in Disk Scheduling: A Comparison of
+FCFS and SSTF Seek Scheduling Using an Empirical 
+Model for Disk Accesses
+A model for disk accesses based on published
+measurements is developed.  The model is used 
+to show that under highly probable conditions, FCFS
+seek scheduling is superior to SSTF scheduling in 
+the sense of having a lower mean queue length.  A simple
+example of an arrival sequence illustration 
+this anomaly is presented.

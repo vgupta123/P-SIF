@@ -1,0 +1,16 @@
+Multilevel Operating Systems
+The Basic software for all newer computers
+is built on the well-established need for standard 
+operating systems. This implies that all applications-no
+matter how large, complex or time consuming-must 
+operate under (or, more precisely, on top of) the standard
+system.  Large applications require supervisory 
+monitors which handle problems similar to those of
+the operating systems, but at a different level.  
+Sometimes, still a third or even a fourth such level
+is required or desirable.  This leads naturally 
+to the concept of multilevel systems-similar vertically,
+but different horizontally.  Proper division 
+of responsibility between levels leads to greater efficiency and
+less logical complexity, while actually 
+enhancing capability.

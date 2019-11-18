@@ -1,0 +1,14 @@
+A Conceptual Framework for a Nonprocedural Programming Language
+A sequential programming language forces the
+programmer to prescribe explicitly the order in 
+which the operations in his program have to be executed,
+even if the order is not relevant to the solution 
+of his problem.  The requirement to indicate irrelevant
+sequencing can be removed if the language provides 
+facilities for specifying a task in a nonprocedural
+manner.  In general, a program specified in this 
+way will allow concurrent evaluation.  This paper describes
+a conceptual framework for a high level programming 
+language providing both nonprocedural and sequential
+facilities.  Within a program, nonprocedural and 
+sequential program modules may be nested freely.

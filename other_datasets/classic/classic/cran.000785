@@ -1,0 +1,15 @@
+the flow of fluid along cylinders .
+the flow of fluid along cylinders .
+the boundary layer equations for uniform flow parallel to the generators
+ of any cylinder without corners are put into the form of a series of
+linear third-order differential equations . the first three of these are
+ the same as those obtained by seban and bond /1/ for a circular
+cylinder and solved by kelly /2/ . the rest have additional terms
+depending on the radius of curvature of the cylinder and its derivatives . the
+ problem is also attacked by a pohlhausen method as far as four terms of
+ the series . for large distances from the front, rayleigh's method, as
+given by hasimoto /3/, gives the first two terms of an asymptotic
+expansion for the drag . explicit calculations are made of the drag of
+an elliptic cylinder of eccentricity 1/2 3 . there is evidence that the
+drag is everywhere less than that of a circular cylinder of the same
+perimeter .

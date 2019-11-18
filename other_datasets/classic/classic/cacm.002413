@@ -1,0 +1,7 @@
+A Note on Subexpression Ordering in
+the Execution of Arithmetic Expressions
+A counterexample to the supposed optimality
+of an algorithm for generating schedules for trees 
+of tasks with unequal execution times is presented.
+ A comparison with the "critical path" heuristic 
+is discussed.

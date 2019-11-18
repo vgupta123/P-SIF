@@ -1,0 +1,7 @@
+A Multiple-Precision Division Algorithm
+A generalized division algorithm for use with positive integral operands is 
+presented.  Depending upon the algebraic relationship of the first
+two ciphers of the divisor, one or at most two adjustments to the original 
+divisor and dividend must be performed before the division operation can be 
+initiated. The uniqueness of this method will cause each trial cipher in the 
+quotient to be either equal to or one greater than its final replacement.

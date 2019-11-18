@@ -1,0 +1,6 @@
+A Class of Dynamic Memory Allocation Algorithms
+Anew dynamic memory allocation algorithm, the
+Fibonacci system, is introduced.  This algorithm 
+is similar to, but seems to have certain advantages over,
+the "buddy" system.  A generalization is mentioned 
+which includes both of these systems as special cases.

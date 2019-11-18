@@ -1,0 +1,5 @@
+An Algorithm for Reasoning About Equality
+A simple technique for reasoning about equalities
+that is fast and complete for ground formulas 
+with function symbols and equality is presented.
+ A proof of correctness is given as well. 

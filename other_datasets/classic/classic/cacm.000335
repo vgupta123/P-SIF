@@ -1,0 +1,10 @@
+Some Numerical Experiments Using Newton's Method
+for Nonlinear Parabolic and EllipticBoundary-Value 
+Problems
+Using a generalization of Newton's method, a nonlinear
+parabolic equation of the form U(t)-U(xx)=g(U) 
+and a nonlinear elliptic equation U(xx)+U(yy)=exp(U)
+are solved numerically Comparison of these results 
+with results obtained using the Picard iteration procedure
+show that in many cases the quisi linearization 
+method offers substantial advantages in both time and accuracy.

@@ -1,0 +1,22 @@
+stability derivatives of cones at supersonic speeds .
+stability derivatives of cones at supersonic speeds .
+  the aerodynamic stability derivatives due to pitching velocity and
+vertical acceleration are calculated by use of potential theory for
+circular cones traveling at supersonic speeds .  the analysis is based on
+two theoretical techniques used successfully previously in application
+to the case of uniform axial and inclined flow .  in the first,
+potential solutions for axial flow and crossflow are derived from the
+first-order wave equation but in application to calculations for the
+forces no approximations are made either to the tangency condition or
+to the isentropic pressure relation .  the second method consists in
+combining the first-order crossflow potential with an axial-flow
+potential correct to second order .  closed-form solutions by both
+methods are found for a cone, and numerical results for the stability
+derivatives are presented as a function of mach number for cones having
+semivertex angles of 10 and 20 .
+  in addition, expressions for the forces, moments, and stability
+derivatives of arbitrary bodies of revolution are obtained using
+newtonian impact theory .  numerical results for cones compare well
+with those obtained from the combined first- and second-order potential
+theory at the highest mach number for which the latter theory is
+applicable .

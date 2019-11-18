@@ -1,0 +1,5 @@
+Line Numbers Made Cheap
+A technique is described for run-time line number administration
+to be used for implementations of high level languages.  Under suitable
+circumstances, this method requires absolutely no overhead,
+in either time or space, during execution of the program. 

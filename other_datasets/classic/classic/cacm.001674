@@ -1,0 +1,16 @@
+One-Line Random Number Generators and Their Use in Combinations
+Some one-line random number generators, i.e.
+generators requiring a single FORTRAN instruction 
+are discussed, and some short FORTRAN programs which
+mix several such generators are described.  The 
+aim is to provide methods for incorporating random number
+generators directly in FORTRAN programs, by 
+means of a few in-line instructions.  The advantages are
+speed (avoiding linkage to and from a subroutine), 
+convenience, and versatility.  Anyone wishing to experiment
+with generators, either using congruential 
+generators by themselves or mixing several generators
+to provide a composite with potentially better 
+statistical properties than the library generators
+currently available, may wish to consider some of 
+the simple FORTRAN program discussed here. 

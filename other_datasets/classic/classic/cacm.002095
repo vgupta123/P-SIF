@@ -1,0 +1,10 @@
+Measurements of Segment Size
+Distributions of segment sizes measured under routine operating con
+ditions on a computer system which utilizes variable sized segments
+(the Burroughs B5500) are discussed.  The most striking feature
+of the measurements is the large number of small segments-about 60
+percent of the segments in use contain less than 40 words.  Although
+the results are certainly not installation independent, and although they 
+are particularly influenced by features of the B5500 ALGOL system, they 
+should be relevant to the design of new computer systems,
+especially with respect to the organization of paging schemes.

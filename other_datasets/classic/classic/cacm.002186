@@ -1,0 +1,20 @@
+Numerical Properties of the Ritz-Trefftz Algorithm for Optimal Control
+In this paper the Ritz-Trefftz algorithm is applied
+to the computer solution of the state regulator 
+problem.  The algorithm represents a modification of
+the Ritz direct method and is designed to improve 
+the speed of solution and the storage requirements to
+the point where real-time implementation becomes 
+feasible.  The modification is shown to be more stable
+computationally than the traditional Ritz approach. 
+ The first concern of the paper is to describe the
+algorithm and establish its properties as a valid 
+and useful numerical technique.  In particular such useful
+properties as definiteness and reasonableness 
+of condition are established for the method.  The second
+part of the paper is devoted to a comparison 
+of the new techniques with the standard procedure of
+numerically integrating a matrix Riccati equation 
+to determine a feedback matrix.  The new technique is
+shown to be significantly faster for comparable 
+accuracy.

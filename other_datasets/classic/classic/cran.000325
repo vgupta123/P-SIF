@@ -1,0 +1,30 @@
+heat transfer to constant property laminar boundary
+layer flows with power function free stream velocity
+and wall temperature variation .
+heat transfer to constant property laminar boundary
+layer flows with power function free stream velocity
+and wall temperature variation .
+  numerical computations have been performed for the
+boundary-layer form of the energy equation for incompressible flows
+with power-function variation of free-stream velocity (u =
+cx) and of wall temperature (t = ax), the pertinent solutions
+of the momentum equation in this case being those of hartree .
+the numerical computations given herein are to some extent a
+repetition of those given by schuh and by chapman and rubesin,
+the object of the present computations being the resolution of
+discrepancies appearing in the previous solutions and an extension of
+their range .  ibm machine calculations were employed in the
+finite difference calculation presently utilized, the results thereof
+covering a range of wall-temperature function exponents from
+values of m(4, 1, 0, -0.0904) .  the accuracy of the numerical
+computations is examined in detail, and the accuracy of the
+computed functions at the wall, which determine the heat-transfer
+rate, is estimated to be within 2 per cent .
+  examination of the results reveals that the results of schuh
+for the flat plate are in error .  for the range of the calculations,
+it was found that the local heat-transfer coefficient can, with the
+exception of large negative values, be expressed within 5
+per cent as
+where the exponent of the prandtl number varies from 0.254
+to 0.367 for -0.0904 and where the function
+can be approximated by the equation

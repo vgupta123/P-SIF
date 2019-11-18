@@ -1,0 +1,25 @@
+a geometric problem related to the optimum distribution
+of lift on a planar wing in supersonic flow .
+a geometric problem related to the optimum distribution
+of lift on a planar wing in supersonic flow .
+  the problem studied may be regarded as a problem of
+geometry .  its simplest form (loosely stated) is then as follows ..  a
+mountain rises up from the x-y plane .  determine the exact
+shape of the mountain knowing only the cross-sectional area of
+every possible cut which can be made through the mountain with
+a vertical plane .  in a more complicated version of the problem,
+the given information might be restricted to the cross-sectional
+area of every cut which can be made by a vertical plane inclined
+less than 45 to the y-axis .
+  this latter case has direct applications to certain minimum
+drag problems in supersonic flow .  the shape of the mountain
+corresponds to the (unknown) shape of the optimum lift
+distribution on a planar wing .  the cross-sectional area of a cut is
+the integrated value of the lift along a straight line crossing the
+wing plan form .  for a restricted range of line inclinations, these
+optimum integrated lift values can sometimes be determined
+directly .  here it is assumed that they are given .
+  the problem in its simplest form was originally solved by
+radon, who found solutions for a large class of such problems .
+the derivation presented here may perhaps be more readily
+understood .

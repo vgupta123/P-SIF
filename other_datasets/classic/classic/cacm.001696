@@ -1,0 +1,11 @@
+An Algorithm for Identifying the Ergodic Subchains
+and Transient States of a Stochastic Matrix
+An algorithm for identifying the ergodic subchains
+and transient states of a stochastic matrix
+is presented.  Applications in Markov renewal programming
+and in the construction of variable length 
+codes are reviewed, and an updating procedure for dealing
+with certain sequences of stochastic matrices 
+is discussed.  Computation times are investigated experimentally
+and compared with those of another recently 
+propose method.

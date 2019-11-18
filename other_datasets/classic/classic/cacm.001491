@@ -1,0 +1,20 @@
+EULER: A Generalization ALGOL, and its Formal Definition: Part I*
+A method for defining programming languages is
+developed which introduces a rigorous relationship 
+between structure and meaning.  The structure of a
+language is defined by a phrase structure syntax, 
+the meaning in terms of the effects which the execution
+of a sequence of interpretation rules exerts 
+upon a fixed set of variables, called the Environment.
+ There exists a one-to-one correspondence between 
+syntactic rules and interpretation rules is determined by
+the sequence of corresponding syntactic reductions 
+which constitute a parse.  The individual interpretation
+rules are explained in terms of an elementary 
+an d obvious algorithmic notation.  A constructive
+method for evaluating a text is provided, and for 
+certain decidable classes of languages their unambiguity
+is proved.  As an example, a generalization 
+of ALGOL is described in full detail to demonstrate that
+concepts like block-structure, procedures, parameters, 
+etc. can be defined adequately and precisely by this method.

@@ -1,0 +1,27 @@
+tables of exact laminar-boundary layer solutions when
+the wall is porous and fluid properties are variable .
+tables of exact laminar-boundary layer solutions when
+the wall is porous and fluid properties are variable .
+  the three partial differential equations of the laminar boundary
+layer for two-dimensional steady-state compressible flow have been
+transformed into two ordinary differential equations by the method of
+pohlhausen, falkner, and skan .  the ordinary equations include
+parameters for expressing the simultaneous effects of pressure gradient in
+the main-stream flow through a porous wall and property changes in the
+fluid due to large temperature differences between the wall and the
+free stream .
+  a total of 58 cases have been solved numerically by the method of
+picard .  the euler number (nondimensional pressure-gradient parameter)
+ranges in value from 1 (stagnation-point value) to the negative values
+found at the laminar separation points .  three rates of flow through
+the porous wall were considered (including the impermeable case where
+the flow rate is 0) .  five temperature ratios (stream temperature
+divided by wall temperature) were used ..  the uncooled and unheated
+case (temperature ratio of 1), two cooled cases (temperature ratios of
+ture ratios of and ) .  velocity, weight-flow, and temperature
+distributions are tabulated as are the dimensionless stream function of
+falkner and skan and its derivatives and the dimensionless temperature
+function of pohlhausen and its derivatives .
+  for each case, displacement, momentum, and convection thicknesses,
+as well as nusselt number and coefficient of friction at the wall, were
+computed .

@@ -1,0 +1,21 @@
+magnetohydrodynamic flow past a semi-infinite plate .
+magnetohydrodynamic flow past a semi-infinite plate .
+  the flow of viscous electrically conducting fluid
+past a semi-infinite plate is considered .  the
+applied constant magnetic field and the constant
+on-coming velocity of the fluid are in the direction parallel
+to the plate .
+  in addition to reynolds number the flow in the
+boundary layer depends on two parameters
+and .  the two simultaneous
+ordinary nonlinear differential equations are solved by
+the asymptotic method for the cases when
+and respectively .
+  the main results obtained are as follows .  the
+equations can be solved exactly for and  .
+the perturbation effect from infinity when k is large
+depends on, whereas the perturbation effect from
+zero when k is small depends on .  for large k,
+including there is no solution for .  it is
+assumed that the fluid is incompressible with constant
+physical properties .

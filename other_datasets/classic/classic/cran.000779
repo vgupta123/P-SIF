@@ -1,0 +1,22 @@
+calculation and compilation of the unsteady lift functions for a rigid
+wing subjected to sinusoidal gusts and to sinusoidal sinking
+oscillations .
+calculation and compilation of the unsteady lift functions for a rigid
+wing subjected to sinusoidal gusts and to sinusoidal sinking
+oscillations .
+the total lift responses of wings to sinusoidal gusts and to sinusoidal
+vertical oscillations are calculated from the response to gust
+penetration and to a sudden change in sinking velocity through use of the
+well-established reciprocal relations for unsteady flow . the cases
+considered are two-dimensional wings in incompressible, subsonic
+compressible, sonic, and supersonic flow,. elliptical and rectangular wings
+ in incompressible flow,. wide rectangular and delta wings in supersonic
+ flow,. and delta wings of vanishingly low aspect ratio in
+incompressible and compressible flow . for most of the cases considered,
+closed-form expressions are given and the final results are presented in
+ the form of plots of the square of the modulus of the lift coefficient
+for wings in a sinusoidally oscillating gust and in the form of the real
+ and imaginary parts of the lift component for wings undergoing
+sinusoidal sinking oscillations . a summary table is presented as a guide to
+ the scope and results of this paper,. this table contains the figure
+and equation numbers for the types of flow and plan forms considered .

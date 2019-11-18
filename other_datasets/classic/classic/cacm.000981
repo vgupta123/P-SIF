@@ -1,0 +1,10 @@
+Rounding Problems in Commercial Data Processing
+A common requirement in commercial data processing
+is that the sum of a set of numbers, rounded 
+in a generally understood manner, be equal to the sum
+of the numbers rounded individually.  Four rounding 
+procedures are described to accomplish this.  The particular
+procedure that is appropriate depends upon 
+whether the numbers being accumulated can vary in sign,
+whether their sum can vary in sign, and whether 
+the last number being summed can be recognized as such prior to its rounding.

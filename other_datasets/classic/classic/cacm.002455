@@ -1,0 +1,14 @@
+A Generalization of AVL Trees
+A generalization of AVL trees is proposed in
+which imbalances up to (triangle shape) is a small 
+integer.  An experiment is performed to compare these
+trees with standard AVL trees and with balanced 
+trees on the basis of mean retrieval time, of amount
+of restructuring expected, and on the worst case 
+of retrieval time.  It is shown that, by permitting
+imbalances of up to five units, the retrieval time 
+is increased a small amount while the amount of restructuring
+required is decreased by a factor of ten. 
+ A few theoretical results are derived, including the correction
+of an earlier paper, and are duly compared 
+with the experimental data.  Reasonably good correspondence is found.

@@ -1,0 +1,36 @@
+the solution of small displacement, stability or vibration
+problems concerning a flat rectangular panel when the
+edges are either clamped or simply supported .
+the solution of small displacement, stability or vibration
+problems concerning a flat rectangular panel when the
+edges are either clamped or simply supported .
+  this report describes an energy method for
+the exact solution of problems concerning the small
+displacements, stability or vibration of a flat rectangular panel
+when the edges are either clamped or simply supported .
+the influence of stiffeners which are parallel to one pair of edges,
+and situated in pairs on opposite sides of the panel
+so that the neutral axis of each stiffener pair lies in the middle
+surface of the panel, is taken into account .  the method
+is not only applicable to isotropic panels but also to aeolotropic
+panels when the material of the panel has two directions
+of elastic symmetry parallel to the edges .
+  the final solution of the problems depends on an infinite set of
+linear equations for small displacement problems or on
+an infinite determinantal equation for stability and vibration
+problems .  the important feature of the analysis given is
+that it enables a direct approach to be made to these equations
+in any particular problem .  it is not in general possible
+to obtain a direct solution of the final equations and it is
+necessary to approximate and consider a finite set of linear
+equations or a finite determinantal equation derived from the
+more important terms in the analytical expression for the
+transverse displacement of the panel .  here, physical intuition
+and, if available, experimental data serve as a guide and
+the accuracy of the final results so obtained is gauged by the
+rate of convergence with the increase in the number of
+terms considered .
+  the general method of solution is applied first to the free
+vibration of a square panel when all the edges are clamped,
+and second to the buckling of a square panel under shear when
+three edges are clamped and one edge is simply supported .

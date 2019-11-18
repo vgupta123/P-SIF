@@ -1,0 +1,43 @@
+Can Programming Be Liberated from the von Neumann
+Style?  A Functional Style and Its Algebra 
+of Programs
+Conventional programming languages are growing
+ever more enormous, but not stronger.  Inherent 
+defects at the most basic level cause them to be both
+fat and weak: their primitive word-at-a-time style 
+of programming inherited from their common ancestor-the
+von Neumann computer, their close coupling off 
+semantics to state transitions, their division of programming
+into a world of expressions and a world 
+of statements, their inability to effectively use powerful
+combining forms for building new programs 
+from existing ones, and their lack of useful mathematical
+properties for reasoning about programs. An 
+alternative functional style of programming is founded
+on the use of combining forms for creating programs. 
+ Functional programs deal with structured data, are often
+nonrepetitive and nonrecursive, are hierarchically 
+constructed, do not name their arguments, and do not require
+the complex machinery of procedure declarations 
+to become generally applicable.  Combining forms can
+use high level programs to build still higher level
+ones in a style not possible in conventional languages.
+ Associated with the functional style of programming 
+is an algebra of programs whose variables range over
+programs and whose operations are combining forms. 
+ This algebra can be used to transform programs and
+to solve equations whose "unknowns" are programs 
+in much the same way one transforms equations in high
+school algebra.  These transformations are given 
+by algebraic laws and are carried out in the same language
+in which programs are written.  Combining 
+forms are chosen not only for their programming power
+but also for the power of their associated algebraic 
+laws.  General theorems of of the algebra give the detailed
+behavior and termination conditions for large 
+classes of programs.  A new class of computing systems
+uses the functional programming style both in 
+its programming language and in its state transition
+rules.  Unlike von Neumann languages, these systems 
+have semantics loosely coupled to states-only one
+state transition occurs per major computation. 

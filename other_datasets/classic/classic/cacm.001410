@@ -1,0 +1,16 @@
+Interarrival Statistics for Time Sharing Systems
+The optimization of time-shared system performance
+requires the description of the stochastic 
+processes governing the user inputs and the program activity.
+ This paper provides a statistical description 
+of the user input process in the SDC-ARPA general-purpose
+Time-Sharing System (TSS).  The input process 
+is assumed to be stationary, and to be defined by the
+interarrival time distribution.  The data obtained 
+appear to justify satisfactorily the common assumption
+that the interarrival times are serially independent. 
+ The data do not appear to justify, except as a very
+rough approximation, the usual assumption off an 
+exponential distribution for interarrival time.  A much
+more satisfactory approximation to the data can 
+be obtained with a biphase or triphase hyperexponential distribution.

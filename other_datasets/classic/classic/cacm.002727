@@ -1,0 +1,8 @@
+Multiple Byte Processing with Full-Word Instructions
+A method is described which allows parallel
+processing of packed data items using only ordinary 
+full-word computer instructions, even though the processing
+requires operations whose execution is contingent 
+upon the value of a datum.  It provides a useful technique
+for processing small data items such as alphanumeric 
+characters.

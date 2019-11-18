@@ -1,0 +1,15 @@
+Optimal Reorganization of Distributed Space Disk Files
+In most database organizations, the cost of accessing
+the database will increase due to structural 
+changes caused by updates and insertions.  By reorganizing
+the database,the access costs can be reduced. 
+ A basic problem is to establish the proper tradeoff between
+performance, storage costs, and reorganization 
+costs.  This paper considers the optimum points at which
+to reorganize a database.  A disk file organization 
+which allows for distributed free space is described.
+ A cost function describing the excess costs due 
+to physical disorganization is defined, and this function
+is minimized to obtain the optimum reorganization 
+points.  Numerical examples based on the characteristics
+of existing disk storage devices are given.

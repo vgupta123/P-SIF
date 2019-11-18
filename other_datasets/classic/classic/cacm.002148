@@ -1,0 +1,10 @@
+The Composition of Semantics in Algol 68
+The main features of Algol 68 are explained
+from a semantic point of view.  It is shown how 
+the language permits the composition of values and actions,
+i.e. ultimately programs, from a minimum 
+set of primitives with a few fundamental recursive rules
+of composition.  The associated syntax is briefly 
+reviewed.  An attempt has been made to obtain a structured
+and simple introduction to both Algol 68 and 
+its orthogonal design.

@@ -1,0 +1,14 @@
+AXLE: An Axiomatic Language for String Transformations
+AXLE is a language designed for data manipulation.
+ Data arranged in a linear form in a workspace 
+is transformed according to a table of axioms, called imperatives.
+ A transformation consists of a matching 
+procedure, which decides where an imperative is applicable,
+and a replacement procedure that modifies 
+that part of the workspace.  Imperatives are applied
+in accordance with definitions of symbolic terms, 
+presented systematically in an assertion table.  The
+process of definition includes the special case 
+of recursive assertions.  Several complete programs
+of imperatives are given to show a few applications
+of the language.

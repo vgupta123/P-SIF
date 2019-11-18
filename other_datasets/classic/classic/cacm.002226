@@ -1,0 +1,8 @@
+Further Evidence for the Analysis of Algorithms
+for the Zero-One Programming Problem
+The purpose of this note is to report computational
+experience additional to that recently 
+summarized by Gue et al, with two algorithms for the
+zero-one linear programming problem.  An error in 
+Gue's paper is corrected.  The utility of one of
+the algorithms as a suboptimizer is indicated.

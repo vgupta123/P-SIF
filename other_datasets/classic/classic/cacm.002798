@@ -1,0 +1,15 @@
+Analysis of Interleaved Memory Systems Using Blockage Buffers
+A model of interleaved memory systems is presented,
+and the analysis of the model by Monte 
+Carlo simulation is discussed.  The simulations investigate
+the performance of various system structures, 
+i.e. schemes for sending instruction and data requests
+to the memory system.  Performance is measured 
+by determining the distribution of the number of memory
+modules in operation during a memory cycle.  
+An important observation from these investigations is that
+separately grouping instruction and data requests 
+for memory can substantially increase the average number
+of memory modules in operation during a memory 
+cycle.  Results of the simulations and an analytical
+study are displayed for various system structures.

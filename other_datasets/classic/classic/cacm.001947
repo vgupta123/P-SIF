@@ -1,0 +1,9 @@
+Object code Optimization
+Methods of analyzing the control flow and data
+flow of programs during compilation are applied 
+to transforming the program to improve object time efficiency.
+ Dominance relationships, indicating which 
+statements are necessarily executed before others, are
+used to do global common expression elimination 
+and loop identification.  Implementation of these and other
+optimizations in OS/360 FORTRAN H are described.

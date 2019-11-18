@@ -1,0 +1,10 @@
+Reducing the Retrieval Time of Scatter Storage Techniques
+A new method for entering and retrieving information
+in a hash table is described.  The method 
+is intended to be efficient if most entries are looked
+up several times.  The expected number of probes 
+to look up an entry, predicted theoretically and verified
+by Monte Carlo experiments, is considerably 
+less than for other comparable methods if the table
+is nearly full.  An example of a possible Fortran 
+implementation is given.

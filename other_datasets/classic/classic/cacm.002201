@@ -1,0 +1,16 @@
+Animator: An On-Line Two-dimensional Film Animation System
+Animator is a computer animation system which
+was designed to overcome some of the inherent 
+disadvantages associated with conventional computer animation
+techniques.The DEC-338 serves as an input 
+terminal for movie making, allowing the trial and error
+design of picture sequences in a conversational 
+mode.  During all stages on the system input elements
+(light pen, pushbuttons, and teletype) is maintained. 
+ At the user's request, this record is sent to the IBM
+360/75 where the S-D 4020 instructions necessary 
+to produce the same sequence of pictures can be generated.
+ It is anticipated that one of the primary 
+contributions of Animator will be the provision of a
+facility which will allow any professor to produce 
+his own expository film strips.

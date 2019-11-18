@@ -1,0 +1,8 @@
+Least-Squares Analysis of Resonance Spectra on Small Computers
+The problem of analyzing data from a Mossbauer
+effect experiment is discussed.  By using the 
+cut step procedure for convergence and by imposing physical
+constraints on the functional form of the 
+calculation it is possible to make the analysis on a
+small computer.  The analysis has been carried out 
+on an IBM 1410 computer with a 40,000 BCD core memory.

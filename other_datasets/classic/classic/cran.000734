@@ -1,0 +1,37 @@
+the bending of uniformly loaded clamped plate in the
+form of a circular sector .
+the bending of uniformly loaded clamped plate in the
+form of a circular sector .
+  the deflexion of a uniformly loaded
+plate in the form of a semicircle clamped
+along its boundary is obtained by a
+method due to weinstein .  this problem
+requires the solution of the biharmonic
+equation where z is given,
+subject to the conditions that w = 0 and
+on the boundary, n being the
+direction of the outward normal .  the solution
+is expressed in the form
+where, writing is found
+by solving (in succession) two harmonic
+equations of the forms where z may
+be zero, and where f and
+have to satisfy certain boundary conditions .
+the constants are then determined
+to satisfy the boundary condition .
+  numerical calculations show that five or six
+terms of the series give a
+good approximation to the accurate value as
+judged by the closeness with which
+the approximate solution satisfies the boundary
+condition .  the
+procedure to be adopted in the case of the general
+circular sector and for non-uniform
+loading is indicated briefly .
+  the connexion between the deflexion problem
+and that of plane strain in which
+the stress function satisfies the equation,
+where and have given
+values on the boundary, is discussed as a preliminary
+to the further consideration
+of the latter problem by a method of the same type .

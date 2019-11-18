@@ -1,0 +1,14 @@
+Design and Characteristics of a Variable-Length
+Record Sort Using New Fixed-Length Record Sorting 
+Techniques
+This paper describes the application of several
+new techniques for sorting fixed-length records 
+to the problems of variable-length record sorting. 
+The techniques have been implemented on a Sylvania 
+9400 computer system with 32,000 fixed-length words
+of memory.  Specifically, the techniques sequence 
+variable-length records of unrestricted size, produce
+long initial strings of data, merge strings of 
+data at the power of T-1, where T is the number of work
+tapes in a system, and do not restrict the volume 
+of input data.

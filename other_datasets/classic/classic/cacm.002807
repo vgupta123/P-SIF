@@ -1,0 +1,12 @@
+On the Stability of Gauss-Jordan Elimination with Pivoting
+The stability of the Gauss-Jordan algorithm
+with partial pivoting for the solution of general 
+systems of linear equations is commonly regarded as suspect.
+ It is shown that in many respects suspicions 
+are unfounded, and in general the absolute error in the solution
+is strictly comparable with that corresponding 
+to Gaussian elimination with partial pivoting plus back
+substitution.  However, when A is ill conditioned, 
+the residual corresponding to the Gauss-Jordan solution
+will often be much greater than that corresponding 
+to the Gaussian elimination solution.

@@ -1,0 +1,12 @@
+Computers in Group Theory: a Survey
+Computers are being applied to an increasingly
+diverse range of problems in group theory.  
+The most important areas of application at present are
+coset enumeration, subgroup lattices, automorphism 
+groups of finite groups, character tables, and commutator
+calculus.  Group theory programs range from 
+simple combinatorial or numerical programs to large
+symbol manipulation systems.  In this survey the 
+more important algorithms in use are described and contrasted,
+and results which have been obtained using 
+existing programs are indicated.  An extensive bibliography is included.

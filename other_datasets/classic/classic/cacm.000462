@@ -1,0 +1,16 @@
+Computer Pattern Recognition Techniques: Electrocardiographic Diagnosis
+The use of programmed digital computers as general
+pattern classification and recognition devices 
+is one phase of the current lively interest in artificial
+intelligence.  It is important to choose a 
+class of signals which is, at present, undergoing a
+good deal of visual inspection by trained people 
+for the purpose of pattern recognition.  In this way
+comparisons between machine and human performance 
+may be obtained.  A practical result also serves as additional
+motivation.  Clinical electrocardiograms 
+make up such a class of signals.  The approach to the
+problem presented here centers upon the use of 
+multiple adaptive matched filters that classify normalized
+signals.  The present report fives some of 
+the background for the application of this method.

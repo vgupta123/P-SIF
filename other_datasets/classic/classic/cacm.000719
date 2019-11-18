@@ -1,0 +1,12 @@
+Variable Width Stacks
+Character addressable, variable field computers
+permit ready establishment and manipulation 
+of variable width stacks.  Single machine commands may
+push variable field items down into such stacks 
+or pop them up.  The availability of a variety of field
+delimiters allows the machine to push down or 
+pop up more than one variable width item with one command.
+ Since these stacking operations can be made 
+the basis of compiler decoding algorithms the proper
+use of machines of this class for compilation has 
+advantages over machines with fixed-length words.

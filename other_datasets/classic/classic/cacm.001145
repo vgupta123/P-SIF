@@ -1,0 +1,21 @@
+GIT-A Heuristic Program for Testing Pairs
+of Directed Line Graphs for Isomorphism*
+Given a pair of directed line graphs, the problem
+of ascertaining whether or not they are isomorphic 
+is one for which no efficient algorithmic solution is known.
+ Since a straightforward enumerative algorithm 
+might require 40 years of running time on a very high
+speed computer in order to compare two 15-node 
+graphs, a more sophisticated approach seems called
+for.  The situation is similar to that prevailing 
+in areas such as game-playing and theorem-proving, where
+practical algorithms are unknown (for the interesting 
+cases), but where various practical though only partially
+successful techniques are available.  Git-Graph 
+Isomorphism Tester-incorporates a variety of processes
+that attempt to narrow down the search for an 
+isomorphism, or to demonstrate that none exists.  No one
+scheme is relied upon exclusively for a solution, 
+and the program is designed to avoid excessive computation
+along fruitless lines.  GIT has been written 
+in the COMIT language and successfully tested on the IBM 7090.

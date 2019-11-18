@@ -1,0 +1,10 @@
+Early Experience with Mesa
+The experiences of Mesa's first users-primarily
+its implementers-are discussed, and some implications 
+for Mesa and similar programming languages are suggested.
+The specific topics addressed are: module structure 
+and its use in defining abstractions, data-structuring
+facilities in Mesa, an equivalence algorithm for 
+types and type coercions, the benefits of the type system
+and why it is breached occasionally, and the 
+difficulty of making the treatment of variant records safe.

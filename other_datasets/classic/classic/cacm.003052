@@ -1,0 +1,22 @@
+Cold-Start vs. Warm-Start Miss Ratios
+In a two-level computer storage hierarchy, miss
+ratio measurements are often made from a "cold 
+start," that is made with the first-level  store initially
+empty.  For large capacities the effect on 
+the measured miss ratio of the misses incurred while
+filling the first-level store can be significant, 
+even for long reference strings.  Use of "warm-start"
+rather than "cold-start" miss ratios cast doubt 
+on the widespread belief that the observed "S-shape" of
+lifetime (reciprocal of miss ratio) versus capacity 
+curve indicates a property of behavior of programs that
+maintain a constant number of pages in main storage. 
+ On the other hand, if cold-start miss ratios are measured
+as a function of capacity and measurement 
+length, then they are useful in studying systems in which
+operation of a program is periodically interrupted 
+by task switches.  It is shown how to obtain, under simple
+assumptions, the cache miss ratio for multiprogramming 
+from cold-start miss ratio values and how to obtain
+approximate cold-start miss ratios from warm-start 
+miss ratios.

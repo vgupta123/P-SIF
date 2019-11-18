@@ -1,0 +1,10 @@
+A Linear Sieve Algorithm for Finding Prime Numbers
+A new algorithm is presented for finding all
+primes between 2 and n.  The algorithm executes 
+in time proportional to n (assuming that multiplication
+of integers not larger than n can be performed 
+in unit time).  The method has the same arithmetic complexity
+as the algorithm presented by Mairson [6]; 
+however, our version is perhaps simpler and more elegant.
+ It is also easily extended to find the prime 
+factorization of all integers between 2 and n in time proportional to n.   

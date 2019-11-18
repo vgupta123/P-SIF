@@ -1,0 +1,5 @@
+The ALCOR Illinois 7090/7094 Post Mortem Dump
+A dump technique for programs written in ALGOL
+60 is described.  This technique provides an 
+intelligible analysis of an unsuccessful computation
+process in terms of the original source program.

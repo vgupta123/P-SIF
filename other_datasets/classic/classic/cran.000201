@@ -1,0 +1,24 @@
+supersonic flow past oscillating airfoils including
+nonlinear thickness effects .
+supersonic flow past oscillating airfoils including
+nonlinear thickness effects .
+  a solution to second order in thickness is derived for
+harmonically oscillating two-dimensional airfoils in supersonic
+flow .  for slow oscillations of an arbitrary profile, the result is
+found as a series including the third power of frequency .  for
+arbitrary frequencies, the method of solution for any specific
+profile is indicated, and the explicit solution derived for a single
+wedge .
+  nonlinear thickness effects are found generally to reduce the
+torsional damping, and so to enlarge the range of mach numbers
+within which torsional instability is possible .  this
+destabilizing effect varies only slightly with frequency in the range
+involved in dynamic stability analysis, but may reverse to a
+stabilizing effect at high flutter frequencies .  comparison with
+a previous solution exact in thickness suggests that nonlinear
+effects of higher than second order are practically negligible .
+  the analysis utilizes a smoothing technique that replaces
+the actural problem by one involving no kinked streamlines .
+this stratagem eliminates all consideration of shock waves
+from the analysis, yet yields the correct solution for problems
+that actually contain shock waves .

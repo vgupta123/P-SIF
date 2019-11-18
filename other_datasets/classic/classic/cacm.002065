@@ -1,0 +1,12 @@
+A Programming System for the On-line Analysis of Biomedical Images
+A preliminary description of the software for a computer-display
+system is given with special emphasis on the  man-machine interaction. This 
+system is intended for a wide variety of biomedical applications.
+As an example, the methods are applied to the karyotyping of chromosomes.  The 
+system is separated into four programming tasks: picture transformations, file 
+maintenance, picture structuring, and display management.  Picture structuring
+is considered as the vehicle for man-machine communication.
+A prototype data format for pictures, called a picture-form, is developed.
+Structure operators are defined which manipulate picture-forms to produce 
+new pictures-forms.  Many of the ideas are taken from the symbolic mathematical 
+laboratory at MIT conceived by Marvin Minsky.

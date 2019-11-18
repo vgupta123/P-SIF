@@ -1,0 +1,15 @@
+comments on 'thermal buckling of clamped cylindrical shells' .
+comments on 'thermal buckling of clamped cylindrical shells' .
+in the recent paper by zuk, an expression was presented for
+the critical buckling temperature of a clamped cylindrical shell
+in terms of the material and geometrical properties of the shell .
+restraint at the edges of the shell was assumed to be provided by
+rigid frames experiencing no temperature rise .
+the circumferential stress induced in the shell when it experienced
+a temperature rise, t, may be approximated by the function .
+in other words, there is a compressive circumferential stress along
+the entire length, l, of the shell .
+it is well known, however, that the discontinuity stresses introduced at
+the junction of a shell and a rigid frame (or bulk-head) are extremely
+localized, and the circumferential stresses induced in the shell
+decrease rapidly away from the joint .

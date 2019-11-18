@@ -1,0 +1,18 @@
+A Simple Linear Model of Demand Paging Performance
+Predicting the performance of a proposed automatically
+managed multilevel memory system requires 
+a model of the patterns by which programs refer to the
+information stored in the memory.  Some recent 
+experimental measurements on the Multics virtual memory
+suggest that, for rough approximations, a remarkably 
+simple program reference model will suffice.  The simple
+model combines the effect of the information 
+reference pattern with the effect of the automatic management
+algorithm to produce a single, composite 
+statement: the mean number of memory references between
+paging exceptions increases linearly with the 
+size of the paging memory.  The resulting model is easy
+to manipulate, and is applicable to such diverse 
+problems as choosing an optimum size for a paging memory,
+arranging for reproducible memory usage charges, 
+and estimating the amount of core memory sharing.

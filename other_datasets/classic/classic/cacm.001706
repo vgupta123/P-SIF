@@ -1,0 +1,16 @@
+CHAMP-Character Manipulation Procedures
+A new programming language facility for symbol
+manipulation is described.  String procedures 
+may be declared and called in a standard ALGOL context.
+ ALGOL procedures can in turn be called by string 
+procedures so that numeric and symbolic processes may
+conveniently be programmed together.  Concatenation 
+and a variant of SNOBOL's pattern matching make up
+a set of primitive commands.  These are assembled 
+together into conditional expressions which are to be
+used to provide alternative computational patterns. 
+ Arrays of strings are processed using quantifiers.
+ The class of things which may be assigned to an 
+identifier can be restricted by a procedure expressed
+in the notation.  The language facilities have 
+been implemented in the ALGOL compiler for the Burroughs B5500.

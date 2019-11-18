@@ -1,0 +1,30 @@
+development of a quasi-steady approach to flutter and
+correlation with kernel-function results .
+development of a quasi-steady approach to flutter and
+correlation with kernel-function results .
+  the quasi-steady approach to flutter utilizes experimental or
+theoretical steady-state aerodynamic data to arrive at increased
+understanding of the flutter mechanism, and also, in many cases,
+acceptably accurate quantitative flutter predictions .
+circulation lag effects are neglected, but aerodynamic damping is
+included in the evaluation of the air forces .  situations requiring
+the inclusion of rate aerodynamics for accurate flutter estimation
+are specified .
+  a quasi-unsteady approach is also discussed, in which the
+approximate magnitude of the circulation lag function at flutter
+is included in simple modifications of quasi-steady parameters .
+  closed-form solutions are derived for the flutter characteristics
+of a typical section with and without rate aerodynamics .
+application is then made to the rational flutter analysis of
+three-dimensional multi-degree-of-freedom lifting surfaces .
+  a specific planform is evaluated in the mach-number range
+from zero to two .  quasi-steady, quasi-unsteady, and
+kernel-function results are compared subsonically .  quasi-steady
+results are utilized supersonically .
+  primary applications of the quasi-steady approach are in the
+areas of preliminary design and parameter-variation studies,
+modification of more sophisticated flutter theories to force
+compatibility with available steady-state data, and flutter evaluation
+of complex configurations which can be rationally analyzed by
+steady-state aerodynamic theories, but for which no complete
+unsteady aerodynamic theories are presently available .

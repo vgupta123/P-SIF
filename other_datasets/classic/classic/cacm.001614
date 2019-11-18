@@ -1,0 +1,12 @@
+A Proposal for Definitions in ALGOL
+An extension to ALGOL is proposed for adding
+new data types and operators to the language. 
+ Definitions may occur in any block heading and terminate
+with the block.  They are an integral part 
+of the program and are not fixed in the language.  Even
+the behavior of existing operators may be redefined. 
+ The processing of text containing defined contexts features
+a "replacement rule" that eliminates unnecessary 
+iterations and temporary storage.  Examples of definition sets
+are given for real and complex matrices, 
+complex numbers, file processing, and list manipulation.

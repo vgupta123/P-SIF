@@ -1,0 +1,14 @@
+On the Automatic Simplification of Source-Language Programs
+Methods of simplification that can be applied
+automatically to programs written in an ALGOL-like 
+language are discussed.  The simplifications are based
+on the form of the program and the knowledge obtained 
+by a processor, without any understanding of what the
+program is supposed to do.  These methods have 
+been implemented in a processor called SURE that accepts
+a program written in JOVIAL and outputs an equivalent 
+JOVIAL program that may be shorter and may be executed
+faster than the original.  SURE is described, 
+some of the problems encountered in automatic improvement
+at the source-language level are discussed, 
+and further types of automatic program improvement are suggested.

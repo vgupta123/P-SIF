@@ -1,0 +1,11 @@
+Syntactic Source to Source Transforms and Program Manipulation
+Syntactic transforms are the source to source program transformations
+which preserve the history of computation, and thus do not
+modify the execution time.  Combined with a small number of primitive
+semantic transforms, they provide a powerful tool for program
+manipulation.  A catalogue of syntactic transforms, and its use for
+solution of a system of program equations, is given.  Examples of
+derivation of more complex source to source transformations are also
+presented.  Two case studies illustrate the way in which syntactic 
+and semantic source to source transformations may be used for
+development of clear, simple, and reasonably efficient programs.

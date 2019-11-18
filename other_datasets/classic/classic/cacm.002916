@@ -1,0 +1,24 @@
+A Fast String Searching Algorithm
+An algorithm is presented that searches for
+the location, "i," of the first occurrence of a 
+character string, "pat," in another string, "string."
+ During the search operation, the characters of 
+pat are matched starting with the last character of
+pat.  The information gained by starting the match 
+at the end of the pattern often allows the algorithm
+to proceed in large jumps through the text being 
+searched.  Thus the algorithm has the unusual property that,
+in most cases, not all of the first i characters 
+of string are inspected.  The number of characters actually
+inspected (on the average) decreases as a 
+function of the length of pat.  For a random English
+pattern of length 5, the algorithm will typically 
+inspect i/4 characters of string before finding a match at
+i.  Furthermore, the algorithm has been implemented 
+so that (on the average) fewer than i+patlen machine
+instructions are executed.  These conclusions are 
+supported with empirical evidence and a theoretical
+analysis of the average behavior of the algorithm. 
+ The worst case behavior of the algorithm is linear in
+i+patlen, assuming the availability of array space 
+for tables linear in patlen plus the size of the alphabet.

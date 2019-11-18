@@ -1,0 +1,11 @@
+More on Extensible Machines
+One of the most salient characteristics of extensible
+machines (EM) is the facility for providing 
+system control over program-to-program and program-to-data
+linkage (e.g., address connection).  It is 
+the intent of this paper to expand and clarify the remarks
+concerning program-to-program and program-to-data 
+linkage that were embodied in the authors' previous
+paper on the EM concepts, and to, finally, trace 
+the employment of linkage mechanisms through
+various levels of programming languages.

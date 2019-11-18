@@ -1,0 +1,12 @@
+Multiprogramming STRETCH: Feasibility Considerations
+The tendency towards increased parallelism in
+computers is noted.  Exploitation of this parallelism 
+presents a number of new problems in machine design
+and in programming systems.  Minimum requirements 
+for successful concurrent execution of several independent
+problem programs are discussed.  These requirements 
+are met in the STRETCH system by a carefully balanced
+combination of built-in and programmed logic.  
+Techniques are described which place the burden of the
+programmed logic on system programs (supervisory 
+program and compiler) rather than on problem programs.

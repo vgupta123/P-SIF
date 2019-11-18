@@ -1,0 +1,10 @@
+Interactive Consulting via Natural Language
+Interactive programming systems often contain
+help commands to give the programmer on-line 
+instruction regarding the use of the various systems
+commands.  It is argued that it would be relatively 
+easy to make these help commands significantly more
+helpful by having them accept requests in natural 
+language.  As a demonstration, Weizenbaum's ELIZA program
+has been provided with a script that turns 
+it into a natural language system consultant.

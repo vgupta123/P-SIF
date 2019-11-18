@@ -1,0 +1,27 @@
+Relaxation Methods for Image Reconstruction
+The problem of recovering an image (a function
+of two variables) from experimentally available 
+integrals of its grayness over thin strips is of great
+importance in a large number of scientific areas. 
+ An important version of the problem in medicine is
+that of obtaining the exact density distribution 
+within the human body from X-ray projections.One approach
+that has been taken to solve this problem 
+consists of translating the available information into
+a system of linear inequalities.  The size and 
+the sparsity of the resulting system (typically, 25,000
+inequalities with fewer than 1 percent of the 
+coefficients nonzero) makes methods using successive
+relaxations computationally attractive, as compared 
+to other ways of solving systems of inequalities. 
+In this paper, it is shown that, for a consistent 
+system of linear inequalities, any sequence of relaxarion parameters
+lying strictly between 0 and 2 generates 
+a sequence of vectors which converges to a solution.
+ Under the same assumptions, for a system of linear 
+equations, the relaxation method converges to the minimum
+norm solution.  Previously proposed techniques
+are shown to be special cases of our procedure with
+different choices of relaxation parameters.  The 
+practical consequences for image reconstruction of the
+choice of the relaxation parameters are discussed.

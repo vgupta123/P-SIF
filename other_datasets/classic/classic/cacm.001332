@@ -1,0 +1,4 @@
+Subroutine Assembly
+A description is given of an assembly system,
+which requires only one pass and does not maintain 
+a table of information about the subroutine library.

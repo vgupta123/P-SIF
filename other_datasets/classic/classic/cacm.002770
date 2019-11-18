@@ -1,0 +1,8 @@
+The Quadratic Hash Method When the Table Size Is Not a Prime Number
+Previous work on quadratic hash methods is
+limited mainly to the case where the table size 
+is a prime number.  Here, certain results are derived for
+composite numbers.  It is shown that all composite 
+numbers containing at least the square of one of the component
+primes have full-period integer-coefficient 
+quadratic hash functions.

@@ -1,0 +1,14 @@
+A Method for Overlapping and Erasure of Lists
+An important property of the Newell-Shaw-Simon
+scheme for computer storage of lists is that 
+data having multiple occurrences need not be stored
+at more than one place in the computer.  That is, 
+lists may be "overlapped."  Unfortunately, overlapping
+poses a problem for subsequent erasure.  Given 
+a list that is no longer needed, it is desired to erase
+just those parts that do not overlap other lists. 
+ In LISP, McCarthy employs an elegant but inefficient solution
+to the problem.  The present paper describes 
+a general method which enables efficient erasure.  The
+method employs interspersed reference counts to 
+describe the extent of the overlapping.

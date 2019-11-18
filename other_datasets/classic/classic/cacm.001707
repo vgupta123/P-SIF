@@ -1,0 +1,6 @@
+Generation of Positive Test Matrices with Known Positive Spectra
+Sufficient conditions are given for a real
+matrix to be similar to a positive matrix.  This 
+result is used to construct a similarity transformation
+which, when applied to a particular upper triangular 
+matrix, yields a positive matrix with a preassigned positive spectrum.

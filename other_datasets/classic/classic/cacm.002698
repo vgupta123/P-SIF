@@ -1,0 +1,11 @@
+Syntax-Directed Least-Errors Analysis for
+Context-Free Languages: A Practical Approach
+A least-errors recognizer is developed informally
+using the well-known recognizer of Earley, 
+along with elements of Bellman's dynamic programming.
+ The analyzer takes a general class of context-free 
+grammars as drivers, and any finite string as input.
+ Recognition consists of a least-errors count for 
+a corrected version of the input relative to the driver
+grammar. The algorithm design emphasizes practical 
+aspects which help in programming it.

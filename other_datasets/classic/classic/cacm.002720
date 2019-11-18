@@ -1,0 +1,15 @@
+Optimal Balancing of I/O Requests to Disks
+Determining a policy for efficient allocation
+and utilization of a set of disk drives with 
+differing operational characteristics is examined using
+analytical techniques.  Using standard queueing 
+theory, each disk drive is characterized by a queueing
+model with service time of a disk drive represented 
+by the probability density function of the sum of two
+uniform distributions. Total response time of the 
+set of disk models is then minimized under varying
+load conditions. The results indicate that faster 
+devices should have higher utilization factors and that
+the number of different device types utilized 
+tends to decrease with decreasing load.  Specific examples
+using 2314 and 3330 combinations are examined.

@@ -1,0 +1,24 @@
+Experiments with a Deductive Question-Answering Program
+As an investigation in artificial intelligence,
+computer experiments on deductive question-answering 
+were run with a LISP program called DEDUCOM, an acronym
+for DEDUctive COMmunicator. When given 68 facts, 
+DEDUCOM answered 10 questions answerable from the facts.
+ A fact tells DEDUCOM either some specific information 
+or a method of answering a general kind of question.
+ Some conclusions drawn in the article are: (1) 
+DEDUCOM can answer a wide variety of questions.  (2)
+A human can increase the deductive power of DEDUCOM 
+by telling it more facts.  (3) DEDUCOM can write very
+simple programs (it is hoped that this ability 
+is the forerunner of an ability to self-program, which
+is a way to learn).  (4)DEDUCOM's search procedure 
+at present has two bad defects: some questions answerable
+from the given facts cannot be answered and 
+some other answerable questions can be answered only if
+the relevant facts are given in the "right" order. 
+ (6) At present, DEDUCOM's method of making logical deductions
+in predicate calculus has two bad defects: 
+some facts have to be changed to logically equivalent ones
+before being given to DEDUCOM, and some redundant 
+facts have to be given to DEDUCOM.

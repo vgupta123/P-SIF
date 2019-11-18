@@ -1,0 +1,9 @@
+Pagination of B*-Trees with Variable-Length Records
+A strategy is presented for pagination of B*-trees
+with variable-length records.  If records 
+of each length are uniformly distributed within the
+file, and if a wide distribution of record lengths 
+exists within the file, then this strategy results in shallow
+trees with fast access times.  The performance 
+of this strategy in an application is presented, compared
+with that of another strategy, and analyzed.

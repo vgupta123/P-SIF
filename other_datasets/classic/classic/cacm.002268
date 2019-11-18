@@ -1,0 +1,14 @@
+A Comparative Study of Computer Programs
+for Integrating Differential Equations
+A study comparing the performance of several computer
+programs for integrating systems of ordinary 
+differential equations is reported.  The integration methods represented
+include multistep methods (predictor-correctors), 
+single-step methods (Runge-Kutta) and extrapolation methods
+(both polynomial and rational).  The testing 
+procedure is described together with the evaluation
+criteria applied.  A set of test problems on which 
+the programs were tested is included in an appendix.
+ For the particular problems and criteria used in 
+the investigation it was found that a program based on
+rational extrapolation showed the best performance.

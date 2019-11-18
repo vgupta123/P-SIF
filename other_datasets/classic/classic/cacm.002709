@@ -1,0 +1,18 @@
+A Genealogy of Control Structures
+The issue of program control structures has
+had a history of heated controversy.  To put this 
+issue on a solid footing, this paper reviews numerous theoretical
+results on control structures and explores 
+their practical implications.  The classic result of
+Bohm and Jacopini on the theoretical completeness 
+of if-then-else and while-do is discussed. Several recent
+ideas on control structures are then explored. 
+ These include a review of various other control structures,
+results on time/space limitations, and theorems 
+relating the relative power of control structures under
+notions of equivalence.  In conclusion, the impact 
+of theoretical results on the practicing programmer and
+the importance of one-in, one-out control structures 
+as operational abstractions are discussed.  It is argued
+further that there is insufficient evidence 
+to warrant more than if-then-else, while-do, and their variants.

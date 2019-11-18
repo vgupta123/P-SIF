@@ -1,0 +1,14 @@
+Conversion of Limited-Entry Decision Tables to Computer
+Programs-A Proposed Modification to Pollack's 
+Algorithm
+Pollack has proposed an algorithm for converting
+decision tables into flowcharts which minimize 
+subsequent execution time when compiled into a computer
+program.  Two modifications of this algorithm 
+are proposed.  The first relies on Shannon's noiseless
+coding theorem and the communications concept 
+of entropy but does not completely test the ELSE Rule.
+ The second modification completely tests the 
+ELSE Rule but results in more executions than the first modification.
+ Both modifications result in modification 
+guarantees a globally optimal solution.

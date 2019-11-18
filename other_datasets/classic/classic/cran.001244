@@ -1,0 +1,45 @@
+on the aerodynamic noise of a turbulent jet .
+on the aerodynamic noise of a turbulent jet .
+  a new model is advanced for analyzing the broad-spectrum
+noise of a turbulent jet .  the shear layer bounding the turbulent
+jet is assumed to play an important role in modifying the /
+quadrupole sound radiation/ from the interior .  to the sound-
+emitting small-scale turbulent eddies (with frequencies much higher
+than those of large-scale eddies), the laminar shear layer has an
+irregular contour, as if the large-scale turbulent motions were
+frozen .  the linearized analysis is then applied to the laminar
+shear layer to relate the acoustic oscillations across it .
+  the concept of geometrical acoustics is generalized to represent
+the passage of an acoustic ray through a laminar shear layer .
+acoustic rays may be traced across the shear layer as
+transmission and refraction, but they may also be apparently /absorbed/
+or /generated/ by the laminar layer .  this /generation/ is
+visualized as the schematic representation, within the framework of
+geometrical acoustics, of the action of the reynolds stress in
+transferring energy from the shearing mean flow to the acoustic
+waves .  such action of the reynolds stress can be neglected in
+ordinary acoustics when the acoustic medium is not moving at
+speeds comparable to the speed of sound in the medium .
+however, this action is of crucial importance in the aerodynamic noise
+of high-speed turbulent jets where the reynolds stress is the
+fundamental element of the radiating quadrupoles, according to
+lighthill .
+  those acoustic waves that become /stationary/ with respect
+to the local mean flow somewhere in the interior of the shear layer
+are significantly modified by the viscous action through the
+critical layer .  the shear layer therefore serves as a selective
+amplifier of the acoustic waves passing through it .
+kinematically, the shear layer brings about the preferred downstream
+emission ..  dynamically, the shear-layer augmentation
+significantly increases the polar peak noise level .  the acoustic power
+output per unit solid angle for such downstream emissions
+augmented by the shear layer (including the polar peak) varies as,
+predicted by lighthill, but without lighthill's convective
+corrections .  on the other hand, the acoustic power output per
+unit solid angle nearly normal to the jet, due to the transmitted
+downstream-propagating waves, varies roughly as .  heating
+the jet gas increases the shear-layer augmentation and may
+increase the polar peak noise level by several db .  the silencing
+action of the edge notches and edge teeth may also be
+interpreted as due apparently to the result of possible distortion of
+the shear-layer profiles .

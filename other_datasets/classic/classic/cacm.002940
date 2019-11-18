@@ -1,0 +1,19 @@
+Abstraction and Verification in Alphard: Defining
+and Specifying Iteration and Generators
+The Alphard "form" provides the programmer with
+a great deal of control over the implementation 
+of abstract data types.  In this paper the abstraction techniques
+are extended from simple data representation 
+and function definition to the iteration statement, the
+most important poin t of interaction between data 
+and the control structure of the language itself.  A
+means of specializing Alphard's loops to operate 
+on abstract entities without explicit dependence on the
+representation of those entities is in troduced. 
+ Specification and verification techniques that allow
+the properties of the generators for such iterations 
+to be expressed in the form of proof rules are developed.
+ Results are obtained that for common special 
+cases of these loops are essentially identical to the
+corresponding constructs in other languages.  A 
+means of showing that a generator will terminate is also provided.

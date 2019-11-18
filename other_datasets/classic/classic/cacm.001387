@@ -1,0 +1,14 @@
+Solution of Systems of Polynomial Equations By Elimination
+The elimination procedure as described by Williams
+has been coded in LISP and FORMAC and used 
+in solving systems of polynomial equations.  It is found
+that the method is very effective in the case 
+of small systems, where it yields all solutions without
+the need for initial estimates. The method, by 
+itself, appears in appropriate, however, in the solution
+of large systems of equation due to the explosive 
+growth in the intermediate equations and the hazards
+which arise when the coefficients are truncated. 
+ A comparison is made with difficulties found in other
+problems in non-numerical mathematics such as 
+symbolic integration and simplification.

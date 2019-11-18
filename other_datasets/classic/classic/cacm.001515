@@ -1,0 +1,8 @@
+A Computer System for Inference Execution and Data Retrieval
+This paper presents a RAND project concerned
+with the use of computers as assistants in the 
+logical analysis of large collections of factual data.
+ A system called Relational Data File was developed 
+for this purpose.  The Relational Data File is briefly
+detailed and problems arising from its implementation 
+are discussed.

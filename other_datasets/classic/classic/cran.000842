@@ -1,0 +1,10 @@
+an improvement on donnell's approximation for thin-walled
+circular cylinders .
+an improvement on donnell's approximation for thin-walled
+circular cylinders .
+  donnell's equation for thin-walled circular cylinders is replaced by
+where w is a non-dimensional form of the radial displacement and q is
+the distributed radial loading .  this equation retains the essential
+simplicity of the original but, unlike donnell's equation, the accuracy
+does not decrease as the wavelength of circumferential distortion
+increases .

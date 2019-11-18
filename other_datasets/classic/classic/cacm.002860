@@ -1,0 +1,15 @@
+A Practitioner's Guide To Addressing Algorithms
+This paper consolidates a number of popular
+rules of thumb which have been suggested for the
+design of record addressing algorithms, and discusses
+the applicability of these rules to large commercial 
+databases.  Guidelines for selecting identifier transformations,
+overflow techniques, loading factors, 
+bucket sizes, and loading order and considered.  Particular
+attention is focused on the reasonableness 
+of common heuristics for determining primary or secondary
+bucket sizes. A mathematical model which explicitly 
+considers storage device characteristics and time/space
+cost tradeoffs is used to analyze the effect 
+of design parameters on overall system costs.  A
+specific design example is presented and solved.

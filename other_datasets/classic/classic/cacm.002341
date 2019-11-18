@@ -1,0 +1,24 @@
+Blocks-A New Data type for SNOBOL4
+A new data type, called a block, has been implemented
+for SNOBOL4.  A block is a three-dimensional 
+aggregate of characters in the form of a right parallelepiped,
+best thought of as a three-dimensional 
+extension to a string.  (The third dimension is used for
+overstriking.)  Blocks may be printed, concatenated 
+in any of three dimensions, and merged on the basis
+of program-defined connection points.  Some blocks 
+adapt in size and shape to their environment.  Blocks
+and their operations are mainly used for composing 
+printable output.  A variety of graphical problems (including
+flowcharting, bargraphs, logic diagrams, 
+mathematical-equation formation, and text justification
+and preparation) have been programmed on a printer 
+in what appears to be an easy and natural way.  In addition
+to these somewhat specialized applications, 
+blocks appear to be a good general purpose device-independent
+output formation mechanism especially suitable 
+for nonnumerical work.  The concept of a block is largely
+language independent.That is, blocks require 
+little in the way of specialized syntax and could readily
+be absorbed into the external structure of 
+most programming languages.

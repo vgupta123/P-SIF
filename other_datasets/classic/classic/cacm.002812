@@ -1,0 +1,21 @@
+Computer-Aided Analysis and Design of Information Systems
+This paper describes the use of computer-aided
+analysis for the design and development of an 
+integrated financial management system by the Navy Material
+Command Support Activity (NMCSA).  Computer-aided 
+analysis consists of a set of procedures and computer
+programs specifically designed to aid in the process 
+of applications software design, computer selection
+and performance evaluation.  There are four major 
+components: Problem Statement Language, Problem Statement
+Analyzer, Generator of Alternative Designs, 
+and Performance Evaluator. The statement of requirements
+was written in ADS (Accurately Defined Systems) 
+and analyzed by a Problem Statement Analyzer for ADS.
+ The ADS problem definition was supplemented with 
+additional information in order to create a complete
+problem definition.  The analyzed problem statement 
+was translated to the form necessary for use by the
+SODA (Systems Optimization and Design Algorithm)
+program for the generation of alternative specifications
+of program modules and logical database structures.

@@ -1,0 +1,16 @@
+Packed Scatter Tables
+Scatter tables for open addressing benefit
+from recursive entry displacements, cutoffs for 
+unsuccessful searches, and auxiliary cost functions.  Compared
+with conventional methods, the new techniques 
+provide substantially improved tables that resemble exact-solution
+optimal packings.  The displacements 
+are depth-limited approximations to an enumerative
+(exhaustive) optimization, although packing costs 
+remain linear-O(n)-with table size n.  The techniques are
+primarily suited for important fixed (but possibly 
+quite large) tables for which reference frequencies may
+be known: op-code tables,spelling dictionaries, 
+access arrays.  Introduction of frequency weights further
+improves retrievals, but the enhancement may 
+degrade cutoffs.  

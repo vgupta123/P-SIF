@@ -1,0 +1,43 @@
+exact solution of the neumann problem . calculation
+for non- circulatory plane and axially symmetric flows
+about or within arbitrary boundaries .
+exact solution of the neumann problem . calculation
+for non- circulatory plane and axially symmetric flows
+about or within arbitrary boundaries .
+  an exact general method of solving
+the neumann or second boundary-value
+problem has been developed and has been
+applied to the calculation of
+low-speed flows about or within bodies of
+almost any shape, provided the flow is
+either plane or has axial symmetry .
+solid-body, inlet, and purely internal
+flow problems can be solved .  the
+method is capable of dealing with several
+bodies at once in the presence of
+one another, and consequently interference
+problems can be treated with ease .
+boundaries need not be solid, that is,
+flows involving area suction can be
+calculated .  velocities can be computed
+not only for points on the surface of
+the body but for the entire flow field .
+  a surface source distribution is
+used as a basis for solution .  this
+leads to a fredholm integral equation
+of the second kind, which is solved as
+a set of linear algebraic equations,
+usually by a modified seidel method .
+at the present time the solution is
+programed on the ibm 704 edpm to solve
+the flow about any body that has the
+previously mentioned characteristics
+and whose profile can be defined
+satisfactorily by no more than 300
+coordinate points .  a number of solutions
+are presented, to show both the scope
+of the method and its accuracy .
+computations require from three minutes
+to two hours, depending upon the
+shape of the body and the number of points
+used to define it .

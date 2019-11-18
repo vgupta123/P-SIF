@@ -1,0 +1,7 @@
+Boolean matrix Methods for the Detection of Simple Precedence Grammars
+A mechanical procedure is derived for determining
+whether a given context-free phrase structure 
+grammar is a simple precedence grammar.  This procedure
+consists of elementary operations on suitably 
+defined Boolean matrices.  Application of the
+procedure to operator grammars is also given.

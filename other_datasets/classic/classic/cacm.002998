@@ -1,0 +1,19 @@
+An Empirical Study of List Structure in Lisp
+Static measurements of the list structure of
+five large Lisp programs are reported and analyzed 
+in this paper.  These measurements reveal substantial
+regularity, or predictability, among poin ters to 
+atoms and especially among poin ters to lists.  Pointers
+to atoms are found to obey, roughly, Zipf's law, 
+which governs word frequencies in natural languages; poin ters
+to lists usually poin t to a location physically 
+nearby in memory.  The use of such regularities in the
+space-efficient representation of list structure 
+is discussed.  Linearization of lists, whereby successive
+cdrs (or cars) are placed in consecutive memory 
+locations whenever possible, greatly strengthens the
+observed regularity of list structure.  It is shown 
+that under some reasonable assumptions, the entropy or
+information content of a car-cdr pair in the programs 
+measured is about 10 to 15 bits before linearization,
+and about 7 to 12 bits after.

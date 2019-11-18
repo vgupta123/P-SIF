@@ -1,0 +1,9 @@
+Use of the Hough Transformation ToDetect Lines and Curves in Pictures
+Hough has proposed an interesting and computationally
+efficient procedure for detecting lines 
+in pictures.  This paper points out that the use of angle-radius
+rather than slope-intercept parameters 
+simplifies the computation further.  It also shows
+how the method can be used for more general curve 
+fitting, and gives alternative interpretations
+that explain the source of its efficiency.

@@ -1,0 +1,8 @@
+On the Computation of Least Squares Polynomials
+Rounding error accumulated during digital computation
+of a least squares polynomial makes the 
+computed polynomial only an approximation to the true least
+square polynomial.  A simple method for adjust ing 
+the constant term of the computed polynomial to get
+a better approximation to the true least squares 
+polynomial is described.

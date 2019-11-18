@@ -1,0 +1,5 @@
+File Structures Using Hashing Functions
+A general method of file structuring is proposed which uses a hashing
+function to define tree structure.  Two types of such trees are examined, 
+and their relation to trees studied in the past is explained.Results for the 
+probability distributions of path lengths are derived and illustrated.

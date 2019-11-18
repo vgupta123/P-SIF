@@ -1,0 +1,26 @@
+A Scan Conversion Algorithm with Reduced Storage Requirements
+Most graphics systems using a raster scan output
+device (CRT or hardcopy) maintain a display 
+file in the XY or random scan format.  Scan converters,
+hardware or software, must be provided to translate 
+the picture description from the XY format to the raster
+format.  Published scan conversion algorithms 
+which are fast will reserve a buffer area large enough
+to accommodate the entire screen.  On the other 
+hand, those which use a small buffer area are slow because
+they require multiple passes through the XY 
+display file.  The scan conversion algorithm described
+here uses a linked list data structure to process 
+the lines of the drawing in strips corresponding to
+groups of scan lines.  A relatively small primary 
+memory buffer area is used to accumulate the binary image
+for a group of scan lines.  When this portion 
+of the drawing has been plotted, the buffer is reused for
+the next portion.  Because of the list processing 
+procedures used, only a single pass through the XY display
+file is required when generating the binary 
+image and only a slight increase in execution time over
+the fully buffered core results.  Results slow 
+that storage requirements can be reduced by more than
+80 percent while causing less than a 10 percent 
+increase in execution time.

@@ -1,0 +1,12 @@
+On the Design of Display Processors
+The flexibility and power needed in the data
+channel for a computer display are considered. 
+ To work efficiently, such a channel must have a sufficient number
+of instructions that it is best understood 
+as a small processor rather than a powerful channel.
+ As it was found that successive improvements to 
+the display processor design lie on a circular path, by
+making improvements one can return to the original 
+simple design plus one new general purpose computer for
+each trip around.  The degree of physical separation 
+between display and parent computer is a key factor in display processor design.

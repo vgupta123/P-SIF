@@ -1,0 +1,33 @@
+a theory of the two dimensional laminar bounary layer
+over a curved surface .
+a theory of the two dimensional laminar bounary layer
+over a curved surface .
+  the purpose of this paper is to present a theory to account for
+surface curvature effects on the two-dimensional boundary-layer
+flow which approaches a potential flow at free stream .
+  the problem of two-dimensional viscous flow is first formulated
+by using the streamlines and their orthogonal trajectories as the
+generalized coordinates .  a boundary-layer approximation is
+applied to the navier-stokes equations and the gauss equation
+in the generalized coordinates to yield the boundary-layer
+equations .  the conditions under which similar solutions of the
+boundary-layer equations exist are determined .  by a simple
+transformation, the governing differential equation can be
+expressed in a form which reduces to the falkner-skan equation
+for zero surface curvature .
+  numerical results for a similar solution which corresponds to a
+flow over a curved surface with zero surface pressure gradient
+have been obtained .  the velocity profiles in the boundary layer
+and the wall skin-friction distribution for concave and convex
+surfaces are presented .  the wall skin friction for a convex wall
+is found to be higher than the blasius value for a flat plate .  on
+the other hand, for a concave wall, the skin friction will drop
+below the blasius value as the curvature increases, but it appears to
+reach a minimum, and beyond this minimum point it will increase
+again .  the same flow problem was treated by murphy by a
+different method of analysis .  comparison of murphy's results
+with those obtained by the present method reveals some basic
+differences in the boundary-layer characteristics .  in particular,
+murphy's results indicate that the wall skin friction for a convex
+surface is smaller than the blasius value, while for a concave wall
+it is higher .

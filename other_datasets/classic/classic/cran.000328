@@ -1,0 +1,33 @@
+the boundary layer near the stagnation point in hypersonic
+flow past a sphere .
+the boundary layer near the stagnation point in hypersonic
+flow past a sphere .
+  flow properties behind shock waves caused by bluff bodies
+traveling at supersonic speeds are of major importance in missile
+and high-speed aircraft design .  paper presents a mathematical
+solution for the laminar boundary layer near the stagnation point of a
+sphere .  surface temperature is free-stream static and shock is
+strong .  air is assumed calorically and thermally perfect with a
+prandtl number of 0.72 and a dynamic viscosity directly
+proportional to temperature .
+  based on work of homann (zamm 16, p. 153, 1936) and lighthill
+simultaneous differential equations for the velocity and
+temperature profiles .  these are solved by numerical integration along a
+normal to the surface using a digital computer .  results are
+presented as functions of free-stream mach number, reynolds
+number, and specific heat ratio .  as increases,
+boundary-layer thickness is shown to decrease while shock stand-off
+distance increases .  stand-off distance also decreases with increasing
+and decreasing specific heat .  for constant and specific
+heat ratio, the product of skin-friction coefficient and the square
+root of decreases with increasing only approaching a
+constant value at greater than 10,000 .
+  reviewer's comment is concerned with the perfect gas
+assumption for air .  author suggests that the effects of dissociation on
+flow properties are accounted for by a proper choice of specific
+heat ratio .  a consideration of the kinetics of chemical reaction in
+the cooled boundary layer emphasizes the oversimplification of
+this approach .  the effect on transport properties could have been
+approximated in present analysis by changing the prandtl number
+to one more representative of the existing pressures and
+temperatures .

@@ -1,0 +1,27 @@
+effect of diffusion fields on the laminar boundary
+layer .
+effect of diffusion fields on the laminar boundary
+layer .
+  a theory is developed which describes the effect of a general
+diffusion field on the dynamic and thermal characteristics of a
+laminar boundary layer on a flat plate in steady compressible
+flow .  fluid properties are considered as functions of
+temperature and local concentration of the foreign gas .  the diffusion
+field is described by a differential equation that relates
+convective and diffusion transfer and which considers diffusion currents
+arising from gradients of concentration and temperature .  by
+means of the usual transformations the system is reduced to a set
+of ordinary differential equations, which in turn are transformed
+into a set of integral equations .  the latter is amenable to
+solution by the method of successive approximations .
+  the theory and results have bearing on the problem of control
+and reduction of aerodynamic heating at hypersonic speeds .
+the special feature of this approach lies in the utilization of
+diffusion fields for the purpose of reducing the detrimental effects
+of viscous dissipation .  although the theory is adapted to a
+fuller investigation of this problem, the numerical examples
+considered involve mainly diffusion fields of helium, with which
+good results have been achieved at mach numbers 8 and 12 .
+whereas at the higher mach number the influx of heat was
+practically eliminated, a reversal in the direction of heat flow has
+been effected at the lower mach number .

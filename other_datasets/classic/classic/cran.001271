@@ -1,0 +1,33 @@
+theory of supersonic propeller aerodynamics .
+theory of supersonic propeller aerodynamics .
+  a supersonic propeller with blades attached to an infinite
+cylinder as a hub is studied .  the forward speed may be subsonic, but
+the relative speed at each section is supersonic .  the lightly
+loaded blades are represented by a surface distribution of
+appropriate /modified/ sources in a fashion similar to ordinary
+supersonic thin-wing theory .  these sources are found by
+approximating the exact potential for a constant-strength
+compressible source traveling along a helical path .  the usual
+relationship between the source strength and boundary condition is
+found,. and subsequently the source distribution is given, to the
+appropriate order, in terms of the blade geometry .
+  tip effects are considered by extending the theory of evvard
+and krasilshchikova .  the present investigation, however, is
+restricted to those planforms for which no vortex sheet appears
+off the tip .  for points in the tip region, the potential is obtained
+through the appropriate distribution of /modified/ sources in the
+upwash region off the tip .  by transforming to a curvilinear,
+nonorthogonal coordinate system coincident with the modified mach
+lines described by the infinities of the potential, an integral
+equation for the required source distribution in the upwash region is
+derived .  without having to solve this equation, it is shown that
+the potential for a point in the tip region can be obtained in terms
+of an integration of known source distributions over the blade
+surface only .
+  the case of a twisted flat plate of particular planform is treated,
+and a sample calculation is made of the pressure distribution at
+selected radial positions within the noncommunicating portion
+of the blade, as well as over the entire tip region .
+  though this analysis is carried out explicitly for the supersonic
+propeller, it could also be extended to calculate various rotary
+derivatives for highspeed flight vehicles .

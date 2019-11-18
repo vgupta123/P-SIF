@@ -1,0 +1,12 @@
+Synthesizing Constraint Expressions
+A constraint network representation is presented
+for a combinatorial search problem: finding 
+values for a set of variables subject to a set of constraints.
+ A theory of consistency levels in such 
+networks is formulated, which is related to problems
+of backtrack tree search efficiency.  An algorithm 
+is developed that can achieve any level of consistency
+desired, in order to preprocess the problem for 
+subsequent backtrack search, or to function as an alternative
+to backtrack search by explicitly determining 
+all solutions.

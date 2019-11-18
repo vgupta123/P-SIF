@@ -1,0 +1,22 @@
+Fingers or Fists? (The Choice of Decimal or Binary Representation)
+The binary number system offers many advantages
+over a decimal representation for a high-performance, 
+general-purpose computer.  The greater simplicity of
+a binary arithmetic unit and the greater compactness 
+of binary numbers both contribute directly to arithmetic
+speed.  Less obvious and perhaps more important 
+is the way binary addressing and instruction formats can
+increase the overall performance.  Binary addresses 
+are also essential to certain powerful operations which
+are not practical with decimal instruction formats. 
+ On the other hand, decimal numbers are essential for
+communicating between man and the computer.  In 
+applications requiring the processing of a large volume
+of inherently decimal input and output data, 
+the time for decimal-binary conversion needed by a purely
+binary computer may be significant.  A slower 
+decimal adder may take less time than a fast binary adder
+doing an addition and two conversions.  A careful 
+review of the significance of decimal and binary addressing
+and both binary and decimal data arithmetic, 
+supplemented by efficient conversion instructions.

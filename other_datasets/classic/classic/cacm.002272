@@ -1,0 +1,6 @@
+Sorting by Natural Selection
+A family of sorting algorithms is proposed,
+the members of which make fuller use of the memory 
+space and thus yield longer sorted strings.  Extensive
+simulation results are presented, and various 
+implications and further applications are discussed.

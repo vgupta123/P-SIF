@@ -1,0 +1,19 @@
+Detection of Combined Occurrences
+In this paper it is supposed that the variables
+X1,...,Xn each have finite range with the variable 
+Xi taking on Pi possible values and that the values of the
+variables are changing with time.  It is supposed 
+further that it is desired to detect occurrences in which
+some subset of the variables achieve particular 
+values.  Finally, it is supposed that the problem involves
+the detection of a large number of combined 
+occurrences for a large number of changes of values of
+variables.  Two efficient solutions for this problem 
+are described.  Both methods have the unusual property
+of being faster for systems where the sum P1 + ... 
++ Pn is larger. The first solution is error-free
+and suitable for most cases.  The second solution 
+is slightly more elegant and allows negation as well
+as conjunction, but is subject to the possibility 
+of errors.  An error analysis is given for the second
+method and an empirical study is reported.

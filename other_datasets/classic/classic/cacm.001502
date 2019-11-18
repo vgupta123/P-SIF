@@ -1,0 +1,10 @@
+An Online Editor
+An online, interactive system for test editing
+is described in detail, with remarks on the 
+theoretical and experimental justification for its form.
+ Emphasis throughout the system is on providing 
+maximum convenience and power for the user.  Notable
+features are its ability to handle any piece of 
+text, the content-searching facility, and the character-by-character
+editing operations.  The editor 
+can be programmed to a limited extent.

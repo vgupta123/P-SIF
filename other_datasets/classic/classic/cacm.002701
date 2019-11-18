@@ -1,0 +1,16 @@
+A Fast and Usually Linear Algorithm for Global
+Flow Analysis (Abstract only--Complete paper JACM 
+23,1 January, 1976)
+A new algorithm for global flow analysis on
+reducible graphs is presented. The algorithm is 
+shown to treat a very general class of function spaces.
+ For a graph of e edges, the algorithm has a 
+worst case time bound of O(e log e) function operations.
+ It is also shown that in programming terms, 
+the number of operations is proportional to e plus the
+number of exits from program loops.  Consequently 
+a restriction to one-entry one-exit control structures
+linearity.  The algorithm can be extended to yet 
+larger classes of function spaces and graphs by relaxing
+the time bound.  Examples are given of code 
+improvement problems which can be solved using the algorithm.

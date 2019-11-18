@@ -1,0 +1,22 @@
+the motion of a viscous liquid past a paraboloid .
+the motion of a viscous liquid past a paraboloid .
+  an approximate solution for the steady
+flow of incompressible viscous liquid past
+a paraboloid of revolution is described .
+an assumption is made for the form of the
+stokes stream function and substituted
+into the navier-stokes equations using
+paraboloidal coordinates .  after making
+suitable approximations, a non-linear
+differential equation for a function f is
+deduced .  the solutions of this equation
+depend on the reynolds number of the
+flow considered .  examples found by
+numerical integration are given to illustrate
+the properties of the function f for
+reynolds numbers varying from 0.0001 to
+is found, and it is shown that this approximate
+solution tends to the perfect fluid
+flow away from the boundary, allowance
+being made for the displacement effect of
+what may be called the boundary layer .

@@ -1,0 +1,20 @@
+Scheduling University Course Examinations by Computer
+A new approach to the problem of scheduling
+course examinations is presented.  In principle, 
+an examination schedule which requires a minimum number
+of examination periods and satisfies the constraint 
+that no student be required to take two examinations
+simultaneously can be found in two steps.  First, 
+course which may have their examinations scheduled at
+the same period are grouped together in all possible 
+ways.  Then a minimum number of these groups, such that
+each course is included at least once, are selected. 
+ By removing multiple occurrences of courses and then scheduling
+each group at a different period a minimal 
+schedule can be obtained.  Known algorithms for carrying
+out these procedures are prohibitively expensive. 
+ Approximations to the ideal procedure outlined above are
+given which yield nonminimal but feasible schedules 
+with a very small expenditure of time.  Results of experiments
+using these techniques are given.  These 
+are encouraging and indicate that further experimentation would be worthwhile.

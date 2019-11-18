@@ -1,0 +1,13 @@
+Concepts of Use in Contour Map Processing
+Generalized techniques whose use can simplify
+the solution of problems relating to contour 
+maps.  One of these techniques makes use of the topological
+properties of contour maps.  The topology 
+is represented by a graphical structure in which adjacent
+contour lines appear as connected nodes.  Another 
+generalized technique consists of utilizing geometrical
+properties to determine the characteristics of 
+straight lines drawn on the contour map.  Both of these
+techniques have been applied to the problem of 
+locating the ground track of an aircraft from
+elevation readings obtained during a flight.

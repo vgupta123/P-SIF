@@ -1,0 +1,12 @@
+DITRAN-A Compiler Emphasizing Diagnostics
+DITRAN (Diagnostic FORTRAN) is an implementation
+of ASA Basic FORTRAN with rather extensive 
+error checking capabilities both at compilation time
+and during execution of a program.  The need for 
+improved diagnostic capabilities and some objectives
+to be met by any compiler are discussed.  Attention 
+is given to the design and implementation of DITRAN
+and the particular techniques employed to provide 
+the diagnostic features.  The handling of error messages
+by a general macro approach is described.  Special 
+features which provide teaching aids for use by instructors are noted.

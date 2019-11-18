@@ -1,0 +1,20 @@
+The Effects of Multiplexing on a Computer-Communications System
+A study is made of the way in which asynchronous
+time division multiplexing changes the stochastic 
+nature of the arrival process from a user to the computer
+and, consequently, affects the performance 
+of a time-shared computer-communications system.  It is
+concluded that while, for certain values of system 
+parameters, there is noticeable improvement in the
+performance of the computer (model), in the sense 
+that time-shared scheduling delays are reduced, these
+improvements are offset by the transmission delays 
+imposed by multiplexing so that there may be little or
+no change in the computer-communications system 
+performance.  Analytical and simulation results are
+based on the model of the computer-communications 
+system being an M/D/1 queue (the multiplexor) in tandem
+with a single exponential server (the computer). 
+ Analytical results include a general description of the
+output process of an M/D/1 queue and the conditions 
+under which this output process is approximately Poisson.

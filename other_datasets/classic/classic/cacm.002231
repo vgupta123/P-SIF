@@ -1,0 +1,12 @@
+The Reconstruction of Binary Patterns from Their Projections
+Given the horizontal and vertical projections
+of a finite binary pattern f, can we construct 
+the original pattern f?  In this paper we give a characterization
+of patterns that are reconstructable 
+from their projection.  Three algorithms are developed
+to reconstruct both unambiguous and ambiguous 
+patterns.  It is shown that an unambiguous pattern can
+be perfectly reconstructed in time m X n and that 
+a pattern similar to an ambiguous pattern can also be constructed
+in time m X n, where m, n are the dimensions 
+of the pattern frame.

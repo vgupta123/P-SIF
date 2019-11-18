@@ -1,0 +1,15 @@
+finite difference formulae for the square lattices .
+finite difference formulae for the square lattices .
+  the paper gives approximate formulae
+for derivatives (including combinations
+like and ), and integrals, of a function
+of two independent variables, in terms
+of its values at nodes of a square lattice,
+primarily for use in the numerical solution
+of partial differential equations .  consideration
+is given to the form, as well as to
+the magnitude, of the leading terms in the
+error, and what is believed to be for
+most purposes optimum combinations are
+thus selected for the simpler compact
+sets of nodes .

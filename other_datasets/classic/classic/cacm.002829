@@ -1,0 +1,20 @@
+Texture and Reflection in Computer Generated Images
+In 1974 Catmull developed a new algorithm
+for rendering images of bivariate surface patches. 
+ This paper describes extensions of this algorithm in
+the areas of texture simulation and lighting models. 
+ The parameterization of a patch defines a coordinate
+system which is used as a key for mapping patterns 
+onto the surface.  The intensity of the pattern at each
+picture element is computed as a weighted average 
+of regions of the pattern definition function. The shape
+and size of this weighting function are chosen 
+using digital signal processing theory.  The patch rendering
+algorithm allows accurate computation of 
+the surface normal to the patch at each picture element,
+permitting the simulation of the mirror reflections. 
+ The amount of light coming from a given direction is
+modeled in a similar manner to the texture mapping 
+and then added to the intensity obtained from the texture
+mapping.  Several examples of images synthesized 
+using these new techniques are included.

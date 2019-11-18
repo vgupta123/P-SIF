@@ -1,0 +1,13 @@
+Global Optimization by Suppression of Partial Redundancies
+The elimination of redundant computations and the moving of invariant
+computations out of loops are often done separately, with invariants 
+moved outward loop by loop.  We propose to do both at once and
+to move each expression directly to the entrance of the outermost
+loop in which it is invariant.  This is done by solving a more
+general problem, i.e. the elimination of computations performed
+twice on a given execution path.  Such computations are termed partially
+redundant.  Moreover, the algorithm does not require any graphical
+information or restrictions on the shape of the program graph.
+Testing this algorithm has shown that its execution cost is nearly
+linear with the size of the program, and that it leads
+to a smaller optimizer that requires less execution time.

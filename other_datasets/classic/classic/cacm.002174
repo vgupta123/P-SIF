@@ -1,0 +1,8 @@
+The Stable Marriage Problem
+The original work of Gale and Shapley on an assignment
+method using the stable marriage criterion 
+has been extended to find all the stable marriage assignments.
+ The algorithm derived for finding all 
+the stable marriage assignments is proved to satisfy
+all the conditions of the problem.  Algorithm 411 
+applies to this paper.

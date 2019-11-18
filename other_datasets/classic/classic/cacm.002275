@@ -1,0 +1,14 @@
+Integral Equations of Immunology
+The inversion of a particular integral equation
+of the first (Fredholm) kind is the basic problem 
+considered.  The strategy which yielded success consisted
+of three essential points: (1) fit the known 
+experimental data by a curve with properties which derive
+from properties of the (as yet unknown) function; 
+(2) stabilize the computation for the unknown function
+by using singular value decomposition; (3) constrain 
+the unknown function approximation (since it represents
+a probability distribution) to be nonnegative. 
+ A number of test cases are presented. One set of actual
+experimental data is analyzed with the procedures 
+presented.

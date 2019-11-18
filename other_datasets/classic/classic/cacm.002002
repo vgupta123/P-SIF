@@ -1,0 +1,26 @@
+AMESPLOT-A Higher Level Data Plotting Software System
+AMESPLOT is an extensible software system designed to make the display of 
+data as simple, painless, and neat as possible.  The system described is 
+hardware-independent and has been implemented on a variety of installations,
+of different manufacturers, having diverse configurations.  The elements 
+common to all types of data plots are outlined and the way in which these 
+elements may be combined into a system based on simple modules is demonstrated.
+These modules are specified independently and are independent of the axis
+systems or other attributes of the plot.  This enables plots of any
+complexity to be constructed by adding or replacing modules.  The
+basic syntax of AMESPLOT is outlined, and a brief description is given
+of its current utility software, consisting of "macros" to produce
+self-scaled plots, formal tablets of text-interspersed with subplots,
+map coastlines, and 3-D plots.  The system was formulate
+d in a way such that the user could supply the minimum of information,
+and it should be fully integrable with user's program written
+in most conventional higher languages.  The functions of positioning,
+locating, and scaling (in the layout of multiple subplots) of
+axes, labels, and all other elements of the plot are handled automatically
+by the software system unless the user specifies otherwise.  The structuring 
+of plots from multiple, independent, self-contained subplots is described.
+Transformation, projection, scaling, rotation, or shifting of entire plots or 
+subplots by the action of one or more simple modules is possible.  The user 
+may interact freely with AMESPLOT at three levels, enabling him to construct 
+his own data markers, alphabetic characters, and transformations, and
+to produce a variety of artistic and other effects.

@@ -1,0 +1,25 @@
+a simplified approximate method for the calculation of the pressure
+around conical bodies of arbitrary shape in supersonic and hypersonic
+flow .
+a simplified approximate method for the calculation of the pressure
+around conical bodies of arbitrary shape in supersonic and hypersonic
+flow .
+exact conical-flow solutions are available only for circular cones at
+zero angle of attack .  for nonaxisymmetric cones or cones at angle of
+attack, only approximate methods exist .  these methods are generally
+quite complicated and further limited to certain body shapes or certain
+mach-number ranges .  a great need was therefore felt for a simple
+approximate method applicable to any arbitrarily shaped conical body at
+zero incidence as well as at angle of attack .
+such a method has been developed recently at lockheed and is presented
+here in abbreviated form .  the method is based on the /equivalent-cone/
+theory .  this theory determines the pressure on a conical body
+utilizing information for a symmetric cone at zero angle of attack with the
+same normal component of the free stream with respect to the surface as
+the local element of the body considered .  this method works relatively
+well at high mach numbers .  however, it is quite inconsistent at lower
+mach numbers, especially for bodies which deviate considerably from
+circular cones .  the equivalent-cone method does not give satisfactory
+results, mainly due to the fact that it considers only the local surface
+element on the body independent of the other body elements in the
+newtonian-theory manner .

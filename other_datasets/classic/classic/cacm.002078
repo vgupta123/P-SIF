@@ -1,0 +1,8 @@
+Representations for Space Planning
+Problems involving the arrangement of objects in two- 
+or three-space where the objective function primarily consists
+of derivatives of the distance between objects or their arrangement
+are called space planning problems.  The representational
+requirements for this problem area are defined and compared with current
+computer graphic languages.  Four alternative data structures
+that allow automated space planning are described and compared.

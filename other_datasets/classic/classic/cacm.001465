@@ -1,0 +1,11 @@
+Program Translation Viewed as a General Data Processing Problem
+Efficiency dictates that the overall effectiveness
+of a compiler be increased by all means 
+available.  For a compiler to have a substantial useful
+life it needs a clear logical structure, reliability 
+and sound data processing techniques.  A compiler must
+be based on fixed conventions to preserve efficiency 
+and reliability; empty options and default conventions
+violate this dictum.  Use of structure to associate 
+various parts of a program and economy of
+features promote clarity and reliability.

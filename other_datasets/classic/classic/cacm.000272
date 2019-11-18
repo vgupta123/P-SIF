@@ -1,0 +1,8 @@
+A Storage Allocation Scheme for ALGOL 60
+A storage allocation scheme for a machine
+with a 2048 instruction core store and a magnetic 
+drum is described.  The use of the drum for storing
+program blocks and/or data must be directed by the 
+programmer through auxiliary information in the ALGOL
+program.  The administrative routines controlling 
+the storage at run time are described in full.  A detailed example is given.

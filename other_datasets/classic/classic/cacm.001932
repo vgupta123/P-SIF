@@ -1,0 +1,12 @@
+The Logarithmic Error and Newton's Method for the Square Root
+The problem of obtaining optimal starting values
+for the calculation of the square root using 
+Newton's method is considered.  It has been pointed out
+elsewhere that if relative error is used as the 
+measure of goodness of fit, optimal results are not
+obtained when the initial approximation is a best 
+fit.  It is shown here that if, instead, the so-called
+logarithmic error is used, then a best initial 
+fit is optimal for both types of error.  Moreover, use
+of the logarithmic error appears to simplify the 
+problem of determining the optimal initial approximation.

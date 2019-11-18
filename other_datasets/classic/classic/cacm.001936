@@ -1,0 +1,31 @@
+Variable Length Tree Structures Having Minimum Average Search Time
+Sussenguth suggests in a paper (1963) that a
+file should be organized as a doubly-chained tree 
+structure if it is necessary both to search and to update
+frequently.  Such a structure provides a compromise 
+between the fast search/slow update characteristics of
+binary searching and the slow search/fast update 
+characteristics of serial searching.  His method, however,
+contains the limiting restriction that all 
+terminal nodes lie on the same level of the tree.  This paper
+considers the effect of relaxing this restriction. 
+ First, trees which have the property that a priori the
+filial set of each node is well defined are studied. 
+ It is proved that coding the nodes within each filial
+set with respect to the number of terminal nodes 
+reachable from each is necessary and sufficient to guarantee
+minimum average search time.  Then the more 
+general case (that is, where the entire structure of
+the tree is changeable) is treated.  A procedure 
+is developed for constructing a tree with a minimum
+average search time.  A simple closed expression 
+for this minimum average search time is obtained as
+a function of the number of terminal nodes.  The 
+storage capacity required to implement the doubly-chained
+tree structure on a digital computer is also 
+determined.  Finally, the total cost of the structure,
+using Sussenguth's cost criterion, is computed. 
+ It is shown that significant improvements in both
+the average search time and the total cost can be 
+obtained by relaxing Sussenguth's restriction that all
+terminal nodes lie on the same level of the tree.

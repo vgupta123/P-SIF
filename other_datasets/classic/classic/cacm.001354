@@ -1,0 +1,13 @@
+Conversion of Decision Tables to Computer
+Programs by Rule Mark Techniques
+The rule mask technique is one method of converting
+limited entry decision tables to computer 
+programs.  Recent discussion suggest that in many circumstances
+it is to be preferred to the technique 
+of constructing networks or trees.  A drawback of the
+technique as hitherto presented is its liability 
+to produce object programs of longer run time than necessary.
+ In this paper a modification of the technique 
+is discussed which takes into account both rule frequencies
+and the relative times for evaluating conditions. 
+ This can materially improve object program run time.

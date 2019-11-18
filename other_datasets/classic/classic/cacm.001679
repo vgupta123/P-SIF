@@ -1,0 +1,14 @@
+A Fast Fourier Transform Algorithm for Real-Valued Series
+A new procedure is presented for calculating the
+complex, discrete Fourier transform of real-valued 
+time series.  This procedure is described for an example
+where the number of points in the series is 
+an integral power of two.  This algorithm preserves
+the order and symmetry of the Cooley-Turkey fast 
+Fourier transform algorithm while effecting the two-to-one
+reduction in computation and storage which 
+can be achieved when the series is real.  Also discussed
+are hardware and software implementations of 
+the algorithm which perform only (N/4) log2 (N/2) complex
+multiply and add operations, and which require 
+only N real storage locations in analyzing each N-point record.

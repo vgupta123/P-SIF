@@ -1,0 +1,5 @@
+Implementing Phrase-Structure Productions in PL/I
+A method is described for implementing the productions
+of a context-free phrase structure grammar 
+in a PL/I procedure whose structure and statements parallel
+the structure and notation of the grammar.

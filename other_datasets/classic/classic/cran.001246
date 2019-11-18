@@ -1,0 +1,31 @@
+solution of subsonic nonplanar lifting surface problems
+by means of high-speed digital computers .
+solution of subsonic nonplanar lifting surface problems
+by means of high-speed digital computers .
+  the method proposed in this paper is based on an approximate
+solution of the integral equation which represents the potential
+flow about a finite wing, with no restrictions beyond those
+necessary for linearization .  after assuming the usual series
+representation of the wing surface vorticity distribution, the solution
+is achieved by approximating portions of the kernels of the
+transformed integral equation by single and double fourier series and
+performing termwise integrations analytically .  this is followed
+by the routine inversion of the aerodynamic influence coefficient
+matrix, after satisfying appropriate boundary conditions at
+selected control points .  in this procedure the number of control
+point used is limited only by the storage capacity of the
+computer .  control points may be located so as to cover the entire
+wing surface, with due regard to certain physical requirements,
+permitting the accurate representation of complicated mean
+surface shapes .
+  an evaluation of the proposed method is included .
+comparisons with other theoretical methods and electrical analogy tank
+results are used to substantiate the accuracy of the proposed
+method when applied to plane wings .  a final evaluation
+involves a comparison of calculated surface pressure distribution
+with wind-tunnel measurements on a swept, tapered wing with
+a cambered and twisted mean surface .  the agreement evidenced
+in the latter comparison has the same order of overall accuracy as
+similar comparisons on plane wing planforms .  in either case,
+the results given by the proposed method are within the accuracy
+requirements for most aircraft design studies .

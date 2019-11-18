@@ -1,0 +1,17 @@
+WATFOR-The University of Waterloo FORTRAN IV Compiler
+WATFOR is an in-core, load-and-go compiler
+which has been implemented within the IBM 7040/44 
+operating system.  FORTRAN IV was selected as the source
+language in order to achieve maximum language 
+compatibility with other available compiling systems,
+in particular the IBM 7040/44 FORTRAN IV system. 
+ The principal advantage of the WATFOR compiler is that
+it translates FORTRAN IV programs at speeds of 
+up to 100 statements per second.  Since the compiler
+resides core there is virtually no system overhead, 
+and hence large batches of "student" programs may be processed very
+efficiently.  The compiler also provides 
+extensive error diagnostics, during both the compilation
+and the execution phases of a program run.  
+This feature makes the system attractive to
+both learners and learned users alike.

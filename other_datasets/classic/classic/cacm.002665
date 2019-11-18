@@ -1,0 +1,15 @@
+Copying List Structures Using Bounded Workspace
+Two new algorithms are presented for list structure
+copying using bounded workspace.  The first, 
+of primarily theoretical interest, shows that without
+cell tag bits the task can be performed in time 
+n^2.  The second algorithm, assuming one tag bit in
+each cell, delivers attractive practical speed.  
+Any noncyclic structure is copied in linear speed, while
+cyclic structures are copied in average time 
+less than nlogn.  No foreknowledge of cycle absence
+is necessary to achieve linear speed.  A variation 
+of the second algorithm solves an open problem concerning
+list structure marking.  That result demonstrates 
+that marking can be done in average time nlogn without
+the aid of supplemental tag bits or stacks.

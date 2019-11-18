@@ -1,0 +1,24 @@
+A Record and File Partitioning Model
+One of the main objectives in the design of
+a file system is the reduction of storage and data 
+transfer costs.  This paper presents a model in which
+several  requests access the file system, and each 
+request requires information from one or more variable
+length data-items.  The probabilities of access 
+and the distribution of each data-item's length are assumed
+to be known, and to be mutually independent. 
+The file system uses one or more storage devices, and
+each record may be partitioned into subrecords 
+that are stored on different devices.  One of the subrecords
+is designated as the primary record; when 
+a request for a record is made, the primary record is
+first accessed, and other subrecords are accessed 
+only if the pertinent information is not stored in the
+primary record.  The model that is presented in 
+this paper, both as a nonlinear programming model and
+a mixed integer programming model, is a very general 
+one; several types of file systems may be derived from
+it by an appropriate selection of its parameters. 
+ This model has already been used in the optimization of
+library routines' storage at a large scale operating 
+system.

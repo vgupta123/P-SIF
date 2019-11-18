@@ -1,0 +1,16 @@
+An Analysis of Inline Substitution for a Structured Programming Language
+An optimization technique known as inline substitution
+is analyzed.  The optimization consists 
+of replacing a procedure invocation by a modified copy
+of the procedure body.  The general problem of 
+using inline substitution to minimize execution time
+subject to size constrain ts is formulated, and an 
+approximate algorithmic solution is proposed.  The algorithm
+depends on run-time statistics about the 
+program to be optimized.  Preliminary results for the
+CLU structured programming language indicate that, 
+in programs with a low degree of recursion, over 90
+percent of all procedure calls can be eliminated, 
+with little increase in the size of compiled code and a
+small savings in execution time.  Other conclusions 
+based on these results are also presented.

@@ -1,0 +1,8 @@
+A Language for Modeling and Simulating Dynamic Systems
+The general objective of this language is
+to facilitate both the modeling and experimental 
+aspects of simulation studies.  The ability to represent
+systems containing highly interactive processes 
+is an essential feature.  The nature of the language,
+and the role of the process concept, is presented 
+by means of an extended example.

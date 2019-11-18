@@ -1,0 +1,18 @@
+Optimization of Expressions in Fortran
+A method of optimizing the computation of
+arithmetic and indexing expressions of a Fortran 
+program is presented.  The method is based on a linear
+analysis of the definition points of the variables 
+and the branching and DO loop structure of the program.
+ The objectives of the processing are (1) to 
+eliminate redundant calculations when references are
+made to common subexpression values, (2) to remove 
+invariant calculations from DO loops, (3) to efficiently
+compute subscripts containing DO iteration variables, 
+and (4) to provide efficient index register usage.  The
+method presented requires at least a three-pass 
+compiler, the second of which is scanned backward.  It
+has been used in the development of several FORTRAN 
+compilers that have proved to produce excellent object
+code without significantly reducing the compilation 
+speed.

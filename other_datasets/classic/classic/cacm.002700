@@ -1,0 +1,10 @@
+Reduction: A Method of Proving Properties of Parallel Programs
+When proving that a parallel program has a
+given property it is often convenient to assume 
+that a statement is indivisible, i.e. that the statement
+cannot be interleaved with the rest of the program. 
+ Here sufficient conditions are obtained to show that
+the assumption that a statement is indivisible 
+can be relaxed and still preserve properties such as
+halting.  Thus correctness proofs of a parallel 
+system can often be greatly simplified.

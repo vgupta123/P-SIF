@@ -1,0 +1,17 @@
+conduction of heat in a solid with a power law of heat
+transfer at its surface .
+conduction of heat in a solid with a power law of heat
+transfer at its surface .
+  the nonlinear boundary value problem, where
+and m are constants, is solved formally by first
+introducing power series in t for the unknown temperature
+and flux at the surface and then determining the coefficients
+in those series .  in this manner the temperature function is
+determined as a series of repeated integrals of error
+functions .  the convergence is rapid only for small values of t .
+the special cases and generalizations of
+the condition at the surface for which the same method
+applies, are noted .  surface temperatures are also found by
+methods of difference equations, where t is not limited to
+small values .  graphs of these temperatures corresponding
+to various laws of heat transfer at the surface are shown .

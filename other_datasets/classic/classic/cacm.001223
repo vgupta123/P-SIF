@@ -1,0 +1,18 @@
+High Speed Compilation of Efficient Object Code
+A three-pass compiler with the following properties
+is briefly described:  The last two passes 
+scan an intermediate language produced by the preceding
+pass in essentially the reverse of the order 
+in which it was generated, so that the first pass is the
+only one which hasto read the bulky problem-oriented 
+input.  The double scan, one in either direction, performed
+by the first two passes, allows the compiler 
+to remove locally constant expressions and recursively
+calculable expressions from loops and to do the 
+important part of common subexpression recognition.
+ Optimization such as the effective use of index 
+registers, although as important, is not discussed since
+the object code which would be most efficient 
+is highly machine dependent.  The discussion is in terms
+of a FORTRAN-like language, although the technique 
+is applicable to most algebraic languages.

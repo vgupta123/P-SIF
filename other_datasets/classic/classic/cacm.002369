@@ -1,0 +1,15 @@
+Hidden Lines Elimination for a Rotating Object
+A method is presented of determining which
+parts of three-dimensional objects are visible and 
+which are invisible when the objects are rotated about
+some axis.  This paper describes a polygon comparison 
+scheme in which the relationships of two polygons can
+be classified into tree types, and also discusses 
+how the relationship is changed for each pair of polygons
+under rotation about some axis.  A rotation 
+table is defined for each pair of polygons, which remains
+fixed as long as rotation is about one axis 
+and provides a means of rapidly determining the visible
+and hidden line relationship between two polygons. 
+ Additional work must be done to extend this approach
+to simultaneous rotation about several axes.

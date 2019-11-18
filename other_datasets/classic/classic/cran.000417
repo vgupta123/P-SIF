@@ -1,0 +1,52 @@
+on the stability of two dimensional parallel flows .
+on the stability of two dimensional parallel flows .
+  this is the last part of the author's theory of the stability
+of plane laminar motion .  (for parts 1 and 2, cf. the same
+quart. 3, 117-142, 218-234 (1945),. these rev. 7,225,226 .)
+the stability character of a viscous fluid is considered in
+detail .  the author proceeds first to give a proof of a criterion
+of stability due to heisenberg ..  if a velocity profile has an
+number and phase velocity, the disturbance with the same
+wave number is unstable in the real fluid when the reynolds
+number is sufficiently large .  this destabilizing effect of
+viscosity is one of the most interesting phenomena in the
+general stability theory,. its physical and mathematical
+significance is carefully discussed .
+  the author then discusses the behavior of the so-called
+neutral curve for the two characteristic types of
+velocity distribution, the boundary layer type profile and
+the symmetrical profile .  the asymptotic behavior of the
+neutral curve is discussed first .  the main difference between
+profiles with and without a point of inflection is that the two
+branches of the neutral curve approach and for
+profiles with a flex, but both converge to for the profile
+without a flex .  the most important results are as follows .
+for sufficiently large reynolds number r .  (2) there always
+exists a minimum r below which the motion is stable .  a
+similar result was obtained by synge from energy
+considerations .  synge found a limiting curve below which the
+motion is necessarily stable .  the author's discussion of the
+asymptotic behavior of the curves shows further
+that there always exists a maximum value of a beyond
+which the motion is stable for all reynolds numbers .  hence
+the qualitative shape of the curve is determined .
+  the author proceeds to show that simple approximate
+expressions for the stability limit can be obtained from his
+general analysis for a given velocity profile .  these
+approximate stability limits for plane poiseuille flow and blasius
+flow are found to be r=5906 and r=502 .  the reynolds
+numbers are based on the width of the channel and the
+displacement thickness, respectively .  finally, the method
+for computing the complete instability curve is presented
+and the plane poiseuille case and the blasius problem worked
+out in detail .  the stability limit for blasius flow had been
+given before by tollmien and schlichting .  the present more
+exact computations agree well with tollmien's result as far
+as the minimum critical reynolds number is concerned .
+the value found here is r=420 .  the neutral curve for
+poiseuille motion had not been obtained before .  the
+minimum critical number here is found to be r=5314 .  the
+agreement with the estimate from the simple criterion
+mentioned above is thus very good .
+  a discussion of the physical significance of the viscous
+effects and of future developments concludes the paper .

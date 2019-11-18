@@ -1,0 +1,14 @@
+System Performance Evaluation: Survey and Appraisal
+The state of the art of system performance
+evaluation is reviewed and evaluation goals and 
+problems are examined.  Throughput, turnaround, and
+availability are defined as fundamental measures 
+of performance; overhead and CPU speed are placed in
+perspective.  The appropriateness of instruction 
+mixes, kernels, simulators, and other tools is discussed,
+as well as pitfalls which may be encountered 
+when using them.  Analysis, simulation, and synthesis are
+presented as three levels of approach to evaluation, 
+requiring successively greater amounts of information.
+ The central role of measurement in performance 
+evaluation and in the development of evaluation methods is explored.

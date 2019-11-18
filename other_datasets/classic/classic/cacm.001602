@@ -1,0 +1,17 @@
+POSE: A Language for Posing Problems to a Computer
+A language, POSE, is described which is a drastic
+departure from the FORTRAN/ALGOL type, though 
+it does utilize FORTRAN formula and logic representations
+(and actually contains FORTRAN VI as a subset). 
+ With the new language, the user need only describe
+his problem in "equation-like" form. The method 
+of solution is automatically provided in conjunction
+with the translation from equation form to computer 
+instruction. In this way the POSE language user can
+solve difficult computational problems (like the 
+solution of differential equation) without requiring
+a knowledge of numerical methods or the intricacies 
+of computer subroutine logic. Essentially all clerical
+operations now required for FORTRAN programming 
+have been automated so that the POSE programmer
+need not be concerned with these details.

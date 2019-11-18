@@ -1,0 +1,7 @@
+Macro Instruction Extensions of Compiler Languages
+Macroinstruction compilers constructed from
+a small set of functions can be made extremely 
+powerful.  In particular, conditional assembly, nested
+definitions, and parenthetical notation serve 
+to make a compiler capable of accepting very
+general extensions to its ground language.

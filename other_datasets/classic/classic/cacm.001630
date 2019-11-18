@@ -1,0 +1,12 @@
+Computer Representation of Planar Regions by Their Skeletons
+Any region can be regarded as a union of maximal
+neighborhoods of its points, and can be specified 
+by the centers and radii of these neighborhoods; this
+set is a sort of"skeleton" of the region.  The 
+storage required to represent a region in this way is
+comparable to that required when it is represented 
+by encoding its boundary.  Moreover, the skeleton representation
+seems to have advantages when it is 
+necessary to determine repeatedly whether points are inside
+or outside the region, or to perform set-theoretic 
+operations on regions.

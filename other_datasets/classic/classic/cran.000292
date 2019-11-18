@@ -1,0 +1,29 @@
+rapid laminar boundary layer calculations by piece-wise
+application of similar solutions .
+rapid laminar boundary layer calculations by piece-wise
+application of similar solutions .
+  a method is presented for the rapid calculation of the
+incompressible laminar boundary layer in an arbitrary flow around
+either a two-dimensional or a rotationally-symmetrical body .
+the solution is obtained without recourse to von karman's
+momentum equation by means of a coarse step-by-step procedure
+in which each segment of the velocity distribution is
+approximated by one of the falkner-skan family of similar flows .
+  solutions have at least as much accuracy as those of any other
+one-parameter approximate method, and in certain cases the
+solutions become exact .  in regions of accelerating velocity, the
+accuracy appears to be very high .  in decelerating flows,
+separation is predicted somewhat early compared with exact solutions
+that is, the method is conservative in contrast to the von
+karman-pohlhausen procedure which sometimes fails to predict
+separation that actually exists .
+  the method is the most rapid hand procedure known to the
+author, provided the full history of the boundary layer is
+required .  if only a thickness such as is needed at one point on a
+surface, then it is about equal in speed to the quadrature method .
+but, if several values of or other properties along a surface are
+required, it is appreciably faster than the quadrature method .
+characteristically, only four steps are needed between the forward
+stagnation point and the pressure peak .  once the
+velocity-distribution data are available, each step in a two-dimensional
+calculation requires about 5 minutes, using a slide rule .

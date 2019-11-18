@@ -1,0 +1,9 @@
+The Equivalence of Reducing Transition
+Languages and Deterministic Languages
+The class of reducing transition languages
+introduced by Eickel, Paul, Bauer, and Samelson 
+was shown by Morris to be a proper superclass of the
+simple precedence languages.  In this paper this 
+result is extended, showing that, in fact, the first class
+is equivalent to the class of deterministic 
+context free languages.

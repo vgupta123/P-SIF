@@ -1,0 +1,6 @@
+A Note on a Relevance Estimate and Its Improvement
+In this paper the effect of iterating the improvement
+procedure is examined.  It is shown that 
+applications of the improvement factor beyond the first
+time are ineffectual, and that the factor is 
+but a scale factor.

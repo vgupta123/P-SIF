@@ -1,0 +1,56 @@
+the contraction of satellite orbits under the influence
+of air drag . pt .iv with scale height dependent on
+altitude .
+the contraction of satellite orbits under the influence
+of air drag . pt .iv with scale height dependent on
+altitude .
+  the effect of air drag on satellite
+orbits of small eccentricity e
+was studied in part i (tech. note
+gw 533), on the assumption that
+atmospheric density varies exponentially
+with distance r from the earth's
+centre, so that the 'density scale height'
+h, defined as, is
+constant .  in practice h varies with height
+in an approximately linear
+manner, and in the present note the theory
+is developed for an atmosphere
+in which h varies linearly with r .  equations
+are derived which show how
+perigee distance and orbital period vary
+with eccentricity, and how
+eccentricity varies with time .  expressions
+are also obtained for the
+life-time and air density at perigee in terms
+of the rate of change of orbital
+period .  the results are also presented
+graphically .
+  the results are formulated in two
+ways .  the first is to specify the
+extra terms to be added to the constant-h
+equations of part i .  the second
+the best constant value of h for
+use with the equations of part i .  for
+example, it is found that the
+constant-h equations connecting perigee
+distance (or orbital period) and
+eccentricity can be used unchanged without
+loss in accuracy, if h is taken
+as the value of the variable h at a height
+above the mean perigee height
+during the time interval being considered,
+where, and
+decreases from to 0 as e decreases
+from 0.02 to 0 .  similarly the
+constant-h equations for air density at
+perigee can still be used if h is
+evaluated at a height above perigee,
+where, and
+decreases to zero as e decreases from
+constant-h equations can still be used
+if h is evaluated at the scale height
+below the initial height .  variation of
+h with altitude has a small effect
+on the lifetime - about 3 - and on the
+e-versus-time curve .

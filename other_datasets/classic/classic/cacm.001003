@@ -1,0 +1,29 @@
+A Computer Analysis Method For Thermal Diffusion in Biochemical Systems
+In the thermal detection of rapid biochemical
+reactions it is necessary to correct the temperature 
+data for transient heat conduction losses in a cylindrical
+calorimeter.  To handle the complexities arising 
+from varying thermal-relaxation times of concentric insulating
+layers, a computer program was developed 
+which gives the temperature distribution of the system
+as a function of radius and time.  This distribution 
+is corrected at each step by a subroutine which calculates
+the instantaneous chemical state of there 
+action, as well as the heat produced by this reaction.
+ The program is based on a direct statement of 
+Fourier's law of heat conduction and the chemical rate
+equation to provide a "bookkeeping law" to follow 
+the reactants and the flow of heat packets, in such a
+way that the computer continually stores the heat 
+distribution.  A computer analysis method is here regarded
+as one in which the physical laws of a process 
+are used explicitly in the program. Usually this results
+in by passing much of the mathematical procedures 
+conventionally used.  The program was tested against
+some known exact solutions of the heat equation 
+and gave identical results, and compared well with experimental
+data of a known biochemical reaction. 
+ The construction of computer programs based on the direct
+statement of the physical laws is a principle 
+of general applicability which has been applied
+to several other physical phenomena.

@@ -1,0 +1,22 @@
+compressible free shear layer with finite initial thickness .
+compressible free shear layer with finite initial thickness .
+  the momentum equation was uncoupled from
+the other conservation equations for the case
+of a finite initial profile in a laminar free shear layer .
+the equation was solved numerically, in
+the crocco coordinate system, using an implicit
+finite difference method .  profiles of velocity
+and shear function were obtained as a function of
+streamwise distance .  the initial profiles as
+the flow separates from the rear of the body
+correspond to the blasius profile in transformed
+coordinates .  for large distances downstream,
+the profiles approach the chapman
+distribution, corresponding to the case of zero initial
+free shear layer thickness .  the effect of these
+results on calculations of base pressure and wake
+angle is discussed .  a method for the
+calculation of finite chemical kinetic effects on the
+profiles of temperature and chemical
+composition in the free shear layer with finite initial
+thickness is outlined .

@@ -1,0 +1,8 @@
+Incorporation of Units into Programming Languages
+The issues of how a programming language might
+aid in keeping track of physical units (feet, 
+sec, etc.) are discussed.  A method is given for the
+introduction of relationships among units (a watt 
+is volts*amps, a yard is three feet) and subsequent automatic
+conversion based upon these relationships.
+ Various proposals for syntax are considered.

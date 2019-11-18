@@ -1,0 +1,8 @@
+The IITRAN Programming Language
+The IITRAN language, developed to be used
+by students, and its important important features 
+are described. IITRAN is a procedure-oriented language
+with a one-level block structure and a variety 
+of data types.  Several novel and powerful features
+are included.  A discussion of design principles 
+to be followed in a student language is given.

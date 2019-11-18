@@ -1,0 +1,14 @@
+LG: A Language for Analytic Geometry
+A conversational programming language for analytic
+geometry is described, together with some 
+aspects of its implementation.  The language allows
+the flexible definition of geometric objects and 
+elements, computes their parameters, and displays the results.
+It also provides the capability of specifying 
+a geometric figure via a collection of parameters and
+displaying various loci corresponding to these 
+parameters. A third characteristic consists of the possibility
+of using this language to design other 
+user oriented languages.  LG has been specifically designed
+for use by nonprogrammers; it is easy to 
+learn and very close to the natural language used in geometry.

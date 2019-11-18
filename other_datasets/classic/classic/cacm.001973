@@ -1,0 +1,6 @@
+The Linear Quotient Hash Code
+A new method of hash coding is presented and
+is shown to possess desirable attributes.  Specifically, the algorithm
+is simple, efficient, and exhaustive, while needing little
+time per probe and using few probes per lookup.  Performance
+data and implementation hints are also given.

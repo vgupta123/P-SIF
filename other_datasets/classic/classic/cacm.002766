@@ -1,0 +1,10 @@
+Copying Cyclic List Structures in Linear Time Using Bounded Workspace
+A bounded workspace copying algorithm for arbitrary
+list structures is given.  This algorithm 
+operates in linear time and does not require tag bits. 
+The best previous bounded workspace copying algorithms 
+achieved n^2 time without tag bits and n log n time with
+one tag.  The only restriction on the algorithm 
+given here is that the copy must be placed into a contiguous
+section of memory.  The method is applicable 
+to fixed or variable size nodes.

@@ -1,0 +1,10 @@
+The Evolution of Storage Structures
+Data base management systems have grown rapidly
+in their power and complexity over the 15-year 
+history of data processing on commercially available
+computers.  The original concepts have split, and 
+new terms have been adopted to name and refer to these
+concepts.  The Data Structure Diagram graphic 
+technique is used to illustrate the splitting of the
+concepts and the structural relations which exist 
+between these concepts at each point in the evolution.

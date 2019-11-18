@@ -1,0 +1,71 @@
+various aerodynamic characteristics in hypersonic rarefied
+gas flow .
+various aerodynamic characteristics in hypersonic rarefied
+gas flow .
+  this paper considers the problem of calculating viscous
+aerodynamic characteristics of blunt bodies at hypersonic speeds and
+at sufficiently high altitudes where the appropriate mean free
+path becomes too large for the use of familiar boundary-layer
+theory but not so large that free molecule concepts apply .
+  results of an order-of-magnitude analysis are presented to
+define the regimes of rarefied gas flow and the limits of
+continuum theory .  based on theoretical and experimental
+evidence, the complete navier-stokes equations are used as a
+model, except /very close/ to the free molecule condition .  this
+model may not necessarily give the shock wave structure in
+detail but satisfies overall conservation laws and should give a
+reasonably accurate picture of all mean aerodynamic quantities .
+  in this /intermediate/ regime there are two fundamental classes
+of problems ..  a /viscous layer/ class and a /merged layer/
+class, the latter corresponding to a larger degree of rarefaction .
+for the viscous layer class there is a thin shock wave, but the
+shock layer region between the shock and the body is fully
+viscous, although the viscous stresses and conductive heat transfer
+are small at the shock wave boundary .  here, the use of the
+navier-stokes equations with outer boundary conditions given
+by the hugoniot relations is justified .  for the merged layer
+class, the shock wave is no longer thin, and the navier-stokes
+equations can be used to give a solution which includes the shock
+structure and has free-stream conditions as outer boundary
+conditions .  a simpler procedure is presented for /incipient merged/
+conditions where the shock may no longer be considered an
+infinitesimally thin discontinuity but where it has not thickened
+sufficiently to entail the /fully merged layer/ analysis .  in this
+case we approximate the shock by a discontinuity obeying
+conservation laws which include curvature effects, viscous stresses,
+and heat conduction .
+  for a sphere and cylinder it is shown that the navier-stokes
+equations can be reduced to ordinary differential equations for
+both the viscous and merged layer class of problems .  solutions
+of these equations, when used in connection with hypersonic flow
+problems, are in general only valid in the stagnation region .  to
+illustrate the viscous layer solutions, numerical calculations
+have been performed for a sphere and cylinder with the
+assumption of constant density in the shock layer, which is a useful
+approximation at hypersonic speeds .  to illustrate the merged
+layer solution, calculations have been carried out for a sphere
+using the incipient merged layer approximation .
+  results are presented for detachment distance, surface shear,
+and heat-transfer rate in the stagnation region of a highly cooled
+sphere flying at hypersonic speed .  with decreasing reynolds
+number, the shear and heat transfer are shown to increase above
+the extrapolated boundary-layer values in the viscous layer
+regime and then to begin falling in the incipient merged regime .
+as the reynolds number decreases in the incipient merged
+regime, the density in the shock layer increases, and the static
+and stagnation enthalpy behind the shock decrease .
+  calculations performed for an insulated sphere show that, with
+decreasing reynolds number in the incipient merged regime,
+the density in the shock layer decreases,. the total enthalpy
+behind the shock and at the stagnation point increase so that they
+are higher than the free-stream total enthalpy,. and the
+stagnation-point pressure behaves like the total enthalpy .
+  for the highly cooled cylinder in the viscous layer regime, the
+same quantities are presented as for the sphere .  the increase
+found in shear and heat transfer above extrapolated
+boundary-layer theory is small, in agreement with vorticity interaction
+theory .
+  a discussion is given of the behavior of available experimental
+data for viscous flow quantities in the intermediate regime and
+the behavior predicted by the results of the present calculations .
+qualitative agreement is indicated .
