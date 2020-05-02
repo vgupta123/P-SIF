@@ -1,9 +1,8 @@
 # P-SIF: Document Embeddings using Partition Averaging
 
-
 ## Introduction
   - For text classification and information retrieval tasks, text data has to be represented as a fixed dimension vector. 
-  - We propose simple feature construction technique named **P-SIF: Document Embeddings using Partition Averaging**
+  - We propose simple feature construction technique named **[P-SIF: Document Embeddings using Partition Averaging](https://vgupta123.github.io/docs/AAAI-GuptaV.3656.pdf)**, accepted to appear at [AAAI 2020](https://aaai.org/Conferences/AAAI-20/).
   - We demonstrate our method through experiments on multi-class classification on 20newsGroup dataset, multi-label text classification on Reuters-21578 dataset, Semantic Textual Similarity Tasks (STS 12-16) and other classification tasks.
 
 ## Testing
@@ -76,7 +75,7 @@ $ python psif_main_ksvd.py
 For running P-SIF on rest of the 7 datasets, go to Other_Datasets folder. 
 Inside Other_Datasets folder, each dataset has a folders with the dataset name. 
 Follow the Readme.md has been included for running the P-SIF. 
-You have to download google embedding from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing and placed in the Other_Dataset folder.
+You have to download google embedding from [here](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing) and placed in the Other_Dataset folder.
 
 ## Requirements
 Minimum requirements:
@@ -85,6 +84,16 @@ Minimum requirements:
   -  Scikit-learn
   -  Pandas
   -  Gensim
+
+## Recommended Citation
+```sh
+@inproceedings{gupta2020psif,
+  title={PSIF: P-SIF: Document Embeddings using Partition Averaging },
+  author={Gupta, Vivek and Saw, Ankit and Nokhiz, Pegah and Netrapalli, Praneeth and Rai, Piyush and Talukdar, Partha},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2020}
+}
+```
 
 Note: You neednot download 20newsGroup or Reuters-21578 dataset. All datasets are present in their respective directories.
 
