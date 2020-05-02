@@ -89,7 +89,7 @@ Minimum requirements:
 ## Recommended Citation
 ```sh
 @inproceedings{gupta2020psif,
-  title={PSIF: P-SIF: Document Embeddings using Partition Averaging },
+  title={PSIF: P-SIF: Document Embeddings using Partition Averaging},
   author={Gupta, Vivek and Saw, Ankit and Nokhiz, Pegah and Netrapalli, Praneeth and Rai, Piyush and Talukdar, Partha},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   year={2020}
