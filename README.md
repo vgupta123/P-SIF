@@ -96,6 +96,4 @@ Minimum requirements:
 }
 ```
 
-Note: You neednot download 20newsGroup or Reuters-21578 dataset. All datasets are present in their respective directories.
-
-[//]: # (We used SGMl parser for parsing Reuters-21578 dataset from  [here](https://gist.github.com/herrfz/7967781))
+Note: You neednot download 20newsGroup or Reuters-21578 dataset. All datasets are present in their respective directories. We used SGML parser for parsing Reuters-21578 dataset from [here](https://gist.github.com/herrfz/7967781))
